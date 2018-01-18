@@ -42,7 +42,19 @@
       "directory": "02_1erelecture_senat_hemicycle",
       "echec": null,
       "enddate": "2010-05-29",
+      "has_interventions": true,
       "institution": "senat",
+      "intervention_files": [
+        "2010-05-18T15:00_1771",
+        "2010-05-18T22:10_1772",
+        "2010-05-19T21:30_707",
+        "2010-05-20T15:00_1453",
+        "2010-05-25T14:30_1184",
+        "2010-05-26T14:30_645",
+        "2010-05-28T09:30_1129",
+        "2010-05-29T09:30_417",
+        "2010-05-29T15:00_418"
+      ],
       "nb_amendements": 680,
       "source_url": "https://www.senat.fr/leg/tas09-112.html",
       "stage": "1ère lecture",
@@ -77,7 +89,7 @@
       "echec": null,
       "enddate": "2010-07-06",
       "institution": "assemblee",
-      "nb_amendements": 1246,
+      "nb_amendements": 0,
       "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0510.asp",
       "stage": "1ère lecture",
       "step": "hemicycle"
