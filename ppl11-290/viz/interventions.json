@@ -1,1 +1,1973 @@
-{}
+{
+  "02_1erelecture_assemblee_hemicycle": {
+    "divisions": {
+      "Après l'article 2": {
+        "first_date": "2012-01-24",
+        "groupes": {
+          "Gouvernement": {
+            "nb_intervs": 7,
+            "nb_mots": 305,
+            "orateurs": {
+              "thierry mariani": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_e164ee837665adcce81dd7c81431f74b",
+                "nb_intervs": 7,
+                "nb_mots": 305
+              }
+            }
+          },
+          "NC": {
+            "nb_intervs": 1,
+            "nb_mots": 118,
+            "orateurs": {
+              "charles de courson": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_ad31bed152ae4f79845d4cfbfdcdb5d6",
+                "nb_intervs": 1,
+                "nb_mots": 118
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 38,
+            "nb_mots": 454,
+            "orateurs": {
+              "marc le fur": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_7893cbc27ded0064795bbf1ba779b664",
+                "nb_intervs": 38,
+                "nb_mots": 454
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 9,
+            "nb_mots": 374,
+            "orateurs": {
+              "michel hunault": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_322a714311c91ee3f6ab27c4dce01766",
+                "nb_intervs": 1,
+                "nb_mots": 64
+              },
+              "éric diard": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_b7334742f7b8a8c2a8a9fbbbd0fe612c",
+                "nb_intervs": 8,
+                "nb_mots": 310
+              }
+            }
+          },
+          "SRC": {
+            "nb_intervs": 9,
+            "nb_mots": 277,
+            "orateurs": {
+              "alain vidalies": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_0f6644709733a652f03983013030b881",
+                "nb_intervs": 2,
+                "nb_mots": 219
+              },
+              "daniel goldberg": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_d1605c902607b4e47ad8226239a3e083",
+                "nb_intervs": 4,
+                "nb_mots": 34
+              },
+              "jean mallot": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_3c9ae26bcfde16e5952ca8cc05848837",
+                "nb_intervs": 3,
+                "nb_mots": 24
+              }
+            }
+          },
+          "UMP": {
+            "nb_intervs": 28,
+            "nb_mots": 1960,
+            "orateurs": {
+              "camille de rocca serra": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_0d313e2aaab331b655882e6c4c502197",
+                "nb_intervs": 4,
+                "nb_mots": 564
+              },
+              "jacques remiller": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_1a5ec05c4c322f7736d3fc5f352fc469",
+                "nb_intervs": 6,
+                "nb_mots": 594
+              },
+              "lionnel luca": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_bcece1a4d7f6cd825bfa4e598c344a21",
+                "nb_intervs": 5,
+                "nb_mots": 33
+              },
+              "sauveur gandolfi-scheit": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_9a891d3e0a571f204d50f36e1a0cfe57",
+                "nb_intervs": 2,
+                "nb_mots": 241
+              },
+              "serge grouard": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_54d5401fade315e77d807c9a43e74699",
+                "nb_intervs": 5,
+                "nb_mots": 204
+              },
+              "yanick paternotte": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_719bccfc8d766a6d2895d524df9538ae",
+                "nb_intervs": 6,
+                "nb_mots": 324
+              }
+            }
+          }
+        },
+        "last_date": "2012-01-24",
+        "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_0d5bc879de07489a899436adede870cf",
+        "order": 9,
+        "source": "http://www.assemblee-nationale.fr/13/cri/2011-2012/20120106.asp#P9192_7365",
+        "total_intervs": 92,
+        "total_mots": 3488
+      },
+      "Article 2": {
+        "first_date": "2012-01-24",
+        "groupes": {
+          "Gouvernement": {
+            "nb_intervs": 17,
+            "nb_mots": 852,
+            "orateurs": {
+              "thierry mariani": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_de040c5764eacbd1e53737fc3cd97ba5",
+                "nb_intervs": 17,
+                "nb_mots": 852
+              }
+            }
+          },
+          "NC": {
+            "nb_intervs": 10,
+            "nb_mots": 603,
+            "orateurs": {
+              "charles de courson": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_2883217675b537d3c1b9bbfcc1502b16",
+                "nb_intervs": 10,
+                "nb_mots": 603
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 72,
+            "nb_mots": 785,
+            "orateurs": {
+              "marc le fur": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_593bec49d6d1b27120fc1f8d5a357121",
+                "nb_intervs": 72,
+                "nb_mots": 785
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 24,
+            "nb_mots": 1124,
+            "orateurs": {
+              "michel hunault": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_51adbcf3a96ef6080869f4438ca40255",
+                "nb_intervs": 4,
+                "nb_mots": 123
+              },
+              "éric diard": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_a2c854fbec9a7d9ecd68e236ca74caea",
+                "nb_intervs": 20,
+                "nb_mots": 1001
+              }
+            }
+          },
+          "SRC": {
+            "nb_intervs": 50,
+            "nb_mots": 3513,
+            "orateurs": {
+              "alain vidalies": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_a87dc7a7c23799b079e9508ce3dee4d2",
+                "nb_intervs": 22,
+                "nb_mots": 1173
+              },
+              "daniel goldberg": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_8fccf8c0edb3dd14f9b2872bfedb0be8",
+                "nb_intervs": 10,
+                "nb_mots": 1357
+              },
+              "jean mallot": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_06088b67b4ad946b5ae8270b1b0e694a",
+                "nb_intervs": 16,
+                "nb_mots": 753
+              },
+              "jean-paul chanteguet": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_d39cf2140f60f69735b09303507136c0",
+                "nb_intervs": 1,
+                "nb_mots": 5
+              },
+              "michel liebgott": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_033f0d1ccb8b3b98dedd34d9f6f1aca8",
+                "nb_intervs": 1,
+                "nb_mots": 225
+              }
+            }
+          },
+          "UMP": {
+            "nb_intervs": 27,
+            "nb_mots": 1443,
+            "orateurs": {
+              "camille de rocca serra": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_9ca10c9298be72b6f130d5b6f489ff6f",
+                "nb_intervs": 1,
+                "nb_mots": 5
+              },
+              "christian jacob": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_d728242df6bc651798e3ae7af1f1e3ed",
+                "nb_intervs": 2,
+                "nb_mots": 112
+              },
+              "jacques kossowski": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_cd6b230ffdfa582679dab263caaa1872",
+                "nb_intervs": 4,
+                "nb_mots": 279
+              },
+              "jacques remiller": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_5fbf87e48db6556e67fad21d74c97f8d",
+                "nb_intervs": 6,
+                "nb_mots": 325
+              },
+              "lionnel luca": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_94f44df177bccd8caf9917809a0cd297",
+                "nb_intervs": 7,
+                "nb_mots": 348
+              },
+              "pierre méhaignerie": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_a43bcec5d4dbe38875617d92455b2fb3",
+                "nb_intervs": 1,
+                "nb_mots": 145
+              },
+              "serge grouard": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_c792d50a7a6474c373e4fb146692d09e",
+                "nb_intervs": 5,
+                "nb_mots": 223
+              },
+              "yanick paternotte": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_823adf87e6171df05f828780bb4d102d",
+                "nb_intervs": 1,
+                "nb_mots": 6
+              }
+            }
+          }
+        },
+        "last_date": "2012-01-24",
+        "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_2d511f6e84156eea2d8c62668d0976cb",
+        "order": 8,
+        "source": "http://www.assemblee-nationale.fr/13/cri/2011-2012/20120106.asp#P9584_1320",
+        "total_intervs": 200,
+        "total_mots": 8320
+      },
+      "Avant l'article 2": {
+        "first_date": "2012-01-24",
+        "groupes": {
+          "Gouvernement": {
+            "nb_intervs": 3,
+            "nb_mots": 285,
+            "orateurs": {
+              "thierry mariani": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_24f88a9e4bbd912d4d5ca3f956bed34c",
+                "nb_intervs": 3,
+                "nb_mots": 285
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 5,
+            "nb_mots": 66,
+            "orateurs": {
+              "marc le fur": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_1c2540b8dca2dba05e853d11428d7950",
+                "nb_intervs": 5,
+                "nb_mots": 66
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 1,
+            "nb_mots": 56,
+            "orateurs": {
+              "éric diard": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_7f36d2a8823753c394c7d334be98135f",
+                "nb_intervs": 1,
+                "nb_mots": 56
+              }
+            }
+          },
+          "SRC": {
+            "nb_intervs": 3,
+            "nb_mots": 127,
+            "orateurs": {
+              "alain vidalies": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_9c7196e11787919c79a65f70e1504da1",
+                "nb_intervs": 2,
+                "nb_mots": 122
+              },
+              "jean mallot": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_3c61e0b6aa656566300c319491bfbd14",
+                "nb_intervs": 1,
+                "nb_mots": 5
+              }
+            }
+          },
+          "UMP": {
+            "nb_intervs": 1,
+            "nb_mots": 147,
+            "orateurs": {
+              "yanick paternotte": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_12a9ce475c8b304cf165c700d9db02c1",
+                "nb_intervs": 1,
+                "nb_mots": 147
+              }
+            }
+          }
+        },
+        "last_date": "2012-01-24",
+        "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_8026443a885f8576ceda316aa22dcdaa",
+        "order": 7,
+        "source": "http://www.assemblee-nationale.fr/13/cri/2011-2012/20120106.asp#P9131_3504",
+        "total_intervs": 13,
+        "total_mots": 681
+      },
+      "Discussion après engagement de la procédure accélérée d'une proposition de loi": {
+        "first_date": "2012-01-24",
+        "groupes": {
+          "GDR": {
+            "nb_intervs": 10,
+            "nb_mots": 67,
+            "orateurs": {
+              "pierre gosnat": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_3a22af0db1be08baa9980f69cbf8dbd7",
+                "nb_intervs": 10,
+                "nb_mots": 67
+              }
+            }
+          },
+          "Gouvernement": {
+            "nb_intervs": 18,
+            "nb_mots": 2605,
+            "orateurs": {
+              "nathalie kosciusko-morizet": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_29b6738b711faf75afd5716974327584",
+                "nb_intervs": 8,
+                "nb_mots": 1361
+              },
+              "thierry mariani": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_061aeec46115667b4f64015e6925d579",
+                "nb_intervs": 2,
+                "nb_mots": 6
+              },
+              "xavier bertrand": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_bfaa887a716eb6c330310c04940d8a0e",
+                "nb_intervs": 8,
+                "nb_mots": 1238
+              }
+            }
+          },
+          "NC": {
+            "nb_intervs": 1,
+            "nb_mots": 5,
+            "orateurs": {
+              "charles de courson": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_9b248d026d2d537c2a4de45e1baca543",
+                "nb_intervs": 1,
+                "nb_mots": 5
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 4,
+            "nb_mots": 136,
+            "orateurs": {
+              "louis giscard d'estaing": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_7ac8f336ea499cc1e13d43bab6a35d9d",
+                "nb_intervs": 4,
+                "nb_mots": 136
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 12,
+            "nb_mots": 882,
+            "orateurs": {
+              "éric diard": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_6bbc4ab01db4533028a566e99dd99807",
+                "nb_intervs": 12,
+                "nb_mots": 882
+              }
+            }
+          },
+          "SRC": {
+            "nb_intervs": 17,
+            "nb_mots": 147,
+            "orateurs": {
+              "alain vidalies": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_79dda6eccf0460cdbda2c5d8a0fa08bd",
+                "nb_intervs": 4,
+                "nb_mots": 38
+              },
+              "daniel goldberg": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_5952c55e9ebf2bdfe67abb3c7811eceb",
+                "nb_intervs": 1,
+                "nb_mots": 5
+              },
+              "jean mallot": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_64b5c333b08efb13b09f4725deca1e8e",
+                "nb_intervs": 11,
+                "nb_mots": 96
+              },
+              "michel vergnier": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_1d98c8deafef68e8c1a406eb3147d234",
+                "nb_intervs": 1,
+                "nb_mots": 8
+              }
+            }
+          },
+          "UMP": {
+            "nb_intervs": 16,
+            "nb_mots": 1397,
+            "orateurs": {
+              "fabienne labrette-ménager": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_b9de58a68ecd5e790f5f10081748da29",
+                "nb_intervs": 2,
+                "nb_mots": 11
+              },
+              "guy malherbe": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_cd42048c34ddcbecd9bc89ab46e0cc7e",
+                "nb_intervs": 1,
+                "nb_mots": 7
+              },
+              "serge grouard": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_d3758ad8914c8f00ea933144ade4d75e",
+                "nb_intervs": 11,
+                "nb_mots": 1369
+              },
+              "yanick paternotte": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_02fc0a727e71cf86426a6e89f68e016d",
+                "nb_intervs": 2,
+                "nb_mots": 10
+              }
+            }
+          }
+        },
+        "last_date": "2012-01-24",
+        "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_0baa580f6045d072acffbb837705f97e",
+        "order": 2,
+        "source": "http://www.assemblee-nationale.fr/13/cri/2011-2012/20120105.asp#P785_177389",
+        "total_intervs": 78,
+        "total_mots": 5239
+      },
+      "Discussion générale": {
+        "first_date": "2012-01-24",
+        "groupes": {
+          "GDR": {
+            "nb_intervs": 5,
+            "nb_mots": 1658,
+            "orateurs": {
+              "pierre gosnat": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_00858d19f5251edbd1e35e97e9e7824d",
+                "nb_intervs": 5,
+                "nb_mots": 1658
+              }
+            }
+          },
+          "Gouvernement": {
+            "nb_intervs": 10,
+            "nb_mots": 901,
+            "orateurs": {
+              "thierry mariani": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_23166262bb3841780a73b1466b73df40",
+                "nb_intervs": 10,
+                "nb_mots": 901
+              }
+            }
+          },
+          "NC": {
+            "nb_intervs": 9,
+            "nb_mots": 1786,
+            "orateurs": {
+              "charles de courson": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_e66c923217e0d42ce10c8d7f02a6b4af",
+                "nb_intervs": 2,
+                "nb_mots": 911
+              },
+              "christian blanc": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_d6fde09f3c0c7ce19b5d1924323c6d7f",
+                "nb_intervs": 7,
+                "nb_mots": 875
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 21,
+            "nb_mots": 210,
+            "orateurs": {
+              "louis giscard d'estaing": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_2ea89838d014afcc80c01a1112602a4a",
+                "nb_intervs": 3,
+                "nb_mots": 34
+              },
+              "marc le fur": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_6af0c3de0a6cfa4b184370c8c7996714",
+                "nb_intervs": 18,
+                "nb_mots": 176
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 35,
+            "nb_mots": 280,
+            "orateurs": {
+              "éric diard": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_14e302bb4d729c16450be4e9433ec6df",
+                "nb_intervs": 35,
+                "nb_mots": 280
+              }
+            }
+          },
+          "SRC": {
+            "nb_intervs": 88,
+            "nb_mots": 5713,
+            "orateurs": {
+              "alain vidalies": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_a2779cc1f8e8f1c383b79c45d38ebb32",
+                "nb_intervs": 32,
+                "nb_mots": 1720
+              },
+              "jean mallot": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_2c95deebf9f7289de82aeb646864211d",
+                "nb_intervs": 45,
+                "nb_mots": 2117
+              },
+              "jean-paul chanteguet": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_73640d5940df637066b372efec2f3f77",
+                "nb_intervs": 2,
+                "nb_mots": 1143
+              },
+              "marie-line reynaud": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_d2e3142505898a681815b03b5f08bc6a",
+                "nb_intervs": 9,
+                "nb_mots": 733
+              }
+            }
+          },
+          "UMP": {
+            "nb_intervs": 49,
+            "nb_mots": 4884,
+            "orateurs": {
+              "camille de rocca serra": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_671c93a2d842fce84929f81ec769acd4",
+                "nb_intervs": 1,
+                "nb_mots": 753
+              },
+              "jacques kossowski": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_2fc50b6a9ed8cdf2053bc07cd73e25e5",
+                "nb_intervs": 9,
+                "nb_mots": 1201
+              },
+              "jacques remiller": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_e9f7a71593c15269e01025690e8fe942",
+                "nb_intervs": 8,
+                "nb_mots": 631
+              },
+              "lionnel luca": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_101a6d6e13af4d753af95c6abe48a329",
+                "nb_intervs": 11,
+                "nb_mots": 731
+              },
+              "nicole ameline": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_7f1424575823615a48bbaf4bdf53ebf8",
+                "nb_intervs": 1,
+                "nb_mots": 4
+              },
+              "robert lecou": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_a51ba01a05d7349ca51f3eb9b90edab6",
+                "nb_intervs": 1,
+                "nb_mots": 4
+              },
+              "serge grouard": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_a8c0c8479da9e68d32f35e9e3c8f9386",
+                "nb_intervs": 4,
+                "nb_mots": 42
+              },
+              "yanick paternotte": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_db59ec0ca86291123bba15a655624177",
+                "nb_intervs": 14,
+                "nb_mots": 1518
+              }
+            }
+          }
+        },
+        "last_date": "2012-01-24",
+        "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_638bfff4fee3b4e48b8a7fb15ca439f1",
+        "order": 4,
+        "source": "http://www.assemblee-nationale.fr/13/cri/2011-2012/20120105.asp#P1037_239593",
+        "total_intervs": 217,
+        "total_mots": 15432
+      },
+      "Explications de vote": {
+        "first_date": "2012-01-24",
+        "groupes": {
+          "Gouvernement": {
+            "nb_intervs": 1,
+            "nb_mots": 7,
+            "orateurs": {
+              "thierry mariani": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_d7e5c7299eddd547470ba4f21988f578",
+                "nb_intervs": 1,
+                "nb_mots": 7
+              }
+            }
+          },
+          "NC": {
+            "nb_intervs": 1,
+            "nb_mots": 175,
+            "orateurs": {
+              "charles de courson": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_aa864d29fcec7259bb3cce615eda48a9",
+                "nb_intervs": 1,
+                "nb_mots": 175
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 2,
+            "nb_mots": 27,
+            "orateurs": {
+              "marc le fur": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_c5d3f3d54083ff520d7484e736bf47e8",
+                "nb_intervs": 2,
+                "nb_mots": 27
+              }
+            }
+          },
+          "SRC": {
+            "nb_intervs": 6,
+            "nb_mots": 707,
+            "orateurs": {
+              "alain vidalies": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_950b90383abf95367532dd95f628bc11",
+                "nb_intervs": 1,
+                "nb_mots": 7
+              },
+              "daniel goldberg": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_e08969bb2f01f6b45ae1e42533acc705",
+                "nb_intervs": 4,
+                "nb_mots": 682
+              },
+              "jean mallot": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_714146082de469c627e4813e5760b7d7",
+                "nb_intervs": 1,
+                "nb_mots": 18
+              }
+            }
+          },
+          "UMP": {
+            "nb_intervs": 2,
+            "nb_mots": 16,
+            "orateurs": {
+              "jacques remiller": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_d12f506fe0454c6cf2a0d2769d794e16",
+                "nb_intervs": 2,
+                "nb_mots": 16
+              }
+            }
+          }
+        },
+        "last_date": "2012-01-24",
+        "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_b8965aa83d8609b8f90512cbda4359f6",
+        "order": 12,
+        "source": "http://www.assemblee-nationale.fr/13/cri/2011-2012/20120106.asp#P878_167685",
+        "total_intervs": 12,
+        "total_mots": 932
+      },
+      "Motion de rejet préalable": {
+        "first_date": "2012-01-24",
+        "groupes": {
+          "GDR": {
+            "nb_intervs": 4,
+            "nb_mots": 332,
+            "orateurs": {
+              "pierre gosnat": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_f75359560266a4f1200673c3a7fe8cdd",
+                "nb_intervs": 4,
+                "nb_mots": 332
+              }
+            }
+          },
+          "Gouvernement": {
+            "nb_intervs": 1,
+            "nb_mots": 6,
+            "orateurs": {
+              "nathalie kosciusko-morizet": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_dc79857da2a1bc70e5bee3402d30ce93",
+                "nb_intervs": 1,
+                "nb_mots": 6
+              }
+            }
+          },
+          "NC": {
+            "nb_intervs": 3,
+            "nb_mots": 348,
+            "orateurs": {
+              "charles de courson": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_b09b78426cd90ca50c595753a411c8f5",
+                "nb_intervs": 3,
+                "nb_mots": 348
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 6,
+            "nb_mots": 121,
+            "orateurs": {
+              "louis giscard d'estaing": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_9d899e05b7e709543f6c4c76454703a1",
+                "nb_intervs": 6,
+                "nb_mots": 121
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 1,
+            "nb_mots": 5,
+            "orateurs": {
+              "éric diard": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_a6db0bc41f4d815ecf3540b5458ff056",
+                "nb_intervs": 1,
+                "nb_mots": 5
+              }
+            }
+          },
+          "SRC": {
+            "nb_intervs": 29,
+            "nb_mots": 3495,
+            "orateurs": {
+              "alain vidalies": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_e0af31490442edcffc62f0a3b95cfdec",
+                "nb_intervs": 3,
+                "nb_mots": 25
+              },
+              "daniel goldberg": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_24c6e1ab222cd954ce512c7d182cc7ca",
+                "nb_intervs": 11,
+                "nb_mots": 2992
+              },
+              "jean mallot": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_0739929a4b6e038f7fe534179b9e4766",
+                "nb_intervs": 4,
+                "nb_mots": 30
+              },
+              "michel vergnier": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_159c5406b060ef0ccfeaa487392f0471",
+                "nb_intervs": 11,
+                "nb_mots": 448
+              }
+            }
+          },
+          "UMP": {
+            "nb_intervs": 19,
+            "nb_mots": 547,
+            "orateurs": {
+              "chantal bourragué": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_653020399b2a6d24a31f05c768b06da9",
+                "nb_intervs": 1,
+                "nb_mots": 9
+              },
+              "céleste lett": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_efaecea4de0547e91a2f0391a56520cb",
+                "nb_intervs": 1,
+                "nb_mots": 9
+              },
+              "guy malherbe": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_433505badcc5e42f0403b152ca8643a6",
+                "nb_intervs": 6,
+                "nb_mots": 35
+              },
+              "marie-christine dalloz": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_2b7cac5dd1869dca15330092c0bbe457",
+                "nb_intervs": 1,
+                "nb_mots": 5
+              },
+              "robert lecou": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_438bc0a94ffb58fb4d4a631247fe867b",
+                "nb_intervs": 2,
+                "nb_mots": 21
+              },
+              "yanick paternotte": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_482191413731b3ab70c64ca9b10ef1aa",
+                "nb_intervs": 4,
+                "nb_mots": 426
+              },
+              "yves bur": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_aea926d2e69a57b2302b9f446da3dfc2",
+                "nb_intervs": 3,
+                "nb_mots": 34
+              },
+              "yves censi": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_270462fb5df73edb83d187725d7373ae",
+                "nb_intervs": 1,
+                "nb_mots": 8
+              }
+            }
+          }
+        },
+        "last_date": "2012-01-24",
+        "link": "https://2007-2012.nosdeputes.fr/seance/5862#inter_50794edb4e0e206345fee5c6507730c3",
+        "order": 3,
+        "source": "http://www.assemblee-nationale.fr/13/cri/2011-2012/20120105.asp#P915_210287",
+        "total_intervs": 63,
+        "total_mots": 4854
+      },
+      "Seconde délibération": {
+        "first_date": "2012-01-24",
+        "groupes": {
+          "Gouvernement": {
+            "nb_intervs": 1,
+            "nb_mots": 30,
+            "orateurs": {
+              "thierry mariani": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_d51a88186dd00e90546213b3795dada6",
+                "nb_intervs": 1,
+                "nb_mots": 30
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 3,
+            "nb_mots": 151,
+            "orateurs": {
+              "marc le fur": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_af5c50df71204d884b105aca961e0e0f",
+                "nb_intervs": 3,
+                "nb_mots": 151
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 2,
+            "nb_mots": 32,
+            "orateurs": {
+              "éric diard": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_eac55ed6581a7d9742985ed15e79a249",
+                "nb_intervs": 2,
+                "nb_mots": 32
+              }
+            }
+          },
+          "SRC": {
+            "nb_intervs": 3,
+            "nb_mots": 37,
+            "orateurs": {
+              "daniel goldberg": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_9166978e17ca0ab0aea8c65cb29a3ad8",
+                "nb_intervs": 1,
+                "nb_mots": 7
+              },
+              "jean mallot": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_3af883cf1400a06fc4507e61ad1f5991",
+                "nb_intervs": 2,
+                "nb_mots": 30
+              }
+            }
+          }
+        },
+        "last_date": "2012-01-24",
+        "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_dc9462607c4145e7fd6f2143b7ae6401",
+        "order": 11,
+        "source": "http://www.assemblee-nationale.fr/13/cri/2011-2012/20120106.asp#P0627_1118",
+        "total_intervs": 9,
+        "total_mots": 250
+      },
+      "Titre": {
+        "first_date": "2012-01-24",
+        "groupes": {
+          "Gouvernement": {
+            "nb_intervs": 1,
+            "nb_mots": 10,
+            "orateurs": {
+              "thierry mariani": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_a2aaf512532ab15278b1ebcd451b0d57",
+                "nb_intervs": 1,
+                "nb_mots": 10
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 5,
+            "nb_mots": 66,
+            "orateurs": {
+              "marc le fur": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_23a828d154a93663b3ace6f5e79b107f",
+                "nb_intervs": 5,
+                "nb_mots": 66
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 1,
+            "nb_mots": 13,
+            "orateurs": {
+              "éric diard": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_75d1107af871bae1fde2d16d084e57d6",
+                "nb_intervs": 1,
+                "nb_mots": 13
+              }
+            }
+          },
+          "UMP": {
+            "nb_intervs": 3,
+            "nb_mots": 112,
+            "orateurs": {
+              "camille de rocca serra": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_51b869827b8613c0e13538d64b2cf447",
+                "nb_intervs": 1,
+                "nb_mots": 11
+              },
+              "yanick paternotte": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_0a8a0ea4c1efa4a1fafd1c067d910a3e",
+                "nb_intervs": 2,
+                "nb_mots": 101
+              }
+            }
+          }
+        },
+        "last_date": "2012-01-24",
+        "link": "https://2007-2012.nosdeputes.fr/seance/5868#inter_313726e07d7b283c471f1544d9d4e59f",
+        "order": 10,
+        "source": "http://www.assemblee-nationale.fr/13/cri/2011-2012/20120106.asp#P0978_6175",
+        "total_intervs": 10,
+        "total_mots": 201
+      }
+    },
+    "groupes": {
+      "GDR": {
+        "color": "rgb(255,30,30)",
+        "link": "https://2007-2012.nosdeputes.fr/groupe/GDR",
+        "nom": "Gauche démocrate et républicaine",
+        "order": 10
+      },
+      "Gouvernement": {
+        "color": "#cccbb3",
+        "link": "",
+        "nom": "Gouvernement",
+        "order": 60
+      },
+      "NC": {
+        "color": "rgb(30,180,255)",
+        "link": "https://2007-2012.nosdeputes.fr/groupe/NC",
+        "nom": "Nouveau centre",
+        "order": 12
+      },
+      "Présidence": {
+        "color": "#bfbbcc",
+        "link": "",
+        "nom": "Présidence",
+        "order": 0
+      },
+      "Rapporteurs": {
+        "color": "#b9ccc0",
+        "link": "",
+        "nom": "Rapporteurs",
+        "order": 50
+      },
+      "SRC": {
+        "color": "rgb(255,50,190)",
+        "link": "https://2007-2012.nosdeputes.fr/groupe/SRC",
+        "nom": "Socialiste, radical, citoyen et divers gauche",
+        "order": 11
+      },
+      "UMP": {
+        "color": "rgb(30,30,200)",
+        "link": "https://2007-2012.nosdeputes.fr/groupe/UMP",
+        "nom": "Union pour un mouvement populaire",
+        "order": 13
+      }
+    },
+    "orateurs": {
+      "alain vidalies": {
+        "color": "rgb(255,50,190)",
+        "fonction": "",
+        "groupe": "SRC",
+        "link": "https://2007-2012.nosdeputes.fr/alain-vidalies",
+        "nom": "Alain Vidalies",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/alain-vidalies"
+      },
+      "camille de rocca serra": {
+        "color": "rgb(30,30,200)",
+        "fonction": "",
+        "groupe": "UMP",
+        "link": "https://2007-2012.nosdeputes.fr/camille-de-rocca-serra",
+        "nom": "Camille de Rocca Serra",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/camille-de-rocca-serra"
+      },
+      "chantal bourragué": {
+        "color": "rgb(30,30,200)",
+        "fonction": "",
+        "groupe": "UMP",
+        "link": "https://2007-2012.nosdeputes.fr/chantal-bourrague",
+        "nom": "Chantal Bourragué",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/chantal-bourrague"
+      },
+      "charles de courson": {
+        "color": "rgb(30,180,255)",
+        "fonction": "",
+        "groupe": "NC",
+        "link": "https://2007-2012.nosdeputes.fr/charles-de-courson",
+        "nom": "Charles de Courson",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/charles-de-courson"
+      },
+      "christian blanc": {
+        "color": "rgb(30,180,255)",
+        "fonction": "",
+        "groupe": "NC",
+        "link": "https://2007-2012.nosdeputes.fr/christian-blanc",
+        "nom": "Christian Blanc",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/christian-blanc"
+      },
+      "christian jacob": {
+        "color": "rgb(30,30,200)",
+        "fonction": "",
+        "groupe": "UMP",
+        "link": "https://2007-2012.nosdeputes.fr/christian-jacob",
+        "nom": "Christian Jacob",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/christian-jacob"
+      },
+      "céleste lett": {
+        "color": "rgb(30,30,200)",
+        "fonction": "",
+        "groupe": "UMP",
+        "link": "https://2007-2012.nosdeputes.fr/celeste-lett",
+        "nom": "Céleste Lett",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/celeste-lett"
+      },
+      "daniel goldberg": {
+        "color": "rgb(255,50,190)",
+        "fonction": "",
+        "groupe": "SRC",
+        "link": "https://2007-2012.nosdeputes.fr/daniel-goldberg",
+        "nom": "Daniel Goldberg",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/daniel-goldberg"
+      },
+      "fabienne labrette-ménager": {
+        "color": "rgb(30,30,200)",
+        "fonction": "",
+        "groupe": "UMP",
+        "link": "https://2007-2012.nosdeputes.fr/fabienne-labrette-menager",
+        "nom": "Fabienne Labrette-Ménager",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/fabienne-labrette-menager"
+      },
+      "guy malherbe": {
+        "color": "rgb(30,30,200)",
+        "fonction": "",
+        "groupe": "UMP",
+        "link": "https://2007-2012.nosdeputes.fr/guy-malherbe",
+        "nom": "Guy Malherbe",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/guy-malherbe"
+      },
+      "jacques kossowski": {
+        "color": "rgb(30,30,200)",
+        "fonction": "",
+        "groupe": "UMP",
+        "link": "https://2007-2012.nosdeputes.fr/jacques-kossowski",
+        "nom": "Jacques Kossowski",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/jacques-kossowski"
+      },
+      "jacques remiller": {
+        "color": "rgb(30,30,200)",
+        "fonction": "",
+        "groupe": "UMP",
+        "link": "https://2007-2012.nosdeputes.fr/jacques-remiller",
+        "nom": "Jacques Remiller",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/jacques-remiller"
+      },
+      "jean mallot": {
+        "color": "rgb(255,50,190)",
+        "fonction": "",
+        "groupe": "SRC",
+        "link": "https://2007-2012.nosdeputes.fr/jean-mallot",
+        "nom": "Jean Mallot",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/jean-mallot"
+      },
+      "jean-paul chanteguet": {
+        "color": "rgb(255,50,190)",
+        "fonction": "",
+        "groupe": "SRC",
+        "link": "https://2007-2012.nosdeputes.fr/jean-paul-chanteguet",
+        "nom": "Jean-Paul Chanteguet",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/jean-paul-chanteguet"
+      },
+      "lionnel luca": {
+        "color": "rgb(30,30,200)",
+        "fonction": "",
+        "groupe": "UMP",
+        "link": "https://2007-2012.nosdeputes.fr/lionnel-luca",
+        "nom": "Lionnel Luca",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/lionnel-luca"
+      },
+      "louis giscard d'estaing": {
+        "color": "rgb(30,30,200)",
+        "fonction": "président",
+        "groupe": "UMP",
+        "link": "https://2007-2012.nosdeputes.fr/louis-giscard-d-estaing",
+        "nom": "Louis Giscard d'Estaing",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/louis-giscard-d-estaing"
+      },
+      "marc le fur": {
+        "color": "rgb(30,30,200)",
+        "fonction": "président",
+        "groupe": "UMP",
+        "link": "https://2007-2012.nosdeputes.fr/marc-le-fur",
+        "nom": "Marc Le Fur",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/marc-le-fur"
+      },
+      "marie-christine dalloz": {
+        "color": "rgb(30,30,200)",
+        "fonction": "",
+        "groupe": "UMP",
+        "link": "https://2007-2012.nosdeputes.fr/marie-christine-dalloz",
+        "nom": "Marie-Christine Dalloz",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/marie-christine-dalloz"
+      },
+      "marie-line reynaud": {
+        "color": "rgb(255,50,190)",
+        "fonction": "",
+        "groupe": "SRC",
+        "link": "https://2007-2012.nosdeputes.fr/marie-line-reynaud",
+        "nom": "Marie-Line Reynaud",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/marie-line-reynaud"
+      },
+      "michel hunault": {
+        "color": "rgb(30,180,255)",
+        "fonction": "rapporteur",
+        "groupe": "NC",
+        "link": "https://2007-2012.nosdeputes.fr/michel-hunault",
+        "nom": "Michel Hunault",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/michel-hunault"
+      },
+      "michel liebgott": {
+        "color": "rgb(255,50,190)",
+        "fonction": "",
+        "groupe": "SRC",
+        "link": "https://2007-2012.nosdeputes.fr/michel-liebgott",
+        "nom": "Michel Liebgott",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/michel-liebgott"
+      },
+      "michel vergnier": {
+        "color": "rgb(255,50,190)",
+        "fonction": "",
+        "groupe": "SRC",
+        "link": "https://2007-2012.nosdeputes.fr/michel-vergnier",
+        "nom": "Michel Vergnier",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/michel-vergnier"
+      },
+      "nathalie kosciusko-morizet": {
+        "color": "#888888",
+        "fonction": "ministre de l'écologie, du développement durable, des transports et du logement",
+        "groupe": "",
+        "link": "",
+        "nom": "Nathalie Kosciusko-Morizet",
+        "photo": ""
+      },
+      "nicole ameline": {
+        "color": "rgb(30,30,200)",
+        "fonction": "",
+        "groupe": "UMP",
+        "link": "https://2007-2012.nosdeputes.fr/nicole-ameline",
+        "nom": "Nicole Ameline",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/nicole-ameline"
+      },
+      "pierre gosnat": {
+        "color": "rgb(255,30,30)",
+        "fonction": "",
+        "groupe": "GDR",
+        "link": "https://2007-2012.nosdeputes.fr/pierre-gosnat",
+        "nom": "Pierre Gosnat",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/pierre-gosnat"
+      },
+      "pierre méhaignerie": {
+        "color": "rgb(30,30,200)",
+        "fonction": "président de la commission des affaires sociales",
+        "groupe": "UMP",
+        "link": "https://2007-2012.nosdeputes.fr/pierre-mehaignerie",
+        "nom": "Pierre Méhaignerie",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/pierre-mehaignerie"
+      },
+      "robert lecou": {
+        "color": "rgb(30,30,200)",
+        "fonction": "",
+        "groupe": "UMP",
+        "link": "https://2007-2012.nosdeputes.fr/robert-lecou",
+        "nom": "Robert Lecou",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/robert-lecou"
+      },
+      "sauveur gandolfi-scheit": {
+        "color": "rgb(30,30,200)",
+        "fonction": "",
+        "groupe": "UMP",
+        "link": "https://2007-2012.nosdeputes.fr/sauveur-gandolfi-scheit",
+        "nom": "Sauveur Gandolfi-Scheit",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/sauveur-gandolfi-scheit"
+      },
+      "serge grouard": {
+        "color": "rgb(30,30,200)",
+        "fonction": "président de la commission du développement durable et de l'aménagement du territoire",
+        "groupe": "UMP",
+        "link": "https://2007-2012.nosdeputes.fr/serge-grouard",
+        "nom": "Serge Grouard",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/serge-grouard"
+      },
+      "thierry mariani": {
+        "color": "#888888",
+        "fonction": "ministre chargé des transports",
+        "groupe": "",
+        "link": "",
+        "nom": "Thierry Mariani",
+        "photo": ""
+      },
+      "xavier bertrand": {
+        "color": "#888888",
+        "fonction": "ministre du travail, de l'emploi et de la santé",
+        "groupe": "",
+        "link": "",
+        "nom": "Xavier Bertrand",
+        "photo": ""
+      },
+      "yanick paternotte": {
+        "color": "rgb(30,30,200)",
+        "fonction": "",
+        "groupe": "UMP",
+        "link": "https://2007-2012.nosdeputes.fr/yanick-paternotte",
+        "nom": "Yanick Paternotte",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/yanick-paternotte"
+      },
+      "yves bur": {
+        "color": "rgb(30,30,200)",
+        "fonction": "",
+        "groupe": "UMP",
+        "link": "https://2007-2012.nosdeputes.fr/yves-bur",
+        "nom": "Yves Bur",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/yves-bur"
+      },
+      "yves censi": {
+        "color": "rgb(30,30,200)",
+        "fonction": "",
+        "groupe": "UMP",
+        "link": "https://2007-2012.nosdeputes.fr/yves-censi",
+        "nom": "Yves Censi",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/yves-censi"
+      },
+      "éric diard": {
+        "color": "rgb(30,30,200)",
+        "fonction": "rapporteur de la commission du développement durable et de l'aménagement du territoire",
+        "groupe": "UMP",
+        "link": "https://2007-2012.nosdeputes.fr/eric-diard",
+        "nom": "Éric Diard",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/eric-diard"
+      }
+    }
+  },
+  "09_nouv.lect._assemblee_hemicycle": {
+    "divisions": {
+      "Article 2": {
+        "first_date": "2012-02-22",
+        "groupes": {
+          "GDR": {
+            "nb_intervs": 3,
+            "nb_mots": 26,
+            "orateurs": {
+              "andré chassaigne": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_5a012a9ff349eb4587f6d786be216226",
+                "nb_intervs": 3,
+                "nb_mots": 26
+              }
+            }
+          },
+          "Gouvernement": {
+            "nb_intervs": 9,
+            "nb_mots": 467,
+            "orateurs": {
+              "thierry mariani": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_a0e38ecc013eb2629133dc197883e4f3",
+                "nb_intervs": 9,
+                "nb_mots": 467
+              }
+            }
+          },
+          "NC": {
+            "nb_intervs": 18,
+            "nb_mots": 559,
+            "orateurs": {
+              "charles de courson": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_407a0f92c8995f4170b5623ed08004f6",
+                "nb_intervs": 8,
+                "nb_mots": 239
+              },
+              "françois rochebloine": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_17926d0da424e83c54a9fb0c66f93d25",
+                "nb_intervs": 10,
+                "nb_mots": 320
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 27,
+            "nb_mots": 270,
+            "orateurs": {
+              "laurence dumont": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_216262887d158b1e94855c31185d2077",
+                "nb_intervs": 27,
+                "nb_mots": 270
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 10,
+            "nb_mots": 411,
+            "orateurs": {
+              "éric diard": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_d5231e8f2ab549f98e8f63dc1a93d24e",
+                "nb_intervs": 10,
+                "nb_mots": 411
+              }
+            }
+          },
+          "SRC": {
+            "nb_intervs": 27,
+            "nb_mots": 1914,
+            "orateurs": {
+              "françois brottes": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_b5ad2579d69fdc086aeb5a201d8163e1",
+                "nb_intervs": 1,
+                "nb_mots": 13
+              },
+              "jean mallot": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_526dcdfe6635fc80614e7da50925075e",
+                "nb_intervs": 17,
+                "nb_mots": 1808
+              },
+              "jean-paul chanteguet": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_2b11d640c13ce5b549ecb4f664c03ff8",
+                "nb_intervs": 1,
+                "nb_mots": 4
+              },
+              "marcel rogemont": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_a888ca0a4a03467a8cdb083b18ddea2c",
+                "nb_intervs": 8,
+                "nb_mots": 89
+              }
+            }
+          },
+          "UMP": {
+            "nb_intervs": 6,
+            "nb_mots": 522,
+            "orateurs": {
+              "didier gonzales": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_b4fe9ac0bcbbb15fe724edad9b7ff1ac",
+                "nb_intervs": 5,
+                "nb_mots": 517
+              },
+              "yanick paternotte": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_a9add3d66088e692e287120e82a2d7d5",
+                "nb_intervs": 1,
+                "nb_mots": 5
+              }
+            }
+          }
+        },
+        "last_date": "2012-02-22",
+        "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_10579154728c55cbf5574a8599187f96",
+        "order": 8,
+        "source": "http://www.assemblee-nationale.fr/13/cri/2011-2012/20120136.asp#P435_81538",
+        "total_intervs": 100,
+        "total_mots": 4169
+      },
+      "Article 2 quater": {
+        "first_date": "2012-02-22",
+        "groupes": {
+          "GDR": {
+            "nb_intervs": 1,
+            "nb_mots": 5,
+            "orateurs": {
+              "andré chassaigne": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_276810a3396300fa7c666da34289fc5f",
+                "nb_intervs": 1,
+                "nb_mots": 5
+              }
+            }
+          },
+          "Gouvernement": {
+            "nb_intervs": 1,
+            "nb_mots": 127,
+            "orateurs": {
+              "thierry mariani": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_bc3729c35f0efe32dae41925b7d0a6aa",
+                "nb_intervs": 1,
+                "nb_mots": 127
+              }
+            }
+          },
+          "NI": {
+            "nb_intervs": 1,
+            "nb_mots": 151,
+            "orateurs": {
+              "jean lassalle": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_5d92cc265d6e4763d92a963a80b8b59d",
+                "nb_intervs": 1,
+                "nb_mots": 151
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 6,
+            "nb_mots": 63,
+            "orateurs": {
+              "laurence dumont": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_5183ad8667273aceea28516ee2016260",
+                "nb_intervs": 6,
+                "nb_mots": 63
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 3,
+            "nb_mots": 140,
+            "orateurs": {
+              "éric diard": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_efa01c947978c352dafcbdb759bc9d84",
+                "nb_intervs": 3,
+                "nb_mots": 140
+              }
+            }
+          }
+        },
+        "last_date": "2012-02-22",
+        "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_57b38d590c7c40a8b578ec82dd77e4d0",
+        "order": 11,
+        "source": "http://www.assemblee-nationale.fr/13/cri/2011-2012/20120136.asp#P573_108260",
+        "total_intervs": 12,
+        "total_mots": 486
+      },
+      "Discussion générale": {
+        "first_date": "2012-02-22",
+        "groupes": {
+          "GDR": {
+            "nb_intervs": 22,
+            "nb_mots": 1830,
+            "orateurs": {
+              "andré chassaigne": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_f2effe96c34eb078c22c324541ac969c",
+                "nb_intervs": 22,
+                "nb_mots": 1830
+              }
+            }
+          },
+          "Gouvernement": {
+            "nb_intervs": 8,
+            "nb_mots": 868,
+            "orateurs": {
+              "thierry mariani": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_1eaec421d2cdddada57aac57c42fb530",
+                "nb_intervs": 8,
+                "nb_mots": 868
+              }
+            }
+          },
+          "NC": {
+            "nb_intervs": 14,
+            "nb_mots": 703,
+            "orateurs": {
+              "charles de courson": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_8d336ad37a4fddfffc1c4d97a3baa2e2",
+                "nb_intervs": 5,
+                "nb_mots": 641
+              },
+              "françois rochebloine": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_5c0664bac18ecabc22004c647aff51d8",
+                "nb_intervs": 9,
+                "nb_mots": 62
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 10,
+            "nb_mots": 96,
+            "orateurs": {
+              "laurence dumont": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_55569d06acacfee31c4e7275e62d6276",
+                "nb_intervs": 10,
+                "nb_mots": 96
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 6,
+            "nb_mots": 42,
+            "orateurs": {
+              "éric diard": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_a6e2be160468428cdd97da5e41c46753",
+                "nb_intervs": 6,
+                "nb_mots": 42
+              }
+            }
+          },
+          "SRC": {
+            "nb_intervs": 15,
+            "nb_mots": 1085,
+            "orateurs": {
+              "françois brottes": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_657a445165c89e0856efad82b3d87dfe",
+                "nb_intervs": 1,
+                "nb_mots": 7
+              },
+              "jean mallot": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_1c33d3236a99e927bcdd67d3f14088e1",
+                "nb_intervs": 9,
+                "nb_mots": 54
+              },
+              "jean-paul chanteguet": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_21e49ad302e174f146e3caa9311f2efd",
+                "nb_intervs": 2,
+                "nb_mots": 995
+              },
+              "marcel rogemont": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_86cc9ed35378982cb9647f8d54a02cce",
+                "nb_intervs": 3,
+                "nb_mots": 29
+              }
+            }
+          },
+          "UMP": {
+            "nb_intervs": 6,
+            "nb_mots": 1113,
+            "orateurs": {
+              "didier gonzales": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_e900c287e186af2c9b00ae8ad19340fb",
+                "nb_intervs": 1,
+                "nb_mots": 3
+              },
+              "yanick paternotte": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_4373abe577328b4160e609f73d1ddc16",
+                "nb_intervs": 5,
+                "nb_mots": 1110
+              }
+            }
+          }
+        },
+        "last_date": "2012-02-22",
+        "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_f0288f42d754dfab2a5c3ef4249f3923",
+        "order": 4,
+        "source": "http://www.assemblee-nationale.fr/13/cri/2011-2012/20120136.asp#P278_45824",
+        "total_intervs": 81,
+        "total_mots": 5737
+      },
+      "Explications de vote": {
+        "first_date": "2012-02-22",
+        "groupes": {
+          "GDR": {
+            "nb_intervs": 1,
+            "nb_mots": 121,
+            "orateurs": {
+              "andré chassaigne": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_17877438ddf81f4b1836f55b8e187e43",
+                "nb_intervs": 1,
+                "nb_mots": 121
+              }
+            }
+          },
+          "Gouvernement": {
+            "nb_intervs": 3,
+            "nb_mots": 12,
+            "orateurs": {
+              "thierry mariani": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_2977ac9c90104217c7158d57a00a6100",
+                "nb_intervs": 3,
+                "nb_mots": 12
+              }
+            }
+          },
+          "NC": {
+            "nb_intervs": 3,
+            "nb_mots": 94,
+            "orateurs": {
+              "charles de courson": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_5cef4639357f95a338745cc1a4c2419f",
+                "nb_intervs": 3,
+                "nb_mots": 94
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 3,
+            "nb_mots": 58,
+            "orateurs": {
+              "laurence dumont": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_0669f58ef0df3a9425cb51b37a8e683d",
+                "nb_intervs": 3,
+                "nb_mots": 58
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 1,
+            "nb_mots": 6,
+            "orateurs": {
+              "éric diard": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_14babd1d2d5f5b3e284ef845033c3af1",
+                "nb_intervs": 1,
+                "nb_mots": 6
+              }
+            }
+          },
+          "SRC": {
+            "nb_intervs": 3,
+            "nb_mots": 258,
+            "orateurs": {
+              "jean mallot": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_e598cdcc9bdd456fcf32490c2a0a2e99",
+                "nb_intervs": 3,
+                "nb_mots": 258
+              }
+            }
+          }
+        },
+        "last_date": "2012-02-22",
+        "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_47b447366dc2a8c77496954e6ac1ae4c",
+        "order": 13,
+        "source": "http://www.assemblee-nationale.fr/13/cri/2011-2012/20120136.asp#P598_111711",
+        "total_intervs": 14,
+        "total_mots": 549
+      },
+      "Motion de rejet préalable": {
+        "first_date": "2012-02-22",
+        "groupes": {
+          "GDR": {
+            "nb_intervs": 6,
+            "nb_mots": 278,
+            "orateurs": {
+              "andré chassaigne": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_b95a887efaff8a93cb07b2d143eda58a",
+                "nb_intervs": 6,
+                "nb_mots": 278
+              }
+            }
+          },
+          "Gouvernement": {
+            "nb_intervs": 11,
+            "nb_mots": 382,
+            "orateurs": {
+              "thierry mariani": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_016153d61539a0e4a8a2d237ac877c70",
+                "nb_intervs": 11,
+                "nb_mots": 382
+              }
+            }
+          },
+          "NC": {
+            "nb_intervs": 9,
+            "nb_mots": 282,
+            "orateurs": {
+              "charles de courson": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_8d8adfd3adb246e451e91243c6d5ed01",
+                "nb_intervs": 5,
+                "nb_mots": 265
+              },
+              "françois rochebloine": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_7ea89c16f42172c1c0e62e7c2329af36",
+                "nb_intervs": 4,
+                "nb_mots": 17
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 7,
+            "nb_mots": 110,
+            "orateurs": {
+              "laurence dumont": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_5ec0a65403c01aa99f9b48c08e010477",
+                "nb_intervs": 7,
+                "nb_mots": 110
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 17,
+            "nb_mots": 217,
+            "orateurs": {
+              "éric diard": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_6c7eb0d50913e84c7dbcdd6722a14f47",
+                "nb_intervs": 17,
+                "nb_mots": 217
+              }
+            }
+          },
+          "SRC": {
+            "nb_intervs": 29,
+            "nb_mots": 2398,
+            "orateurs": {
+              "jean mallot": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_933df69aa16851bfa464cfabe2d8eb52",
+                "nb_intervs": 26,
+                "nb_mots": 2207
+              },
+              "jean-paul chanteguet": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_7a5ae171578f5b4029adf10d9899a743",
+                "nb_intervs": 3,
+                "nb_mots": 191
+              }
+            }
+          },
+          "UMP": {
+            "nb_intervs": 2,
+            "nb_mots": 8,
+            "orateurs": {
+              "didier gonzales": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_94ec20bc5a65130c1aee5bd5777024ee",
+                "nb_intervs": 1,
+                "nb_mots": 4
+              },
+              "jean proriol": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_a71e9be7820c090aa226d265dedfed53",
+                "nb_intervs": 1,
+                "nb_mots": 4
+              }
+            }
+          }
+        },
+        "last_date": "2012-02-22",
+        "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_8a05481178a57eecca4ec4a09a0a9c32",
+        "order": 3,
+        "source": "http://www.assemblee-nationale.fr/13/cri/2011-2012/20120136.asp#P149_22900",
+        "total_intervs": 81,
+        "total_mots": 3675
+      },
+      "Nouvelle lecture": {
+        "first_date": "2012-02-22",
+        "groupes": {
+          "Gouvernement": {
+            "nb_intervs": 5,
+            "nb_mots": 1601,
+            "orateurs": {
+              "thierry mariani": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_2a1179a1eadde8659a1c14cdfb7e6a30",
+                "nb_intervs": 5,
+                "nb_mots": 1601
+              }
+            }
+          },
+          "NC": {
+            "nb_intervs": 4,
+            "nb_mots": 28,
+            "orateurs": {
+              "françois rochebloine": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_0fea672d1eb0f16a9025e9e9fcd26536",
+                "nb_intervs": 4,
+                "nb_mots": 28
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 2,
+            "nb_mots": 77,
+            "orateurs": {
+              "laurence dumont": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_94f0c220fcd3a5bb3e0d25ee440f6853",
+                "nb_intervs": 2,
+                "nb_mots": 77
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 10,
+            "nb_mots": 1348,
+            "orateurs": {
+              "éric diard": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_7d25cfcfc939bda0a8212b0312c168c0",
+                "nb_intervs": 10,
+                "nb_mots": 1348
+              }
+            }
+          },
+          "SRC": {
+            "nb_intervs": 6,
+            "nb_mots": 65,
+            "orateurs": {
+              "jean mallot": {
+                "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_ae123beb72ccc150747be772bcb9075b",
+                "nb_intervs": 6,
+                "nb_mots": 65
+              }
+            }
+          }
+        },
+        "last_date": "2012-02-22",
+        "link": "https://2007-2012.nosdeputes.fr/seance/6076#inter_fba585e088d926f7810c50b2bd5eb67d",
+        "order": 2,
+        "source": "http://www.assemblee-nationale.fr/13/cri/2011-2012/20120136.asp#P88_3207",
+        "total_intervs": 27,
+        "total_mots": 3119
+      }
+    },
+    "groupes": {
+      "GDR": {
+        "color": "rgb(255,30,30)",
+        "link": "https://2007-2012.nosdeputes.fr/groupe/GDR",
+        "nom": "Gauche démocrate et républicaine",
+        "order": 10
+      },
+      "Gouvernement": {
+        "color": "#cccbb3",
+        "link": "",
+        "nom": "Gouvernement",
+        "order": 60
+      },
+      "NC": {
+        "color": "rgb(30,180,255)",
+        "link": "https://2007-2012.nosdeputes.fr/groupe/NC",
+        "nom": "Nouveau centre",
+        "order": 12
+      },
+      "NI": {
+        "color": "rgb(165,165,165)",
+        "link": "https://2007-2012.nosdeputes.fr/groupe/NI",
+        "nom": "Députés n'appartenant à aucun groupe",
+        "order": 14
+      },
+      "Présidence": {
+        "color": "#bfbbcc",
+        "link": "",
+        "nom": "Présidence",
+        "order": 0
+      },
+      "Rapporteurs": {
+        "color": "#b9ccc0",
+        "link": "",
+        "nom": "Rapporteurs",
+        "order": 50
+      },
+      "SRC": {
+        "color": "rgb(255,50,190)",
+        "link": "https://2007-2012.nosdeputes.fr/groupe/SRC",
+        "nom": "Socialiste, radical, citoyen et divers gauche",
+        "order": 11
+      },
+      "UMP": {
+        "color": "rgb(30,30,200)",
+        "link": "https://2007-2012.nosdeputes.fr/groupe/UMP",
+        "nom": "Union pour un mouvement populaire",
+        "order": 13
+      }
+    },
+    "orateurs": {
+      "andré chassaigne": {
+        "color": "rgb(255,30,30)",
+        "fonction": "",
+        "groupe": "GDR",
+        "link": "https://2007-2012.nosdeputes.fr/andre-chassaigne",
+        "nom": "André Chassaigne",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/andre-chassaigne"
+      },
+      "charles de courson": {
+        "color": "rgb(30,180,255)",
+        "fonction": "",
+        "groupe": "NC",
+        "link": "https://2007-2012.nosdeputes.fr/charles-de-courson",
+        "nom": "Charles de Courson",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/charles-de-courson"
+      },
+      "didier gonzales": {
+        "color": "rgb(30,30,200)",
+        "fonction": "",
+        "groupe": "UMP",
+        "link": "https://2007-2012.nosdeputes.fr/didier-gonzales",
+        "nom": "Didier Gonzales",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/didier-gonzales"
+      },
+      "françois brottes": {
+        "color": "rgb(255,50,190)",
+        "fonction": "",
+        "groupe": "SRC",
+        "link": "https://2007-2012.nosdeputes.fr/francois-brottes",
+        "nom": "François Brottes",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/francois-brottes"
+      },
+      "françois rochebloine": {
+        "color": "rgb(30,180,255)",
+        "fonction": "",
+        "groupe": "NC",
+        "link": "https://2007-2012.nosdeputes.fr/francois-rochebloine",
+        "nom": "François Rochebloine",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/francois-rochebloine"
+      },
+      "jean lassalle": {
+        "color": "rgb(165,165,165)",
+        "fonction": "",
+        "groupe": "NI",
+        "link": "https://2007-2012.nosdeputes.fr/jean-lassalle",
+        "nom": "Jean Lassalle",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/jean-lassalle"
+      },
+      "jean mallot": {
+        "color": "rgb(255,50,190)",
+        "fonction": "",
+        "groupe": "SRC",
+        "link": "https://2007-2012.nosdeputes.fr/jean-mallot",
+        "nom": "Jean Mallot",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/jean-mallot"
+      },
+      "jean proriol": {
+        "color": "rgb(30,30,200)",
+        "fonction": "",
+        "groupe": "UMP",
+        "link": "https://2007-2012.nosdeputes.fr/jean-proriol",
+        "nom": "Jean Proriol",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/jean-proriol"
+      },
+      "jean-paul chanteguet": {
+        "color": "rgb(255,50,190)",
+        "fonction": "",
+        "groupe": "SRC",
+        "link": "https://2007-2012.nosdeputes.fr/jean-paul-chanteguet",
+        "nom": "Jean-Paul Chanteguet",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/jean-paul-chanteguet"
+      },
+      "laurence dumont": {
+        "color": "rgb(255,50,190)",
+        "fonction": "présidente",
+        "groupe": "SRC",
+        "link": "https://2007-2012.nosdeputes.fr/laurence-dumont",
+        "nom": "Laurence Dumont",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/laurence-dumont"
+      },
+      "marcel rogemont": {
+        "color": "rgb(255,50,190)",
+        "fonction": "",
+        "groupe": "SRC",
+        "link": "https://2007-2012.nosdeputes.fr/marcel-rogemont",
+        "nom": "Marcel Rogemont",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/marcel-rogemont"
+      },
+      "thierry mariani": {
+        "color": "#888888",
+        "fonction": "ministre chargé des transports",
+        "groupe": "",
+        "link": "",
+        "nom": "Thierry Mariani",
+        "photo": ""
+      },
+      "yanick paternotte": {
+        "color": "rgb(30,30,200)",
+        "fonction": "",
+        "groupe": "UMP",
+        "link": "https://2007-2012.nosdeputes.fr/yanick-paternotte",
+        "nom": "Yanick Paternotte",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/yanick-paternotte"
+      },
+      "éric diard": {
+        "color": "rgb(30,30,200)",
+        "fonction": "rapporteur de la commission du développement durable et de l'aménagement du territoire",
+        "groupe": "UMP",
+        "link": "https://2007-2012.nosdeputes.fr/eric-diard",
+        "nom": "Éric Diard",
+        "photo": "https://2007-2012.nosdeputes.fr/depute/photo/eric-diard"
+      }
+    }
+  }
+}

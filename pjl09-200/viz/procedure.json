@@ -88,8 +88,22 @@
       "directory": "05_1erelecture_assemblee_hemicycle",
       "echec": null,
       "enddate": "2010-07-06",
+      "has_interventions": true,
       "institution": "assemblee",
-      "nb_amendements": 0,
+      "intervention_files": [
+        "2010-06-29T15:00_3815",
+        "2010-06-29T21:45_3820",
+        "2010-06-30T15:00_3822",
+        "2010-06-30T21:30_3836",
+        "2010-07-01T09:30_3999",
+        "2010-07-01T15:00_4006",
+        "2010-07-01T21:30_4001",
+        "2010-07-02T09:30_3995",
+        "2010-07-02T15:30_4002",
+        "2010-07-02T21:30_3998",
+        "2010-07-06T15:00_3997"
+      ],
+      "nb_amendements": 1246,
       "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0510.asp",
       "stage": "1ère lecture",
       "step": "hemicycle"

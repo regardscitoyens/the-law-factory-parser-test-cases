@@ -41,8 +41,13 @@
       "directory": "02_1erelecture_assemblee_hemicycle",
       "echec": null,
       "enddate": "2012-01-24",
+      "has_interventions": true,
       "institution": "assemblee",
-      "nb_amendements": 0,
+      "intervention_files": [
+        "2012-01-24T15:00_5862",
+        "2012-01-24T21:30_5868"
+      ],
+      "nb_amendements": 37,
       "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0829.asp",
       "stage": "1ère lecture",
       "step": "hemicycle"
@@ -120,8 +125,12 @@
       "directory": "09_nouv.lect._assemblee_hemicycle",
       "echec": null,
       "enddate": "2012-02-22",
+      "has_interventions": true,
       "institution": "assemblee",
-      "nb_amendements": 0,
+      "intervention_files": [
+        "2012-02-22T21:30_6076"
+      ],
+      "nb_amendements": 13,
       "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0864.asp",
       "stage": "nouv. lect.",
       "step": "hemicycle"
