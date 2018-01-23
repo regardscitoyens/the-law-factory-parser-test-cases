@@ -29,7 +29,11 @@
       "directory": "01_1erelecture_assemblee_commission",
       "echec": null,
       "enddate": "2012-01-11",
+      "has_interventions": true,
       "institution": "assemblee",
+      "intervention_files": [
+        "2012-01-11T09:00_5811"
+      ],
       "nb_amendements": 0,
       "source_url": "http://www.assemblee-nationale.fr/13/ta-commission/r4157-a0.asp",
       "stage": "1ère lecture",
@@ -183,7 +187,11 @@
       "directory": "14_l.définitive_assemblee_hemicycle",
       "echec": null,
       "enddate": "2012-02-29",
+      "has_interventions": true,
       "institution": "assemblee",
+      "intervention_files": [
+        "2012-02-29T21:45_6105"
+      ],
       "nb_amendements": 0,
       "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0874.asp",
       "stage": "l. définitive",

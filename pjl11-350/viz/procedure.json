@@ -63,7 +63,11 @@
       "directory": "04_1erelecture_senat_commission",
       "echec": null,
       "enddate": "2013-02-27",
+      "has_interventions": true,
       "institution": "senat",
+      "intervention_files": [
+        "2013-02-27T1ère séance_9014"
+      ],
       "nb_amendements": 0,
       "source_url": "https://www.senat.fr/leg/pjl12-400.html",
       "stage": "1ère lecture",

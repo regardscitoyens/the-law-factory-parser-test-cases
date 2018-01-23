@@ -76,7 +76,20 @@
       "directory": "04_1erelecture_assemblee_commission",
       "echec": null,
       "enddate": "2010-06-17",
+      "has_interventions": true,
       "institution": "assemblee",
+      "intervention_files": [
+        "2010-06-02T09:30_3688",
+        "2010-06-02T16:00_3704",
+        "2010-06-02T21:00_3741",
+        "2010-06-08T17:00_3730",
+        "2010-06-09T09:30_3723",
+        "2010-06-10T10:00_3737",
+        "2010-06-16T10:00_3757",
+        "2010-06-16T18:00_3769",
+        "2010-06-16T21:45_3770",
+        "2010-06-17T10:00_3771"
+      ],
       "nb_amendements": 0,
       "source_url": "http://www.assemblee-nationale.fr/13/ta-commission/r2636-a0.asp",
       "stage": "1ère lecture",
@@ -127,7 +140,11 @@
       "directory": "07_cmp_assemblee_hemicycle",
       "echec": null,
       "enddate": "2010-07-13",
+      "has_interventions": true,
       "institution": "assemblee",
+      "intervention_files": [
+        "2010-07-12T21:30_4011"
+      ],
       "nb_amendements": 0,
       "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0522.asp",
       "stage": "CMP",
@@ -139,7 +156,11 @@
       "directory": "08_cmp_senat_hemicycle",
       "echec": null,
       "enddate": "2010-07-13",
+      "has_interventions": true,
       "institution": "senat",
+      "intervention_files": [
+        "2010-07-13T14:30_1657"
+      ],
       "nb_amendements": 0,
       "source_url": "https://www.senat.fr/leg/tas09-156.html",
       "stage": "CMP",
