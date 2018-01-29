@@ -70,7 +70,7 @@
   },
   "id_step": "02_1erelecture_senat_hemicycle",
   "sujets": {
-    "Après article 11": {
+    "Après l'article 11": {
       "amendements": [
         {
           "aut": "Mme Herviaux, …",
@@ -137,11 +137,11 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel après article 11",
-      "order": 160,
-      "titre": "Après article 11"
+      "details": "article additionnel après l'article 11",
+      "order": 161,
+      "titre": "Après l'article 11"
     },
-    "Après article 11 bis": {
+    "Après l'article 11 bis": {
       "amendements": [
         {
           "aut": "MM. Tropeano, …",
@@ -152,11 +152,11 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel après article 11 bis",
-      "order": 160,
-      "titre": "Après article 11 bis"
+      "details": "article additionnel après l'article 11 bis",
+      "order": 171,
+      "titre": "Après l'article 11 bis"
     },
-    "Après article 11 quater": {
+    "Après l'article 11 quater": {
       "amendements": [
         {
           "aut": "Mme Des Esgaulx, …",
@@ -191,11 +191,11 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel après article 11 quater",
-      "order": 160,
-      "titre": "Après article 11 quater"
+      "details": "article additionnel après l'article 11 quater",
+      "order": 191,
+      "titre": "Après l'article 11 quater"
     },
-    "Après article 11 quinquies": {
+    "Après l'article 11 quinquies": {
       "amendements": [
         {
           "aut": "MM. Chatillon, …",
@@ -246,11 +246,11 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel après article 11 quinquies",
-      "order": 160,
-      "titre": "Après article 11 quinquies"
+      "details": "article additionnel après l'article 11 quinquies",
+      "order": 201,
+      "titre": "Après l'article 11 quinquies"
     },
-    "Après article 11 septies": {
+    "Après l'article 11 septies": {
       "amendements": [
         {
           "aut": "Mme Des Esgaulx, …",
@@ -381,11 +381,11 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel après article 11 septies",
-      "order": 160,
-      "titre": "Après article 11 septies"
+      "details": "article additionnel après l'article 11 septies",
+      "order": 221,
+      "titre": "Après l'article 11 septies"
     },
-    "Après article 12": {
+    "Après l'article 12": {
       "amendements": [
         {
           "aut": "MM. Bailly, …",
@@ -412,11 +412,11 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel après article 12",
-      "order": 250,
-      "titre": "Après article 12"
+      "details": "article additionnel après l'article 12",
+      "order": 251,
+      "titre": "Après l'article 12"
     },
-    "Après article 12 a": {
+    "Après l'article 12 A": {
       "amendements": [
         {
           "aut": "Mme Herviaux, …",
@@ -475,11 +475,11 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel après article 12 a",
-      "order": 250,
-      "titre": "Après article 12 a"
+      "details": "article additionnel après l'article 12 A",
+      "order": 231,
+      "titre": "Après l'article 12 A"
     },
-    "Après article 12 b": {
+    "Après l'article 12 B": {
       "amendements": [
         {
           "aut": "M. Revet, …",
@@ -802,11 +802,11 @@
           "sort": "adopté"
         }
       ],
-      "details": "article additionnel après article 12 b",
-      "order": 250,
-      "titre": "Après article 12 b"
+      "details": "article additionnel après l'article 12 B",
+      "order": 241,
+      "titre": "Après l'article 12 B"
     },
-    "Après article 13": {
+    "Après l'article 13": {
       "amendements": [
         {
           "aut": "M. Repentin, …",
@@ -849,11 +849,11 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel après article 13",
-      "order": 270,
-      "titre": "Après article 13"
+      "details": "article additionnel après l'article 13",
+      "order": 271,
+      "titre": "Après l'article 13"
     },
-    "Après article 13 bis": {
+    "Après l'article 13 bis": {
       "amendements": [
         {
           "aut": "M. J. Blanc",
@@ -1000,11 +1000,11 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel après article 13 bis",
-      "order": 270,
-      "titre": "Après article 13 bis"
+      "details": "article additionnel après l'article 13 bis",
+      "order": 281,
+      "titre": "Après l'article 13 bis"
     },
-    "Après article 13 quater": {
+    "Après l'article 13 quater": {
       "amendements": [
         {
           "aut": "MM. Pointereau, …",
@@ -1079,11 +1079,11 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel après article 13 quater",
-      "order": 270,
-      "titre": "Après article 13 quater"
+      "details": "article additionnel après l'article 13 quater",
+      "order": 301,
+      "titre": "Après l'article 13 quater"
     },
-    "Après article 13 ter": {
+    "Après l'article 13 ter": {
       "amendements": [
         {
           "aut": "M. Détraigne",
@@ -1094,11 +1094,11 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel après article 13 ter",
-      "order": 270,
-      "titre": "Après article 13 ter"
+      "details": "article additionnel après l'article 13 ter",
+      "order": 291,
+      "titre": "Après l'article 13 ter"
     },
-    "Après article 14": {
+    "Après l'article 14": {
       "amendements": [
         {
           "aut": "MM. Muller, …",
@@ -1109,11 +1109,11 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel après article 14",
-      "order": 310,
-      "titre": "Après article 14"
+      "details": "article additionnel après l'article 14",
+      "order": 311,
+      "titre": "Après l'article 14"
     },
-    "Après article 14 bis": {
+    "Après l'article 14 bis": {
       "amendements": [
         {
           "aut": "Mme Herviaux, …",
@@ -1124,11 +1124,11 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel après article 14 bis",
-      "order": 310,
-      "titre": "Après article 14 bis"
+      "details": "article additionnel après l'article 14 bis",
+      "order": 321,
+      "titre": "Après l'article 14 bis"
     },
-    "Après article 15": {
+    "Après l'article 15": {
       "amendements": [
         {
           "aut": "MM. Bailly, …",
@@ -1139,11 +1139,11 @@
           "sort": "adopté"
         }
       ],
-      "details": "article additionnel après article 15",
-      "order": 330,
-      "titre": "Après article 15"
+      "details": "article additionnel après l'article 15",
+      "order": 331,
+      "titre": "Après l'article 15"
     },
-    "Après article 15 bis": {
+    "Après l'article 15 bis": {
       "amendements": [
         {
           "aut": "M. Repentin, …",
@@ -1154,11 +1154,11 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel après article 15 bis",
-      "order": 330,
-      "titre": "Après article 15 bis"
+      "details": "article additionnel après l'article 15 bis",
+      "order": 341,
+      "titre": "Après l'article 15 bis"
     },
-    "Après article 16 bis": {
+    "Après l'article 16 bis": {
       "amendements": [
         {
           "aut": "M. J. Blanc",
@@ -1185,11 +1185,11 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel après article 16 bis",
-      "order": 350,
-      "titre": "Après article 16 bis"
+      "details": "article additionnel après l'article 16 bis",
+      "order": 361,
+      "titre": "Après l'article 16 bis"
     },
-    "Après article 17": {
+    "Après l'article 17": {
       "amendements": [
         {
           "aut": "M. Cointat",
@@ -1448,11 +1448,11 @@
           "sort": "adopté"
         }
       ],
-      "details": "division additionnelle après article 17",
-      "order": 370,
-      "titre": "Après article 17"
+      "details": "division additionnelle après l'article 17",
+      "order": 371,
+      "titre": "Après l'article 17"
     },
-    "Après article 18 bis": {
+    "Après l'article 18 bis": {
       "amendements": [
         {
           "aut": "MM. S. Larcher, …",
@@ -1463,11 +1463,11 @@
           "sort": "adopté"
         }
       ],
-      "details": "article additionnel après article 18 bis",
-      "order": 380,
-      "titre": "Après article 18 bis"
+      "details": "article additionnel après l'article 18 bis",
+      "order": 391,
+      "titre": "Après l'article 18 bis"
     },
-    "Après article 1er": {
+    "Après l'article 1er": {
       "amendements": [
         {
           "aut": "Mme Herviaux, …",
@@ -1582,11 +1582,11 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel après article 1er",
-      "order": 10,
-      "titre": "Après article 1er"
+      "details": "article additionnel après l'article 1er",
+      "order": 11,
+      "titre": "Après l'article 1er"
     },
-    "Après article 1er bis": {
+    "Après l'article 1er bis": {
       "amendements": [
         {
           "aut": "M. Repentin, …",
@@ -1621,11 +1621,11 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel après article 1er bis",
-      "order": 20,
-      "titre": "Après article 1er bis"
+      "details": "article additionnel après l'article 1er bis",
+      "order": 21,
+      "titre": "Après l'article 1er bis"
     },
-    "Après article 1er quater": {
+    "Après l'article 1er quater": {
       "amendements": [
         {
           "aut": "MM. S. Larcher, …",
@@ -1636,11 +1636,11 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel après article 1er quater",
-      "order": 40,
-      "titre": "Après article 1er quater"
+      "details": "article additionnel après l'article 1er quater",
+      "order": 41,
+      "titre": "Après l'article 1er quater"
     },
-    "Après article 2": {
+    "Après l'article 2": {
       "amendements": [
         {
           "aut": "M. Pointereau, …",
@@ -1715,11 +1715,11 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel après article 2",
-      "order": 50,
-      "titre": "Après article 2"
+      "details": "article additionnel après l'article 2",
+      "order": 51,
+      "titre": "Après l'article 2"
     },
-    "Après article 23": {
+    "Après l'article 23": {
       "amendements": [
         {
           "aut": "",
@@ -1730,11 +1730,11 @@
           "sort": "adopté"
         }
       ],
-      "details": "article additionnel après article 23",
-      "order": 440,
-      "titre": "Après article 23"
+      "details": "article additionnel après l'article 23",
+      "order": 441,
+      "titre": "Après l'article 23"
     },
-    "Après article 24": {
+    "Après l'article 24": {
       "amendements": [
         {
           "aut": "M. Virapoullé",
@@ -1793,11 +1793,11 @@
           "sort": "adopté"
         }
       ],
-      "details": "article additionnel après article 24",
-      "order": 450,
-      "titre": "Après article 24"
+      "details": "article additionnel après l'article 24",
+      "order": 451,
+      "titre": "Après l'article 24"
     },
-    "Après article 4": {
+    "Après l'article 4": {
       "amendements": [
         {
           "aut": "M. Cornu, …",
@@ -1864,11 +1864,11 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel après article 4",
-      "order": 70,
-      "titre": "Après article 4"
+      "details": "article additionnel après l'article 4",
+      "order": 71,
+      "titre": "Après l'article 4"
     },
-    "Après article 5": {
+    "Après l'article 5": {
       "amendements": [
         {
           "aut": "M. Guillaume, …",
@@ -1935,11 +1935,11 @@
           "sort": "adopté"
         }
       ],
-      "details": "article additionnel après article 5",
-      "order": 80,
-      "titre": "Après article 5"
+      "details": "article additionnel après l'article 5",
+      "order": 81,
+      "titre": "Après l'article 5"
     },
-    "Après article 6": {
+    "Après l'article 6": {
       "amendements": [
         {
           "aut": "M. Guillaume, …",
@@ -1982,11 +1982,11 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel après article 6",
-      "order": 100,
-      "titre": "Après article 6"
+      "details": "article additionnel après l'article 6",
+      "order": 101,
+      "titre": "Après l'article 6"
     },
-    "Après article 7": {
+    "Après l'article 7": {
       "amendements": [
         {
           "aut": "Mme Des Esgaulx, …",
@@ -1997,11 +1997,11 @@
           "sort": "adopté"
         }
       ],
-      "details": "article additionnel après article 7",
-      "order": 110,
-      "titre": "Après article 7"
+      "details": "article additionnel après l'article 7",
+      "order": 111,
+      "titre": "Après l'article 7"
     },
-    "Après article 7 bis": {
+    "Après l'article 7 bis": {
       "amendements": [
         {
           "aut": "M. Bailly",
@@ -2012,11 +2012,11 @@
           "sort": "adopté"
         }
       ],
-      "details": "article additionnel après article 7 bis",
-      "order": 110,
-      "titre": "Après article 7 bis"
+      "details": "article additionnel après l'article 7 bis",
+      "order": 121,
+      "titre": "Après l'article 7 bis"
     },
-    "Après article 8": {
+    "Après l'article 8": {
       "amendements": [
         {
           "aut": "M. Marc, …",
@@ -2027,11 +2027,11 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel après article 8",
-      "order": 130,
-      "titre": "Après article 8"
+      "details": "article additionnel après l'article 8",
+      "order": 131,
+      "titre": "Après l'article 8"
     },
-    "Après article 9": {
+    "Après l'article 9": {
       "amendements": [
         {
           "aut": "MM. Gillot, …",
@@ -2090,9 +2090,9 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel après article 9",
-      "order": 140,
-      "titre": "Après article 9"
+      "details": "article additionnel après l'article 9",
+      "order": 141,
+      "titre": "Après l'article 9"
     },
     "Article 10": {
       "amendements": [
@@ -2225,7 +2225,7 @@
         }
       ],
       "details": "article 11 bis",
-      "order": 160,
+      "order": 170,
       "titre": "Article 11 bis"
     },
     "Article 11 quater": {
@@ -2240,7 +2240,7 @@
         }
       ],
       "details": "article 11 quater",
-      "order": 160,
+      "order": 190,
       "titre": "Article 11 quater"
     },
     "Article 11 quinquies": {
@@ -2287,7 +2287,7 @@
         }
       ],
       "details": "article 11 quinquies",
-      "order": 160,
+      "order": 200,
       "titre": "Article 11 quinquies"
     },
     "Article 11 septies": {
@@ -2310,7 +2310,7 @@
         }
       ],
       "details": "article 11 septies",
-      "order": 160,
+      "order": 220,
       "titre": "Article 11 septies"
     },
     "Article 11 sexies": {
@@ -2325,7 +2325,7 @@
         }
       ],
       "details": "article 11 sexies",
-      "order": 160,
+      "order": 210,
       "titre": "Article 11 sexies"
     },
     "Article 11 ter": {
@@ -2372,7 +2372,7 @@
         }
       ],
       "details": "article 11 ter",
-      "order": 160,
+      "order": 180,
       "titre": "Article 11 ter"
     },
     "Article 12": {
@@ -2870,7 +2870,7 @@
       "order": 250,
       "titre": "Article 12"
     },
-    "Article 12 a": {
+    "Article 12 A": {
       "amendements": [
         {
           "aut": "MM. Le Cam, …",
@@ -2881,9 +2881,9 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article 12 a",
-      "order": 250,
-      "titre": "Article 12 a"
+      "details": "article 12 A",
+      "order": 230,
+      "titre": "Article 12 A"
     },
     "Article 13": {
       "amendements": [
@@ -3119,7 +3119,7 @@
         }
       ],
       "details": "article 14 bis",
-      "order": 310,
+      "order": 320,
       "titre": "Article 14 bis"
     },
     "Article 15": {
@@ -3493,7 +3493,7 @@
         }
       ],
       "details": "article 15 bis",
-      "order": 330,
+      "order": 340,
       "titre": "Article 15 bis"
     },
     "Article 16": {
@@ -3603,7 +3603,7 @@
         }
       ],
       "details": "article 16 bis",
-      "order": 350,
+      "order": 360,
       "titre": "Article 16 bis"
     },
     "Article 17": {
@@ -5858,7 +5858,7 @@
       "order": 140,
       "titre": "Article 9"
     },
-    "Avant article 12": {
+    "Avant l'article 12": {
       "amendements": [
         {
           "aut": "Mme Herviaux, …",
@@ -5877,11 +5877,11 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel avant article 12",
+      "details": "article additionnel avant l'article 12",
       "order": 249,
-      "titre": "Avant article 12"
+      "titre": "Avant l'article 12"
     },
-    "Avant article 23": {
+    "Avant l'article 23": {
       "amendements": [
         {
           "aut": "Mme Herviaux, …",
@@ -5892,11 +5892,11 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel avant article 23",
+      "details": "article additionnel avant l'article 23",
       "order": 439,
-      "titre": "Avant article 23"
+      "titre": "Avant l'article 23"
     },
-    "Avant article 3": {
+    "Avant l'article 3": {
       "amendements": [
         {
           "aut": "M. Revet, …",
@@ -5963,11 +5963,11 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel avant article 3",
+      "details": "article additionnel avant l'article 3",
       "order": 59,
-      "titre": "Avant article 3"
+      "titre": "Avant l'article 3"
     },
-    "Avant titre 1eravant l'article 1er": {
+    "Avant titre 1er avant l'article 1er": {
       "amendements": [
         {
           "aut": "MM. S. Larcher, …",
@@ -5978,9 +5978,9 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel avant titre 1eravant l'article 1er",
+      "details": "article additionnel avant titre 1er avant l'article 1er",
       "order": 9,
-      "titre": "Avant titre 1eravant l'article 1er"
+      "titre": "Avant titre 1er avant l'article 1er"
     },
     "Intitulé du projet de loi": {
       "amendements": [
@@ -6027,7 +6027,7 @@
       "order": 1,
       "titre": "Motion tendant à opposer la question préalable"
     },
-    "Titre iiavant l'article 3": {
+    "Titre ii avant l'article 3": {
       "amendements": [
         {
           "aut": "Mmes Nicoux, …",
@@ -6038,9 +6038,9 @@
           "sort": "rejeté"
         }
       ],
-      "details": "titre iiavant l'article 3",
+      "details": "titre ii avant l'article 3",
       "order": 59,
-      "titre": "Titre iiavant l'article 3"
+      "titre": "Titre ii avant l'article 3"
     }
   }
 }

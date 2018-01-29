@@ -22,7 +22,7 @@
   },
   "id_step": "02_1erelecture_assemblee_hemicycle",
   "sujets": {
-    "Après article 2": {
+    "Après l'article 2": {
       "amendements": [
         {
           "aut": "M. de Rocca Serra",
@@ -129,9 +129,9 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel après article 2",
-      "order": 20,
-      "titre": "Après article 2"
+      "details": "article additionnel après l'article 2",
+      "order": 21,
+      "titre": "Après l'article 2"
     },
     "Article 2": {
       "amendements": [
@@ -300,7 +300,7 @@
       "order": 20,
       "titre": "Article 2"
     },
-    "Avant article 2": {
+    "Avant l'article 2": {
       "amendements": [
         {
           "aut": "M. Paternotte, …",
@@ -311,9 +311,9 @@
           "sort": "adopté"
         }
       ],
-      "details": "article additionnel avant article 2",
+      "details": "article additionnel avant l'article 2",
       "order": 19,
-      "titre": "Avant article 2"
+      "titre": "Avant l'article 2"
     },
     "Titre": {
       "amendements": [
