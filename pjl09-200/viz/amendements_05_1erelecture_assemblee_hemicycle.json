@@ -4056,29 +4056,6 @@
       "order": 500,
       "titre": "Article 12"
     },
-    "Article 12  bis a": {
-      "amendements": [
-        {
-          "aut": "M. Peiro, …",
-          "date": "2010-06-29",
-          "groupe": "SRC",
-          "id_api": "35738",
-          "numero": "930",
-          "sort": "adopté"
-        },
-        {
-          "aut": "M. Peiro, …",
-          "date": "2010-06-27",
-          "groupe": "SRC",
-          "id_api": "35075",
-          "numero": "932",
-          "sort": "adopté"
-        }
-      ],
-      "details": "article 12  bis a",
-      "order": 500,
-      "titre": "Article 12  bis a"
-    },
     "Article 12 A": {
       "amendements": [
         {
@@ -4140,6 +4117,29 @@
       "details": "article 12 bis",
       "order": 520,
       "titre": "Article 12 bis"
+    },
+    "Article 12 bis A": {
+      "amendements": [
+        {
+          "aut": "M. Peiro, …",
+          "date": "2010-06-29",
+          "groupe": "SRC",
+          "id_api": "35738",
+          "numero": "930",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Peiro, …",
+          "date": "2010-06-27",
+          "groupe": "SRC",
+          "id_api": "35075",
+          "numero": "932",
+          "sort": "adopté"
+        }
+      ],
+      "details": "article 12 bis A",
+      "order": 510,
+      "titre": "Article 12 bis A"
     },
     "Article 13": {
       "amendements": [
