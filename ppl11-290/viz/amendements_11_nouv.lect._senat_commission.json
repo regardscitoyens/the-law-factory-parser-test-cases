@@ -1,0 +1,37 @@
+{
+  "api_root_url": "https://www.nossenateurs.fr/api/document/Amendement/",
+  "groupes": {
+    "CRC": {
+      "color": "rgb(255,30,30)",
+      "link": "https://www.nossenateurs.fr/groupe/CRC",
+      "nom": "Communiste, Républicain, Citoyen et des Sénateurs du Parti de Gauche",
+      "order": 11
+    }
+  },
+  "id_step": "11_nouv.lect._senat_commission",
+  "sujets": {
+    "Motion tendant à opposer la question préalable": {
+      "amendements": [
+        {
+          "aut": "Mme David, …",
+          "date": "2012-02-28",
+          "groupe": "CRC",
+          "id_api": "53534",
+          "numero": "COM-1",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme David, …",
+          "date": "2012-02-28",
+          "groupe": "CRC",
+          "id_api": "53325",
+          "numero": "1",
+          "sort": "adopté"
+        }
+      ],
+      "details": "motion tendant à opposer la question préalable",
+      "order": 1,
+      "titre": "Motion tendant à opposer la question préalable"
+    }
+  }
+}
