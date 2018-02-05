@@ -129,7 +129,7 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel après l'article 2",
+      "details": "Après l'article 2",
       "order": 21,
       "titre": "Après l'article 2"
     },
@@ -296,7 +296,7 @@
           "sort": "adopté"
         }
       ],
-      "details": "article 2",
+      "details": "Article 2",
       "order": 20,
       "titre": "Article 2"
     },
@@ -311,11 +311,11 @@
           "sort": "adopté"
         }
       ],
-      "details": "article additionnel avant l'article 2",
+      "details": "Avant l'article 2",
       "order": 19,
       "titre": "Avant l'article 2"
     },
-    "Titre": {
+    "TITRE": {
       "amendements": [
         {
           "aut": "M. de Rocca Serra",
@@ -342,9 +342,9 @@
           "sort": "adopté"
         }
       ],
-      "details": "titre",
+      "details": "TITRE",
       "order": 0,
-      "titre": "Titre"
+      "titre": "TITRE"
     }
   }
 }

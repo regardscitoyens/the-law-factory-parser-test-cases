@@ -89,7 +89,7 @@
       "intervention_files": [
         "2012-02-15T14:30_7790"
       ],
-      "nb_amendements": 0,
+      "nb_amendements": 40,
       "source_url": "https://www.senat.fr/leg/tas11-074.html",
       "stage": "1ère lecture",
       "step": "hemicycle"
@@ -102,7 +102,7 @@
       "echec": "echec",
       "enddate": "2012-02-21",
       "institution": "CMP",
-      "nb_amendements": 0,
+      "nb_amendements": 40,
       "source_url": "https://www.senat.fr/rap/l11-392/l11-392.html",
       "stage": "CMP",
       "step": "commission"
@@ -125,7 +125,7 @@
       "echec": null,
       "enddate": "2012-02-21",
       "institution": "assemblee",
-      "nb_amendements": 0,
+      "nb_amendements": 40,
       "source_url": "http://www.assemblee-nationale.fr/13/ta-commission/r4388-a0.asp",
       "stage": "nouv. lect.",
       "step": "commission"
@@ -180,7 +180,7 @@
         "2012-02-29T14:30_7785",
         "2012-02-29T21:30_7786"
       ],
-      "nb_amendements": 0,
+      "nb_amendements": 2,
       "source_url": "https://www.senat.fr/leg/tas11-101.html",
       "stage": "nouv. lect.",
       "step": "hemicycle"

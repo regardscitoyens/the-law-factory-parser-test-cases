@@ -137,8 +137,8 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel après l'article 11",
-      "order": 161,
+      "details": "Après l'article 11",
+      "order": 30,
       "titre": "Après l'article 11"
     },
     "Après l'article 11 bis": {
@@ -152,8 +152,8 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel après l'article 11 bis",
-      "order": 171,
+      "details": "Après l'article 11 bis",
+      "order": 32,
       "titre": "Après l'article 11 bis"
     },
     "Après l'article 11 quater": {
@@ -191,8 +191,8 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel après l'article 11 quater",
-      "order": 191,
+      "details": "Après l'article 11 quater",
+      "order": 35,
       "titre": "Après l'article 11 quater"
     },
     "Après l'article 11 quinquies": {
@@ -246,8 +246,8 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel après l'article 11 quinquies",
-      "order": 201,
+      "details": "Après l'article 11 quinquies",
+      "order": 37,
       "titre": "Après l'article 11 quinquies"
     },
     "Après l'article 11 septies": {
@@ -381,8 +381,8 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel après l'article 11 septies",
-      "order": 221,
+      "details": "Après l'article 11 septies",
+      "order": 40,
       "titre": "Après l'article 11 septies"
     },
     "Après l'article 12": {
@@ -412,8 +412,8 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel après l'article 12",
-      "order": 251,
+      "details": "Après l'article 12",
+      "order": 46,
       "titre": "Après l'article 12"
     },
     "Après l'article 12 A": {
@@ -475,8 +475,8 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel après l'article 12 A",
-      "order": 231,
+      "details": "Après l'article 12 A",
+      "order": 42,
       "titre": "Après l'article 12 A"
     },
     "Après l'article 12 B": {
@@ -499,7 +499,7 @@
         },
         {
           "aut": "M. Pointereau, …",
-          "date": "2010-05-12",
+          "date": "2010-05-19",
           "groupe": "LR",
           "id_api": "17184",
           "numero": "43",
@@ -802,8 +802,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article additionnel après l'article 12 B",
-      "order": 241,
+      "details": "Après l'article 12 B",
+      "order": 43,
       "titre": "Après l'article 12 B"
     },
     "Après l'article 13": {
@@ -849,8 +849,8 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel après l'article 13",
-      "order": 271,
+      "details": "Après l'article 13",
+      "order": 48,
       "titre": "Après l'article 13"
     },
     "Après l'article 13 bis": {
@@ -913,7 +913,7 @@
         },
         {
           "aut": "M. Béteille",
-          "date": "2010-05-17",
+          "date": "2010-05-18",
           "groupe": "UMP",
           "id_api": "17523",
           "numero": "396",
@@ -1000,8 +1000,8 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel après l'article 13 bis",
-      "order": 281,
+      "details": "Après l'article 13 bis",
+      "order": 49,
       "titre": "Après l'article 13 bis"
     },
     "Après l'article 13 quater": {
@@ -1079,8 +1079,8 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel après l'article 13 quater",
-      "order": 301,
+      "details": "Après l'article 13 quater",
+      "order": 51,
       "titre": "Après l'article 13 quater"
     },
     "Après l'article 13 ter": {
@@ -1094,23 +1094,23 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel après l'article 13 ter",
-      "order": 291,
+      "details": "Après l'article 13 ter",
+      "order": 50,
       "titre": "Après l'article 13 ter"
     },
     "Après l'article 14": {
       "amendements": [
         {
           "aut": "MM. Muller, …",
-          "date": "2010-05-17",
+          "date": "2010-05-18",
           "groupe": "SOC",
           "id_api": "17748",
           "numero": "635",
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel après l'article 14",
-      "order": 311,
+      "details": "Après l'article 14",
+      "order": 53,
       "titre": "Après l'article 14"
     },
     "Après l'article 14 bis": {
@@ -1124,8 +1124,8 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel après l'article 14 bis",
-      "order": 321,
+      "details": "Après l'article 14 bis",
+      "order": 55,
       "titre": "Après l'article 14 bis"
     },
     "Après l'article 15": {
@@ -1139,8 +1139,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article additionnel après l'article 15",
-      "order": 331,
+      "details": "Après l'article 15",
+      "order": 57,
       "titre": "Après l'article 15"
     },
     "Après l'article 15 bis": {
@@ -1154,8 +1154,8 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel après l'article 15 bis",
-      "order": 341,
+      "details": "Après l'article 15 bis",
+      "order": 59,
       "titre": "Après l'article 15 bis"
     },
     "Après l'article 16 bis": {
@@ -1185,8 +1185,8 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel après l'article 16 bis",
-      "order": 361,
+      "details": "Après l'article 16 bis",
+      "order": 62,
       "titre": "Après l'article 16 bis"
     },
     "Après l'article 17": {
@@ -1369,7 +1369,7 @@
         },
         {
           "aut": "MM. Leroy, …",
-          "date": "2010-05-14",
+          "date": "2010-05-18",
           "groupe": "LR",
           "id_api": "17267",
           "numero": "131",
@@ -1448,8 +1448,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "division additionnelle après l'article 17",
-      "order": 371,
+      "details": "Après l'article 17",
+      "order": 64,
       "titre": "Après l'article 17"
     },
     "Après l'article 18 bis": {
@@ -1463,8 +1463,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article additionnel après l'article 18 bis",
-      "order": 391,
+      "details": "Après l'article 18 bis",
+      "order": 66,
       "titre": "Après l'article 18 bis"
     },
     "Après l'article 1er": {
@@ -1559,7 +1559,7 @@
         },
         {
           "aut": "MM. Collin, …",
-          "date": "2010-05-17",
+          "date": "2010-05-18",
           "groupe": "RDSE",
           "id_api": "17645",
           "numero": "525",
@@ -1582,8 +1582,8 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel après l'article 1er",
-      "order": 11,
+      "details": "Après l'article 1er",
+      "order": 6,
       "titre": "Après l'article 1er"
     },
     "Après l'article 1er bis": {
@@ -1621,23 +1621,23 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel après l'article 1er bis",
-      "order": 21,
+      "details": "Après l'article 1er bis",
+      "order": 8,
       "titre": "Après l'article 1er bis"
     },
     "Après l'article 1er quater": {
       "amendements": [
         {
           "aut": "MM. S. Larcher, …",
-          "date": "2010-05-18",
+          "date": "2010-05-17",
           "groupe": "SOC",
           "id_api": "17607",
           "numero": "482",
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel après l'article 1er quater",
-      "order": 41,
+      "details": "Après l'article 1er quater",
+      "order": 11,
       "titre": "Après l'article 1er quater"
     },
     "Après l'article 2": {
@@ -1715,8 +1715,8 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel après l'article 2",
-      "order": 51,
+      "details": "Après l'article 2",
+      "order": 13,
       "titre": "Après l'article 2"
     },
     "Après l'article 23": {
@@ -1730,8 +1730,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article additionnel après l'article 23",
-      "order": 441,
+      "details": "Après l'article 23",
+      "order": 73,
       "titre": "Après l'article 23"
     },
     "Après l'article 24": {
@@ -1793,8 +1793,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article additionnel après l'article 24",
-      "order": 451,
+      "details": "Après l'article 24",
+      "order": 75,
       "titre": "Après l'article 24"
     },
     "Après l'article 4": {
@@ -1864,8 +1864,8 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel après l'article 4",
-      "order": 71,
+      "details": "Après l'article 4",
+      "order": 17,
       "titre": "Après l'article 4"
     },
     "Après l'article 5": {
@@ -1935,8 +1935,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article additionnel après l'article 5",
-      "order": 81,
+      "details": "Après l'article 5",
+      "order": 19,
       "titre": "Après l'article 5"
     },
     "Après l'article 6": {
@@ -1982,8 +1982,8 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel après l'article 6",
-      "order": 101,
+      "details": "Après l'article 6",
+      "order": 21,
       "titre": "Après l'article 6"
     },
     "Après l'article 7": {
@@ -1997,8 +1997,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article additionnel après l'article 7",
-      "order": 111,
+      "details": "Après l'article 7",
+      "order": 23,
       "titre": "Après l'article 7"
     },
     "Après l'article 7 bis": {
@@ -2012,8 +2012,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article additionnel après l'article 7 bis",
-      "order": 121,
+      "details": "Après l'article 7 bis",
+      "order": 24,
       "titre": "Après l'article 7 bis"
     },
     "Après l'article 8": {
@@ -2027,8 +2027,8 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel après l'article 8",
-      "order": 131,
+      "details": "Après l'article 8",
+      "order": 26,
       "titre": "Après l'article 8"
     },
     "Après l'article 9": {
@@ -2090,8 +2090,8 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel après l'article 9",
-      "order": 141,
+      "details": "Après l'article 9",
+      "order": 28,
       "titre": "Après l'article 9"
     },
     "Article 10": {
@@ -2209,8 +2209,8 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article 10",
-      "order": 150,
+      "details": "Article 10",
+      "order": 29,
       "titre": "Article 10"
     },
     "Article 11 bis": {
@@ -2224,8 +2224,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article 11 bis",
-      "order": 170,
+      "details": "Article 11 bis",
+      "order": 31,
       "titre": "Article 11 bis"
     },
     "Article 11 quater": {
@@ -2239,15 +2239,15 @@
           "sort": "adopté"
         }
       ],
-      "details": "article 11 quater",
-      "order": 190,
+      "details": "Article 11 quater",
+      "order": 34,
       "titre": "Article 11 quater"
     },
     "Article 11 quinquies": {
       "amendements": [
         {
           "aut": "Mme Des Esgaulx, …",
-          "date": "2010-05-11",
+          "date": "2010-05-18",
           "groupe": "LR",
           "id_api": "17151",
           "numero": "8",
@@ -2286,8 +2286,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article 11 quinquies",
-      "order": 200,
+      "details": "Article 11 quinquies",
+      "order": 36,
       "titre": "Article 11 quinquies"
     },
     "Article 11 septies": {
@@ -2309,8 +2309,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article 11 septies",
-      "order": 220,
+      "details": "Article 11 septies",
+      "order": 39,
       "titre": "Article 11 septies"
     },
     "Article 11 sexies": {
@@ -2324,8 +2324,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article 11 sexies",
-      "order": 210,
+      "details": "Article 11 sexies",
+      "order": 38,
       "titre": "Article 11 sexies"
     },
     "Article 11 ter": {
@@ -2371,8 +2371,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article 11 ter",
-      "order": 180,
+      "details": "Article 11 ter",
+      "order": 33,
       "titre": "Article 11 ter"
     },
     "Article 12": {
@@ -2866,8 +2866,8 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article 12",
-      "order": 250,
+      "details": "Article 12",
+      "order": 45,
       "titre": "Article 12"
     },
     "Article 12 A": {
@@ -2881,8 +2881,8 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article 12 A",
-      "order": 230,
+      "details": "Article 12 A",
+      "order": 41,
       "titre": "Article 12 A"
     },
     "Article 13": {
@@ -2952,8 +2952,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article 13",
-      "order": 270,
+      "details": "Article 13",
+      "order": 47,
       "titre": "Article 13"
     },
     "Article 14": {
@@ -3087,8 +3087,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article 14",
-      "order": 310,
+      "details": "Article 14",
+      "order": 52,
       "titre": "Article 14"
     },
     "Article 14 bis": {
@@ -3118,8 +3118,8 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article 14 bis",
-      "order": 320,
+      "details": "Article 14 bis",
+      "order": 54,
       "titre": "Article 14 bis"
     },
     "Article 15": {
@@ -3477,8 +3477,8 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article 15",
-      "order": 330,
+      "details": "Article 15",
+      "order": 56,
       "titre": "Article 15"
     },
     "Article 15 bis": {
@@ -3492,8 +3492,8 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article 15 bis",
-      "order": 340,
+      "details": "Article 15 bis",
+      "order": 58,
       "titre": "Article 15 bis"
     },
     "Article 16": {
@@ -3515,8 +3515,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article 16",
-      "order": 350,
+      "details": "Article 16",
+      "order": 60,
       "titre": "Article 16"
     },
     "Article 16 bis": {
@@ -3602,8 +3602,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article 16 bis",
-      "order": 360,
+      "details": "Article 16 bis",
+      "order": 61,
       "titre": "Article 16 bis"
     },
     "Article 17": {
@@ -3633,8 +3633,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article 17",
-      "order": 370,
+      "details": "Article 17",
+      "order": 63,
       "titre": "Article 17"
     },
     "Article 18": {
@@ -3664,8 +3664,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article 18",
-      "order": 380,
+      "details": "Article 18",
+      "order": 65,
       "titre": "Article 18"
     },
     "Article 19": {
@@ -3711,8 +3711,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article 19",
-      "order": 400,
+      "details": "Article 19",
+      "order": 67,
       "titre": "Article 19"
     },
     "Article 1er": {
@@ -4198,8 +4198,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article 1er",
-      "order": 10,
+      "details": "Article 1er",
+      "order": 5,
       "titre": "Article 1er"
     },
     "Article 1er bis": {
@@ -4237,8 +4237,8 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article 1er bis",
-      "order": 20,
+      "details": "Article 1er bis",
+      "order": 7,
       "titre": "Article 1er bis"
     },
     "Article 1er quater": {
@@ -4316,8 +4316,8 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article 1er quater",
-      "order": 40,
+      "details": "Article 1er quater",
+      "order": 10,
       "titre": "Article 1er quater"
     },
     "Article 1er ter": {
@@ -4340,15 +4340,15 @@
         },
         {
           "aut": "M. Lecerf, …",
-          "date": "2010-05-18",
+          "date": "2010-05-17",
           "groupe": "UMP",
           "id_api": "17526",
           "numero": "400",
           "sort": "non-voté"
         }
       ],
-      "details": "article 1er ter",
-      "order": 30,
+      "details": "Article 1er ter",
+      "order": 9,
       "titre": "Article 1er ter"
     },
     "Article 2": {
@@ -4418,8 +4418,8 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article 2",
-      "order": 50,
+      "details": "Article 2",
+      "order": 12,
       "titre": "Article 2"
     },
     "Article 20": {
@@ -4505,8 +4505,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article 20",
-      "order": 410,
+      "details": "Article 20",
+      "order": 68,
       "titre": "Article 20"
     },
     "Article 21": {
@@ -4577,7 +4577,7 @@
         },
         {
           "aut": "Mme Herviaux, …",
-          "date": "2010-05-17",
+          "date": "2010-05-29",
           "groupe": "SOC",
           "id_api": "17491",
           "numero": "360",
@@ -4696,8 +4696,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article 21",
-      "order": 420,
+      "details": "Article 21",
+      "order": 69,
       "titre": "Article 21"
     },
     "Article 22": {
@@ -4711,8 +4711,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article 22",
-      "order": 430,
+      "details": "Article 22",
+      "order": 70,
       "titre": "Article 22"
     },
     "Article 23": {
@@ -4726,8 +4726,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article 23",
-      "order": 440,
+      "details": "Article 23",
+      "order": 72,
       "titre": "Article 23"
     },
     "Article 24": {
@@ -4869,8 +4869,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article 24",
-      "order": 450,
+      "details": "Article 24",
+      "order": 74,
       "titre": "Article 24"
     },
     "Article 3": {
@@ -5140,8 +5140,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article 3",
-      "order": 60,
+      "details": "Article 3",
+      "order": 15,
       "titre": "Article 3"
     },
     "Article 4": {
@@ -5211,8 +5211,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article 4",
-      "order": 70,
+      "details": "Article 4",
+      "order": 16,
       "titre": "Article 4"
     },
     "Article 5": {
@@ -5258,8 +5258,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article 5",
-      "order": 80,
+      "details": "Article 5",
+      "order": 18,
       "titre": "Article 5"
     },
     "Article 6": {
@@ -5401,8 +5401,8 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article 6",
-      "order": 100,
+      "details": "Article 6",
+      "order": 20,
       "titre": "Article 6"
     },
     "Article 7": {
@@ -5465,7 +5465,7 @@
         },
         {
           "aut": "M. Pointereau, …",
-          "date": "2010-05-17",
+          "date": "2010-05-18",
           "groupe": "LR",
           "id_api": "17351",
           "numero": "218",
@@ -5624,8 +5624,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article 7",
-      "order": 110,
+      "details": "Article 7",
+      "order": 22,
       "titre": "Article 7"
     },
     "Article 8": {
@@ -5711,8 +5711,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article 8",
-      "order": 130,
+      "details": "Article 8",
+      "order": 25,
       "titre": "Article 8"
     },
     "Article 9": {
@@ -5854,8 +5854,8 @@
           "sort": "adopté"
         }
       ],
-      "details": "article 9",
-      "order": 140,
+      "details": "Article 9",
+      "order": 27,
       "titre": "Article 9"
     },
     "Avant l'article 12": {
@@ -5877,8 +5877,8 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel avant l'article 12",
-      "order": 249,
+      "details": "Avant l'article 12",
+      "order": 44,
       "titre": "Avant l'article 12"
     },
     "Avant l'article 23": {
@@ -5892,8 +5892,8 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel avant l'article 23",
-      "order": 439,
+      "details": "Avant l'article 23",
+      "order": 71,
       "titre": "Avant l'article 23"
     },
     "Avant l'article 3": {
@@ -5963,11 +5963,11 @@
           "sort": "non-voté"
         }
       ],
-      "details": "article additionnel avant l'article 3",
-      "order": 59,
+      "details": "Avant l'article 3",
+      "order": 14,
       "titre": "Avant l'article 3"
     },
-    "Avant titre 1er avant l'article 1er": {
+    "Avant le titre 1er": {
       "amendements": [
         {
           "aut": "MM. S. Larcher, …",
@@ -5978,24 +5978,9 @@
           "sort": "rejeté"
         }
       ],
-      "details": "article additionnel avant titre 1er avant l'article 1er",
-      "order": 9,
-      "titre": "Avant titre 1er avant l'article 1er"
-    },
-    "Intitulé du projet de loi": {
-      "amendements": [
-        {
-          "aut": "MM. Bailly, …",
-          "date": "2010-05-12",
-          "groupe": "UMP",
-          "id_api": "17215",
-          "numero": "76",
-          "sort": "non-voté"
-        }
-      ],
-      "details": "intitulé du projet de loi",
+      "details": "Avant le titre 1er",
       "order": 0,
-      "titre": "Intitulé du projet de loi"
+      "titre": "Avant le titre 1er"
     },
     "Motion tendant à opposer l'exception d'irrecevabilité": {
       "amendements": [
@@ -6008,7 +5993,7 @@
           "sort": "rejeté"
         }
       ],
-      "details": "motion tendant à opposer l'exception d'irrecevabilité",
+      "details": "Motion tendant à opposer l'exception d'irrecevabilité",
       "order": 1,
       "titre": "Motion tendant à opposer l'exception d'irrecevabilité"
     },
@@ -6023,11 +6008,26 @@
           "sort": "rejeté"
         }
       ],
-      "details": "motion tendant à opposer la question préalable",
-      "order": 1,
+      "details": "Motion tendant à opposer la question préalable",
+      "order": 2,
       "titre": "Motion tendant à opposer la question préalable"
     },
-    "Titre ii avant l'article 3": {
+    "Titre": {
+      "amendements": [
+        {
+          "aut": "MM. Bailly, …",
+          "date": "2010-05-12",
+          "groupe": "UMP",
+          "id_api": "17215",
+          "numero": "76",
+          "sort": "non-voté"
+        }
+      ],
+      "details": "Titre",
+      "order": 3,
+      "titre": "Titre"
+    },
+    "Titre II": {
       "amendements": [
         {
           "aut": "Mmes Nicoux, …",
@@ -6038,9 +6038,9 @@
           "sort": "rejeté"
         }
       ],
-      "details": "titre ii avant l'article 3",
-      "order": 59,
-      "titre": "Titre ii avant l'article 3"
+      "details": "Titre II",
+      "order": 4,
+      "titre": "Titre II"
     }
   }
 }
