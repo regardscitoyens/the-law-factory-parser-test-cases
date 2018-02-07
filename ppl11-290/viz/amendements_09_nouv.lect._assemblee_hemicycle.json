@@ -126,7 +126,7 @@
       "order": 50,
       "titre": "Article 2 quater"
     },
-    "TITRE": {
+    "Titre": {
       "amendements": [
         {
           "aut": "M. de Rocca Serra",
@@ -137,9 +137,9 @@
           "sort": "non-voté"
         }
       ],
-      "details": "TITRE",
+      "details": "Titre",
       "order": 0,
-      "titre": "TITRE"
+      "titre": "Titre"
     }
   }
 }

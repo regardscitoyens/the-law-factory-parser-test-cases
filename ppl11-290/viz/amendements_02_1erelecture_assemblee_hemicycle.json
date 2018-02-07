@@ -315,7 +315,7 @@
       "order": 19,
       "titre": "Avant l'article 2"
     },
-    "TITRE": {
+    "Titre": {
       "amendements": [
         {
           "aut": "M. de Rocca Serra",
@@ -342,9 +342,9 @@
           "sort": "adopté"
         }
       ],
-      "details": "TITRE",
+      "details": "Titre",
       "order": 0,
-      "titre": "TITRE"
+      "titre": "Titre"
     }
   }
 }
