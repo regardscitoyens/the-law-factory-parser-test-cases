@@ -73,7 +73,7 @@
       "echec": "rejet",
       "enddate": "2012-02-08",
       "institution": "senat",
-      "nb_amendements": 40,
+      "nb_amendements": 0,
       "source_url": "https://www.senat.fr/rap/l11-337/l11-337.html",
       "stage": "1ère lecture",
       "step": "commission"
@@ -102,7 +102,6 @@
       "echec": "echec",
       "enddate": "2012-02-21",
       "institution": "CMP",
-      "nb_amendements": 40,
       "source_url": "https://www.senat.fr/rap/l11-392/l11-392.html",
       "stage": "CMP",
       "step": "commission"
@@ -163,7 +162,7 @@
       "echec": "rejet",
       "enddate": "2012-02-28",
       "institution": "senat",
-      "nb_amendements": 2,
+      "nb_amendements": 1,
       "source_url": "https://www.senat.fr/rap/l11-438/l11-438.html",
       "stage": "nouv. lect.",
       "step": "commission"
@@ -180,7 +179,7 @@
         "2012-02-29T14:30_7785",
         "2012-02-29T21:30_7786"
       ],
-      "nb_amendements": 2,
+      "nb_amendements": 1,
       "source_url": "https://www.senat.fr/leg/tas11-101.html",
       "stage": "nouv. lect.",
       "step": "hemicycle"
