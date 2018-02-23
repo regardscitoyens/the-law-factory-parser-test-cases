@@ -1,0 +1,56 @@
+ -= DOSLEG URL: http://www.senat.fr/dossier-legislatif/pjl11-350.html =-
+  [] download SENAT version
+  [] parse SENAT version
+  [] download AN version
+  [] parse AN version
+        title: projet de loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Gouvernement du Monténégro relatif à la mobilité des jeunes
+0 anomalies ( 1 doslegs)
+  [] parse the texts
+** parsing texts of pjl11-350
+    ^ text:  http://www.assemblee-nationale.fr/13/projets/pl3709.asp
+    ^ text:  http://www.assemblee-nationale.fr/13/rapports/r4175.asp
+    ^ text:  http://www.assemblee-nationale.fr/13/ta/ta0848.asp
+    ^ text:  https://www.senat.fr/leg/pjl11-350.html
+    ^ text:  https://www.senat.fr/leg/pjl12-400.html
+    ^ text:  https://www.senat.fr/leg/tas12-113.html
+    ^ text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027219331&categorieLien=id
+    ^ complete text:  http://www.assemblee-nationale.fr/13/projets/pl3709.asp
+    ^ complete text:  http://www.assemblee-nationale.fr/13/rapports/r4175.asp
+    ^ complete text:  http://www.assemblee-nationale.fr/13/ta/ta0848.asp
+    ^ complete text:  https://www.senat.fr/leg/pjl11-350.html
+    ^ complete text:  https://www.senat.fr/leg/pjl12-400.html
+    ^ complete text:  https://www.senat.fr/leg/tas12-113.html
+    ^ complete text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027219331&categorieLien=id
+  [] format data for the frontend
+     writing to: the-law-factory-parser-test-cases/pjl11-350_tmp
+ - process amendements
+     * amendement step - http://www.assemblee-nationale.fr/13/projets/pl3709.asp
+     * amendement step - http://www.assemblee-nationale.fr/13/rapports/r4175.asp
+     * downloading amendments: https://nosdeputes.fr/13/amendements/3709/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/projets/pl3709.asp
+  parsing amendments: 0
+    * downloading interventions
+         * downloading seances -  https://2007-2012.nosdeputes.fr/seances/3709/json?commission=1
+     * amendement step - http://www.assemblee-nationale.fr/13/ta/ta0848.asp
+     * downloading amendments: https://nosdeputes.fr/13/amendements/4175/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/rapports/r4175.asp
+  parsing amendments: 0
+    * downloading interventions
+         * downloading seances -  https://2007-2012.nosdeputes.fr/seances/4175/json?hemicycle=1
+         * downloading seances -  https://2007-2012.nosdeputes.fr/seances/3709/json?hemicycle=1
+     * amendement step - https://www.senat.fr/leg/pjl11-350.html
+     * amendement step - https://www.senat.fr/leg/pjl12-400.html
+     * downloading amendments: https://nossenateurs.fr/amendements/20112012-350/json?cache=5feb2018 for https://www.senat.fr/leg/pjl11-350.html
+  parsing amendments: 0
+    * downloading interventions
+         * downloading seances -  https://www.nossenateurs.fr/seances/20112012-350/json?commission=1
+             * downloading seance -  https://www.nossenateurs.fr/seance/9014/20112012-350/json
+                 * dumping seance - 2013-02-27T1ère séance_9014
+     * amendement step - https://www.senat.fr/leg/tas12-113.html
+     * downloading amendments: https://nossenateurs.fr/amendements/20122013-400/json?cache=5feb2018 for https://www.senat.fr/leg/pjl12-400.html
+  parsing amendments: 0
+    * downloading interventions
+         * downloading seances -  https://www.nossenateurs.fr/seances/20122013-400/json?hemicycle=1
+         * downloading seances -  https://www.nossenateurs.fr/seances/20112012-350/json?hemicycle=1
+     * amendement step - https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027219331&categorieLien=id
+ - re-order interventions and correct procedure dates
+ - prepare interventions.json
+  FINISHED - the-law-factory-parser-test-cases/pjl11-350
