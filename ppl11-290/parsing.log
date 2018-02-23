@@ -1,0 +1,128 @@
+ -= DOSLEG URL: http://www.senat.fr/dossier-legislatif/ppl11-290.html =-
+  [] download SENAT version
+  [] parse SENAT version
+  [] download AN version
+  [] parse AN version
+        title: proposition de loi relative à l'organisation du service et à l'information des passagers dans les entreprises de transport aérien de passagers et à diverses dispositions dans le domaine des transports
+0 anomalies ( 1 doslegs)
+  [] parse the texts
+** parsing texts of ppl11-290
+    ^ text:  http://www.assemblee-nationale.fr/13/propositions/pion3991.asp
+    ^ text:  http://www.assemblee-nationale.fr/13/ta-commission/r4157-a0.asp
+    ^ text:  http://www.assemblee-nationale.fr/13/ta/ta0829.asp
+    ^ text:  https://www.senat.fr/leg/ppl11-290.html
+    ^ text:  https://www.senat.fr/rap/l11-337/l11-337.html
+        ^ text url fixed: https://www.senat.fr/rap/l11-337/l11-337_mono.html
+    ^ text:  https://www.senat.fr/leg/tas11-074.html
+    ^ text:  https://www.senat.fr/rap/l11-392/l11-392.html
+    ^ text:  http://www.assemblee-nationale.fr/13/propositions/pion4362.asp
+    ^ text:  http://www.assemblee-nationale.fr/13/ta-commission/r4388-a0.asp
+    ^ text:  http://www.assemblee-nationale.fr/13/ta/ta0864.asp
+    ^ text:  https://www.senat.fr/leg/ppl11-428.html
+    ^ text:  https://www.senat.fr/rap/l11-438/l11-438.html
+        ^ text url fixed: https://www.senat.fr/rap/l11-438/l11-438_mono.html
+    ^ text:  https://www.senat.fr/leg/tas11-101.html
+    ^ text:  http://www.assemblee-nationale.fr/13/propositions/pion4425.asp
+    ^ text:  http://www.assemblee-nationale.fr/13/ta/ta0874.asp
+    ^ text:  http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2012/2012-650-dc/decision-n-2012-650-dc-du-15-mars-2012.105010.html
+    ^ text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000025540947&categorieLien=id
+    ^ complete text:  http://www.assemblee-nationale.fr/13/propositions/pion3991.asp
+    ^ complete text:  http://www.assemblee-nationale.fr/13/ta-commission/r4157-a0.asp
+    ^ complete text:  http://www.assemblee-nationale.fr/13/ta/ta0829.asp
+    ^ complete text:  https://www.senat.fr/leg/ppl11-290.html
+    ^ complete text:  https://www.senat.fr/rap/l11-337/l11-337.html
+    ^ complete text:  https://www.senat.fr/leg/tas11-074.html
+    ^ complete text:  https://www.senat.fr/rap/l11-392/l11-392.html
+    ^ complete text:  http://www.assemblee-nationale.fr/13/propositions/pion4362.asp
+    ^ complete text:  http://www.assemblee-nationale.fr/13/ta-commission/r4388-a0.asp
+    ^ complete text:  http://www.assemblee-nationale.fr/13/ta/ta0864.asp
+    ^ complete text:  https://www.senat.fr/leg/ppl11-428.html
+    ^ complete text:  https://www.senat.fr/rap/l11-438/l11-438.html
+    ^ complete text:  https://www.senat.fr/leg/tas11-101.html
+    ^ complete text:  http://www.assemblee-nationale.fr/13/propositions/pion4425.asp
+    ^ complete text:  http://www.assemblee-nationale.fr/13/ta/ta0874.asp
+[step_logic] l. définitive / hemicycle: fetching last AN hemi or last CMP commission
+WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 2 <-> 2 7634 diffchars, similarity; 0.10
+WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 2 ter <-> 4 262 diffchars, similarity; 0.50
+WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 2 quater <-> 5 1222 diffchars, similarity; 0.71
+    ^ complete text:  http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2012/2012-650-dc/decision-n-2012-650-dc-du-15-mars-2012.105010.html
+    ^ complete text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000025540947&categorieLien=id
+  [] format data for the frontend
+     writing to: the-law-factory-parser-test-cases/ppl11-290_tmp
+ - process amendements
+     * amendement step - http://www.assemblee-nationale.fr/13/propositions/pion3991.asp
+     * amendement step - http://www.assemblee-nationale.fr/13/ta-commission/r4157-a0.asp
+     * downloading amendments: https://nosdeputes.fr/13/amendements/3991/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/propositions/pion3991.asp
+  parsing amendments: 0
+    * downloading interventions
+         * downloading seances -  https://2007-2012.nosdeputes.fr/seances/3991/json?commission=1
+             * downloading seance -  https://2007-2012.nosdeputes.fr/seance/5811/3991/json
+                 * dumping seance - 2012-01-11T09:00_5811
+     * amendement step - http://www.assemblee-nationale.fr/13/ta/ta0829.asp
+     * downloading amendments: https://nosdeputes.fr/13/amendements/4157/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/ta-commission/r4157-a0.asp
+  parsing amendments: 37
+    * downloading interventions
+         * downloading seances -  https://2007-2012.nosdeputes.fr/seances/4157/json?hemicycle=1
+             * downloading seance -  https://2007-2012.nosdeputes.fr/seance/5862/4157/json
+                 * dumping seance - 2012-01-24T15:00_5862
+             * downloading seance -  https://2007-2012.nosdeputes.fr/seance/5868/4157/json
+                 * dumping seance - 2012-01-24T21:30_5868
+     * amendement step - https://www.senat.fr/leg/ppl11-290.html
+     * amendement step - https://www.senat.fr/rap/l11-337/l11-337.html
+     * downloading amendments: https://nossenateurs.fr/amendements/20112012-290/json?cache=5feb2018 for https://www.senat.fr/leg/ppl11-290.html
+  parsing amendments: 40
+WARNING: amendments ignored (not the right step) 40
+    * downloading interventions
+         * downloading seances -  https://www.nossenateurs.fr/seances/20112012-290/json?commission=1
+     * amendement step - https://www.senat.fr/leg/tas11-074.html
+     * downloading amendments: https://nossenateurs.fr/amendements/20112012-290/json?cache=5feb2018 for https://www.senat.fr/leg/ppl11-290.html
+  parsing amendments: 40
+    * downloading interventions
+         * downloading seances -  https://www.nossenateurs.fr/seances/20112012-290/json?hemicycle=1
+             * downloading seance -  https://www.nossenateurs.fr/seance/7790/20112012-290/json
+                 * dumping seance - 2012-02-15T14:30_7790
+     * amendement step - https://www.senat.fr/rap/l11-392/l11-392.html
+     * amendement step - http://www.assemblee-nationale.fr/13/propositions/pion4362.asp
+     * amendement step - http://www.assemblee-nationale.fr/13/ta-commission/r4388-a0.asp
+     * downloading amendments: https://nosdeputes.fr/13/amendements/4362/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/propositions/pion4362.asp
+  parsing amendments: 0
+    * downloading interventions
+         * downloading seances -  https://2007-2012.nosdeputes.fr/seances/4362/json?commission=1
+     * amendement step - http://www.assemblee-nationale.fr/13/ta/ta0864.asp
+     * downloading amendments: https://nosdeputes.fr/13/amendements/4388/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/ta-commission/r4388-a0.asp
+  parsing amendments: 13
+    * downloading interventions
+         * downloading seances -  https://2007-2012.nosdeputes.fr/seances/4388/json?hemicycle=1
+             * downloading seance -  https://2007-2012.nosdeputes.fr/seance/6076/4388/json
+                 * dumping seance - 2012-02-22T21:30_6076
+     * amendement step - https://www.senat.fr/leg/ppl11-428.html
+     * amendement step - https://www.senat.fr/rap/l11-438/l11-438.html
+     * downloading amendments: https://nossenateurs.fr/amendements/20112012-428/json?cache=5feb2018 for https://www.senat.fr/leg/ppl11-428.html
+  parsing amendments: 2
+WARNING: amendments ignored (not the right step) 1
+    * downloading interventions
+         * downloading seances -  https://www.nossenateurs.fr/seances/20112012-428/json?commission=1
+     * amendement step - https://www.senat.fr/leg/tas11-101.html
+     * downloading amendments: https://nossenateurs.fr/amendements/20112012-428/json?cache=5feb2018 for https://www.senat.fr/leg/ppl11-428.html
+  parsing amendments: 2
+WARNING: amendments ignored (not the right step) 1
+    * downloading interventions
+         * downloading seances -  https://www.nossenateurs.fr/seances/20112012-428/json?hemicycle=1
+             * downloading seance -  https://www.nossenateurs.fr/seance/7785/20112012-428/json
+                 * dumping seance - 2012-02-29T14:30_7785
+             * downloading seance -  https://www.nossenateurs.fr/seance/7786/20112012-428/json
+                 * dumping seance - 2012-02-29T21:30_7786
+     * amendement step - http://www.assemblee-nationale.fr/13/propositions/pion4425.asp
+     * amendement step - http://www.assemblee-nationale.fr/13/ta/ta0874.asp
+[step_logic] l. définitive / hemicycle: fetching last AN hemi or last CMP commission
+     * downloading amendments: https://nosdeputes.fr/13/amendements/4425/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/propositions/pion4425.asp
+  parsing amendments: 0
+    * downloading interventions
+         * downloading seances -  https://2007-2012.nosdeputes.fr/seances/4425/json?hemicycle=1
+             * downloading seance -  https://2007-2012.nosdeputes.fr/seance/6105/4425/json
+                 * dumping seance - 2012-02-29T21:45_6105
+     * amendement step - http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2012/2012-650-dc/decision-n-2012-650-dc-du-15-mars-2012.105010.html
+     * amendement step - https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000025540947&categorieLien=id
+ - re-order interventions and correct procedure dates
+ - prepare interventions.json
+  FINISHED - the-law-factory-parser-test-cases/ppl11-290

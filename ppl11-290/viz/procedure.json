@@ -110,7 +110,6 @@
       "date": "2012-02-15",
       "debats_order": null,
       "directory": "07_nouv.lect._assemblee_depot",
-      "echec": "rejet",
       "enddate": "2012-02-15",
       "institution": "assemblee",
       "source_url": "http://www.assemblee-nationale.fr/13/propositions/pion4362.asp",
@@ -124,7 +123,7 @@
       "echec": null,
       "enddate": "2012-02-21",
       "institution": "assemblee",
-      "nb_amendements": 40,
+      "nb_amendements": 0,
       "source_url": "http://www.assemblee-nationale.fr/13/ta-commission/r4388-a0.asp",
       "stage": "nouv. lect.",
       "step": "commission"
