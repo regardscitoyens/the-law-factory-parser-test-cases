@@ -5,16 +5,16 @@
   [] parse AN version
         title: projet de loi de modernisation de l'agriculture et de la pêche
 0 anomalies ( 1 doslegs)
-downloading the-law-factory-parser-test-cases/2007-2012.nosdeputes-groupes.json
-downloading the-law-factory-parser-test-cases/2007-2012.nosdeputes.parlementaires.json
-downloading the-law-factory-parser-test-cases/2012-2017.nosdeputes-groupes.json
-downloading the-law-factory-parser-test-cases/2012-2017.nosdeputes.parlementaires.json
-downloading the-law-factory-parser-test-cases/2017-2022.nosdeputes-groupes.json
-downloading the-law-factory-parser-test-cases/2017-2022.nosdeputes.parlementaires.json
-downloading the-law-factory-parser-test-cases/www.nosdeputes-groupes.json
-downloading the-law-factory-parser-test-cases/www.nosdeputes.parlementaires.json
-downloading the-law-factory-parser-test-cases/www.nossenateurs-groupes.json
-downloading the-law-factory-parser-test-cases/www.nossenateurs.parlementaires.json
+downloading 2007-2012.nosdeputes-groupes.json
+downloading 2007-2012.nosdeputes.parlementaires.json
+downloading 2012-2017.nosdeputes-groupes.json
+downloading 2012-2017.nosdeputes.parlementaires.json
+downloading 2017-2022.nosdeputes-groupes.json
+downloading 2017-2022.nosdeputes.parlementaires.json
+downloading www.nosdeputes-groupes.json
+downloading www.nosdeputes.parlementaires.json
+downloading www.nossenateurs-groupes.json
+downloading www.nossenateurs.parlementaires.json
   [] parse the texts
 ** parsing texts of pjl09-200
     ^ text:  https://www.senat.fr/leg/pjl09-200.html
