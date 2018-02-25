@@ -5,6 +5,16 @@
   [] parse AN version
         title: projet de loi de modernisation de l'agriculture et de la pêche
 0 anomalies ( 1 doslegs)
+downloading the-law-factory-parser-test-cases/2007-2012.nosdeputes-groupes.json
+downloading the-law-factory-parser-test-cases/2007-2012.nosdeputes.parlementaires.json
+downloading the-law-factory-parser-test-cases/2012-2017.nosdeputes-groupes.json
+downloading the-law-factory-parser-test-cases/2012-2017.nosdeputes.parlementaires.json
+downloading the-law-factory-parser-test-cases/2017-2022.nosdeputes-groupes.json
+downloading the-law-factory-parser-test-cases/2017-2022.nosdeputes.parlementaires.json
+downloading the-law-factory-parser-test-cases/www.nosdeputes-groupes.json
+downloading the-law-factory-parser-test-cases/www.nosdeputes.parlementaires.json
+downloading the-law-factory-parser-test-cases/www.nossenateurs-groupes.json
+downloading the-law-factory-parser-test-cases/www.nossenateurs.parlementaires.json
   [] parse the texts
 ** parsing texts of pjl09-200
     ^ text:  https://www.senat.fr/leg/pjl09-200.html
@@ -28,52 +38,21 @@
     ^ complete text:  https://www.senat.fr/rap/l09-654/l09-6542.html
     ^ complete text:  http://www.assemblee-nationale.fr/13/ta/ta0522.asp
     ^ complete text:  https://www.senat.fr/leg/tas09-156.html
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 1er <-> 1er 12372 diffchars, similarity; 0.56
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 1er ter A <-> 4 1257 diffchars, similarity; 0.38
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 1er ter C <-> 6 197 diffchars, similarity; 0.00
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 1er ter D <-> 7 1810 diffchars, similarity; 0.67
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 1er ter <-> 8 1093 diffchars, similarity; 0.71
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 1er quater <-> 9 5549 diffchars, similarity; 0.58
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 1er quinquies <-> 10 255 diffchars, similarity; 0.00
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 2 <-> 11 2953 diffchars, similarity; 0.33
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 3 <-> 12 7091 diffchars, similarity; 0.53
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 5 <-> 14 900 diffchars, similarity; 0.57
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 5 bis <-> 15 4587 diffchars, similarity; 0.71
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 6 <-> 19 3512 diffchars, similarity; 0.57
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 7 <-> 20 14656 diffchars, similarity; 0.14
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 7 bis A <-> 21 383 diffchars, similarity; 0.50
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 7 bis B <-> 22 193 diffchars, similarity; 0.00
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 8 <-> 25 1811 diffchars, similarity; 0.44
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 9 <-> 26 9165 diffchars, similarity; 0.54
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 10 bis <-> 28 782 diffchars, similarity; 0.67
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 11 ter <-> 33 657 diffchars, similarity; 0.67
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 11 quater <-> 34 847 diffchars, similarity; 0.50
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 11 quinquies <-> 36 792 diffchars, similarity; 0.50
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 11 sexies B <-> 37 1094 diffchars, similarity; 0.33
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 11 octies <-> 41 293 diffchars, similarity; 0.50
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 11 terdecies <-> 46 307 diffchars, similarity; 0.50
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 11 quaterdecies B <-> 47 230 diffchars, similarity; 0.33
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 12 D <-> 50 2653 diffchars, similarity; 0.67
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 12 <-> 51 10847 diffchars, similarity; 0.17
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 12 bis AA <-> 52 342 diffchars, similarity; 0.00
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 12 bis A <-> 53 405 diffchars, similarity; 0.50
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 14 <-> 59 4851 diffchars, similarity; 0.60
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 14 bis AA <-> 60 386 diffchars, similarity; 0.50
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 15 <-> 64 12263 diffchars, similarity; 0.11
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 15 bis A <-> 65 2721 diffchars, similarity; 0.72
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 16 <-> 67 1413 diffchars, similarity; 0.71
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 16 bis <-> 68 9614 diffchars, similarity; 0.29
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 17 bis <-> 70 4457 diffchars, similarity; 0.73
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 17 octies A <-> 73 2914 diffchars, similarity; 0.61
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 17 octies B <-> 74 316 diffchars, similarity; 0.67
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 18 bis <-> 83 1553 diffchars, similarity; 0.67
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 20 <-> 87 5888 diffchars, similarity; 0.48
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 21 <-> 88 10468 diffchars, similarity; 0.63
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 23 <-> 90 2952 diffchars, similarity; 0.70
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 23 bis <-> 92 3412 diffchars, similarity; 0.71
+WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 1er ter A <-> 4 1264 chars, similarity; 0.54
+WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 17 <-> 69 3330 chars, similarity; 0.60
+WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 17 octies B <-> 74 318 chars, similarity; 0.70
     ^ complete text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000022521587&categorieLien=id
   [] format data for the frontend
      writing to: the-law-factory-parser-test-cases/pjl09-200_tmp
+ - process article versions
+      * preparing articles for step 00_1erelecture_senat_depot
+      * preparing articles for step 01_1erelecture_senat_commission
+      * preparing articles for step 02_1erelecture_senat_hemicycle
+      * preparing articles for step 04_1erelecture_assemblee_commission
+      * preparing articles for step 05_1erelecture_assemblee_hemicycle
+      * preparing articles for step 06_cmp_cmp_commission
+      * preparing articles for step 07_cmp_assemblee_hemicycle
+      * preparing articles for step 08_cmp_senat_hemicycle
  - process amendements & interventions
     * step - 1ère lecture depot https://www.senat.fr/leg/pjl09-200.html
     * step - 1ère lecture commission https://www.senat.fr/leg/pjl09-437.html
@@ -104,14 +83,6 @@ WARNING: no groupe found for http://www.nossenateurs.fr/amendement/20092010-437/
 WARNING: no groupe found for http://www.nossenateurs.fr/amendement/20092010-437/645
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20092010-437/json?hemicycle=1
-           downloading seance -  https://www.nossenateurs.fr/seance/417/20092010-437/json
-            dumping seance - 2010-05-29T09:30_417
-           downloading seance -  https://www.nossenateurs.fr/seance/418/20092010-437/json
-            dumping seance - 2010-05-29T15:00_418
-           downloading seance -  https://www.nossenateurs.fr/seance/645/20092010-437/json
-            dumping seance - 2010-05-26T14:30_645
-           downloading seance -  https://www.nossenateurs.fr/seance/707/20092010-437/json
-            dumping seance - 2010-05-19T21:30_707
            downloading seance -  https://www.nossenateurs.fr/seance/1129/20092010-437/json
             dumping seance - 2010-05-28T09:30_1129
            downloading seance -  https://www.nossenateurs.fr/seance/1184/20092010-437/json
@@ -122,6 +93,14 @@ WARNING: no groupe found for http://www.nossenateurs.fr/amendement/20092010-437/
             dumping seance - 2010-05-18T15:00_1771
            downloading seance -  https://www.nossenateurs.fr/seance/1772/20092010-437/json
             dumping seance - 2010-05-18T22:10_1772
+           downloading seance -  https://www.nossenateurs.fr/seance/417/20092010-437/json
+            dumping seance - 2010-05-29T09:30_417
+           downloading seance -  https://www.nossenateurs.fr/seance/418/20092010-437/json
+            dumping seance - 2010-05-29T15:00_418
+           downloading seance -  https://www.nossenateurs.fr/seance/645/20092010-437/json
+            dumping seance - 2010-05-26T14:30_645
+           downloading seance -  https://www.nossenateurs.fr/seance/707/20092010-437/json
+            dumping seance - 2010-05-19T21:30_707
     * step - 1ère lecture depot http://www.assemblee-nationale.fr/13/projets/pl2559.asp
     * step - 1ère lecture commission http://www.assemblee-nationale.fr/13/ta-commission/r2636-a0.asp
       * downloading amendments: https://nosdeputes.fr/13/amendements/2559/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/projets/pl2559.asp
@@ -132,14 +111,14 @@ WARNING: no groupe found for http://www.nossenateurs.fr/amendement/20092010-437/
             dumping seance - 2010-06-02T09:30_3688
            downloading seance -  https://2007-2012.nosdeputes.fr/seance/3704/2559/json
             dumping seance - 2010-06-02T16:00_3704
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/3741/2559/json
-            dumping seance - 2010-06-02T21:00_3741
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/3730/2559/json
-            dumping seance - 2010-06-08T17:00_3730
            downloading seance -  https://2007-2012.nosdeputes.fr/seance/3723/2559/json
             dumping seance - 2010-06-09T09:30_3723
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/3730/2559/json
+            dumping seance - 2010-06-08T17:00_3730
            downloading seance -  https://2007-2012.nosdeputes.fr/seance/3737/2559/json
             dumping seance - 2010-06-10T10:00_3737
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/3741/2559/json
+            dumping seance - 2010-06-02T21:00_3741
            downloading seance -  https://2007-2012.nosdeputes.fr/seance/3757/2559/json
             dumping seance - 2010-06-16T10:00_3757
            downloading seance -  https://2007-2012.nosdeputes.fr/seance/3769/2559/json
@@ -161,20 +140,20 @@ WARNING: no groupe found for http://www.nossenateurs.fr/amendement/20092010-437/
             dumping seance - 2010-06-30T15:00_3822
            downloading seance -  https://2007-2012.nosdeputes.fr/seance/3836/2636/json
             dumping seance - 2010-06-30T21:30_3836
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/4001/2636/json
-            dumping seance - 2010-07-01T21:30_4001
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/4006/2636/json
-            dumping seance - 2010-07-01T15:00_4006
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/3999/2636/json
-            dumping seance - 2010-07-01T09:30_3999
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/4002/2636/json
-            dumping seance - 2010-07-02T15:30_4002
            downloading seance -  https://2007-2012.nosdeputes.fr/seance/3995/2636/json
             dumping seance - 2010-07-02T09:30_3995
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/3998/2636/json
-            dumping seance - 2010-07-02T21:30_3998
            downloading seance -  https://2007-2012.nosdeputes.fr/seance/3997/2636/json
             dumping seance - 2010-07-06T15:00_3997
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/3998/2636/json
+            dumping seance - 2010-07-02T21:30_3998
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/3999/2636/json
+            dumping seance - 2010-07-01T09:30_3999
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/4001/2636/json
+            dumping seance - 2010-07-01T21:30_4001
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/4002/2636/json
+            dumping seance - 2010-07-02T15:30_4002
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/4006/2636/json
+            dumping seance - 2010-07-01T15:00_4006
     * step - CMP commission https://www.senat.fr/rap/l09-654/l09-6542.html
     * step - CMP hemicycle http://www.assemblee-nationale.fr/13/ta/ta0522.asp
       * downloading amendments: https://nosdeputes.fr/13/amendements/2723/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/rapports/r2723.asp
@@ -192,8 +171,9 @@ WARNING: no groupe found for http://www.nossenateurs.fr/amendement/20092010-437/
             dumping seance - 2010-07-13T14:30_1657
     * step - promulgation None https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000022521587&categorieLien=id
  - re-order interventions and correct procedure dates
-INFO: change beginning date of 2 thanks to 2010-05-26T14:30_645
-INFO: change beginning date of 2 thanks to 2010-05-19T21:30_707
+INFO: change beginning date of 2 thanks to 2010-05-28T09:30_1129
+INFO: change beginning date of 2 thanks to 2010-05-25T14:30_1184
+INFO: change beginning date of 2 thanks to 2010-05-20T15:00_1453
 INFO: change beginning date of 2 thanks to 2010-05-18T15:00_1771
 INFO: change beginning date of 4 thanks to 2010-06-02T09:30_3688
 INFO: change beginning date of 5 thanks to 2010-06-29T15:00_3815

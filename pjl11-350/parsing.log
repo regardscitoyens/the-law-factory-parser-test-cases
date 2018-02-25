@@ -23,6 +23,12 @@
     ^ complete text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027219331&categorieLien=id
   [] format data for the frontend
      writing to: the-law-factory-parser-test-cases/pjl11-350_tmp
+ - process article versions
+      * preparing articles for step 00_1erelecture_assemblee_depot
+      * preparing articles for step 01_1erelecture_assemblee_commission
+      * preparing articles for step 02_1erelecture_assemblee_hemicycle
+      * preparing articles for step 04_1erelecture_senat_commission
+      * preparing articles for step 05_1erelecture_senat_hemicycle
  - process amendements & interventions
     * step - 1ère lecture depot http://www.assemblee-nationale.fr/13/projets/pl3709.asp
     * step - 1ère lecture commission http://www.assemblee-nationale.fr/13/rapports/r4175.asp
