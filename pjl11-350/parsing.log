@@ -22,7 +22,7 @@
     ^ complete text:  https://www.senat.fr/leg/tas12-113.html
     ^ complete text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027219331&categorieLien=id
   [] format data for the frontend
-     writing to: the-law-factory-parser-test-cases/pjl11-350_tmp
+     writing to: pjl11-350_tmp
  - process article versions
       * preparing articles for step 00_1erelecture_assemblee_depot
       * preparing articles for step 01_1erelecture_assemblee_commission
@@ -59,4 +59,4 @@
     * step - promulgation None https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027219331&categorieLien=id
  - re-order interventions and correct procedure dates
  - prepare interventions.json
-  FINISHED - the-law-factory-parser-test-cases/pjl11-350
+  FINISHED - pjl11-350

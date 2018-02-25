@@ -41,7 +41,7 @@ downloading www.nossenateurs.parlementaires.json
 WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 17 octies B <-> 74 318 chars, similarity; 0.70
     ^ complete text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000022521587&categorieLien=id
   [] format data for the frontend
-     writing to: the-law-factory-parser-test-cases/pjl09-200_tmp
+     writing to: pjl09-200_tmp
  - process article versions
       * preparing articles for step 00_1erelecture_senat_depot
       * preparing articles for step 01_1erelecture_senat_commission
@@ -177,4 +177,4 @@ INFO: change beginning date of 4 thanks to 2010-06-02T09:30_3688
 INFO: change beginning date of 5 thanks to 2010-06-29T15:00_3815
 INFO: change beginning date of 7 thanks to 2010-07-12T21:30_4011
  - prepare interventions.json
-  FINISHED - the-law-factory-parser-test-cases/pjl09-200
+  FINISHED - pjl09-200
