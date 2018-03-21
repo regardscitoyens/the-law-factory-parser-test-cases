@@ -1,0 +1,3238 @@
+{
+  "api_root_url": "https://2012-2017.nosdeputes.fr/api/document/Amendement/",
+  "groupes": {
+    "ECOLO": {
+      "color": "rgb(0,230,30)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/ECOLO",
+      "nom": "Écologiste",
+      "order": 13
+    },
+    "GDR": {
+      "color": "rgb(255,30,30)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/GDR",
+      "nom": "Gauche démocrate et républicaine",
+      "order": 10
+    },
+    "Gouvernement": {
+      "color": "#cccbb3",
+      "link": "",
+      "nom": "Gouvernement",
+      "order": 60
+    },
+    "NI": {
+      "color": "rgb(165,165,165)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/NI",
+      "nom": "Députés non inscrits",
+      "order": 19
+    },
+    "RRDP": {
+      "color": "rgb(250,195,132)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/RRDP",
+      "nom": "Radical, républicain, démocrate et progressiste",
+      "order": 14
+    },
+    "SRC": {
+      "color": "rgb(255,50,190)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/SRC",
+      "nom": "Socialiste, républicain et citoyen",
+      "order": 11
+    },
+    "UDI": {
+      "color": "rgb(30,180,255)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/UDI",
+      "nom": "Union des démocrates et indépendants",
+      "order": 15
+    },
+    "UMP": {
+      "color": "rgb(30,30,200)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/UMP",
+      "nom": "Union pour un mouvement populaire",
+      "order": 16
+    }
+  },
+  "id_step": "02_1erelecture_assemblee_hemicycle",
+  "sujets": {
+    "Après l'article 1er": {
+      "amendements": [
+        {
+          "aut": "M. Luca, …",
+          "date": "2013-06-13",
+          "groupe": "UMP",
+          "id_api": "165664",
+          "numero": "140",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Luca, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26043",
+          "numero": "142",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Siré, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26102",
+          "numero": "203",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Siré",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26109",
+          "numero": "204",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26032",
+          "numero": "216",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme de La Raudière, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26051",
+          "numero": "222",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Wauquiez",
+          "date": "2013-06-13",
+          "groupe": "UMP",
+          "id_api": "162764",
+          "numero": "264",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Wauquiez",
+          "date": "2013-06-13",
+          "groupe": "UMP",
+          "id_api": "160155",
+          "numero": "275",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Abad, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26028",
+          "numero": "276",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Abad, …",
+          "date": "2013-06-17",
+          "groupe": "UMP",
+          "id_api": "26540",
+          "numero": "281",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Abad, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26037",
+          "numero": "283",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26066",
+          "numero": "375",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "161092",
+          "numero": "376",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 11,
+      "titre": "Après l'article 1er"
+    },
+    "Après l'article 2": {
+      "amendements": [
+        {
+          "aut": "M. Tardy",
+          "date": "2013-06-12",
+          "groupe": "UMP",
+          "id_api": "25813",
+          "numero": "10",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Thévenoud, …",
+          "date": "2013-06-14",
+          "groupe": "SRC",
+          "id_api": "26111",
+          "numero": "293",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Thévenoud, …",
+          "date": "2013-06-14",
+          "groupe": "SRC",
+          "id_api": "26163",
+          "numero": "295",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-13",
+          "groupe": "UMP",
+          "id_api": "161095",
+          "numero": "341",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26114",
+          "numero": "369",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26107",
+          "numero": "370",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 21,
+      "titre": "Après l'article 2"
+    },
+    "Après l'article 2 bis": {
+      "amendements": [
+        {
+          "aut": "M. Poisson",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26284",
+          "numero": "37",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Abad",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26285",
+          "numero": "287",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26286",
+          "numero": "298",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-13",
+          "groupe": "UMP",
+          "id_api": "162767",
+          "numero": "340",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 31,
+      "titre": "Après l'article 2 bis"
+    },
+    "Après l'article 2 ter": {
+      "amendements": [
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-06-14",
+          "groupe": "ECOLO",
+          "id_api": "26127",
+          "numero": "35",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-06-14",
+          "groupe": "ECOLO",
+          "id_api": "26162",
+          "numero": "36",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-06-14",
+          "groupe": "ECOLO",
+          "id_api": "26173",
+          "numero": "342",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 41,
+      "titre": "Après l'article 2 ter"
+    },
+    "Après l'article 3": {
+      "amendements": [
+        {
+          "aut": "M. Luca, …",
+          "date": "2013-06-13",
+          "groupe": "UMP",
+          "id_api": "161097",
+          "numero": "141",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Bechtel, …",
+          "date": "2013-06-14",
+          "groupe": "SRC",
+          "id_api": "26158",
+          "numero": "205",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 61,
+      "titre": "Après l'article 3"
+    },
+    "Après l'article 4": {
+      "amendements": [
+        {
+          "aut": "M. Dosière, …",
+          "date": "2013-06-14",
+          "groupe": "SRC",
+          "id_api": "26563",
+          "numero": "50",
+          "sort": "adopté"
+        }
+      ],
+      "order": 71,
+      "titre": "Après l'article 4"
+    },
+    "Après l'article 4 bis": {
+      "amendements": [
+        {
+          "aut": "M. Abad, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26166",
+          "numero": "277",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 81,
+      "titre": "Après l'article 4 bis"
+    },
+    "Après l'article 7": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-14",
+          "groupe": "SRC",
+          "id_api": "26151",
+          "numero": "65",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-14",
+          "groupe": "SRC",
+          "id_api": "26155",
+          "numero": "67",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-14",
+          "groupe": "SRC",
+          "id_api": "26146",
+          "numero": "68",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Abad",
+          "date": "2013-06-13",
+          "groupe": "UMP",
+          "id_api": "160156",
+          "numero": "343",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 111,
+      "titre": "Après l'article 7"
+    },
+    "Article 1er": {
+      "amendements": [
+        {
+          "aut": "M. Tardy, …",
+          "date": "2013-06-12",
+          "groupe": "UMP",
+          "id_api": "25804",
+          "numero": "1",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2013-06-12",
+          "groupe": "UMP",
+          "id_api": "25800",
+          "numero": "2",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2013-06-12",
+          "groupe": "UMP",
+          "id_api": "25801",
+          "numero": "3",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2013-06-12",
+          "groupe": "UMP",
+          "id_api": "25802",
+          "numero": "7",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2013-06-12",
+          "groupe": "UMP",
+          "id_api": "25803",
+          "numero": "8",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Clément",
+          "date": "2013-06-13",
+          "groupe": "SRC",
+          "id_api": "25844",
+          "numero": "13",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Clément",
+          "date": "2013-06-12",
+          "groupe": "SRC",
+          "id_api": "165661",
+          "numero": "14",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Le Callennec",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25916",
+          "numero": "15",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Le Callennec",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25927",
+          "numero": "16",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Poisson",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25889",
+          "numero": "17",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Poisson",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26171",
+          "numero": "18",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Poisson",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25981",
+          "numero": "19",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-06-14",
+          "groupe": "ECOLO",
+          "id_api": "25883",
+          "numero": "21",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-06-14",
+          "groupe": "ECOLO",
+          "id_api": "25950",
+          "numero": "22",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Olivier Marleix",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25863",
+          "numero": "23",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-06-14",
+          "groupe": "ECOLO",
+          "id_api": "25945",
+          "numero": "24",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Olivier Marleix",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26161",
+          "numero": "25",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Olivier Marleix",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25988",
+          "numero": "26",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Morel-A-L'Huissier",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25861",
+          "numero": "38",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Lazaro, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25920",
+          "numero": "39",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Meunier",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25855",
+          "numero": "40",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Morel-A-L'Huissier",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25907",
+          "numero": "41",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Morel-A-L'Huissier",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26040",
+          "numero": "42",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tourret, …",
+          "date": "2013-06-14",
+          "groupe": "RRDP",
+          "id_api": "25982",
+          "numero": "44",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Olivier Faure, …",
+          "date": "2013-06-14",
+          "groupe": "SRC",
+          "id_api": "26152",
+          "numero": "51",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-14",
+          "groupe": "SRC",
+          "id_api": "25998",
+          "numero": "55",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-14",
+          "groupe": "SRC",
+          "id_api": "26018",
+          "numero": "56",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-14",
+          "groupe": "SRC",
+          "id_api": "26017",
+          "numero": "57",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-14",
+          "groupe": "SRC",
+          "id_api": "25999",
+          "numero": "58",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-14",
+          "groupe": "SRC",
+          "id_api": "26553",
+          "numero": "59",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-14",
+          "groupe": "SRC",
+          "id_api": "25923",
+          "numero": "60",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-14",
+          "groupe": "SRC",
+          "id_api": "25918",
+          "numero": "61",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-14",
+          "groupe": "SRC",
+          "id_api": "25895",
+          "numero": "62",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-14",
+          "groupe": "SRC",
+          "id_api": "25901",
+          "numero": "63",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-14",
+          "groupe": "SRC",
+          "id_api": "25860",
+          "numero": "64",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25857",
+          "numero": "69",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25848",
+          "numero": "70",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25850",
+          "numero": "71",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25859",
+          "numero": "72",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25866",
+          "numero": "73",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25871",
+          "numero": "74",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25892",
+          "numero": "75",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25870",
+          "numero": "76",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26055",
+          "numero": "77",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26053",
+          "numero": "78",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25874",
+          "numero": "79",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25869",
+          "numero": "80",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26059",
+          "numero": "81",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25906",
+          "numero": "82",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25898",
+          "numero": "83",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25915",
+          "numero": "84",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25937",
+          "numero": "85",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25921",
+          "numero": "86",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25933",
+          "numero": "87",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25947",
+          "numero": "88",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25958",
+          "numero": "89",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25967",
+          "numero": "90",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26170",
+          "numero": "91",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26009",
+          "numero": "92",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26034",
+          "numero": "93",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26047",
+          "numero": "94",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-13",
+          "groupe": "UMP",
+          "id_api": "165663",
+          "numero": "109",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-13",
+          "groupe": "UMP",
+          "id_api": "161093",
+          "numero": "110",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-13",
+          "groupe": "UMP",
+          "id_api": "165658",
+          "numero": "111",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25856",
+          "numero": "113",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25884",
+          "numero": "115",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25868",
+          "numero": "116",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25849",
+          "numero": "117",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25852",
+          "numero": "118",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25875",
+          "numero": "119",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25887",
+          "numero": "120",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25873",
+          "numero": "121",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25872",
+          "numero": "122",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25881",
+          "numero": "123",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25890",
+          "numero": "124",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25880",
+          "numero": "125",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25877",
+          "numero": "126",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25888",
+          "numero": "127",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25897",
+          "numero": "128",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25912",
+          "numero": "129",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25905",
+          "numero": "130",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25882",
+          "numero": "131",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25911",
+          "numero": "132",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25867",
+          "numero": "133",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26064",
+          "numero": "134",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25893",
+          "numero": "135",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25909",
+          "numero": "136",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26058",
+          "numero": "137",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25925",
+          "numero": "138",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25919",
+          "numero": "139",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25935",
+          "numero": "143",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25896",
+          "numero": "144",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25940",
+          "numero": "145",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25943",
+          "numero": "146",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25904",
+          "numero": "147",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25942",
+          "numero": "148",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25971",
+          "numero": "149",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25894",
+          "numero": "150",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26160",
+          "numero": "151",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26025",
+          "numero": "152",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25941",
+          "numero": "153",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26041",
+          "numero": "154",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26031",
+          "numero": "155",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25917",
+          "numero": "156",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25928",
+          "numero": "162",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25934",
+          "numero": "167",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25949",
+          "numero": "173",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25953",
+          "numero": "174",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26054",
+          "numero": "175",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26169",
+          "numero": "176",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26014",
+          "numero": "177",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26046",
+          "numero": "178",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26039",
+          "numero": "179",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Guy Geoffroy, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25908",
+          "numero": "194",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Guy Geoffroy, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26167",
+          "numero": "195",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Guy Geoffroy, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25984",
+          "numero": "196",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25959",
+          "numero": "198",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Dolez, …",
+          "date": "2013-06-14",
+          "groupe": "GDR",
+          "id_api": "25992",
+          "numero": "201",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Le Ray, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25944",
+          "numero": "209",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Le Ray, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26174",
+          "numero": "210",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Le Ray, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26038",
+          "numero": "211",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Le Ray, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26048",
+          "numero": "212",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25973",
+          "numero": "213",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26159",
+          "numero": "214",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25858",
+          "numero": "215",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Le Callennec, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25891",
+          "numero": "217",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Le Callennec, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25899",
+          "numero": "218",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Le Callennec, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25994",
+          "numero": "219",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme de La Raudière, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25962",
+          "numero": "223",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25972",
+          "numero": "224",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25913",
+          "numero": "225",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Wauquiez",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26156",
+          "numero": "228",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25932",
+          "numero": "229",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Aubert, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25847",
+          "numero": "230",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Aubert, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25938",
+          "numero": "231",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Aubert, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25968",
+          "numero": "232",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25926",
+          "numero": "236",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Wauquiez",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26056",
+          "numero": "241",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Wauquiez",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25939",
+          "numero": "242",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Wauquiez",
+          "date": "2013-06-13",
+          "groupe": "UMP",
+          "id_api": "162766",
+          "numero": "243",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Wauquiez",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25954",
+          "numero": "244",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Gérard",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25986",
+          "numero": "245",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Gérard",
+          "date": "2013-06-13",
+          "groupe": "UMP",
+          "id_api": "160159",
+          "numero": "246",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Morin, …",
+          "date": "2013-06-14",
+          "groupe": "UDI",
+          "id_api": "25996",
+          "numero": "249",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Huet, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25902",
+          "numero": "251",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Huet, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25965",
+          "numero": "252",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Huet, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25970",
+          "numero": "253",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Huet, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26012",
+          "numero": "254",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Huet, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25924",
+          "numero": "255",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Huet, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25931",
+          "numero": "256",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Huet, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25951",
+          "numero": "257",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Wauquiez",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25960",
+          "numero": "258",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Wauquiez",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25864",
+          "numero": "260",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Wauquiez",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25879",
+          "numero": "261",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Wauquiez",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25910",
+          "numero": "262",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Wauquiez",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25914",
+          "numero": "263",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Huyghe, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25979",
+          "numero": "265",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Jean-Christophe Lagarde, …",
+          "date": "2013-06-14",
+          "groupe": "UDI",
+          "id_api": "26035",
+          "numero": "266",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Morin, …",
+          "date": "2013-06-14",
+          "groupe": "UDI",
+          "id_api": "26002",
+          "numero": "267",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Jean-Christophe Lagarde, …",
+          "date": "2013-06-14",
+          "groupe": "UDI",
+          "id_api": "26006",
+          "numero": "270",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Jean-Christophe Lagarde, …",
+          "date": "2013-06-14",
+          "groupe": "UDI",
+          "id_api": "26021",
+          "numero": "271",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Jean-Christophe Lagarde, …",
+          "date": "2013-06-14",
+          "groupe": "UDI",
+          "id_api": "26020",
+          "numero": "272",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Fromantin, …",
+          "date": "2013-06-14",
+          "groupe": "UDI",
+          "id_api": "25862",
+          "numero": "273",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Morin, …",
+          "date": "2013-06-14",
+          "groupe": "UDI",
+          "id_api": "25900",
+          "numero": "274",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Abad, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25957",
+          "numero": "279",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Abad, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25956",
+          "numero": "282",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Abad, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25976",
+          "numero": "284",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Abad, …",
+          "date": "2013-06-17",
+          "groupe": "UMP",
+          "id_api": "26503",
+          "numero": "285",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-06-14",
+          "groupe": "ECOLO",
+          "id_api": "25987",
+          "numero": "286",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-06-14",
+          "groupe": "ECOLO",
+          "id_api": "26052",
+          "numero": "288",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-06-14",
+          "groupe": "ECOLO",
+          "id_api": "26060",
+          "numero": "289",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Aubert, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25990",
+          "numero": "290",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Aubert, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26483",
+          "numero": "291",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Aubert, …",
+          "date": "2013-06-13",
+          "groupe": "UMP",
+          "id_api": "161094",
+          "numero": "294",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Fromantin",
+          "date": "2013-06-14",
+          "groupe": "UDI",
+          "id_api": "26482",
+          "numero": "296",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Darmanin, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25865",
+          "numero": "299",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26063",
+          "numero": "300",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25903",
+          "numero": "301",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25936",
+          "numero": "302",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-15",
+          "groupe": "UMP",
+          "id_api": "26182",
+          "numero": "303",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25963",
+          "numero": "304",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25964",
+          "numero": "305",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25946",
+          "numero": "306",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25969",
+          "numero": "307",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25983",
+          "numero": "308",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25978",
+          "numero": "309",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25974",
+          "numero": "310",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26015",
+          "numero": "311",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26022",
+          "numero": "312",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26001",
+          "numero": "313",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26019",
+          "numero": "314",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26000",
+          "numero": "315",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26024",
+          "numero": "316",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26004",
+          "numero": "317",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26008",
+          "numero": "318",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25977",
+          "numero": "319",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25993",
+          "numero": "320",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25995",
+          "numero": "321",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25989",
+          "numero": "322",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25991",
+          "numero": "323",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-17",
+          "groupe": "UMP",
+          "id_api": "26543",
+          "numero": "324",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26013",
+          "numero": "325",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26007",
+          "numero": "326",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26029",
+          "numero": "327",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26049",
+          "numero": "328",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26067",
+          "numero": "329",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26045",
+          "numero": "330",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26036",
+          "numero": "331",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26044",
+          "numero": "332",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26050",
+          "numero": "333",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26030",
+          "numero": "334",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26042",
+          "numero": "335",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26033",
+          "numero": "336",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26027",
+          "numero": "337",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25961",
+          "numero": "344",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26005",
+          "numero": "345",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26026",
+          "numero": "346",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26011",
+          "numero": "347",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26010",
+          "numero": "348",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25997",
+          "numero": "349",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26178",
+          "numero": "350",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26003",
+          "numero": "351",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25952",
+          "numero": "352",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-13",
+          "groupe": "UMP",
+          "id_api": "165662",
+          "numero": "353",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-13",
+          "groupe": "UMP",
+          "id_api": "162763",
+          "numero": "354",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-13",
+          "groupe": "UMP",
+          "id_api": "161096",
+          "numero": "355",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26062",
+          "numero": "356",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26023",
+          "numero": "357",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26481",
+          "numero": "358",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25985",
+          "numero": "359",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25929",
+          "numero": "360",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25948",
+          "numero": "361",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25930",
+          "numero": "362",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25922",
+          "numero": "363",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-17",
+          "groupe": "UMP",
+          "id_api": "26542",
+          "numero": "364",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25885",
+          "numero": "365",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25886",
+          "numero": "371",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Fromantin",
+          "date": "2013-06-14",
+          "groupe": "UDI",
+          "id_api": "25980",
+          "numero": "372",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Fromantin, …",
+          "date": "2013-06-14",
+          "groupe": "UDI",
+          "id_api": "25878",
+          "numero": "373",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2013-06-17",
+          "groupe": "UMP",
+          "id_api": "26504",
+          "numero": "377",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "",
+          "date": "2013-06-18",
+          "groupe": "Gouvernement",
+          "id_api": "26564",
+          "numero": "378",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Collard",
+          "date": "2013-06-18",
+          "groupe": "NI",
+          "id_api": "165665",
+          "numero": "379",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "",
+          "date": "2013-06-18",
+          "groupe": "Gouvernement",
+          "id_api": "26591",
+          "numero": "382",
+          "sort": "adopté"
+        }
+      ],
+      "order": 10,
+      "titre": "Article 1er"
+    },
+    "Article 2": {
+      "amendements": [
+        {
+          "aut": "M. Tardy, …",
+          "date": "2013-06-12",
+          "groupe": "UMP",
+          "id_api": "25812",
+          "numero": "4",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2013-06-12",
+          "groupe": "UMP",
+          "id_api": "25814",
+          "numero": "5",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2013-06-12",
+          "groupe": "UMP",
+          "id_api": "25810",
+          "numero": "6",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2013-06-12",
+          "groupe": "UMP",
+          "id_api": "25811",
+          "numero": "9",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Woerth, …",
+          "date": "2013-06-13",
+          "groupe": "UMP",
+          "id_api": "25846",
+          "numero": "11",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Woerth, …",
+          "date": "2013-06-13",
+          "groupe": "UMP",
+          "id_api": "25845",
+          "numero": "12",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Poisson",
+          "date": "2013-06-13",
+          "groupe": "UMP",
+          "id_api": "165660",
+          "numero": "20",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Olivier Marleix",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26087",
+          "numero": "27",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-06-14",
+          "groupe": "ECOLO",
+          "id_api": "26069",
+          "numero": "28",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-06-14",
+          "groupe": "ECOLO",
+          "id_api": "26070",
+          "numero": "29",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-06-14",
+          "groupe": "ECOLO",
+          "id_api": "26072",
+          "numero": "30",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-06-14",
+          "groupe": "ECOLO",
+          "id_api": "26074",
+          "numero": "31",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-06-14",
+          "groupe": "ECOLO",
+          "id_api": "26071",
+          "numero": "32",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-06-14",
+          "groupe": "ECOLO",
+          "id_api": "26097",
+          "numero": "33",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-06-14",
+          "groupe": "ECOLO",
+          "id_api": "26076",
+          "numero": "34",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Morel-A-L'Huissier",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26113",
+          "numero": "43",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tourret, …",
+          "date": "2013-06-14",
+          "groupe": "RRDP",
+          "id_api": "26081",
+          "numero": "45",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tourret, …",
+          "date": "2013-06-14",
+          "groupe": "RRDP",
+          "id_api": "26093",
+          "numero": "47",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Dubie, …",
+          "date": "2013-06-14",
+          "groupe": "RRDP",
+          "id_api": "26108",
+          "numero": "48",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Dosière, …",
+          "date": "2013-06-14",
+          "groupe": "SRC",
+          "id_api": "26090",
+          "numero": "49",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Chatel",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26096",
+          "numero": "52",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Chatel",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26103",
+          "numero": "53",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25851",
+          "numero": "95",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-13",
+          "groupe": "UMP",
+          "id_api": "161098",
+          "numero": "96",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26092",
+          "numero": "97",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26080",
+          "numero": "98",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-13",
+          "groupe": "UMP",
+          "id_api": "160158",
+          "numero": "112",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25854",
+          "numero": "157",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26098",
+          "numero": "158",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26101",
+          "numero": "159",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26095",
+          "numero": "160",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "25853",
+          "numero": "180",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26085",
+          "numero": "181",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26110",
+          "numero": "182",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26082",
+          "numero": "183",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Giraud, …",
+          "date": "2013-06-14",
+          "groupe": "RRDP",
+          "id_api": "26088",
+          "numero": "192",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Guy Geoffroy, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26077",
+          "numero": "197",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Giraud, …",
+          "date": "2013-06-14",
+          "groupe": "RRDP",
+          "id_api": "26086",
+          "numero": "200",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Giraud, …",
+          "date": "2013-06-14",
+          "groupe": "RRDP",
+          "id_api": "26164",
+          "numero": "202",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Le Callennec, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26078",
+          "numero": "220",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Le Callennec, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26106",
+          "numero": "221",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Gérard",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26075",
+          "numero": "226",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Gérard",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26112",
+          "numero": "227",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Aubert, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26100",
+          "numero": "233",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-14",
+          "groupe": "SRC",
+          "id_api": "26073",
+          "numero": "237",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-14",
+          "groupe": "SRC",
+          "id_api": "26522",
+          "numero": "238",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-14",
+          "groupe": "SRC",
+          "id_api": "26105",
+          "numero": "239",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-14",
+          "groupe": "SRC",
+          "id_api": "26079",
+          "numero": "240",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26099",
+          "numero": "247",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-06-14",
+          "groupe": "ECOLO",
+          "id_api": "26084",
+          "numero": "248",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26083",
+          "numero": "250",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Dosière",
+          "date": "2013-06-14",
+          "groupe": "SRC",
+          "id_api": "26091",
+          "numero": "259",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. de Courson, …",
+          "date": "2013-06-14",
+          "groupe": "UDI",
+          "id_api": "26068",
+          "numero": "268",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. de Courson, …",
+          "date": "2013-06-14",
+          "groupe": "UDI",
+          "id_api": "26089",
+          "numero": "269",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Le Ray, …",
+          "date": "2013-06-17",
+          "groupe": "UMP",
+          "id_api": "26520",
+          "numero": "292",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Gagnaire",
+          "date": "2013-06-14",
+          "groupe": "SRC",
+          "id_api": "26094",
+          "numero": "297",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26519",
+          "numero": "366",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-13",
+          "groupe": "UMP",
+          "id_api": "160157",
+          "numero": "367",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Decool, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26172",
+          "numero": "368",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-18",
+          "groupe": "SRC",
+          "id_api": "26589",
+          "numero": "381",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 20,
+      "titre": "Article 2"
+    },
+    "Article 2 bis": {
+      "amendements": [
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26120",
+          "numero": "99",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26118",
+          "numero": "161",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26126",
+          "numero": "184",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 30,
+      "titre": "Article 2 bis"
+    },
+    "Article 2 quater": {
+      "amendements": [
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26133",
+          "numero": "101",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26121",
+          "numero": "164",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26124",
+          "numero": "186",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Aubert, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26115",
+          "numero": "234",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 50,
+      "titre": "Article 2 quater"
+    },
+    "Article 2 ter": {
+      "amendements": [
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26130",
+          "numero": "100",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26119",
+          "numero": "163",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26123",
+          "numero": "185",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 40,
+      "titre": "Article 2 ter"
+    },
+    "Article 3": {
+      "amendements": [
+        {
+          "aut": "M. Dosière",
+          "date": "2013-06-14",
+          "groupe": "SRC",
+          "id_api": "26125",
+          "numero": "54",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26117",
+          "numero": "102",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26135",
+          "numero": "165",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26116",
+          "numero": "187",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26128",
+          "numero": "338",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Wauquiez",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26129",
+          "numero": "374",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Accoyer",
+          "date": "2013-06-18",
+          "groupe": "UMP",
+          "id_api": "26590",
+          "numero": "380",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 60,
+      "titre": "Article 3"
+    },
+    "Article 4": {
+      "amendements": [
+        {
+          "aut": "M. Schwartzenberg, …",
+          "date": "2013-06-15",
+          "groupe": "RRDP",
+          "id_api": "26181",
+          "numero": "46",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26131",
+          "numero": "103",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26134",
+          "numero": "166",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26122",
+          "numero": "188",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Aubert, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26176",
+          "numero": "235",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Abad, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26175",
+          "numero": "278",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Darmanin",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26132",
+          "numero": "339",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 70,
+      "titre": "Article 4"
+    },
+    "Article 4 bis": {
+      "amendements": [
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26141",
+          "numero": "104",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26142",
+          "numero": "168",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26136",
+          "numero": "189",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 80,
+      "titre": "Article 4 bis"
+    },
+    "Article 5": {
+      "amendements": [
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26137",
+          "numero": "105",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26144",
+          "numero": "169",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26143",
+          "numero": "190",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 90,
+      "titre": "Article 5"
+    },
+    "Article 6": {
+      "amendements": [
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26140",
+          "numero": "106",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26139",
+          "numero": "170",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26138",
+          "numero": "191",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Gomes, …",
+          "date": "2013-06-14",
+          "groupe": "UDI",
+          "id_api": "26148",
+          "numero": "207",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Gomes, …",
+          "date": "2013-06-14",
+          "groupe": "UDI",
+          "id_api": "26150",
+          "numero": "208",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 100,
+      "titre": "Article 6"
+    },
+    "Article 7": {
+      "amendements": [
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26153",
+          "numero": "107",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26149",
+          "numero": "171",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26157",
+          "numero": "193",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 110,
+      "titre": "Article 7"
+    },
+    "Article 8": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-14",
+          "groupe": "SRC",
+          "id_api": "26168",
+          "numero": "66",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Guy Geoffroy",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26145",
+          "numero": "108",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Lazaro",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26154",
+          "numero": "172",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Poisson, …",
+          "date": "2013-06-14",
+          "groupe": "UMP",
+          "id_api": "26147",
+          "numero": "199",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Gomes, …",
+          "date": "2013-06-14",
+          "groupe": "UDI",
+          "id_api": "26165",
+          "numero": "206",
+          "sort": "adopté"
+        }
+      ],
+      "order": 120,
+      "titre": "Article 8"
+    },
+    "Titre": {
+      "amendements": [
+        {
+          "aut": "M. Verchère",
+          "date": "2013-06-13",
+          "groupe": "UMP",
+          "id_api": "165659",
+          "numero": "114",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Abad, …",
+          "date": "2013-06-13",
+          "groupe": "UMP",
+          "id_api": "162765",
+          "numero": "280",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 0,
+      "titre": "Titre"
+    }
+  }
+}

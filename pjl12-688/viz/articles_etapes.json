@@ -1,0 +1,1509 @@
+{
+  "articles": {
+    "1er": {
+      "id": "1er",
+      "section": "A1er",
+      "steps": [
+        {
+          "diff": "add",
+          "directory": "00_1erelecture_assemblee_depot",
+          "id_step": "00_1erelecture_assemblee_depot",
+          "length": 7650,
+          "n_diff": 1,
+          "order": 1,
+          "status": "depot"
+        },
+        {
+          "diff": "rem",
+          "directory": "01_1erelecture_assemblee_commission",
+          "id_step": "01_1erelecture_assemblee_commission",
+          "length": 12794,
+          "n_diff": 0.4849929654525559,
+          "order": 1,
+          "status": "none"
+        },
+        {
+          "diff": "rem",
+          "directory": "02_1erelecture_assemblee_hemicycle",
+          "id_step": "02_1erelecture_assemblee_hemicycle",
+          "length": 14114,
+          "n_diff": 0.10011336261867654,
+          "order": 1,
+          "status": "none"
+        },
+        {
+          "diff": "add",
+          "directory": "04_1erelecture_senat_commission",
+          "id_step": "04_1erelecture_senat_commission",
+          "length": 12757,
+          "n_diff": 0.5997591044353124,
+          "order": 2,
+          "status": "none"
+        },
+        {
+          "diff": "rem",
+          "directory": "05_1erelecture_senat_hemicycle",
+          "id_step": "05_1erelecture_senat_hemicycle",
+          "length": 14114,
+          "n_diff": 0.6011052855320957,
+          "order": 1,
+          "status": "none"
+        },
+        {
+          "diff": "rem",
+          "directory": "07_1erelecture_senat_hemicycle",
+          "id_step": "07_1erelecture_senat_hemicycle",
+          "length": 50,
+          "n_diff": 0,
+          "order": 2,
+          "status": "sup"
+        },
+        {
+          "diff": "add",
+          "directory": "10_nouv.lect._assemblee_commission",
+          "id_step": "10_nouv.lect._assemblee_commission",
+          "length": 14363,
+          "n_diff": 1,
+          "order": 2,
+          "status": "new"
+        },
+        {
+          "diff": "rem",
+          "directory": "11_nouv.lect._assemblee_hemicycle",
+          "id_step": "11_nouv.lect._assemblee_hemicycle",
+          "length": 16150,
+          "n_diff": 0.12421052631578944,
+          "order": 1,
+          "status": "none"
+        },
+        {
+          "diff": "add",
+          "directory": "14_nouv.lect._senat_hemicycle",
+          "id_step": "14_nouv.lect._senat_hemicycle",
+          "length": 15573,
+          "n_diff": 0.09275541795665632,
+          "order": 2,
+          "status": "none"
+        },
+        {
+          "diff": "rem",
+          "directory": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "id_step": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "length": 16153,
+          "n_diff": 0.09156193895870735,
+          "order": 1,
+          "status": "none"
+        }
+      ],
+      "titre": "1er"
+    },
+    "1er_A": {
+      "id": "1er_A",
+      "section": "A1er A",
+      "steps": [
+        {
+          "diff": "add",
+          "directory": "04_1erelecture_senat_commission",
+          "id_step": "04_1erelecture_senat_commission",
+          "length": 158,
+          "n_diff": 1,
+          "order": 1,
+          "status": "new"
+        },
+        {
+          "diff": "rem",
+          "directory": "05_1erelecture_senat_hemicycle",
+          "id_step": "05_1erelecture_senat_hemicycle",
+          "length": 158,
+          "n_diff": 0,
+          "order": 1,
+          "status": "sup"
+        },
+        {
+          "diff": "add",
+          "directory": "07_1erelecture_senat_hemicycle",
+          "id_step": "07_1erelecture_senat_hemicycle",
+          "length": 493,
+          "n_diff": 1,
+          "order": 1,
+          "status": "new"
+        },
+        {
+          "diff": "rem",
+          "directory": "10_nouv.lect._assemblee_commission",
+          "id_step": "10_nouv.lect._assemblee_commission",
+          "length": 50,
+          "n_diff": 0,
+          "order": 1,
+          "status": "sup"
+        },
+        {
+          "diff": "add",
+          "directory": "14_nouv.lect._senat_hemicycle",
+          "id_step": "14_nouv.lect._senat_hemicycle",
+          "length": 493,
+          "n_diff": 1,
+          "order": 1,
+          "status": "new"
+        },
+        {
+          "diff": "rem",
+          "directory": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "id_step": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "length": 493,
+          "n_diff": 0,
+          "order": 1,
+          "status": "sup"
+        }
+      ],
+      "titre": "1er A"
+    },
+    "2": {
+      "id": "2",
+      "section": "A2",
+      "steps": [
+        {
+          "diff": "add",
+          "directory": "00_1erelecture_assemblee_depot",
+          "id_step": "00_1erelecture_assemblee_depot",
+          "length": 1447,
+          "n_diff": 1,
+          "order": 2,
+          "status": "depot"
+        },
+        {
+          "diff": "rem",
+          "directory": "01_1erelecture_assemblee_commission",
+          "id_step": "01_1erelecture_assemblee_commission",
+          "length": 2468,
+          "n_diff": 0.5648298217179903,
+          "order": 2,
+          "status": "none"
+        },
+        {
+          "diff": "rem",
+          "directory": "02_1erelecture_assemblee_hemicycle",
+          "id_step": "02_1erelecture_assemblee_hemicycle",
+          "length": 3302,
+          "n_diff": 0.35645063597819504,
+          "order": 2,
+          "status": "none"
+        },
+        {
+          "diff": "rem",
+          "directory": "04_1erelecture_senat_commission",
+          "id_step": "04_1erelecture_senat_commission",
+          "length": 5030,
+          "n_diff": 0.420079522862823,
+          "order": 3,
+          "status": "none"
+        },
+        {
+          "diff": "add",
+          "directory": "05_1erelecture_senat_hemicycle",
+          "id_step": "05_1erelecture_senat_hemicycle",
+          "length": 3302,
+          "n_diff": 0.42107355864811136,
+          "order": 2,
+          "status": "none"
+        },
+        {
+          "diff": "rem",
+          "directory": "07_1erelecture_senat_hemicycle",
+          "id_step": "07_1erelecture_senat_hemicycle",
+          "length": 5355,
+          "n_diff": 0.45620915032679743,
+          "order": 3,
+          "status": "none"
+        },
+        {
+          "diff": "add",
+          "directory": "10_nouv.lect._assemblee_commission",
+          "id_step": "10_nouv.lect._assemblee_commission",
+          "length": 3889,
+          "n_diff": 0.3856209150326797,
+          "order": 3,
+          "status": "none"
+        },
+        {
+          "diff": "rem",
+          "directory": "11_nouv.lect._assemblee_hemicycle",
+          "id_step": "11_nouv.lect._assemblee_hemicycle",
+          "length": 4273,
+          "n_diff": 0.09992979171542238,
+          "order": 2,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "14_nouv.lect._senat_hemicycle",
+          "id_step": "14_nouv.lect._senat_hemicycle",
+          "length": 4273,
+          "n_diff": 0,
+          "order": 3,
+          "status": "none"
+        },
+        {
+          "diff": "add",
+          "directory": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "id_step": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "length": 4248,
+          "n_diff": 0.010531242686637077,
+          "order": 2,
+          "status": "none"
+        }
+      ],
+      "titre": "2"
+    },
+    "2_bis": {
+      "id": "2_bis",
+      "section": "A2 bis",
+      "steps": [
+        {
+          "diff": "add",
+          "directory": "01_1erelecture_assemblee_commission",
+          "id_step": "01_1erelecture_assemblee_commission",
+          "length": 155,
+          "n_diff": 1,
+          "order": 3,
+          "status": "new"
+        },
+        {
+          "diff": "none",
+          "directory": "02_1erelecture_assemblee_hemicycle",
+          "id_step": "02_1erelecture_assemblee_hemicycle",
+          "length": 147,
+          "n_diff": 0,
+          "order": 4,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "04_1erelecture_senat_commission",
+          "id_step": "04_1erelecture_senat_commission",
+          "length": 147,
+          "n_diff": 0,
+          "order": 5,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "05_1erelecture_senat_hemicycle",
+          "id_step": "05_1erelecture_senat_hemicycle",
+          "length": 147,
+          "n_diff": 0,
+          "order": 4,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "07_1erelecture_senat_hemicycle",
+          "id_step": "07_1erelecture_senat_hemicycle",
+          "length": 147,
+          "n_diff": 0,
+          "order": 5,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "10_nouv.lect._assemblee_commission",
+          "id_step": "10_nouv.lect._assemblee_commission",
+          "length": 147,
+          "n_diff": 0,
+          "order": 4,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "11_nouv.lect._assemblee_hemicycle",
+          "id_step": "11_nouv.lect._assemblee_hemicycle",
+          "length": 147,
+          "n_diff": 0,
+          "order": 4,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "14_nouv.lect._senat_hemicycle",
+          "id_step": "14_nouv.lect._senat_hemicycle",
+          "length": 147,
+          "n_diff": 0,
+          "order": 5,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "id_step": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "length": 147,
+          "n_diff": 0,
+          "newnum": "4",
+          "order": 4,
+          "status": "none"
+        }
+      ],
+      "titre": "2 bis"
+    },
+    "2_bis_A": {
+      "id": "2_bis_A",
+      "section": "A2 bis A",
+      "steps": [
+        {
+          "diff": "add",
+          "directory": "02_1erelecture_assemblee_hemicycle",
+          "id_step": "02_1erelecture_assemblee_hemicycle",
+          "length": 340,
+          "n_diff": 1,
+          "order": 3,
+          "status": "new"
+        },
+        {
+          "diff": "both",
+          "directory": "04_1erelecture_senat_commission",
+          "id_step": "04_1erelecture_senat_commission",
+          "length": 365,
+          "n_diff": 0.4301369863013699,
+          "order": 4,
+          "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "05_1erelecture_senat_hemicycle",
+          "id_step": "05_1erelecture_senat_hemicycle",
+          "length": 231,
+          "n_diff": 0.4301369863013699,
+          "order": 3,
+          "status": "none"
+        },
+        {
+          "diff": "rem",
+          "directory": "07_1erelecture_senat_hemicycle",
+          "id_step": "07_1erelecture_senat_hemicycle",
+          "length": 50,
+          "n_diff": 0,
+          "order": 4,
+          "status": "sup"
+        },
+        {
+          "diff": "add",
+          "directory": "11_nouv.lect._assemblee_hemicycle",
+          "id_step": "11_nouv.lect._assemblee_hemicycle",
+          "length": 448,
+          "n_diff": 1,
+          "order": 3,
+          "status": "new"
+        },
+        {
+          "diff": "none",
+          "directory": "14_nouv.lect._senat_hemicycle",
+          "id_step": "14_nouv.lect._senat_hemicycle",
+          "length": 448,
+          "n_diff": 0,
+          "order": 4,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "id_step": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "length": 448,
+          "n_diff": 0,
+          "newnum": "3",
+          "order": 3,
+          "status": "none"
+        }
+      ],
+      "titre": "2 bis A"
+    },
+    "2_quater": {
+      "id": "2_quater",
+      "section": "A2 quater",
+      "steps": [
+        {
+          "diff": "add",
+          "directory": "01_1erelecture_assemblee_commission",
+          "id_step": "01_1erelecture_assemblee_commission",
+          "length": 335,
+          "n_diff": 1,
+          "order": 5,
+          "status": "new"
+        },
+        {
+          "diff": "both",
+          "directory": "02_1erelecture_assemblee_hemicycle",
+          "id_step": "02_1erelecture_assemblee_hemicycle",
+          "length": 197,
+          "n_diff": 0.1908713692946058,
+          "order": 6,
+          "status": "none"
+        },
+        {
+          "diff": "rem",
+          "directory": "04_1erelecture_senat_commission",
+          "id_step": "04_1erelecture_senat_commission",
+          "length": 50,
+          "n_diff": 0,
+          "order": 7,
+          "status": "sup"
+        },
+        {
+          "diff": "add",
+          "directory": "05_1erelecture_senat_hemicycle",
+          "id_step": "05_1erelecture_senat_hemicycle",
+          "length": 197,
+          "n_diff": 1,
+          "order": 6,
+          "status": "new"
+        },
+        {
+          "diff": "none",
+          "directory": "07_1erelecture_senat_hemicycle",
+          "id_step": "07_1erelecture_senat_hemicycle",
+          "length": 197,
+          "n_diff": 0,
+          "order": 7,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "10_nouv.lect._assemblee_commission",
+          "id_step": "10_nouv.lect._assemblee_commission",
+          "length": 197,
+          "n_diff": 0,
+          "order": 6,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "11_nouv.lect._assemblee_hemicycle",
+          "id_step": "11_nouv.lect._assemblee_hemicycle",
+          "length": 197,
+          "n_diff": 0,
+          "order": 6,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "14_nouv.lect._senat_hemicycle",
+          "id_step": "14_nouv.lect._senat_hemicycle",
+          "length": 197,
+          "n_diff": 0,
+          "order": 7,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "id_step": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "length": 197,
+          "n_diff": 0,
+          "newnum": "6",
+          "order": 6,
+          "status": "none"
+        }
+      ],
+      "titre": "2 quater"
+    },
+    "2_ter": {
+      "id": "2_ter",
+      "section": "A2 ter",
+      "steps": [
+        {
+          "diff": "add",
+          "directory": "01_1erelecture_assemblee_commission",
+          "id_step": "01_1erelecture_assemblee_commission",
+          "length": 87,
+          "n_diff": 1,
+          "order": 4,
+          "status": "new"
+        },
+        {
+          "diff": "none",
+          "directory": "02_1erelecture_assemblee_hemicycle",
+          "id_step": "02_1erelecture_assemblee_hemicycle",
+          "length": 57,
+          "n_diff": 0,
+          "order": 5,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "04_1erelecture_senat_commission",
+          "id_step": "04_1erelecture_senat_commission",
+          "length": 57,
+          "n_diff": 0,
+          "order": 6,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "05_1erelecture_senat_hemicycle",
+          "id_step": "05_1erelecture_senat_hemicycle",
+          "length": 57,
+          "n_diff": 0,
+          "order": 5,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "07_1erelecture_senat_hemicycle",
+          "id_step": "07_1erelecture_senat_hemicycle",
+          "length": 57,
+          "n_diff": 0,
+          "order": 6,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "10_nouv.lect._assemblee_commission",
+          "id_step": "10_nouv.lect._assemblee_commission",
+          "length": 57,
+          "n_diff": 0,
+          "order": 5,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "11_nouv.lect._assemblee_hemicycle",
+          "id_step": "11_nouv.lect._assemblee_hemicycle",
+          "length": 57,
+          "n_diff": 0,
+          "order": 5,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "14_nouv.lect._senat_hemicycle",
+          "id_step": "14_nouv.lect._senat_hemicycle",
+          "length": 57,
+          "n_diff": 0,
+          "order": 6,
+          "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "id_step": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "length": 52,
+          "n_diff": 0.17543859649122806,
+          "newnum": "5",
+          "order": 5,
+          "status": "none"
+        }
+      ],
+      "titre": "2 ter"
+    },
+    "3": {
+      "id": "3",
+      "section": "A3",
+      "steps": [
+        {
+          "diff": "add",
+          "directory": "00_1erelecture_assemblee_depot",
+          "id_step": "00_1erelecture_assemblee_depot",
+          "length": 529,
+          "n_diff": 1,
+          "order": 3,
+          "status": "depot"
+        },
+        {
+          "diff": "rem",
+          "directory": "01_1erelecture_assemblee_commission",
+          "id_step": "01_1erelecture_assemblee_commission",
+          "length": 990,
+          "n_diff": 0.5373737373737374,
+          "order": 6,
+          "status": "none"
+        },
+        {
+          "diff": "rem",
+          "directory": "02_1erelecture_assemblee_hemicycle",
+          "id_step": "02_1erelecture_assemblee_hemicycle",
+          "length": 1059,
+          "n_diff": 0.06515580736543913,
+          "order": 7,
+          "status": "none"
+        },
+        {
+          "diff": "rem",
+          "directory": "04_1erelecture_senat_commission",
+          "id_step": "04_1erelecture_senat_commission",
+          "length": 1106,
+          "n_diff": 0.044303797468354444,
+          "order": 8,
+          "status": "none"
+        },
+        {
+          "diff": "add",
+          "directory": "05_1erelecture_senat_hemicycle",
+          "id_step": "05_1erelecture_senat_hemicycle",
+          "length": 1059,
+          "n_diff": 0.044303797468354444,
+          "order": 7,
+          "status": "none"
+        },
+        {
+          "diff": "rem",
+          "directory": "07_1erelecture_senat_hemicycle",
+          "id_step": "07_1erelecture_senat_hemicycle",
+          "length": 1106,
+          "n_diff": 0.044303797468354444,
+          "order": 8,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "10_nouv.lect._assemblee_commission",
+          "id_step": "10_nouv.lect._assemblee_commission",
+          "length": 1106,
+          "n_diff": 0,
+          "order": 7,
+          "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "11_nouv.lect._assemblee_hemicycle",
+          "id_step": "11_nouv.lect._assemblee_hemicycle",
+          "length": 1106,
+          "n_diff": 0.005424954792043413,
+          "order": 7,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "14_nouv.lect._senat_hemicycle",
+          "id_step": "14_nouv.lect._senat_hemicycle",
+          "length": 1106,
+          "n_diff": 0,
+          "order": 8,
+          "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "id_step": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "length": 1100,
+          "n_diff": 0.005424954792043413,
+          "newnum": "7",
+          "order": 7,
+          "status": "none"
+        }
+      ],
+      "titre": "3"
+    },
+    "4": {
+      "id": "4",
+      "section": "A4",
+      "steps": [
+        {
+          "diff": "add",
+          "directory": "00_1erelecture_assemblee_depot",
+          "id_step": "00_1erelecture_assemblee_depot",
+          "length": 275,
+          "n_diff": 1,
+          "order": 4,
+          "status": "depot"
+        },
+        {
+          "diff": "both",
+          "directory": "01_1erelecture_assemblee_commission",
+          "id_step": "01_1erelecture_assemblee_commission",
+          "length": 340,
+          "n_diff": 0.27941176470588236,
+          "order": 7,
+          "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "02_1erelecture_assemblee_hemicycle",
+          "id_step": "02_1erelecture_assemblee_hemicycle",
+          "length": 357,
+          "n_diff": 0.053221288515406195,
+          "order": 8,
+          "status": "none"
+        },
+        {
+          "diff": "rem",
+          "directory": "04_1erelecture_senat_commission",
+          "id_step": "04_1erelecture_senat_commission",
+          "length": 287,
+          "n_diff": 0.21568627450980393,
+          "order": 9,
+          "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "05_1erelecture_senat_hemicycle",
+          "id_step": "05_1erelecture_senat_hemicycle",
+          "length": 285,
+          "n_diff": 0.013937282229965153,
+          "order": 8,
+          "status": "none"
+        },
+        {
+          "diff": "rem",
+          "directory": "07_1erelecture_senat_hemicycle",
+          "id_step": "07_1erelecture_senat_hemicycle",
+          "length": 50,
+          "n_diff": 0,
+          "order": 9,
+          "status": "sup"
+        },
+        {
+          "diff": "add",
+          "directory": "11_nouv.lect._assemblee_hemicycle",
+          "id_step": "11_nouv.lect._assemblee_hemicycle",
+          "length": 359,
+          "n_diff": 1,
+          "order": 8,
+          "status": "new"
+        },
+        {
+          "diff": "none",
+          "directory": "14_nouv.lect._senat_hemicycle",
+          "id_step": "14_nouv.lect._senat_hemicycle",
+          "length": 359,
+          "n_diff": 0,
+          "order": 9,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "id_step": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "length": 359,
+          "n_diff": 0,
+          "newnum": "8",
+          "order": 8,
+          "status": "none"
+        }
+      ],
+      "titre": "4"
+    },
+    "4_bis": {
+      "id": "4_bis",
+      "section": "A4 bis",
+      "steps": [
+        {
+          "diff": "add",
+          "directory": "01_1erelecture_assemblee_commission",
+          "id_step": "01_1erelecture_assemblee_commission",
+          "length": 316,
+          "n_diff": 1,
+          "order": 8,
+          "status": "new"
+        },
+        {
+          "diff": "both",
+          "directory": "02_1erelecture_assemblee_hemicycle",
+          "id_step": "02_1erelecture_assemblee_hemicycle",
+          "length": 251,
+          "n_diff": 0.21518987341772156,
+          "order": 10,
+          "status": "none"
+        },
+        {
+          "diff": "rem",
+          "directory": "04_1erelecture_senat_commission",
+          "id_step": "04_1erelecture_senat_commission",
+          "length": 442,
+          "n_diff": 0.4524886877828054,
+          "order": 11,
+          "status": "none"
+        },
+        {
+          "diff": "add",
+          "directory": "05_1erelecture_senat_hemicycle",
+          "id_step": "05_1erelecture_senat_hemicycle",
+          "length": 251,
+          "n_diff": 0.4524886877828054,
+          "order": 10,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "07_1erelecture_senat_hemicycle",
+          "id_step": "07_1erelecture_senat_hemicycle",
+          "length": 251,
+          "n_diff": 0,
+          "order": 11,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "10_nouv.lect._assemblee_commission",
+          "id_step": "10_nouv.lect._assemblee_commission",
+          "length": 251,
+          "n_diff": 0,
+          "order": 8,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "11_nouv.lect._assemblee_hemicycle",
+          "id_step": "11_nouv.lect._assemblee_hemicycle",
+          "length": 251,
+          "n_diff": 0,
+          "order": 10,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "14_nouv.lect._senat_hemicycle",
+          "id_step": "14_nouv.lect._senat_hemicycle",
+          "length": 251,
+          "n_diff": 0,
+          "order": 11,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "id_step": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "length": 251,
+          "n_diff": 0,
+          "newnum": "10",
+          "order": 10,
+          "status": "none"
+        }
+      ],
+      "titre": "4 bis"
+    },
+    "4_bis_A": {
+      "id": "4_bis_A",
+      "section": "A4 bis A",
+      "steps": [
+        {
+          "diff": "add",
+          "directory": "02_1erelecture_assemblee_hemicycle",
+          "id_step": "02_1erelecture_assemblee_hemicycle",
+          "length": 1485,
+          "n_diff": 1,
+          "order": 9,
+          "status": "new"
+        },
+        {
+          "diff": "rem",
+          "directory": "04_1erelecture_senat_commission",
+          "id_step": "04_1erelecture_senat_commission",
+          "length": 50,
+          "n_diff": 0,
+          "order": 10,
+          "status": "sup"
+        },
+        {
+          "diff": "add",
+          "directory": "05_1erelecture_senat_hemicycle",
+          "id_step": "05_1erelecture_senat_hemicycle",
+          "length": 1467,
+          "n_diff": 1,
+          "order": 9,
+          "status": "new"
+        },
+        {
+          "diff": "rem",
+          "directory": "07_1erelecture_senat_hemicycle",
+          "id_step": "07_1erelecture_senat_hemicycle",
+          "length": 50,
+          "n_diff": 0,
+          "order": 10,
+          "status": "sup"
+        },
+        {
+          "diff": "add",
+          "directory": "11_nouv.lect._assemblee_hemicycle",
+          "id_step": "11_nouv.lect._assemblee_hemicycle",
+          "length": 1295,
+          "n_diff": 1,
+          "order": 9,
+          "status": "new"
+        },
+        {
+          "diff": "none",
+          "directory": "14_nouv.lect._senat_hemicycle",
+          "id_step": "14_nouv.lect._senat_hemicycle",
+          "length": 1295,
+          "n_diff": 0,
+          "order": 10,
+          "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "id_step": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "length": 1296,
+          "n_diff": 0.0007716049382715529,
+          "newnum": "9",
+          "order": 9,
+          "status": "none"
+        }
+      ],
+      "titre": "4 bis A"
+    },
+    "4_ter": {
+      "id": "4_ter",
+      "section": "A4 ter",
+      "steps": [
+        {
+          "diff": "add",
+          "directory": "04_1erelecture_senat_commission",
+          "id_step": "04_1erelecture_senat_commission",
+          "length": 871,
+          "n_diff": 1,
+          "order": 12,
+          "status": "new"
+        },
+        {
+          "diff": "rem",
+          "directory": "05_1erelecture_senat_hemicycle",
+          "id_step": "05_1erelecture_senat_hemicycle",
+          "length": 871,
+          "n_diff": 0,
+          "order": 12,
+          "status": "sup"
+        },
+        {
+          "diff": "add",
+          "directory": "07_1erelecture_senat_hemicycle",
+          "id_step": "07_1erelecture_senat_hemicycle",
+          "length": 825,
+          "n_diff": 1,
+          "order": 12,
+          "status": "new"
+        },
+        {
+          "diff": "both",
+          "directory": "10_nouv.lect._assemblee_commission",
+          "id_step": "10_nouv.lect._assemblee_commission",
+          "length": 787,
+          "n_diff": 0.19757575757575763,
+          "order": 9,
+          "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "11_nouv.lect._assemblee_hemicycle",
+          "id_step": "11_nouv.lect._assemblee_hemicycle",
+          "length": 788,
+          "n_diff": 0.0012690355329949554,
+          "order": 11,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "14_nouv.lect._senat_hemicycle",
+          "id_step": "14_nouv.lect._senat_hemicycle",
+          "length": 788,
+          "n_diff": 0,
+          "order": 12,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "id_step": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "length": 788,
+          "n_diff": 0,
+          "newnum": "11",
+          "order": 11,
+          "status": "none"
+        }
+      ],
+      "titre": "4 ter"
+    },
+    "5": {
+      "id": "5",
+      "section": "A5",
+      "steps": [
+        {
+          "diff": "add",
+          "directory": "00_1erelecture_assemblee_depot",
+          "id_step": "00_1erelecture_assemblee_depot",
+          "length": 119,
+          "n_diff": 1,
+          "order": 5,
+          "status": "depot"
+        },
+        {
+          "diff": "both",
+          "directory": "01_1erelecture_assemblee_commission",
+          "id_step": "01_1erelecture_assemblee_commission",
+          "length": 108,
+          "n_diff": 0.2870370370370371,
+          "order": 9,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "02_1erelecture_assemblee_hemicycle",
+          "id_step": "02_1erelecture_assemblee_hemicycle",
+          "length": 108,
+          "n_diff": 0,
+          "order": 11,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "04_1erelecture_senat_commission",
+          "id_step": "04_1erelecture_senat_commission",
+          "length": 108,
+          "n_diff": 0,
+          "order": 13,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "05_1erelecture_senat_hemicycle",
+          "id_step": "05_1erelecture_senat_hemicycle",
+          "length": 108,
+          "n_diff": 0,
+          "order": 11,
+          "status": "none"
+        },
+        {
+          "diff": "rem",
+          "directory": "07_1erelecture_senat_hemicycle",
+          "id_step": "07_1erelecture_senat_hemicycle",
+          "length": 108,
+          "n_diff": 0,
+          "order": 11,
+          "status": "sup"
+        },
+        {
+          "diff": "add",
+          "directory": "10_nouv.lect._assemblee_commission",
+          "id_step": "10_nouv.lect._assemblee_commission",
+          "length": 108,
+          "n_diff": 1,
+          "order": 10,
+          "status": "new"
+        },
+        {
+          "diff": "none",
+          "directory": "11_nouv.lect._assemblee_hemicycle",
+          "id_step": "11_nouv.lect._assemblee_hemicycle",
+          "length": 108,
+          "n_diff": 0,
+          "order": 12,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "14_nouv.lect._senat_hemicycle",
+          "id_step": "14_nouv.lect._senat_hemicycle",
+          "length": 108,
+          "n_diff": 0,
+          "order": 13,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "id_step": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "length": 108,
+          "n_diff": 0,
+          "newnum": "12",
+          "order": 12,
+          "status": "none"
+        }
+      ],
+      "titre": "5"
+    },
+    "6": {
+      "id": "6",
+      "section": "A6",
+      "steps": [
+        {
+          "diff": "add",
+          "directory": "01_1erelecture_assemblee_commission",
+          "id_step": "01_1erelecture_assemblee_commission",
+          "length": 529,
+          "n_diff": 1,
+          "order": 10,
+          "status": "new"
+        },
+        {
+          "diff": "both",
+          "directory": "02_1erelecture_assemblee_hemicycle",
+          "id_step": "02_1erelecture_assemblee_hemicycle",
+          "length": 457,
+          "n_diff": 0.002188183807439792,
+          "order": 12,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "04_1erelecture_senat_commission",
+          "id_step": "04_1erelecture_senat_commission",
+          "length": 457,
+          "n_diff": 0,
+          "order": 14,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "05_1erelecture_senat_hemicycle",
+          "id_step": "05_1erelecture_senat_hemicycle",
+          "length": 457,
+          "n_diff": 0,
+          "order": 12,
+          "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "07_1erelecture_senat_hemicycle",
+          "id_step": "07_1erelecture_senat_hemicycle",
+          "length": 426,
+          "n_diff": 0.19474835886214437,
+          "order": 14,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "10_nouv.lect._assemblee_commission",
+          "id_step": "10_nouv.lect._assemblee_commission",
+          "length": 426,
+          "n_diff": 0,
+          "order": 11,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "11_nouv.lect._assemblee_hemicycle",
+          "id_step": "11_nouv.lect._assemblee_hemicycle",
+          "length": 426,
+          "n_diff": 0,
+          "order": 13,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "14_nouv.lect._senat_hemicycle",
+          "id_step": "14_nouv.lect._senat_hemicycle",
+          "length": 426,
+          "n_diff": 0,
+          "order": 14,
+          "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "id_step": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "length": 426,
+          "n_diff": 0.007042253521126751,
+          "newnum": "13",
+          "order": 13,
+          "status": "none"
+        }
+      ],
+      "titre": "6"
+    },
+    "7": {
+      "id": "7",
+      "section": "A7",
+      "steps": [
+        {
+          "diff": "add",
+          "directory": "01_1erelecture_assemblee_commission",
+          "id_step": "01_1erelecture_assemblee_commission",
+          "length": 574,
+          "n_diff": 1,
+          "order": 11,
+          "status": "new"
+        },
+        {
+          "diff": "both",
+          "directory": "02_1erelecture_assemblee_hemicycle",
+          "id_step": "02_1erelecture_assemblee_hemicycle",
+          "length": 520,
+          "n_diff": 0.005769230769230749,
+          "order": 13,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "04_1erelecture_senat_commission",
+          "id_step": "04_1erelecture_senat_commission",
+          "length": 520,
+          "n_diff": 0,
+          "order": 15,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "05_1erelecture_senat_hemicycle",
+          "id_step": "05_1erelecture_senat_hemicycle",
+          "length": 520,
+          "n_diff": 0,
+          "order": 13,
+          "status": "none"
+        },
+        {
+          "diff": "rem",
+          "directory": "07_1erelecture_senat_hemicycle",
+          "id_step": "07_1erelecture_senat_hemicycle",
+          "length": 756,
+          "n_diff": 0.5410052910052909,
+          "order": 15,
+          "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "10_nouv.lect._assemblee_commission",
+          "id_step": "10_nouv.lect._assemblee_commission",
+          "length": 682,
+          "n_diff": 0.10317460317460314,
+          "order": 12,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "11_nouv.lect._assemblee_hemicycle",
+          "id_step": "11_nouv.lect._assemblee_hemicycle",
+          "length": 682,
+          "n_diff": 0,
+          "order": 14,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "14_nouv.lect._senat_hemicycle",
+          "id_step": "14_nouv.lect._senat_hemicycle",
+          "length": 682,
+          "n_diff": 0,
+          "order": 15,
+          "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "id_step": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "length": 756,
+          "n_diff": 0.10978835978835977,
+          "newnum": "14",
+          "order": 14,
+          "status": "none"
+        }
+      ],
+      "titre": "7"
+    },
+    "7_bis": {
+      "id": "7_bis",
+      "section": "A7 bis",
+      "steps": [
+        {
+          "diff": "add",
+          "directory": "02_1erelecture_assemblee_hemicycle",
+          "id_step": "02_1erelecture_assemblee_hemicycle",
+          "length": 682,
+          "n_diff": 1,
+          "order": 14,
+          "status": "new"
+        },
+        {
+          "diff": "none",
+          "directory": "04_1erelecture_senat_commission",
+          "id_step": "04_1erelecture_senat_commission",
+          "length": 667,
+          "n_diff": 0,
+          "order": 16,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "05_1erelecture_senat_hemicycle",
+          "id_step": "05_1erelecture_senat_hemicycle",
+          "length": 667,
+          "n_diff": 0,
+          "order": 14,
+          "status": "none"
+        },
+        {
+          "diff": "add",
+          "directory": "07_1erelecture_senat_hemicycle",
+          "id_step": "07_1erelecture_senat_hemicycle",
+          "length": 391,
+          "n_diff": 0.6176911544227885,
+          "order": 16,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "10_nouv.lect._assemblee_commission",
+          "id_step": "10_nouv.lect._assemblee_commission",
+          "length": 391,
+          "n_diff": 0,
+          "order": 13,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "11_nouv.lect._assemblee_hemicycle",
+          "id_step": "11_nouv.lect._assemblee_hemicycle",
+          "length": 391,
+          "n_diff": 0,
+          "order": 15,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "14_nouv.lect._senat_hemicycle",
+          "id_step": "14_nouv.lect._senat_hemicycle",
+          "length": 391,
+          "n_diff": 0,
+          "order": 16,
+          "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "id_step": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "length": 391,
+          "n_diff": 0.007672634271099765,
+          "newnum": "15",
+          "order": 15,
+          "status": "none"
+        }
+      ],
+      "titre": "7 bis"
+    },
+    "8": {
+      "id": "8",
+      "section": "A8",
+      "steps": [
+        {
+          "diff": "add",
+          "directory": "01_1erelecture_assemblee_commission",
+          "id_step": "01_1erelecture_assemblee_commission",
+          "length": 277,
+          "n_diff": 1,
+          "order": 12,
+          "status": "new"
+        },
+        {
+          "diff": "both",
+          "directory": "02_1erelecture_assemblee_hemicycle",
+          "id_step": "02_1erelecture_assemblee_hemicycle",
+          "length": 532,
+          "n_diff": 0.4793233082706767,
+          "order": 15,
+          "status": "none"
+        },
+        {
+          "diff": "rem",
+          "directory": "04_1erelecture_senat_commission",
+          "id_step": "04_1erelecture_senat_commission",
+          "length": 524,
+          "n_diff": 0.4906015037593985,
+          "order": 17,
+          "status": "none"
+        },
+        {
+          "diff": "add",
+          "directory": "05_1erelecture_senat_hemicycle",
+          "id_step": "05_1erelecture_senat_hemicycle",
+          "length": 532,
+          "n_diff": 0.4906015037593985,
+          "order": 15,
+          "status": "none"
+        },
+        {
+          "diff": "rem",
+          "directory": "07_1erelecture_senat_hemicycle",
+          "id_step": "07_1erelecture_senat_hemicycle",
+          "length": 524,
+          "n_diff": 0.4906015037593985,
+          "order": 17,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "10_nouv.lect._assemblee_commission",
+          "id_step": "10_nouv.lect._assemblee_commission",
+          "length": 524,
+          "n_diff": 0,
+          "order": 14,
+          "status": "none"
+        },
+        {
+          "diff": "rem",
+          "directory": "11_nouv.lect._assemblee_hemicycle",
+          "id_step": "11_nouv.lect._assemblee_hemicycle",
+          "length": 809,
+          "n_diff": 0.35228677379480844,
+          "order": 16,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "14_nouv.lect._senat_hemicycle",
+          "id_step": "14_nouv.lect._senat_hemicycle",
+          "length": 809,
+          "n_diff": 0,
+          "order": 17,
+          "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "id_step": "16_l.d\u00e9finitive_assemblee_hemicycle",
+          "length": 807,
+          "n_diff": 0.00988875154511748,
+          "newnum": "16",
+          "order": 16,
+          "status": "none"
+        }
+      ],
+      "titre": "8"
+    },
+    "echec": {
+      "id": "echec",
+      "section": "echec",
+      "steps": [
+        {
+          "directory": "06_1erelecture_senat_commission",
+          "id_step": "06_1erelecture_senat_commission",
+          "length": 0,
+          "n_diff": 0,
+          "order": 1,
+          "status": "REJET"
+        },
+        {
+          "directory": "08_cmp_cmp_commission",
+          "id_step": "08_cmp_cmp_commission",
+          "length": 0,
+          "n_diff": 0,
+          "order": 1,
+          "status": "ECHEC"
+        },
+        {
+          "directory": "13_nouv.lect._senat_commission",
+          "id_step": "13_nouv.lect._senat_commission",
+          "length": 0,
+          "n_diff": 0,
+          "order": 1,
+          "status": "REJET"
+        }
+      ],
+      "titre": "rejet"
+    }
+  },
+  "law_title": "Projet de loi organique relatif \u00e0 la Transparence de la vie publique",
+  "sections": {
+    "echec": {
+      "06_1erelecture_senat_commission": {
+        "title": "R\u00e9unie le mardi 9 juillet 2013, \u00e0 la suite de l'adoption par le S\u00e9nat d'une motion de renvoi en commission, la commission a rejet\u00e9 le texte du projet de loi organique n\u00b0 723 (2012-2013) relatif \u00e0 la transparence de la vie publique adopt\u00e9 lors de sa r\u00e9union du mercredi 3 juillet 2013.",
+        "type": "REJET"
+      },
+      "08_cmp_cmp_commission": {
+        "title": "R\u00e9unie le mardi 16 juillet 2013, la commission mixte paritaire a constat\u00e9 ne pouvoir parvenir \u00e0 \u00e9laborer un texte commun sur les dispositions restant en discussion du projet de loi organique relatif \u00e0 la transparence de la vie publique.",
+        "type": "ECHEC"
+      },
+      "13_nouv.lect._senat_commission": {
+        "title": "R\u00e9unie le mercredi 24 juillet 2013, la commission n'a pas adopt\u00e9 de texte sur le projet de loi organique n\u00b0 797 (2012-2013) relatif \u00e0 la transparence de la vie publique.",
+        "type": "REJET"
+      }
+    }
+  },
+  "short_title": "Transparence de la vie publique"
+}

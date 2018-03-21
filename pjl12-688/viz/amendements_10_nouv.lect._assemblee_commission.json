@@ -1,0 +1,92 @@
+{
+  "api_root_url": "https://2012-2017.nosdeputes.fr/api/document/Amendement/",
+  "groupes": {
+    "ECOLO": {
+      "color": "rgb(0,230,30)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/ECOLO",
+      "nom": "Écologiste",
+      "order": 13
+    },
+    "SRC": {
+      "color": "rgb(255,50,190)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/SRC",
+      "nom": "Socialiste, républicain et citoyen",
+      "order": 11
+    }
+  },
+  "id_step": "10_nouv.lect._assemblee_commission",
+  "sujets": {
+    "Article 1er": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31140",
+          "numero": "CL3",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-07-17",
+          "groupe": "ECOLO",
+          "id_api": "31141",
+          "numero": "CL5",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 20,
+      "titre": "Article 1er"
+    },
+    "Article 1er A": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31143",
+          "numero": "CL2",
+          "sort": "adopté"
+        }
+      ],
+      "order": 10,
+      "titre": "Article 1er A"
+    },
+    "Article 2": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31142",
+          "numero": "CL1",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-07-17",
+          "groupe": "ECOLO",
+          "id_api": "31185",
+          "numero": "CL6",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 30,
+      "titre": "Article 2"
+    },
+    "Article 4 ter": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31139",
+          "numero": "CL4",
+          "sort": "adopté"
+        }
+      ],
+      "order": 120,
+      "titre": "Article 4 ter"
+    }
+  }
+}

@@ -1,0 +1,540 @@
+{
+  "api_root_url": "https://www.nossenateurs.fr/api/document/Amendement/",
+  "groupes": {
+    "CRCE": {
+      "color": "rgb(255,30,30)",
+      "link": "https://www.nossenateurs.fr/groupe/CRCE",
+      "nom": "Communiste républicain citoyen et Écologiste",
+      "order": 10
+    },
+    "LR": {
+      "color": "rgb(30,30,200)",
+      "link": "https://www.nossenateurs.fr/groupe/LR",
+      "nom": "Les Républicains",
+      "order": 24
+    },
+    "NI": {
+      "color": "rgb(165,165,165)",
+      "link": "https://www.nossenateurs.fr/groupe/NI",
+      "nom": "Réunion administrative des Sénateurs ne figurant sur la liste d'aucun groupe politique",
+      "order": 25
+    },
+    "RDSE": {
+      "color": "rgb(250,195,132)",
+      "link": "https://www.nossenateurs.fr/groupe/RDSE",
+      "nom": "Rassemblement Démocratique et Social européen",
+      "order": 17
+    },
+    "SOC": {
+      "color": "rgb(255,50,190)",
+      "link": "https://www.nossenateurs.fr/groupe/SOC",
+      "nom": "Socialiste et républicain",
+      "order": 14
+    }
+  },
+  "id_step": "12_nouv.lect._senat_hemicycle",
+  "sujets": {
+    "Article 10": {
+      "amendements": [
+        {
+          "aut": "M. Leconte, …",
+          "date": "2013-07-24",
+          "groupe": "SOC",
+          "id_api": "68357",
+          "numero": "35",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Lipietz, …",
+          "date": "2013-07-24",
+          "groupe": "NI",
+          "id_api": "68364",
+          "numero": "42",
+          "sort": "adopté"
+        }
+      ],
+      "order": 110,
+      "titre": "Article 10"
+    },
+    "Article 11": {
+      "amendements": [
+        {
+          "aut": "MM. Sueur, …",
+          "date": "2013-07-24",
+          "groupe": "SOC",
+          "id_api": "68323",
+          "numero": "1",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Sueur, …",
+          "date": "2013-07-24",
+          "groupe": "SOC",
+          "id_api": "68324",
+          "numero": "2",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Hyest, …",
+          "date": "2013-07-24",
+          "groupe": "LR",
+          "id_api": "68349",
+          "numero": "27",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Hyest, …",
+          "date": "2013-07-24",
+          "groupe": "LR",
+          "id_api": "68350",
+          "numero": "28",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Assassi, …",
+          "date": "2013-07-24",
+          "groupe": "CRCE",
+          "id_api": "68359",
+          "numero": "37",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mmes Assassi, …",
+          "date": "2013-07-24",
+          "groupe": "CRCE",
+          "id_api": "68360",
+          "numero": "38",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mmes Assassi, …",
+          "date": "2013-07-24",
+          "groupe": "CRCE",
+          "id_api": "68361",
+          "numero": "39",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Assassi, …",
+          "date": "2013-07-24",
+          "groupe": "CRCE",
+          "id_api": "68362",
+          "numero": "40",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Lipietz, …",
+          "date": "2013-07-24",
+          "groupe": "NI",
+          "id_api": "68365",
+          "numero": "43",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Collombat, …",
+          "date": "2013-07-24",
+          "groupe": "RDSE",
+          "id_api": "68369",
+          "numero": "47",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Collombat, …",
+          "date": "2013-07-24",
+          "groupe": "RDSE",
+          "id_api": "68370",
+          "numero": "48",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 120,
+      "titre": "Article 11"
+    },
+    "Article 11 bis": {
+      "amendements": [
+        {
+          "aut": "MM. Masson, …",
+          "date": "2013-07-24",
+          "groupe": "NI",
+          "id_api": "68326",
+          "numero": "4",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Masson, …",
+          "date": "2013-07-24",
+          "groupe": "NI",
+          "id_api": "68327",
+          "numero": "5",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Masson, …",
+          "date": "2013-07-24",
+          "groupe": "NI",
+          "id_api": "68328",
+          "numero": "6",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Masson, …",
+          "date": "2013-07-24",
+          "groupe": "NI",
+          "id_api": "68329",
+          "numero": "7",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 140,
+      "titre": "Article 11 bis"
+    },
+    "Article 11 quater": {
+      "amendements": [
+        {
+          "aut": "M. Masson",
+          "date": "2013-07-24",
+          "groupe": "NI",
+          "id_api": "68333",
+          "numero": "11",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Masson",
+          "date": "2013-07-24",
+          "groupe": "NI",
+          "id_api": "68334",
+          "numero": "12",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Masson",
+          "date": "2013-07-24",
+          "groupe": "NI",
+          "id_api": "68335",
+          "numero": "13",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Masson",
+          "date": "2013-07-25",
+          "groupe": "NI",
+          "id_api": "68424",
+          "numero": "14",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Lipietz, …",
+          "date": "2013-07-25",
+          "groupe": "NI",
+          "id_api": "68425",
+          "numero": "45",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Lipietz, …",
+          "date": "2013-07-24",
+          "groupe": "NI",
+          "id_api": "68368",
+          "numero": "46",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 170,
+      "titre": "Article 11 quater"
+    },
+    "Article 11 quater A": {
+      "amendements": [
+        {
+          "aut": "M. Masson",
+          "date": "2013-07-24",
+          "groupe": "NI",
+          "id_api": "68332",
+          "numero": "10",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 160,
+      "titre": "Article 11 quater A"
+    },
+    "Article 11 ter": {
+      "amendements": [
+        {
+          "aut": "M. Masson",
+          "date": "2013-07-24",
+          "groupe": "NI",
+          "id_api": "68330",
+          "numero": "8",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Masson",
+          "date": "2013-07-24",
+          "groupe": "NI",
+          "id_api": "68331",
+          "numero": "9",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Leconte",
+          "date": "2013-07-24",
+          "groupe": "SOC",
+          "id_api": "68358",
+          "numero": "36",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 150,
+      "titre": "Article 11 ter"
+    },
+    "Article 12": {
+      "amendements": [
+        {
+          "aut": "MM. Hyest, …",
+          "date": "2013-07-24",
+          "groupe": "LR",
+          "id_api": "68351",
+          "numero": "29",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Collombat, …",
+          "date": "2013-07-24",
+          "groupe": "RDSE",
+          "id_api": "68371",
+          "numero": "49",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 190,
+      "titre": "Article 12"
+    },
+    "Article 13": {
+      "amendements": [
+        {
+          "aut": "Mme Lipietz, …",
+          "date": "2013-07-24",
+          "groupe": "NI",
+          "id_api": "68366",
+          "numero": "44",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 200,
+      "titre": "Article 13"
+    },
+    "Article 15": {
+      "amendements": [
+        {
+          "aut": "MM. Hyest, …",
+          "date": "2013-07-24",
+          "groupe": "LR",
+          "id_api": "68355",
+          "numero": "33",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 230,
+      "titre": "Article 15"
+    },
+    "Article 17": {
+      "amendements": [
+        {
+          "aut": "M. Masson",
+          "date": "2013-07-24",
+          "groupe": "NI",
+          "id_api": "68337",
+          "numero": "15",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Masson",
+          "date": "2013-07-24",
+          "groupe": "NI",
+          "id_api": "68338",
+          "numero": "16",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Masson",
+          "date": "2013-07-24",
+          "groupe": "NI",
+          "id_api": "68339",
+          "numero": "17",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Hyest, …",
+          "date": "2013-07-24",
+          "groupe": "LR",
+          "id_api": "68356",
+          "numero": "34",
+          "sort": "adopté"
+        }
+      ],
+      "order": 250,
+      "titre": "Article 17"
+    },
+    "Article 18": {
+      "amendements": [
+        {
+          "aut": "MM. Hyest, …",
+          "date": "2013-07-24",
+          "groupe": "LR",
+          "id_api": "68352",
+          "numero": "30",
+          "sort": "adopté"
+        }
+      ],
+      "order": 260,
+      "titre": "Article 18"
+    },
+    "Article 19 bis": {
+      "amendements": [
+        {
+          "aut": "MM. Collombat, …",
+          "date": "2013-07-24",
+          "groupe": "RDSE",
+          "id_api": "68372",
+          "numero": "50",
+          "sort": "adopté"
+        }
+      ],
+      "order": 270,
+      "titre": "Article 19 bis"
+    },
+    "Article 2": {
+      "amendements": [
+        {
+          "aut": "MM. Hyest, …",
+          "date": "2013-07-24",
+          "groupe": "LR",
+          "id_api": "68340",
+          "numero": "18",
+          "sort": "adopté"
+        }
+      ],
+      "order": 20,
+      "titre": "Article 2"
+    },
+    "Article 3": {
+      "amendements": [
+        {
+          "aut": "MM. Hyest, …",
+          "date": "2013-07-24",
+          "groupe": "LR",
+          "id_api": "68341",
+          "numero": "19",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Hyest, …",
+          "date": "2013-07-24",
+          "groupe": "LR",
+          "id_api": "68342",
+          "numero": "20",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Hyest, …",
+          "date": "2013-07-24",
+          "groupe": "LR",
+          "id_api": "68343",
+          "numero": "21",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Hyest, …",
+          "date": "2013-07-24",
+          "groupe": "LR",
+          "id_api": "68344",
+          "numero": "22",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Hyest, …",
+          "date": "2013-07-24",
+          "groupe": "LR",
+          "id_api": "68345",
+          "numero": "23",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Hyest, …",
+          "date": "2013-07-24",
+          "groupe": "LR",
+          "id_api": "68346",
+          "numero": "24",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Hyest, …",
+          "date": "2013-07-24",
+          "groupe": "LR",
+          "id_api": "68353",
+          "numero": "31",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Lipietz, …",
+          "date": "2013-07-24",
+          "groupe": "NI",
+          "id_api": "68363",
+          "numero": "41",
+          "sort": "adopté"
+        }
+      ],
+      "order": 40,
+      "titre": "Article 3"
+    },
+    "Article 4": {
+      "amendements": [
+        {
+          "aut": "MM. Hyest, …",
+          "date": "2013-07-24",
+          "groupe": "LR",
+          "id_api": "68347",
+          "numero": "25",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Hyest, …",
+          "date": "2013-07-24",
+          "groupe": "LR",
+          "id_api": "68348",
+          "numero": "26",
+          "sort": "adopté"
+        }
+      ],
+      "order": 50,
+      "titre": "Article 4"
+    },
+    "Article 5": {
+      "amendements": [
+        {
+          "aut": "MM. Hyest, …",
+          "date": "2013-07-24",
+          "groupe": "LR",
+          "id_api": "68354",
+          "numero": "32",
+          "sort": "adopté"
+        }
+      ],
+      "order": 60,
+      "titre": "Article 5"
+    },
+    "Motion tendant à opposer l'exception d'irrecevabilité": {
+      "amendements": [
+        {
+          "aut": "M. Masson",
+          "date": "2013-07-24",
+          "groupe": "NI",
+          "id_api": "68325",
+          "numero": "3",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 1,
+      "titre": "Motion tendant à opposer l'exception d'irrecevabilité"
+    }
+  }
+}

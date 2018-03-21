@@ -1,0 +1,1208 @@
+{
+  "api_root_url": "https://www.nossenateurs.fr/api/document/Amendement/",
+  "groupes": {
+    "NI": {
+      "color": "rgb(165,165,165)",
+      "link": "https://www.nossenateurs.fr/groupe/NI",
+      "nom": "Réunion administrative des Sénateurs ne figurant sur la liste d'aucun groupe politique",
+      "order": 25
+    },
+    "SOC": {
+      "color": "rgb(255,50,190)",
+      "link": "https://www.nossenateurs.fr/groupe/SOC",
+      "nom": "Socialiste et républicain",
+      "order": 14
+    },
+    "UC": {
+      "color": "rgb(130,140,255)",
+      "link": "https://www.nossenateurs.fr/groupe/UC",
+      "nom": "Union Centriste",
+      "order": 20
+    }
+  },
+  "id_step": "04_1erelecture_senat_commission",
+  "sujets": {
+    "Après l'article 11 ter": {
+      "amendements": [
+        {
+          "aut": "M. Gorce",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66744",
+          "numero": "COM-10",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Gorce",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66745",
+          "numero": "COM-11",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Gorce",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66746",
+          "numero": "COM-12",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Gorce",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66747",
+          "numero": "COM-13",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Lipietz",
+          "date": "2013-07-01",
+          "groupe": "NI",
+          "id_api": "66754",
+          "numero": "COM-20",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Lipietz",
+          "date": "2013-07-01",
+          "groupe": "NI",
+          "id_api": "66755",
+          "numero": "COM-21",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Lipietz",
+          "date": "2013-07-01",
+          "groupe": "NI",
+          "id_api": "66756",
+          "numero": "COM-22",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Lipietz",
+          "date": "2013-07-01",
+          "groupe": "NI",
+          "id_api": "66757",
+          "numero": "COM-23",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Lipietz",
+          "date": "2013-07-01",
+          "groupe": "NI",
+          "id_api": "66758",
+          "numero": "COM-24",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Lipietz",
+          "date": "2013-07-01",
+          "groupe": "NI",
+          "id_api": "66762",
+          "numero": "COM-28",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 151,
+      "titre": "Après l'article 11 ter"
+    },
+    "Après l'article 13": {
+      "amendements": [
+        {
+          "aut": "M. Anziani, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66847",
+          "numero": "COM-113",
+          "sort": "adopté"
+        }
+      ],
+      "order": 171,
+      "titre": "Après l'article 13"
+    },
+    "Après l'article 15": {
+      "amendements": [
+        {
+          "aut": "Mme Lipietz",
+          "date": "2013-07-01",
+          "groupe": "NI",
+          "id_api": "66763",
+          "numero": "COM-29",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66801",
+          "numero": "COM-67",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 191,
+      "titre": "Après l'article 15"
+    },
+    "Après l'article 17": {
+      "amendements": [
+        {
+          "aut": "Mme Lipietz",
+          "date": "2013-07-01",
+          "groupe": "NI",
+          "id_api": "66774",
+          "numero": "COM-40",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Lipietz",
+          "date": "2013-07-01",
+          "groupe": "NI",
+          "id_api": "66775",
+          "numero": "COM-41",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 211,
+      "titre": "Après l'article 17"
+    },
+    "Après l'article 22": {
+      "amendements": [
+        {
+          "aut": "M. Anziani, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66856",
+          "numero": "COM-122",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 271,
+      "titre": "Après l'article 22"
+    },
+    "Après l'article 22 bis": {
+      "amendements": [
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66834",
+          "numero": "COM-100",
+          "sort": "adopté"
+        }
+      ],
+      "order": 281,
+      "titre": "Après l'article 22 bis"
+    },
+    "Après l'article 5": {
+      "amendements": [
+        {
+          "aut": "Mme N. Goulet",
+          "date": "2013-06-30",
+          "groupe": "UC",
+          "id_api": "66740",
+          "numero": "COM-6",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 61,
+      "titre": "Après l'article 5"
+    },
+    "Article 10": {
+      "amendements": [
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66835",
+          "numero": "COM-101",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66837",
+          "numero": "COM-103",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66839",
+          "numero": "COM-105",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66841",
+          "numero": "COM-107",
+          "sort": "adopté"
+        }
+      ],
+      "order": 110,
+      "titre": "Article 10"
+    },
+    "Article 11": {
+      "amendements": [
+        {
+          "aut": "Mme N. Goulet",
+          "date": "2013-07-01",
+          "groupe": "UC",
+          "id_api": "66743",
+          "numero": "COM-9",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Lipietz",
+          "date": "2013-07-01",
+          "groupe": "NI",
+          "id_api": "66750",
+          "numero": "COM-16",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Lipietz",
+          "date": "2013-07-01",
+          "groupe": "NI",
+          "id_api": "66751",
+          "numero": "COM-17",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Lipietz",
+          "date": "2013-07-01",
+          "groupe": "NI",
+          "id_api": "66752",
+          "numero": "COM-18",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Lipietz",
+          "date": "2013-07-01",
+          "groupe": "NI",
+          "id_api": "66769",
+          "numero": "COM-35",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Lipietz",
+          "date": "2013-07-01",
+          "groupe": "NI",
+          "id_api": "66772",
+          "numero": "COM-38",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66836",
+          "numero": "COM-102",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66838",
+          "numero": "COM-104",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66840",
+          "numero": "COM-106",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66842",
+          "numero": "COM-108",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Anziani, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66849",
+          "numero": "COM-115",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Anziani, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66850",
+          "numero": "COM-116",
+          "sort": "adopté"
+        }
+      ],
+      "order": 120,
+      "titre": "Article 11"
+    },
+    "Article 11 bis": {
+      "amendements": [
+        {
+          "aut": "M. Masson",
+          "date": "2013-07-01",
+          "groupe": "NI",
+          "id_api": "66735",
+          "numero": "COM-1",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Masson",
+          "date": "2013-07-01",
+          "groupe": "NI",
+          "id_api": "66736",
+          "numero": "COM-2",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66784",
+          "numero": "COM-50",
+          "sort": "adopté"
+        }
+      ],
+      "order": 140,
+      "titre": "Article 11 bis"
+    },
+    "Article 11 bis A": {
+      "amendements": [
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66783",
+          "numero": "COM-49",
+          "sort": "adopté"
+        }
+      ],
+      "order": 130,
+      "titre": "Article 11 bis A"
+    },
+    "Article 11 ter": {
+      "amendements": [
+        {
+          "aut": "M. Leconte",
+          "date": "2013-06-28",
+          "groupe": "SOC",
+          "id_api": "66737",
+          "numero": "COM-3",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Leconte",
+          "date": "2013-06-28",
+          "groupe": "SOC",
+          "id_api": "66738",
+          "numero": "COM-4",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Kaltenbach",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66748",
+          "numero": "COM-14",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Lipietz",
+          "date": "2013-07-01",
+          "groupe": "NI",
+          "id_api": "66753",
+          "numero": "COM-19",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66786",
+          "numero": "COM-52",
+          "sort": "adopté"
+        }
+      ],
+      "order": 150,
+      "titre": "Article 11 ter"
+    },
+    "Article 12": {
+      "amendements": [
+        {
+          "aut": "Mme Lipietz",
+          "date": "2013-07-01",
+          "groupe": "NI",
+          "id_api": "66759",
+          "numero": "COM-25",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Lipietz",
+          "date": "2013-07-01",
+          "groupe": "NI",
+          "id_api": "66760",
+          "numero": "COM-26",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66785",
+          "numero": "COM-51",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66787",
+          "numero": "COM-53",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66788",
+          "numero": "COM-54",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66789",
+          "numero": "COM-55",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66790",
+          "numero": "COM-56",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66791",
+          "numero": "COM-57",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66792",
+          "numero": "COM-58",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66793",
+          "numero": "COM-59",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66794",
+          "numero": "COM-60",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Anziani, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66852",
+          "numero": "COM-118",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 160,
+      "titre": "Article 12"
+    },
+    "Article 13": {
+      "amendements": [
+        {
+          "aut": "Mme Lipietz",
+          "date": "2013-07-01",
+          "groupe": "NI",
+          "id_api": "66761",
+          "numero": "COM-27",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66795",
+          "numero": "COM-61",
+          "sort": "adopté"
+        }
+      ],
+      "order": 170,
+      "titre": "Article 13"
+    },
+    "Article 14": {
+      "amendements": [
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66796",
+          "numero": "COM-62",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66797",
+          "numero": "COM-63",
+          "sort": "adopté"
+        }
+      ],
+      "order": 180,
+      "titre": "Article 14"
+    },
+    "Article 15": {
+      "amendements": [
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66798",
+          "numero": "COM-64",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66799",
+          "numero": "COM-65",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66800",
+          "numero": "COM-66",
+          "sort": "adopté"
+        }
+      ],
+      "order": 190,
+      "titre": "Article 15"
+    },
+    "Article 17": {
+      "amendements": [
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66843",
+          "numero": "COM-109",
+          "sort": "adopté"
+        }
+      ],
+      "order": 210,
+      "titre": "Article 17"
+    },
+    "Article 18": {
+      "amendements": [
+        {
+          "aut": "Mme Lipietz",
+          "date": "2013-07-01",
+          "groupe": "NI",
+          "id_api": "66773",
+          "numero": "COM-39",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66824",
+          "numero": "COM-90",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66825",
+          "numero": "COM-91",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66826",
+          "numero": "COM-92",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66827",
+          "numero": "COM-93",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66828",
+          "numero": "COM-94",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Anziani, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66851",
+          "numero": "COM-117",
+          "sort": "adopté"
+        }
+      ],
+      "order": 220,
+      "titre": "Article 18"
+    },
+    "Article 19": {
+      "amendements": [
+        {
+          "aut": "Mme Lipietz",
+          "date": "2013-07-01",
+          "groupe": "NI",
+          "id_api": "66764",
+          "numero": "COM-30",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66829",
+          "numero": "COM-95",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66830",
+          "numero": "COM-96",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66831",
+          "numero": "COM-97",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Anziani, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66854",
+          "numero": "COM-120",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Anziani, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66855",
+          "numero": "COM-121",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 230,
+      "titre": "Article 19"
+    },
+    "Article 1er": {
+      "amendements": [
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66776",
+          "numero": "COM-42",
+          "sort": "adopté"
+        }
+      ],
+      "order": 10,
+      "titre": "Article 1er"
+    },
+    "Article 2": {
+      "amendements": [
+        {
+          "aut": "M. Kaltenbach",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66749",
+          "numero": "COM-15",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66777",
+          "numero": "COM-43",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66778",
+          "numero": "COM-44",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66779",
+          "numero": "COM-45",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66780",
+          "numero": "COM-46",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66781",
+          "numero": "COM-47",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66782",
+          "numero": "COM-48",
+          "sort": "adopté"
+        }
+      ],
+      "order": 20,
+      "titre": "Article 2"
+    },
+    "Article 2 bis": {
+      "amendements": [
+        {
+          "aut": "Mme Lipietz",
+          "date": "2013-07-01",
+          "groupe": "NI",
+          "id_api": "66766",
+          "numero": "COM-32",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Lipietz",
+          "date": "2013-07-01",
+          "groupe": "NI",
+          "id_api": "66767",
+          "numero": "COM-33",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66806",
+          "numero": "COM-72",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Tasca, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66845",
+          "numero": "COM-111",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Anziani, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66848",
+          "numero": "COM-114",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Anziani, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66853",
+          "numero": "COM-119",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Lipietz",
+          "date": "2013-07-02",
+          "groupe": "NI",
+          "id_api": "66876",
+          "numero": "COM-34",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 30,
+      "titre": "Article 2 bis"
+    },
+    "Article 20": {
+      "amendements": [
+        {
+          "aut": "Mme Lipietz",
+          "date": "2013-07-01",
+          "groupe": "NI",
+          "id_api": "66765",
+          "numero": "COM-31",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66832",
+          "numero": "COM-98",
+          "sort": "adopté"
+        }
+      ],
+      "order": 250,
+      "titre": "Article 20"
+    },
+    "Article 22": {
+      "amendements": [
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66803",
+          "numero": "COM-69",
+          "sort": "adopté"
+        }
+      ],
+      "order": 270,
+      "titre": "Article 22"
+    },
+    "Article 22 bis": {
+      "amendements": [
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66833",
+          "numero": "COM-99",
+          "sort": "adopté"
+        }
+      ],
+      "order": 280,
+      "titre": "Article 22 bis"
+    },
+    "Article 23": {
+      "amendements": [
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66802",
+          "numero": "COM-68",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66804",
+          "numero": "COM-70",
+          "sort": "adopté"
+        }
+      ],
+      "order": 290,
+      "titre": "Article 23"
+    },
+    "Article 24": {
+      "amendements": [
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66805",
+          "numero": "COM-71",
+          "sort": "adopté"
+        }
+      ],
+      "order": 310,
+      "titre": "Article 24"
+    },
+    "Article 3": {
+      "amendements": [
+        {
+          "aut": "Mme N. Goulet",
+          "date": "2013-06-30",
+          "groupe": "UC",
+          "id_api": "66739",
+          "numero": "COM-5",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme N. Goulet",
+          "date": "2013-06-30",
+          "groupe": "UC",
+          "id_api": "66741",
+          "numero": "COM-7",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme N. Goulet",
+          "date": "2013-06-30",
+          "groupe": "UC",
+          "id_api": "66742",
+          "numero": "COM-8",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66807",
+          "numero": "COM-73",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66808",
+          "numero": "COM-74",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66809",
+          "numero": "COM-75",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66810",
+          "numero": "COM-76",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66811",
+          "numero": "COM-77",
+          "sort": "adopté"
+        }
+      ],
+      "order": 40,
+      "titre": "Article 3"
+    },
+    "Article 4": {
+      "amendements": [
+        {
+          "aut": "Mme Lipietz",
+          "date": "2013-07-01",
+          "groupe": "NI",
+          "id_api": "66770",
+          "numero": "COM-36",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Lipietz",
+          "date": "2013-07-01",
+          "groupe": "NI",
+          "id_api": "66771",
+          "numero": "COM-37",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66812",
+          "numero": "COM-78",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66813",
+          "numero": "COM-79",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66814",
+          "numero": "COM-80",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66815",
+          "numero": "COM-81",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66816",
+          "numero": "COM-82",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66817",
+          "numero": "COM-83",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66818",
+          "numero": "COM-84",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Anziani, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66844",
+          "numero": "COM-110",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Anziani, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66846",
+          "numero": "COM-112",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Anziani, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66857",
+          "numero": "COM-123",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 50,
+      "titre": "Article 4"
+    },
+    "Article 5": {
+      "amendements": [
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66819",
+          "numero": "COM-85",
+          "sort": "adopté"
+        }
+      ],
+      "order": 60,
+      "titre": "Article 5"
+    },
+    "Article 6": {
+      "amendements": [
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66820",
+          "numero": "COM-86",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66821",
+          "numero": "COM-87",
+          "sort": "adopté"
+        }
+      ],
+      "order": 70,
+      "titre": "Article 6"
+    },
+    "Article 8": {
+      "amendements": [
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66822",
+          "numero": "COM-88",
+          "sort": "adopté"
+        }
+      ],
+      "order": 90,
+      "titre": "Article 8"
+    },
+    "Article 9": {
+      "amendements": [
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-01",
+          "groupe": "SOC",
+          "id_api": "66823",
+          "numero": "COM-89",
+          "sort": "adopté"
+        }
+      ],
+      "order": 100,
+      "titre": "Article 9"
+    }
+  }
+}

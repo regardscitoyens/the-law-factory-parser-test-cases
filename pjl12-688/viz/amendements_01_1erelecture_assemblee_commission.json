@@ -1,0 +1,798 @@
+{
+  "api_root_url": "https://2012-2017.nosdeputes.fr/api/document/Amendement/",
+  "groupes": {
+    "ECOLO": {
+      "color": "rgb(0,230,30)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/ECOLO",
+      "nom": "Écologiste",
+      "order": 13
+    },
+    "SRC": {
+      "color": "rgb(255,50,190)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/SRC",
+      "nom": "Socialiste, républicain et citoyen",
+      "order": 11
+    },
+    "UDI": {
+      "color": "rgb(30,180,255)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/UDI",
+      "nom": "Union des démocrates et indépendants",
+      "order": 15
+    },
+    "UMP": {
+      "color": "rgb(30,30,200)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/UMP",
+      "nom": "Union pour un mouvement populaire",
+      "order": 16
+    }
+  },
+  "id_step": "01_1erelecture_assemblee_commission",
+  "sujets": {
+    "Après l'article 1er": {
+      "amendements": [
+        {
+          "aut": "M. Tardy",
+          "date": "2013-06-03",
+          "groupe": "UMP",
+          "id_api": "24269",
+          "numero": "CL40",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 11,
+      "titre": "Après l'article 1er"
+    },
+    "Après l'article 2": {
+      "amendements": [
+        {
+          "aut": "M. Dosière, …",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24249",
+          "numero": "CL71",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24483",
+          "numero": "CL20",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24539",
+          "numero": "CL53",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24624",
+          "numero": "CL52",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-05-28",
+          "groupe": "SRC",
+          "id_api": "166006",
+          "numero": "CL27",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 21,
+      "titre": "Après l'article 2"
+    },
+    "Après l'article 3": {
+      "amendements": [
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-06-03",
+          "groupe": "ECOLO",
+          "id_api": "24251",
+          "numero": "CL64",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-06-03",
+          "groupe": "ECOLO",
+          "id_api": "24259",
+          "numero": "CL62",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 31,
+      "titre": "Après l'article 3"
+    },
+    "Après l'article 4": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24529",
+          "numero": "CL17",
+          "sort": "adopté"
+        }
+      ],
+      "order": 41,
+      "titre": "Après l'article 4"
+    },
+    "Après l'article 5": {
+      "amendements": [
+        {
+          "aut": "M. Gomes, …",
+          "date": "2013-06-03",
+          "groupe": "UDI",
+          "id_api": "24246",
+          "numero": "CL79",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24484",
+          "numero": "CL55",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24490",
+          "numero": "CL84",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24492",
+          "numero": "CL85",
+          "sort": "adopté"
+        }
+      ],
+      "order": 51,
+      "titre": "Après l'article 5"
+    },
+    "Article 1er": {
+      "amendements": [
+        {
+          "aut": "M. Dosière, …",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24239",
+          "numero": "CL69",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Poisson",
+          "date": "2013-06-03",
+          "groupe": "UMP",
+          "id_api": "24243",
+          "numero": "CL66",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bourdouleix, …",
+          "date": "2013-06-03",
+          "groupe": "UDI",
+          "id_api": "24244",
+          "numero": "CL82",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Dosière, …",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24245",
+          "numero": "CL68",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2013-06-03",
+          "groupe": "UMP",
+          "id_api": "24247",
+          "numero": "CL38",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Guy Geoffroy, …",
+          "date": "2013-06-03",
+          "groupe": "UMP",
+          "id_api": "24252",
+          "numero": "CL73",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Morel-A-L'Huissier",
+          "date": "2013-06-03",
+          "groupe": "UMP",
+          "id_api": "24255",
+          "numero": "CL76",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-06-03",
+          "groupe": "ECOLO",
+          "id_api": "24257",
+          "numero": "CL57",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Morel-A-L'Huissier",
+          "date": "2013-06-03",
+          "groupe": "UMP",
+          "id_api": "24260",
+          "numero": "CL77",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Morel-A-L'Huissier",
+          "date": "2013-06-03",
+          "groupe": "UMP",
+          "id_api": "24262",
+          "numero": "CL75",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bourdouleix, …",
+          "date": "2013-06-03",
+          "groupe": "UDI",
+          "id_api": "24263",
+          "numero": "CL83",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bourdouleix, …",
+          "date": "2013-06-03",
+          "groupe": "UDI",
+          "id_api": "24264",
+          "numero": "CL81",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2013-06-03",
+          "groupe": "UMP",
+          "id_api": "24265",
+          "numero": "CL35",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Dosière, …",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24266",
+          "numero": "CL72",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2013-06-03",
+          "groupe": "UMP",
+          "id_api": "24268",
+          "numero": "CL36",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2013-06-03",
+          "groupe": "UMP",
+          "id_api": "24271",
+          "numero": "CL37",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24485",
+          "numero": "CL28",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24486",
+          "numero": "CL22",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24487",
+          "numero": "CL5",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24488",
+          "numero": "CL54",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24491",
+          "numero": "CL50",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24494",
+          "numero": "CL13",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24495",
+          "numero": "CL49",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24496",
+          "numero": "CL7",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24497",
+          "numero": "CL39",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24498",
+          "numero": "CL4",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24499",
+          "numero": "CL3",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24500",
+          "numero": "CL8",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24501",
+          "numero": "CL1",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24503",
+          "numero": "CL87",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24504",
+          "numero": "CL15",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24505",
+          "numero": "CL67",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24510",
+          "numero": "CL32",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24515",
+          "numero": "CL30",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24527",
+          "numero": "CL33",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24530",
+          "numero": "CL16",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24537",
+          "numero": "CL2",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24560",
+          "numero": "CL12",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24561",
+          "numero": "CL21",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24562",
+          "numero": "CL63",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24566",
+          "numero": "CL34",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24572",
+          "numero": "CL51",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24575",
+          "numero": "CL31",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24584",
+          "numero": "CL19",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24585",
+          "numero": "CL14",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24599",
+          "numero": "CL10",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24612",
+          "numero": "CL9",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24615",
+          "numero": "CL29",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-04",
+          "groupe": "SRC",
+          "id_api": "24663",
+          "numero": "CL6",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Dosière",
+          "date": "2013-06-04",
+          "groupe": "SRC",
+          "id_api": "24664",
+          "numero": "CL89",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-06-04",
+          "groupe": "ECOLO",
+          "id_api": "24680",
+          "numero": "CL58",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-05-27",
+          "groupe": "SRC",
+          "id_api": "166004",
+          "numero": "CL24",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-05-27",
+          "groupe": "SRC",
+          "id_api": "166005",
+          "numero": "CL25",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 10,
+      "titre": "Article 1er"
+    },
+    "Article 2": {
+      "amendements": [
+        {
+          "aut": "M. Tardy",
+          "date": "2013-06-03",
+          "groupe": "UMP",
+          "id_api": "24240",
+          "numero": "CL48",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-06-03",
+          "groupe": "ECOLO",
+          "id_api": "24241",
+          "numero": "CL59",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-06-03",
+          "groupe": "ECOLO",
+          "id_api": "24242",
+          "numero": "CL60",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2013-06-03",
+          "groupe": "UMP",
+          "id_api": "24248",
+          "numero": "CL41",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-06-03",
+          "groupe": "ECOLO",
+          "id_api": "24253",
+          "numero": "CL61",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2013-06-03",
+          "groupe": "UMP",
+          "id_api": "24256",
+          "numero": "CL45",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2013-06-03",
+          "groupe": "UMP",
+          "id_api": "24258",
+          "numero": "CL47",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2013-06-03",
+          "groupe": "UMP",
+          "id_api": "24261",
+          "numero": "CL43",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2013-06-03",
+          "groupe": "UMP",
+          "id_api": "24267",
+          "numero": "CL46",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2013-06-03",
+          "groupe": "UMP",
+          "id_api": "24270",
+          "numero": "CL42",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Dosière, …",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24272",
+          "numero": "CL70",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2013-06-03",
+          "groupe": "UMP",
+          "id_api": "24273",
+          "numero": "CL44",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Morel-A-L'Huissier",
+          "date": "2013-06-03",
+          "groupe": "UMP",
+          "id_api": "24274",
+          "numero": "CL78",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24481",
+          "numero": "CL86",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24489",
+          "numero": "CL74",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24621",
+          "numero": "CL18",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24629",
+          "numero": "CL11",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-04",
+          "groupe": "SRC",
+          "id_api": "24656",
+          "numero": "CL88",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-04",
+          "groupe": "SRC",
+          "id_api": "24657",
+          "numero": "CL56",
+          "sort": "adopté"
+        }
+      ],
+      "order": 20,
+      "titre": "Article 2"
+    },
+    "Article 3": {
+      "amendements": [
+        {
+          "aut": "M. Dosière, …",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24250",
+          "numero": "CL65",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-06-03",
+          "groupe": "SRC",
+          "id_api": "24482",
+          "numero": "CL23",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-05-27",
+          "groupe": "SRC",
+          "id_api": "166007",
+          "numero": "CL26",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 30,
+      "titre": "Article 3"
+    },
+    "Article 5": {
+      "amendements": [
+        {
+          "aut": "M. Gomes, …",
+          "date": "2013-06-03",
+          "groupe": "UDI",
+          "id_api": "24254",
+          "numero": "CL80",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 50,
+      "titre": "Article 5"
+    }
+  }
+}

@@ -1,0 +1,537 @@
+{
+  "articles": [
+    {
+      "alineas": {
+        "001": "Les membres du Gouvernement, les personnes titulaires d'un mandat électif local ainsi que celles chargées d'une mission de service public exercent leurs fonctions avec dignité, probité et impartialité. Elles veillent à prévenir ou à faire cesser immédiatement tout conflit d'intérêts."
+      },
+      "order": 1,
+      "section": "C1",
+      "statut": "none",
+      "titre": "1er",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "Au sens de la présente loi, constitue un conflit d'intérêts toute situation d'interférence entre un intérêt public et des intérêts publics ou privés qui est de nature à compromettre ou paraître compromettre l'exercice indépendant, impartial et objectif d'une fonction.",
+        "002": "Lorsqu'ils estiment se trouver dans une telle situation :",
+        "003": "1° Les membres du Gouvernement se déportent dans des conditions fixées par décret ;",
+        "004": "2° Les membres des collèges d'une autorité administrative indépendante ou d'une autorité publique indépendante s'abstiennent de siéger. Les personnes qui exercent des compétences propres au sein de ces autorités sont suppléées suivant les règles de fonctionnement applicables à ces autorités ;",
+        "005": "3° Sous réserve des exceptions prévues au deuxième alinéa de l'article 432-12 du code pénal, les personnes titulaires de fonctions exécutives locales sont suppléées par leur délégataire, auquel elles s'abstiennent d'adresser des instructions ;",
+        "006": "4° Les personnes chargées d'une mission de service public qui ont reçu délégation de signature s'abstiennent d'en user ;",
+        "007": "5° Les personnes chargées d'une mission de service public placées sous l'autorité d'un supérieur hiérarchique le saisissent ; ce dernier apprécie s'il y a lieu de confier le dossier ou la décision à une autre personne."
+      },
+      "order": 2,
+      "section": "C1S1",
+      "statut": "none",
+      "titre": "2",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "Après l'article 4 ter de l'ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires, il est inséré un article 4 quater ainsi rédigé :",
+        "002": "\"Art. 4 quater. - Le Bureau de chaque assemblée définit des lignes directrices portant sur la prévention des conflits d'intérêts.\""
+      },
+      "order": 3,
+      "section": "C1S1",
+      "statut": "nouveau",
+      "titre": "2 bis",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "I. - Chacun des membres du Gouvernement, dans les deux mois qui suivent sa nomination, adresse personnellement au président de la Haute Autorité de la transparence de la vie publique, prévue à l'article 12 de la présente loi, une déclaration exhaustive, exacte et sincère de sa situation patrimoniale concernant la totalité de ses biens propres ainsi que, le cas échéant, ceux de la communauté ou les biens indivis. Ces biens sont évalués à la date du fait générateur de la déclaration comme en matière de droits de mutation à titre gratuit.",
+        "002": "Dans les mêmes conditions, chacun des membres du Gouvernement adresse au président de la Haute Autorité, ainsi qu'au Premier ministre, une déclaration faisant apparaître les intérêts détenus à la date de sa nomination et dans les cinq années précédant cette date. La même obligation s'applique en cas de modification des attributions d'un membre du Gouvernement.",
+        "003": "Durant l'exercice de ses fonctions, un membre du Gouvernement dont la situation patrimoniale ou les intérêts détenus connaissent une modification substantielle doit en faire, dans le délai d'un mois, déclaration à la Haute Autorité. S'il s'agit d'une modification substantielle des intérêts détenus, il en fait également déclaration au Premier ministre.",
+        "004": "Les obligations de déclaration prévues aux deux premiers alinéas s'appliquent à tout membre du Gouvernement dans les deux mois qui suivent la cessation de ses fonctions pour une cause autre que le décès. Les déclarations sont adressées personnellement au président de la Haute Autorité. La déclaration de situation patrimoniale comporte une récapitulation de l'ensemble des revenus perçus par le membre du Gouvernement et, le cas échéant, par la communauté depuis le début de l'exercice des fonctions de membre du Gouvernement.",
+        "005": "Le membre du Gouvernement peut joindre des observations à chacune de ses déclarations.",
+        "006": "Aucune nouvelle déclaration de situation patrimoniale n'est exigée du membre du Gouvernement qui a établi depuis moins de six mois une déclaration de situation patrimoniale en application du premier alinéa du présent article, de l'article 10 de la présente loi ou de l'article L. O. 135-1 du code électoral.",
+        "007": "I bis. - La déclaration de situation patrimoniale porte sur les éléments suivants :",
+        "008": "1° Les immeubles bâtis et non bâtis ;",
+        "009": "2° Les valeurs mobilières ;",
+        "010": "3° Les assurances-vie ;",
+        "011": "4° Les comptes bancaires courants ou d'épargne, les livrets et les autres produits d'épargne ;",
+        "012": "5° Les biens mobiliers divers ;",
+        "013": "6° Les véhicules terrestres à moteur, bateaux et avions ;",
+        "014": "7° Les fonds de commerce ou clientèles et les charges et offices ;",
+        "015": "8° Les biens mobiliers, immobiliers et les comptes détenus à l'étranger ;",
+        "016": "9° Les autres biens ;",
+        "017": "10° Le passif.",
+        "018": "Le cas échéant, la déclaration de situation patrimoniale précise, pour chaque élément mentionné aux 1° à 10° du présent I bis, s'il s'agit de biens propres, de biens de la communauté ou de biens indivis.",
+        "019": "Les déclarations de situation patrimoniale déposées en application du quatrième alinéa du I contiennent, en plus des éléments mentionnés aux 1° à 10° du présent I bis, une présentation des événements majeurs ayant affecté la composition du patrimoine depuis la précédente déclaration.",
+        "020": "I ter. - La déclaration d'intérêts porte sur les éléments suivants :",
+        "021": "1° Les activités professionnelles donnant lieu à rémunération exercées à la date de la déclaration ;",
+        "022": "2° Les activités professionnelles ayant donné lieu à rémunération exercées au cours des cinq dernières années ;",
+        "023": "3° Les activités de consultant exercées à la date de la déclaration et au cours des cinq dernières années ;",
+        "024": "4° Les participations détenues à la date de la déclaration ou lors des cinq dernières années dans les organes dirigeants d'un organisme public ou privé ou d'une société ;",
+        "025": "5° Les participations financières directes dans le capital d'une société, à la date de la déclaration ;",
+        "026": "6° Les activités professionnelles exercées à la date de la déclaration par le conjoint, le partenaire lié par un pacte civil de solidarité ou le concubin, les enfants et les parents ;",
+        "027": "7° Les fonctions bénévoles susceptibles de faire naître des conflits d'intérêts ;",
+        "028": "8° Les autres liens susceptibles de faire naître des conflits d'intérêts ;",
+        "029": "9° Les fonctions et mandats électifs exercés à la date de la déclaration.",
+        "030": "La déclaration précise le montant des rémunérations perçues par le membre du Gouvernement au titre des éléments mentionnés aux 1° à 5° et aux 8° et 9° du présent I ter.",
+        "031": "II. - Un décret en Conseil d'État, pris après avis de la Commission nationale de l'informatique et des libertés, précise le modèle et le contenu des déclarations prévues aux I à I ter et fixe leurs conditions de mise à jour et de conservation.",
+        "032": "III. - Le membre du Gouvernement atteste sur son honneur de l'exhaustivité, de l'exactitude et de la sincérité des déclarations mentionnées aux I à I ter.",
+        "033": "IV. - Lorsque son président n'a pas reçu les déclarations de situation patrimoniale ou d'intérêts dans les délais prévus au I, la Haute Autorité de la transparence de la vie publique adresse à l'intéressé une injonction tendant à ce qu'elles lui soient transmises dans un délai d'un mois à compter de la notification de l'injonction.",
+        "034": "La même procédure est applicable en cas de déclaration incomplète ou lorsqu'il n'a pas été donné suite à une demande d'explications adressée par la Haute Autorité en application du II de l'article 13."
+      },
+      "order": 4,
+      "section": "C1S2",
+      "statut": "none",
+      "titre": "3",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "I. - La Haute Autorité de la transparence de la vie publique transmet à l'administration fiscale la déclaration de situation patrimoniale mentionnée au premier alinéa du I de l'article 3. Celle-ci fournit à la Haute Autorité, dans les soixante jours suivant cette transmission, tous les éléments lui permettant d'apprécier l'exhaustivité, l'exactitude et la sincérité de la déclaration de situation patrimoniale, notamment, les avis d'imposition de l'intéressé à l'impôt sur le revenu et, le cas échéant, à l'impôt de solidarité sur la fortune.",
+        "002": "Dans un délai de trois semaines suivant la réception des éléments mentionnés au premier alinéa du présent I, la Haute Autorité rend publiques la déclaration de situation patrimoniale et la déclaration d'intérêts. Elle peut assortir cette publication de toute appréciation qu'elle estime utile quant à l'exhaustivité, à l'exactitude et à la sincérité de l'une ou l'autre déclaration, après avoir mis à même l'intéressé de présenter ses observations.",
+        "003": "II. - La procédure prévue au I est applicable à la déclaration de situation patrimoniale déposée après la cessation des fonctions gouvernementales en application du quatrième alinéa du I de l'article 3.",
+        "004": "III. - Ne peuvent être rendus publics les éléments des déclarations suivants :",
+        "005": "1° L'adresse personnelle de la personne soumise à déclaration ;",
+        "006": "2° Les noms du conjoint, du partenaire lié par un pacte civil de solidarité ou du concubin ;",
+        "007": "3° Les noms des autres membres de la famille.",
+        "008": "Ne peuvent être rendus publics s'agissant des biens immobiliers : les indications, autres que le nom du département, relatives à la localisation des biens ; les noms des personnes qui possédaient auparavant les biens mentionnés dans la déclaration ; pour les biens qui sont en situation d'indivision, les noms des autres propriétaires indivis ; pour les biens en nue-propriété : les noms des usufruitiers ; pour les biens en usufruit : les noms des nus-propriétaires.",
+        "009": "Ne peuvent être rendus publics s'agissant des biens mobiliers : les noms des personnes qui détenaient auparavant les biens mobiliers mentionnés dans la déclaration.",
+        "010": "Ne peuvent être rendus publics s'agissant des instruments financiers : les adresses des établissements financiers et les numéros des comptes détenus.",
+        "011": "Le cas échéant, l'évaluation rendue publique de la valeur des biens détenus en communauté correspond à la moitié de leur valeur vénale. Le cas échéant, l'évaluation rendue publique des biens indivis correspond à la part des droits indivis détenus par le déclarant.",
+        "012": "Les éléments mentionnés au présent III ne peuvent être communiqués qu'à la demande expresse du déclarant ou de ses ayants droit ou sur requête des autorités judiciaires lorsque leur communication est nécessaire à la solution du litige ou utile pour la découverte de la vérité.",
+        "013": "IV. - Au 1° du I de l'article 6 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal, après le mot : \"décision,\", sont insérés les mots : \"les documents élaborés ou détenus par la Haute Autorité de la transparence de la vie publique\".",
+        "014": "V. - Un décret en Conseil d'État, pris après avis de la Commission nationale de l'informatique et des libertés, précise les modalités d'application du présent article."
+      },
+      "order": 5,
+      "section": "C1S2",
+      "statut": "none",
+      "titre": "4",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "La Haute Autorité de la transparence de la vie publique peut demander à toute personne mentionnée à l'article 3 de la présente loi communication des déclarations qu'elle a souscrites en application des articles 170 à 175 A du code général des impôts et, le cas échéant, en application de l'article 885 W du même code.",
+        "002": "Elle peut, si elle l'estime utile, demander les déclarations, mentionnées au premier alinéa du présent article, souscrites par le conjoint séparé de biens, le partenaire lié par un pacte civil de solidarité ou le concubin de toute personne mentionnée à l'article 3.",
+        "003": "À défaut de communication dans un délai de deux mois des déclarations mentionnées aux deux premiers alinéas du présent article, elle peut demander à l'administration fiscale copie de ces mêmes déclarations, qui les lui transmet dans les soixante jours.",
+        "004": "La Haute Autorité peut demander à l'administration fiscale d'exercer le droit de communication prévu à la section I du chapitre II du titre II de la première partie du livre des procédures fiscales, en vue de recueillir toutes informations utiles à l'accomplissement de sa mission de contrôle. Ces informations sont transmises à la Haute Autorité dans les soixante jours suivant sa demande.",
+        "005": "Elle peut, aux mêmes fins, demander à l'administration fiscale de mettre en oeuvre les procédures d'assistance administrative internationale.",
+        "006": "Les agents de l'administration fiscale sont déliés du secret professionnel à l'égard des membres et des rapporteurs de la Haute Autorité, au titre des vérifications et contrôles qu'ils mettent en oeuvre pour l'application de la présente loi."
+      },
+      "order": 6,
+      "section": "C1S2",
+      "statut": "none",
+      "titre": "5",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "La Haute Autorité de la transparence de la vie publique apprécie la variation des situations patrimoniales des membres du Gouvernement telle qu'elle résulte de leurs déclarations, des observations qu'ils ont pu lui adresser ou des autres éléments dont elle dispose.",
+        "002": "Lorsqu'elle relève une évolution de situation patrimoniale pour laquelle elle ne dispose pas d'explications suffisantes, et après que la personne concernée a été mise en mesure de produire des explications, elle publie au Journal officiel un rapport spécial précisant l'évolution considérée et comprenant la réponse de la personne concernée.",
+        "003": "Elle transmet au procureur de la République le rapport spécial mentionné au deuxième alinéa et les pièces en sa possession relatives à cette évolution de situation patrimoniale, ainsi que l'ensemble des éléments relatif à tout crime ou délit dont elle a connaissance, en application de l'article 40 du code de procédure pénale."
+      },
+      "order": 7,
+      "section": "C1S2",
+      "statut": "none",
+      "titre": "6",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "Les instruments financiers détenus par les membres du Gouvernement et les présidents et membres des autorités administratives indépendantes et des autorités publiques indépendantes intervenant dans le domaine économique sont gérés dans des conditions excluant tout droit de regard de leur part, pendant la durée de leurs fonctions.",
+        "002": "Les conditions d'application du présent article sont fixées par décret en Conseil d'État."
+      },
+      "order": 8,
+      "section": "C1S2",
+      "statut": "none",
+      "titre": "7",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "Tout membre du Gouvernement, dès après sa nomination, fait l'objet d'une procédure de vérification de sa situation fiscale, dans les conditions prévues aux articles L. 10 et suivants du livre des procédures fiscales, au titre de l'impôt sur le revenu et, le cas échéant, de l'impôt de solidarité sur la fortune, placée sous le contrôle de la Haute Autorité de la transparence de la vie publique.",
+        "002": "Les conditions d'applications du présent article sont fixées par décret en Conseil d'État."
+      },
+      "order": 9,
+      "section": "C1S2",
+      "statut": "none",
+      "titre": "8",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "I. - (Supprimé)",
+        "002": "II. - Lorsqu'elle constate qu'une personne soumise aux obligations de déclaration prévues à l'article 3 se trouve en situation de conflit d'intérêts, la Haute Autorité lui enjoint de faire cesser cette situation.",
+        "003": "Elle peut décider de rendre publique cette injonction, après avoir mis à même la personne de faire valoir ses observations."
+      },
+      "order": 10,
+      "section": "C1S2",
+      "statut": "none",
+      "titre": "9",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "I. - Adressent également au président de la Haute Autorité de la transparence de la vie publique une déclaration de situation patrimoniale et une déclaration d'intérêts, établies dans les conditions prévues aux deux premiers alinéas du I et aux I bis et I ter de l'article 3, dans les deux mois qui suivent leur entrée en fonctions :",
+        "002": "1° A Le titulaire d'un mandat de représentant français au Parlement européen ;",
+        "003": "1° Le titulaire d'une fonction de président de conseil régional, de président de l'Assemblée de Corse, de président du conseil exécutif de Corse, de président de l'assemblée de Guyane, de président de l'assemblée de Martinique, de président du conseil exécutif de Martinique, de président d'une assemblée territoriale d'outre-mer, de président de conseil général, de président élu d'un exécutif d'une collectivité d'outre-mer, de maire d'une commune de plus de 20 000 habitants ou de président élu d'un groupement de communes doté d'une fiscalité propre dont la population excède 20 000 habitants ainsi que les présidents des autres groupements de communes dont les recettes ordinaires du dernier budget dépassent 5 millions d'euros ;",
+        "004": "2° Les conseillers régionaux, les conseillers à l'assemblée de Guyane, les conseillers à l'assemblée de Martinique, les conseillers exécutifs de Martinique, les conseillers exécutifs de Corse, les conseillers généraux et les adjoints aux maires des communes de plus de 100 000 habitants, lorsqu'ils sont titulaires, respectivement, d'une délégation de signature du président du conseil régional, du président du conseil exécutif, du président du conseil général ou du maire, dans les conditions fixées par la loi. Les délégations de signature sont notifiées sans délai par l'exécutif de chaque collectivité territoriale au président de la Haute Autorité de la transparence de la vie publique ;",
+        "005": "3° Les membres des cabinets ministériels et les collaborateurs du Président de la République qui font l'objet d'une nomination au Journal officiel ;",
+        "006": "3° bis Les collaborateurs du Président de l'Assemblée nationale et du Président du Sénat ;",
+        "007": "4° Les membres des autorités administratives indépendantes et des autorités publiques indépendantes ;",
+        "008": "5° Toute autre personne exerçant un emploi ou des fonctions à la décision du Gouvernement pour lesquels elle a été nommée en conseil des ministres.",
+        "009": "Les déclarations d'intérêts des personnes mentionnées aux 3° à 5° sont également adressées au président de l'autorité indépendante ou à l'autorité hiérarchique.",
+        "010": "Toute personne mentionnée aux 1° A à 2° présente une nouvelle déclaration de situation patrimoniale sept mois au plus tôt et six mois au plus tard avant la date normale d'expiration de son mandat ou de ses fonctions ou, en cas de démission, de révocation ou de dissolution de l'assemblée qu'elle préside, dans les deux mois qui suivent la fin de ses fonctions. La même obligation s'applique à chacune des personnes mentionnées aux 3° à 5° au plus tard deux mois suivant la date d'expiration de son mandat ou de ses fonctions. Cette déclaration comporte une récapitulation de l'ensemble des revenus perçus par la personne et, le cas échéant, par la communauté depuis le début du mandat en cours ou de l'exercice des fonctions.",
+        "011": "Aucune nouvelle déclaration n'est exigée de la personne qui a établi depuis moins de six mois une déclaration en application du présent article, de l'article 3 de la présente loi ou de l'article L. O. 135-1 du code électoral.",
+        "012": "Toute modification substantielle de la situation patrimoniale ou des intérêts détenus donne lieu, dans le délai d'un mois, à déclaration adressée dans les mêmes conditions.",
+        "013": "Toute personne mentionnée aux 1° A à 5° peut joindre des observations à chacune de ses déclarations.",
+        "014": "II. - Les obligations prévues au I sont applicables aux présidents et aux directeurs généraux :",
+        "015": "1° Des sociétés et autres personnes morales, quel que soit leur statut juridique, dans lesquelles plus de la moitié du capital social est détenue directement par l'État ;",
+        "016": "2° Des établissements publics de l'État à caractère industriel et commercial ;",
+        "017": "3° Des sociétés et autres personnes morales, quel que soit leur statut juridique, dans lesquelles plus de la moitié du capital social est détenue, directement ou indirectement, séparément ou ensemble, par les personnes mentionnées aux 1° et 2° et dont le chiffre d'affaires annuel, au titre du dernier exercice clos avant la date de nomination des intéressés, est supérieur à 10 millions d'euros ;",
+        "018": "4° Des offices publics de l'habitat mentionnés à l'article L. 421-1 du code de la construction et de l'habitation gérant un parc comprenant plus de 2 000 logements au 31 décembre de l'année précédant celle de la nomination des intéressés ;",
+        "019": "5° Des sociétés et autres personnes morales, quel que soit leur statut juridique, autres que celles mentionnées aux 1° et 3° du présent II, dont le chiffre d'affaires annuel, au titre du dernier exercice clos avant la date de nomination des intéressés, dépasse 750 000 €, dans lesquelles les collectivités régies par les titres XII et XIII de la Constitution, leurs groupements ou toute autre personne mentionnée aux 1° à 4° du présent II détiennent, directement ou indirectement, plus de la moitié du capital social ou qui sont mentionnées au 1° de l'article L. 1525-1 du code général des collectivités territoriales.",
+        "020": "La déclaration d'intérêts d'une personne mentionnée au présent II est également adressée au ministre qui a autorité sur l'intéressé ou qui exerce la tutelle de l'organisme.",
+        "021": "La nomination des personnes mentionnées au présent II est, le cas échéant, subordonnée à la justification du dépôt de la déclaration de situation patrimoniale exigible lors de la cessation de fonctions précédentes. Elle est considérée comme nulle si, à l'issue du délai de deux mois, l'une des déclarations prévues lors de l'entrée en fonctions en application du premier alinéa du I n'a pas été transmise à la Haute Autorité de la transparence de la vie publique.",
+        "022": "III. - Un décret en Conseil d'État, pris après avis de la Commission nationale de l'informatique et des libertés, précise le modèle et le contenu des déclarations prévues au présent article et fixe leurs conditions de mise à jour et de conservation.",
+        "023": "IV. - Le IV de l'article 3 et les articles 5 et 6 sont applicables aux personnes mentionnées au présent article. L'article 9 est applicable aux personnes mentionnées au présent article, à l'exclusion des personnes mentionnées au 1° A du I."
+      },
+      "order": 11,
+      "section": "C1S2",
+      "statut": "none",
+      "titre": "10",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "Les déclarations d'intérêts déposées en application de l'article 10 sont rendues publiques, dans les limites définies au III de l'article 4, par la Haute Autorité de la transparence de la vie publique, selon des modalités déterminées par décret en Conseil d'État, pris après avis de la Commission nationale de l'informatique et des libertés.",
+        "002": "Les déclarations de situation patrimoniale déposées par les personnes titulaires de fonctions exécutives locales mentionnées au 1° du I de l'article 10 sont, dans les limites définies au III de l'article 4, rendues publiques par la Haute Autorité de la transparence de la vie publique, dans les conditions prévues aux sept alinéas du présent article.",
+        "003": "Ces déclarations de situation patrimoniale sont, aux seules fins de consultation, tenues à la disposition des électeurs inscrits sur les listes électorales :",
+        "004": "1° À la préfecture du département d'élection de la personne concernée ;",
+        "005": "2° À la préfecture de Corse-du-Sud, pour le président de l'Assemblée de Corse et le président du conseil exécutif de Corse ;",
+        "006": "3° Au haut-commissariat, pour les personnes élues en Nouvelle-Calédonie ou en Polynésie française ;",
+        "007": "4° À la préfecture, pour les personnes élues dans les autres collectivités d'outre-mer régies par l'article 74 de la Constitution.",
+        "008": "Ces électeurs peuvent adresser à la Haute Autorité toute observation écrite relative aux déclarations qu'ils ont consultées.",
+        "009": "Le fait de publier ou de divulguer, de quelque manière que ce soit, tout ou partie des déclarations ou des observations prévues au I de l'article 10 est puni des peines mentionnées à l'article 226-1 du code pénal."
+      },
+      "order": 12,
+      "section": "C1S2",
+      "statut": "none",
+      "titre": "11",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "L'article 9 de la loi n° 88-227 du 11 mars 1988 relative à la transparence de la vie politique est ainsi modifié :",
+        "002": "1° Après le septième alinéa, il est inséré un alinéa ainsi rédigé :",
+        "003": "\"Un parlementaire, élu dans une circonscription autre que celle d'un département d'outre-mer et autre que Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin, Mayotte, la Nouvelle-Calédonie, la Polynésie française et les îles Wallis et Futuna ne peut pas s'inscrire ou se rattacher à un parti ou à un groupement politique qui n'a présenté des candidats, lors du plus récent renouvellement de l'Assemblée nationale, que dans un ou plusieurs départements d'outre-mer ou à Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin, Mayotte, en Nouvelle-Calédonie, en Polynésie française ou dans les îles Wallis et Futuna.\" ;",
+        "004": "2° L'avant-dernier alinéa est complété par une phrase ainsi rédigée :",
+        "005": "\"Ces déclarations sont publiées au Journal officiel.\""
+      },
+      "order": 13,
+      "section": "C1S2",
+      "statut": "nouveau",
+      "titre": "11 bis",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "L'article 11-4 de la même loi est ainsi modifié :",
+        "002": "1° Au premier alinéa, les mots : \"des personnes physiques dûment identifiées\" sont remplacés par les mots : \"une personne physique dûment identifiée\" et les mots : \"même parti politique\" sont remplacés par les mots : \"ou de plusieurs partis politiques\" ;",
+        "003": "2° Après le premier alinéa, il est inséré un alinéa ainsi rédigé :",
+        "004": "\"Le montant cumulé des dons visés au premier alinéa et des cotisations versées en qualité d'adhérent d'un ou de plusieurs partis politiques ne peut excéder le plafond de 7 500 € mentionné au premier alinéa. Par exception, ne sont pas prises en compte les cotisations versées par les titulaires de mandats électifs nationaux ou locaux. Ces cotisations ne peuvent excéder 25 % du montant des indemnités perçues au titre de ces mandats.\" ;",
+        "005": "3° Le troisième alinéa est complété par une phrase ainsi rédigée :",
+        "006": "\"Les associations de financement et les mandataires financiers communiquent chaque année à la Commission nationale des comptes de campagne et des financements politiques la liste des personnes ayant consenti annuellement un ou plusieurs dons d'une valeur totale supérieure à 3 000 €.\""
+      },
+      "order": 14,
+      "section": "C1S2",
+      "statut": "nouveau",
+      "titre": "11 ter",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "I. - La Haute Autorité de la transparence de la vie publique est une autorité administrative indépendante.",
+        "002": "Son président est nommé par décret du Président de la République.",
+        "003": "Outre son président, la Haute Autorité comprend :",
+        "004": "1° Deux conseillers d'État, en activité ou honoraires, élus par l'assemblée générale du Conseil d'État ;",
+        "005": "2° Deux conseillers à la Cour de cassation, en activité ou honoraires, élus par l'ensemble des magistrats du siège hors hiérarchie de la cour ;",
+        "006": "3° Deux conseillers-maîtres à la Cour des comptes, en activité ou honoraires, élus par la chambre du conseil.",
+        "007": "4° Deux personnalités qualifiées n'ayant pas exercé de fonctions de membre du Gouvernement, de mandat parlementaire ou de fonctions énumérées au I de l'article 10 depuis moins de trois ans, nommées chacune par le Président de l'Assemblée nationale, après avis conforme de la commission permanente de l'Assemblée chargée des lois constitutionnelles, rendu à la majorité des trois cinquièmes des suffrages exprimés ;",
+        "008": "5° Deux personnalités qualifiées n'ayant pas exercé de fonctions de membre du Gouvernement, de mandat parlementaire ou de fonctions énumérées au I de l'article 10 depuis moins de trois ans, nommées chacune par le Président du Sénat, après avis conforme de la commission permanente du Sénat chargée des lois constitutionnelles, rendu à la majorité des trois cinquièmes des suffrages exprimés.",
+        "009": "Les fonctions exercées par les membres mentionnés aux 4° et 5° ne sont pas rémunérées.",
+        "010": "Les modalités d'élection ou de désignation des membres mentionnés aux 1° à 5° assurent l'égale représentation des femmes et des hommes.",
+        "011": "En cas de vacance d'un siège de membre, pour quelque cause que ce soit, il est procédé à l'élection ou à la nomination, dans les conditions prévues au présent I, d'un nouveau membre pour la durée du mandat restant à courir. Par dérogation au I bis, si cette durée est inférieure à un an, le mandat du nouveau membre est renouvelable une fois.",
+        "012": "I bis. - Le mandat des membres de la Haute Autorité dure six ans et n'est pas renouvelable.",
+        "013": "Par dérogation au premier alinéa du présent I bis, lors de la première réunion de la Haute Autorité, sont tirées au sort :",
+        "014": "1° Parmi les institutions mentionnées au 1° à 3° du I, celle dont les deux membres élus effectueront un mandat de deux ans et celle dont les deux membres élus effectueront un mandat de quatre ans ;",
+        "015": "2° Parmi les institutions mentionnées aux 4° et 5°, celle dont les deux membres nommés effectueront un mandat de trois ans.",
+        "016": "II. - Le mandat des membres de la Haute Autorité est incompatible avec toute autre fonction ou tout autre mandat dont les titulaires sont assujettis aux obligations déclaratives prévues aux articles L. O. 135-1 et L. O. 296 du code électoral et aux articles 3 et 10 de la présente loi.",
+        "017": "Aucun membre de la Haute Autorité ne peut participer à une délibération ou procéder à des vérifications et contrôles relatifs à une personne ou à un membre d'un organisme à l'égard desquels il détient ou a détenu, au cours des trois années précédant la délibération ou les vérifications et contrôles, un intérêt, direct ou indirect.",
+        "018": "Les membres se conforment aux obligations de dépôt des déclarations prévues au 4° du I de l'article 10. Leurs déclarations de situation patrimoniale et leurs déclarations d'intérêts sont en outre tenues à la disposition de l'ensemble des autres membres de la Haute Autorité.",
+        "019": "Les membres de la Haute Autorité sont soumis au secret professionnel.",
+        "020": "III. - Le secrétaire général de la Haute Autorité est nommé par arrêté du Premier ministre, sur proposition de son président.",
+        "021": "La Haute Autorité est assistée de rapporteurs désignés par le vice-président du Conseil d'État parmi les membres, en activité ou honoraires, du Conseil d'État et du corps des conseillers de tribunaux administratifs et cours administratives d'appel, par le premier président de la Cour de cassation parmi les magistrats, en activité ou honoraires, de la Cour de cassation et des cours et tribunaux, par le premier président de la Cour des comptes parmi les magistrats, en activité ou honoraires, de la Cour des comptes et des chambres régionales des comptes. Elle peut également bénéficier pour l'accomplissement de ses missions de la mise à disposition de fonctionnaires. Les agents de la Haute Autorité sont soumis au secret professionnel.",
+        "022": "IV. - La Haute Autorité dispose des crédits nécessaires à l'accomplissement de ses missions.",
+        "023": "Elle arrête son budget sur proposition du secrétaire général. Le président de la Haute Autorité est ordonnateur des recettes et des dépenses.",
+        "024": "La loi du 10 août 1922 relative à l'organisation du contrôle des dépenses engagées ne lui est pas applicable. Les comptes de la Haute Autorité sont présentés au contrôle de la Cour des comptes.",
+        "025": "V. - Un décret en Conseil d'État fixe les modalités d'application du présent article.",
+        "026": "La Haute Autorité adopte un règlement général, déterminant les conditions de son fonctionnement et l'organisation de ses procédures."
+      },
+      "order": 15,
+      "section": "C1S3",
+      "statut": "none",
+      "titre": "12",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "I. - La Haute Autorité exerce les missions suivantes :",
+        "002": "1° Elle reçoit des membres du Gouvernement, en application de l'article 3, des députés et des sénateurs, en application de l'article L. O. 135-1 du code électoral, et des personnes mentionnées à l'article 10 leurs déclarations de situation patrimoniale et leurs déclarations d'intérêts, en assure la vérification, le contrôle et, le cas échéant, la publicité, dans les conditions prévues à la section 2 du présent chapitre ;",
+        "003": "1° bis Elle se prononce sur les situations pouvant constituer un conflit d'intérêts au sens de l'article 2, dans lesquelles peuvent se trouver les personnes mentionnées aux articles 3 et 10, et, le cas échéant, leur enjoint d'y mettre fin dans les conditions prévues à l'article 9 ;",
+        "004": "2° Elle répond aux demandes d'avis des personnes mentionnées au 1° du présent article sur les questions d'ordre déontologique qu'elles rencontrent dans l'exercice de leur mandat ou de leurs fonctions. Ces avis, ainsi que les documents sur la base desquels ils sont rendus, ne sont pas rendus publics ;",
+        "005": "3° Elle se prononce sur la compatibilité de l'exercice d'une activité libérale ou d'une activité rémunérée au sein d'un organisme ou d'une entreprise exerçant son activité dans un secteur concurrentiel conformément aux règles du droit privé avec des fonctions gouvernementales ou des fonctions exécutives locales énumérées au 1° du I de l'article 10 exercées au cours des trois années précédant le début de cette activité, en application de l'article 15 ;",
+        "006": "4° À la demande du Premier ministre ou de sa propre initiative, elle émet des recommandations pour l'application de la présente loi, qu'elle adresse au Premier ministre et aux autorités publiques intéressées qu'elle détermine. Elle définit, à ce titre, des lignes directrices portant sur les relations avec les représentants d'intérêts et la pratique des libéralités et avantages donnés et reçus dans l'exercice des fonctions et mandats mentionnés aux articles 3 et 10 de la présente loi.",
+        "007": "La Haute Autorité remet chaque année au Président de la République, au Premier ministre et au Parlement un rapport public rendant compte de l'exécution de ses missions. Ce rapport ne contient aucune information nominative autres que celles que la Haute Autorité a précédemment publiées en application des articles 6, 9 et 15. Il est publié au Journal officiel.",
+        "008": "II. - Lorsqu'il est constaté qu'une personne mentionnée aux articles 3 et 10 ne respecte pas ses obligations prévues aux articles 1er, 2, 3, 10 et 15, la Haute Autorité de la transparence de la vie publique peut se saisir d'office ou être saisie par le Premier ministre, le Président de l'Assemblée nationale ou le Président du Sénat.",
+        "009": "Elle peut également être saisie, dans les mêmes conditions, par les associations se proposant, par leurs statuts, de lutter contre la corruption qu'elle a préalablement agréées en application de critères objectifs définis par son règlement général.",
+        "010": "La Haute Autorité de la transparence de la vie publique peut demander aux personnes mentionnées aux articles 3, 10 et 15 toute explication ou tout document nécessaire à l'exercice de ses missions prévues au I du présent article. Elle peut entendre toute personne dont le concours lui paraît utile."
+      },
+      "order": 16,
+      "section": "C1S3",
+      "statut": "none",
+      "titre": "13",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "Lorsque la Haute Autorité constate qu'une personne mentionnée aux articles 3 ou 10 ne respecte pas les obligations prévues aux articles 1er, 2, 3 et 10, elle informe du manquement à l'obligation :",
+        "002": "1° Le Premier ministre, lorsqu'il s'agit d'un membre du Gouvernement ;",
+        "003": "2° Le Bureau du Parlement européen, lorsqu'il s'agit d'un représentant français au Parlement européen ;",
+        "004": "3° Le président du conseil régional, le président de l'assemblée, le président du conseil exécutif, le président du conseil général ou le maire, lorsqu'il s'agit d'une personne mentionnée au 2° du I de l'article 10 ;",
+        "005": "4° L'autorité hiérarchique, lorsqu'il s'agit d'une personne mentionnée aux 3° ou 3° bis du même I ;",
+        "006": "5° Le président de l'autorité indépendante, ainsi que l'autorité qui a procédé à la nomination, lorsqu'il s'agit d'une personne mentionnée au 4° dudit I ;",
+        "007": "6° Le ministre qui a autorité ou qui exerce la tutelle sur l'organisme concerné lorsqu'il s'agit d'une personne mentionnée au 5° dudit I ou au II de l'article 10."
+      },
+      "order": 17,
+      "section": "C1S3",
+      "statut": "none",
+      "titre": "14",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "I. - Au regard des exigences prévues à l'article 1er, la Haute Autorité se prononce sur la compatibilité de l'exercice d'une activité libérale ou d'une activité rémunérée au sein d'un organisme ou d'une entreprise exerçant son activité dans un secteur concurrentiel conformément aux règles du droit privé avec des fonctions gouvernementales ou des fonctions exécutives locales énumérées au 1° du I de l'article 10 exercées au cours des trois années précédant le début de cette activité.",
+        "002": "Afin d'assurer ce contrôle, la Haute Autorité est saisie :",
+        "003": "1° Soit par la personne concernée, préalablement au début de l'exercice de l'activité envisagée ;",
+        "004": "2° Soit par son président, dans un délai de deux mois à compter de la connaissance de l'exercice non autorisé d'une activité exercée dans les conditions prévues au premier alinéa du présent I.",
+        "005": "La Haute Autorité rend son avis dans un délai de trois semaines à compter de sa saisine, qui peut être porté à un mois par décision de son président. Avant de se prononcer, elle met la personne concernée en état de présenter ses observations.",
+        "006": "L'absence d'avis de la Haute Autorité dans ce délai vaut avis de compatibilité.",
+        "007": "II. - Les avis de compatibilité peuvent être assortis de réserves, prononcées pour une durée maximale de trois ans, qui s'imposent à la personne concernée.",
+        "008": "Lorsque la Haute Autorité rend un avis d'incompatibilité, la personne concernée ne peut pas exercer l'activité envisagée.",
+        "009": "La Haute Autorité notifie sa décision à la personne concernée et, le cas échéant, à l'organisme ou l'entreprise au sein duquel celle-ci exerce d'ores et déjà ses fonctions en violation du premier alinéa du I. Les actes et contrats conclus en vue de l'exercice de cette activité sont nuls de plein droit.",
+        "010": "Lorsqu'elle est saisie en application du 2° du I du présent article et qu'elle rend un avis d'incompatibilité, la Haute Autorité le rend public.",
+        "011": "Elle peut rendre un avis d'incompatibilité lorsqu'elle estime ne pas avoir obtenu de la personne concernée les informations nécessaires.",
+        "012": "III. - Par délégation de la Haute Autorité et dans les conditions prévues par son règlement général, le président de la Haute Autorité peut rendre un avis de compatibilité dans le cas où l'activité envisagée est manifestement compatible avec les fonctions antérieures de l'intéressé, ou un avis d'incompétence, d'irrecevabilité ou constatant qu'il n'y a pas lieu à statuer.",
+        "013": "IV. - Lorsqu'elle a connaissance de l'exercice, par une personne mentionnée au I, d'une activité exercée en violation d'un avis d'incompatibilité ou d'une activité exercée en violation des réserves prévues par un avis de compatibilité, et après que la personne concernée ait été mise en mesure de produire des explications, la Haute Autorité publie au Journal officiel un rapport spécial comprenant l'avis rendu, les éléments constitutifs de sa violation et les explications de la personne concernée.",
+        "014": "Elle transmet au procureur de la République le rapport spécial mentionné au premier alinéa du présent IV et les pièces en sa possession relatives à cette violation de son avis."
+      },
+      "order": 18,
+      "section": "C1S3",
+      "statut": "none",
+      "titre": "15",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "I. - (Supprimé)",
+        "002": "I bis. - À la fin du deuxième alinéa de l'article 6 de la loi n° 77-729 du 7 juillet 1977 relative à l'élection des représentants au Parlement européen, les mots : \"dans la position spéciale prévue par son statut\" sont remplacés par les mots : \"d'office, pendant la durée de son mandat, en position de disponibilité ou dans la position équivalente prévue par son statut ne lui permettant pas d'acquérir de droits à l'avancement et de droits à pension\".",
+        "003": "II. - Le deuxième alinéa de l'article 46 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'État, de l'article 65 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale et de l'article 53 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière est supprimé.",
+        "004": "III. - Le présent article entre en vigueur le 1er janvier 2014."
+      },
+      "order": 19,
+      "section": "C1S4",
+      "statut": "none",
+      "titre": "16",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "I. - Aucune personne ne peut ni être écartée d'une procédure de recrutement ou de l'accès à un stage ou à une période de formation professionnelle, ni être sanctionnée, licenciée ou faire l'objet d'une mesure discriminatoire, directe ou indirecte, notamment en matière de rémunération, de traitement, de formation, de reclassement, d'affectation, de qualification, de classification, de promotion professionnelle, de mutation ou de renouvellement de contrat, pour avoir relaté ou témoigné, de bonne foi, à son employeur, à l'autorité en charge de la déontologie au sein de l'organisme, à une association de lutte contre la corruption agréée en application du II de l'article 13 ou de l'article 2-23 du code de procédure pénale ou aux autorités judiciaires ou administratives de faits relatifs à une situation de conflit d'intérêts, telle que définie à l'article 2 de la présente loi, concernant l'une des personnes mentionnées aux articles 3 et 10 dont elle aurait eu connaissance dans l'exercice de ses fonctions.",
+        "002": "Toute rupture du contrat de travail qui en résulterait ou tout acte contraire est nul de plein droit.",
+        "003": "En cas de litige relatif à l'application des deux premiers alinéas du présent article, dès lors que la personne établit des faits qui permettent de présumer qu'elle a relaté ou témoigné, de bonne foi, de faits relatifs à une situation de conflit d'intérêts, il incombe à la partie défenderesse, au vu de ces faits, de prouver que sa décision est justifiée par des éléments objectifs étrangers à la déclaration ou au témoignage de la personne intéressée. Le juge peut ordonner toute mesure d'instruction utile.",
+        "004": "II. - Toute personne qui relate ou témoigne de faits relatifs à une situation de conflits d'intérêts, au sens du I du présent article, de mauvaise foi ou avec l'intention de nuire ou avec la connaissance au moins partielle de l'inexactitude des faits rendus publics ou diffusés est punie des peines prévues au premier alinéa de l'article 226-10 du code pénal."
+      },
+      "order": 20,
+      "section": "C1S5",
+      "statut": "none",
+      "titre": "17",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "I. - Le fait pour un membre du Gouvernement de produire, en application du III de l'article 3 de la présente loi, une attestation mensongère est puni d'une peine de cinq ans d'emprisonnement et de 75 000 € d'amende et, le cas échéant, de l'interdiction des droits civiques selon les modalités prévues aux articles 131-26 et 131-26-1 du code pénal, ainsi que de l'interdiction d'exercer une fonction publique selon les modalités prévues à l'article 131-27 du même code.",
+        "002": "II. - Le fait, pour une personne mentionnée aux articles 3 ou 10 de la présente loi, de ne pas déposer l'une des déclarations prévues à ces mêmes articles ou d'omettre de déclarer une partie substantielle de son patrimoine ou de ses intérêts ou de fournir une évaluation mensongère de son patrimoine est puni d'une peine de trois ans d'emprisonnement et de 45 000 € d'amende.",
+        "003": "Peuvent être prononcées, à titre complémentaire, l'interdiction des droits civiques selon les modalités prévues aux articles 131-26 et 131-26-1 du code pénal, ainsi que l'interdiction d'exercer une fonction publique selon les modalités prévues à l'article 131-27 du même code.",
+        "004": "III. - Le fait, pour une personne mentionnée aux articles 3, 10 ou 15, de ne pas déférer aux injonctions de la Haute Autorité de la transparence de la vie publique ou de ne pas lui communiquer les informations et pièces utiles à l'exercice de sa mission est puni d'un an d'emprisonnement et de 15 000 € d'amende.",
+        "005": "IV. - Le fait de publier, hors les cas prévus par la présente loi, ou de divulguer, de quelque manière que ce soit, tout ou partie des déclarations, des informations ou des observations mentionnées aux articles L. O. 135-1 et L. O. 135-3 du code électoral et aux articles 3, 5 et 10 de la présente loi est puni des peines mentionnées à l'article 226-1 du code pénal."
+      },
+      "order": 21,
+      "section": "C2",
+      "statut": "none",
+      "titre": "18",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "I. - Après l'article 131-26 du code pénal, il est inséré un article 131-26-1 ainsi rédigé :",
+        "002": "\"Art. 131-26-1. - Dans les cas prévus par la loi et par dérogation au septième alinéa de l'article 131-26, la peine d'inéligibilité mentionnée au 2° du même article peut être prononcée pour une durée de dix ans au plus à l'encontre d'une personne exerçant une fonction de membre du Gouvernement ou un mandat électif public au moment des faits.\"",
+        "003": "II. - À la fin du 1° de l'article 432-17 du code pénal, la référence : \"par l'article 131-26\" est remplacée par les références : \"aux articles 131-26 et 131-26-1\".",
+        "004": "III. - À la fin du premier alinéa de l'article L. 117 du code électoral, les mots : \"suivant les modalités prévues par cet article\" sont remplacés par les mots : \"ainsi que l'inéligibilité prévue à l'article 131-26-1 du même code suivant les modalités prévues à ces articles\".",
+        "005": "IV. - Le code général des impôts est ainsi modifié :",
+        "006": "1° Au troisième alinéa de l'article 1741 et à l'article 1774, la référence : \"par l'article 131-26\" est remplacée par les références : \"aux articles 131-26 et 131-26-1\" ;",
+        "007": "2° À la seconde phrase du premier alinéa du I de l'article 1837, les mots : \"l'article 131-26 du code pénal pour une durée de cinq ans au plus\" sont remplacés par les références : \"les articles 131-26 et 131-26-1 du code pénal\"."
+      },
+      "order": 22,
+      "section": "C2",
+      "statut": "none",
+      "titre": "19",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "Au premier alinéa de l'article 432-12 du code pénal, le mot : \"quelconque\" est remplacé par les mots : \", de nature à compromettre son indépendance, son impartialité ou son objectivité,\"."
+      },
+      "order": 23,
+      "section": "C2",
+      "statut": "nouveau",
+      "titre": "19 bis",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "Le premier alinéa de l'article 432-13 du code pénal est ainsi modifié :",
+        "002": "1° Les mots : \"deux ans d'emprisonnement et 30 000 euros\" sont remplacés par les mots : \"trois ans d'emprisonnement et 45 000 €\" ;",
+        "003": "2° Après les mots : \"en tant que\" sont insérés les mots : \"membre du Gouvernement, titulaire de fonctions exécutives locales,\"."
+      },
+      "order": 24,
+      "section": "C2",
+      "statut": "none",
+      "titre": "20",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "Après la trente-deuxième ligne du tableau annexé à la loi n° 2010-838 du 23 juillet 2010 relative à l'application du cinquième alinéa de l'article 13 de la Constitution, est insérée une ligne ainsi rédigée :",
+        "002": "<table><tbody><tr><td>\"</td><td>Président de la Haute Autorité de la transparence de la vie publique</td><td>Commission permanente compétente en matière de lois constitutionnelles</td><td>\"</td></tr></tbody></table>"
+      },
+      "order": 25,
+      "section": "C3",
+      "statut": "none",
+      "titre": "21",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "I. - Les articles 1er à 5-1 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique sont abrogés, sous réserve des dispositions du second alinéa du II du présent article.",
+        "002": "II. - Les archives et l'ensemble des documents en possession de la commission pour la transparence financière de la vie politique sont transférés à la Haute Autorité de la transparence de la vie publique pour l'exercice de ses missions.",
+        "003": "Les procédures en cours d'examen des déclarations de situation patrimoniale devant être déposées en application des articles 1er et 2 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique devant la commission pour la transparence financière de la vie politique, à la date d'entrée en vigueur de la présente loi, sont poursuivies par la Haute Autorité de la transparence de la vie publique, qui exerce à leur encontre les compétences de la commission prévues aux articles 1er à 5-1 de la même loi.",
+        "004": "III. - Le dernier alinéa de l'article L. 195 du code électoral est supprimé et le 4° de l'article L. 230, le 3° de l'article L. 340, le dernier alinéa de l'article L. 367 et le 3° de l'article L. 558-11 du même code sont abrogés."
+      },
+      "order": 26,
+      "section": "C3",
+      "statut": "none",
+      "titre": "22",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "L'article L. 139 B du livre des procédures fiscales est ainsi modifié :",
+        "002": "1° Les mots : \"Commission pour la transparence financière de la vie politique\" sont remplacés par les mots : \"Haute Autorité de la transparence de la vie publique\" ;",
+        "003": "2° Les mots : \", conformément au deuxième alinéa de\" sont remplacés par les mots : \"ou par son conjoint séparé de bien, son partenaire lié par un pacte civil de solidarité ou son concubin, en application de\" ;",
+        "004": "3° Après le mot : \"mentionnées\", la fin de l'article est ainsi rédigée : \"aux articles 3 et 10 de la loi n° du relative à la transparence de la vie publique, en application de l'article 5 de cette même loi\"."
+      },
+      "order": 27,
+      "section": "C3",
+      "statut": "nouveau",
+      "titre": "22 bis",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "Sous réserve de l'article 16, la présente loi entre en vigueur à la date de publication au Journal officiel du décret nommant le président de la Haute Autorité de la transparence de la vie publique.",
+        "002": "Dans les deux mois suivant cette date :",
+        "003": "1° Chacun des membres du Gouvernement établit une déclaration de situation patrimoniale et une déclaration d'intérêts suivant les modalités prévues à l'article 3 ;",
+        "004": "2° Chacune des personnes mentionnées à l'article 10 établit une déclaration de situation patrimoniale et une déclaration d'intérêts suivant les modalités prévues par ce même article."
+      },
+      "order": 28,
+      "section": "C3",
+      "statut": "none",
+      "titre": "23",
+      "type": "article"
+    },
+    {
+      "alineas": {
+        "001": "I. - La présente loi est applicable sur l'ensemble du territoire de la République, à l'exception du II de l'article 16, en tant qu'il supprime le deuxième alinéa des articles 65 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale et de l'article 53 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière, et du IV de l'article 19.",
+        "002": "II. - (Supprimé)"
+      },
+      "order": 29,
+      "section": "C3",
+      "statut": "none",
+      "titre": "24",
+      "type": "article"
+    }
+  ],
+  "definitif": false,
+  "depot": false,
+  "expose": "",
+  "id": "A14-1109",
+  "nosdeputes_id": "1109",
+  "sections": [
+    {
+      "id": "C1",
+      "titre": "La prévention des conflits d'intérêts et la transparence dans la vie publique",
+      "type": "section",
+      "type_section": "chapitre"
+    },
+    {
+      "id": "C1S1",
+      "titre": "Obligations d'abstention",
+      "type": "section",
+      "type_section": "section"
+    },
+    {
+      "id": "C1S2",
+      "titre": "Obligations de déclaration",
+      "type": "section",
+      "type_section": "section"
+    },
+    {
+      "id": "C1S3",
+      "titre": "La haute autorité de la transparence de la vie publique",
+      "type": "section",
+      "type_section": "section"
+    },
+    {
+      "id": "C1S4",
+      "titre": "Position des fonctionnaires exerçant un mandat parlementaire",
+      "type": "section",
+      "type_section": "section"
+    },
+    {
+      "id": "C1S5",
+      "titre": "Protection des lanceurs d'alerte",
+      "type": "section",
+      "type_section": "section"
+    },
+    {
+      "id": "C2",
+      "titre": "Dispositions pénales",
+      "type": "section",
+      "type_section": "chapitre"
+    },
+    {
+      "id": "C3",
+      "titre": "Dispositions finales",
+      "type": "section",
+      "type_section": "chapitre"
+    }
+  ],
+  "source": "http://www.assemblee-nationale.fr/14/ta-commission/r1109-a0.asp",
+  "titre": "N° 1109 annexe 0 - Rapport sur le projet de loi , après engagement de la procédure accélérée, relatif à la transparence de la vie publique (n°1005)",
+  "type": "texte"
+}

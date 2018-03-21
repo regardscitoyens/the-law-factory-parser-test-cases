@@ -1,0 +1,506 @@
+{
+  "api_root_url": "https://2012-2017.nosdeputes.fr/api/document/Amendement/",
+  "groupes": {
+    "ECOLO": {
+      "color": "rgb(0,230,30)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/ECOLO",
+      "nom": "Écologiste",
+      "order": 13
+    },
+    "SRC": {
+      "color": "rgb(255,50,190)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/SRC",
+      "nom": "Socialiste, républicain et citoyen",
+      "order": 11
+    }
+  },
+  "id_step": "08_nouv.lect._assemblee_commission",
+  "sujets": {
+    "Article 10": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31160",
+          "numero": "CL15",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31169",
+          "numero": "CL16",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31171",
+          "numero": "CL6",
+          "sort": "adopté"
+        }
+      ],
+      "order": 5,
+      "titre": "Article 10"
+    },
+    "Article 11": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31183",
+          "numero": "CL24",
+          "sort": "adopté"
+        }
+      ],
+      "order": 6,
+      "titre": "Article 11"
+    },
+    "Article 11 bis": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31167",
+          "numero": "CL26",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31178",
+          "numero": "CL25",
+          "sort": "adopté"
+        }
+      ],
+      "order": 8,
+      "titre": "Article 11 bis"
+    },
+    "Article 11 bis A": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31172",
+          "numero": "CL1",
+          "sort": "adopté"
+        }
+      ],
+      "order": 7,
+      "titre": "Article 11 bis A"
+    },
+    "Article 11 quater": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31149",
+          "numero": "CL29",
+          "sort": "adopté"
+        }
+      ],
+      "order": 11,
+      "titre": "Article 11 quater"
+    },
+    "Article 11 quater A": {
+      "amendements": [
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-07-17",
+          "groupe": "ECOLO",
+          "id_api": "31144",
+          "numero": "CL33",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31148",
+          "numero": "CL28",
+          "sort": "adopté"
+        }
+      ],
+      "order": 10,
+      "titre": "Article 11 quater A"
+    },
+    "Article 11 quinquies": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31174",
+          "numero": "CL30",
+          "sort": "adopté"
+        }
+      ],
+      "order": 12,
+      "titre": "Article 11 quinquies"
+    },
+    "Article 11 ter": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31156",
+          "numero": "CL27",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-07-17",
+          "groupe": "ECOLO",
+          "id_api": "31173",
+          "numero": "CL42",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-07-17",
+          "groupe": "ECOLO",
+          "id_api": "163152",
+          "numero": "CL41",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 9,
+      "titre": "Article 11 ter"
+    },
+    "Article 12": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31145",
+          "numero": "CL2",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-07-17",
+          "groupe": "ECOLO",
+          "id_api": "31146",
+          "numero": "CL34",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31166",
+          "numero": "CL3",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31181",
+          "numero": "CL4",
+          "sort": "adopté"
+        }
+      ],
+      "order": 13,
+      "titre": "Article 12"
+    },
+    "Article 13": {
+      "amendements": [
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-07-17",
+          "groupe": "ECOLO",
+          "id_api": "31154",
+          "numero": "CL35",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31164",
+          "numero": "CL7",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31182",
+          "numero": "CL5",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31184",
+          "numero": "CL14",
+          "sort": "adopté"
+        }
+      ],
+      "order": 14,
+      "titre": "Article 13"
+    },
+    "Article 13 ter": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31158",
+          "numero": "CL8",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-07-17",
+          "groupe": "ECOLO",
+          "id_api": "31163",
+          "numero": "CL36",
+          "sort": "adopté"
+        }
+      ],
+      "order": 15,
+      "titre": "Article 13 ter"
+    },
+    "Article 15": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31152",
+          "numero": "CL9",
+          "sort": "adopté"
+        }
+      ],
+      "order": 16,
+      "titre": "Article 15"
+    },
+    "Article 17": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31151",
+          "numero": "CL10",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-07-17",
+          "groupe": "ECOLO",
+          "id_api": "31153",
+          "numero": "CL37",
+          "sort": "adopté"
+        }
+      ],
+      "order": 18,
+      "titre": "Article 17"
+    },
+    "Article 18": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31176",
+          "numero": "CL31",
+          "sort": "adopté"
+        }
+      ],
+      "order": 19,
+      "titre": "Article 18"
+    },
+    "Article 19": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31155",
+          "numero": "CL11",
+          "sort": "adopté"
+        }
+      ],
+      "order": 20,
+      "titre": "Article 19"
+    },
+    "Article 19 bis": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31150",
+          "numero": "CL12",
+          "sort": "adopté"
+        }
+      ],
+      "order": 21,
+      "titre": "Article 19 bis"
+    },
+    "Article 2": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31161",
+          "numero": "CL22",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31168",
+          "numero": "CL23",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31180",
+          "numero": "CL21",
+          "sort": "adopté"
+        }
+      ],
+      "order": 0,
+      "titre": "Article 2"
+    },
+    "Article 20": {
+      "amendements": [
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-07-17",
+          "groupe": "ECOLO",
+          "id_api": "31165",
+          "numero": "CL39",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 22,
+      "titre": "Article 20"
+    },
+    "Article 22 bis": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31162",
+          "numero": "CL32",
+          "sort": "adopté"
+        }
+      ],
+      "order": 23,
+      "titre": "Article 22 bis"
+    },
+    "Article 23": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31175",
+          "numero": "CL13",
+          "sort": "adopté"
+        }
+      ],
+      "order": 24,
+      "titre": "Article 23"
+    },
+    "Article 3": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31177",
+          "numero": "CL20",
+          "sort": "adopté"
+        }
+      ],
+      "order": 1,
+      "titre": "Article 3"
+    },
+    "Article 4": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31147",
+          "numero": "CL19",
+          "sort": "adopté"
+        }
+      ],
+      "order": 2,
+      "titre": "Article 4"
+    },
+    "Article 5": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31170",
+          "numero": "CL18",
+          "sort": "adopté"
+        }
+      ],
+      "order": 3,
+      "titre": "Article 5"
+    },
+    "Article 6": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31179",
+          "numero": "CL17",
+          "sort": "adopté"
+        }
+      ],
+      "order": 4,
+      "titre": "Article 6"
+    },
+    "Avant l'article 17": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-17",
+          "groupe": "SRC",
+          "id_api": "31157",
+          "numero": "CL40",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-07-17",
+          "groupe": "ECOLO",
+          "id_api": "31159",
+          "numero": "CL38",
+          "sort": "adopté"
+        }
+      ],
+      "order": 17,
+      "titre": "Avant l'article 17"
+    }
+  }
+}

@@ -1,0 +1,1168 @@
+{
+  "api_root_url": "https://www.nossenateurs.fr/api/document/Amendement/",
+  "groupes": {
+    "CRCE": {
+      "color": "rgb(255,30,30)",
+      "link": "https://www.nossenateurs.fr/groupe/CRCE",
+      "nom": "Communiste républicain citoyen et Écologiste",
+      "order": 10
+    },
+    "ECOLO": {
+      "color": "rgb(0,230,30)",
+      "link": "https://www.nossenateurs.fr/groupe/ECOLO",
+      "nom": "Écologiste",
+      "order": 16
+    },
+    "LR": {
+      "color": "rgb(30,30,200)",
+      "link": "https://www.nossenateurs.fr/groupe/LR",
+      "nom": "Les Républicains",
+      "order": 24
+    },
+    "NI": {
+      "color": "rgb(165,165,165)",
+      "link": "https://www.nossenateurs.fr/groupe/NI",
+      "nom": "Réunion administrative des Sénateurs ne figurant sur la liste d'aucun groupe politique",
+      "order": 25
+    },
+    "RDSE": {
+      "color": "rgb(250,195,132)",
+      "link": "https://www.nossenateurs.fr/groupe/RDSE",
+      "nom": "Rassemblement Démocratique et Social européen",
+      "order": 17
+    },
+    "SOC": {
+      "color": "rgb(255,50,190)",
+      "link": "https://www.nossenateurs.fr/groupe/SOC",
+      "nom": "Socialiste et républicain",
+      "order": 14
+    },
+    "UC": {
+      "color": "rgb(130,140,255)",
+      "link": "https://www.nossenateurs.fr/groupe/UC",
+      "nom": "Union Centriste",
+      "order": 20
+    }
+  },
+  "id_step": "05_1erelecture_senat_hemicycle",
+  "sujets": {
+    "Après l'article 2": {
+      "amendements": [
+        {
+          "aut": "MM. Collombat, …",
+          "date": "2013-07-09",
+          "groupe": "RDSE",
+          "id_api": "67338",
+          "numero": "65",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Mézard, …",
+          "date": "2013-07-09",
+          "groupe": "RDSE",
+          "id_api": "67339",
+          "numero": "66",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Zocchetto, …",
+          "date": "2013-07-09",
+          "groupe": "UC",
+          "id_api": "67353",
+          "numero": "103",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 31,
+      "titre": "Après l'article 2"
+    },
+    "Après l'article 2 bis": {
+      "amendements": [
+        {
+          "aut": "Mme Lipietz, …",
+          "date": "2013-07-08",
+          "groupe": "NI",
+          "id_api": "67089",
+          "numero": "86",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Lipietz, …",
+          "date": "2013-07-08",
+          "groupe": "NI",
+          "id_api": "67090",
+          "numero": "87",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Lipietz, …",
+          "date": "2013-07-08",
+          "groupe": "NI",
+          "id_api": "67091",
+          "numero": "88",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Lipietz, …",
+          "date": "2013-07-08",
+          "groupe": "NI",
+          "id_api": "67095",
+          "numero": "92",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Assassi, …",
+          "date": "2013-07-08",
+          "groupe": "CRCE",
+          "id_api": "67117",
+          "numero": "115",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 51,
+      "titre": "Après l'article 2 bis"
+    },
+    "Après l'article 7 bis": {
+      "amendements": [
+        {
+          "aut": "Mme Lipietz, …",
+          "date": "2013-07-08",
+          "groupe": "NI",
+          "id_api": "67094",
+          "numero": "91",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 161,
+      "titre": "Après l'article 7 bis"
+    },
+    "Après l'article 8": {
+      "amendements": [
+        {
+          "aut": "MM. Mézard, …",
+          "date": "2013-07-09",
+          "groupe": "RDSE",
+          "id_api": "67340",
+          "numero": "67",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 171,
+      "titre": "Après l'article 8"
+    },
+    "Article 1er": {
+      "amendements": [
+        {
+          "aut": "Mme N. Goulet",
+          "date": "2013-07-04",
+          "groupe": "UC",
+          "id_api": "67035",
+          "numero": "4",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme N. Goulet",
+          "date": "2013-07-09",
+          "groupe": "UC",
+          "id_api": "67291",
+          "numero": "5",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme N. Goulet",
+          "date": "2013-07-05",
+          "groupe": "UC",
+          "id_api": "66895",
+          "numero": "6",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme N. Goulet",
+          "date": "2013-07-05",
+          "groupe": "UC",
+          "id_api": "66896",
+          "numero": "7",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67292",
+          "numero": "8",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67293",
+          "numero": "9",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67294",
+          "numero": "10",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67295",
+          "numero": "11",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67296",
+          "numero": "12",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67297",
+          "numero": "13",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67298",
+          "numero": "14",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67299",
+          "numero": "15",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67300",
+          "numero": "16",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67301",
+          "numero": "17",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67302",
+          "numero": "18",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67303",
+          "numero": "19",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67304",
+          "numero": "20",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67305",
+          "numero": "21",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67306",
+          "numero": "22",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67307",
+          "numero": "23",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67308",
+          "numero": "24",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67309",
+          "numero": "25",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67310",
+          "numero": "26",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67311",
+          "numero": "27",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67312",
+          "numero": "28",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Deroche, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67316",
+          "numero": "32",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Longuet, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67317",
+          "numero": "33",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Longuet, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67318",
+          "numero": "34",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Longuet",
+          "date": "2013-07-08",
+          "groupe": "LR",
+          "id_api": "67038",
+          "numero": "35",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Longuet, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67319",
+          "numero": "36",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Longuet, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67320",
+          "numero": "37",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Longuet",
+          "date": "2013-07-08",
+          "groupe": "LR",
+          "id_api": "67041",
+          "numero": "38",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Longuet, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67321",
+          "numero": "39",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Longuet, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67322",
+          "numero": "40",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Longuet, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67323",
+          "numero": "41",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Longuet",
+          "date": "2013-07-08",
+          "groupe": "LR",
+          "id_api": "67045",
+          "numero": "42",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Longuet",
+          "date": "2013-07-08",
+          "groupe": "LR",
+          "id_api": "67046",
+          "numero": "43",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Longuet",
+          "date": "2013-07-08",
+          "groupe": "LR",
+          "id_api": "67047",
+          "numero": "44",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Longuet",
+          "date": "2013-07-08",
+          "groupe": "LR",
+          "id_api": "67048",
+          "numero": "45",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Longuet",
+          "date": "2013-07-08",
+          "groupe": "LR",
+          "id_api": "67049",
+          "numero": "46",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Longuet, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67324",
+          "numero": "47",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Leconte",
+          "date": "2013-07-08",
+          "groupe": "SOC",
+          "id_api": "67054",
+          "numero": "51",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme N. Goulet",
+          "date": "2013-07-06",
+          "groupe": "UC",
+          "id_api": "67055",
+          "numero": "52",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme N. Goulet",
+          "date": "2013-07-06",
+          "groupe": "UC",
+          "id_api": "67056",
+          "numero": "53",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Mézard, …",
+          "date": "2013-07-09",
+          "groupe": "RDSE",
+          "id_api": "67327",
+          "numero": "54",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Collombat, …",
+          "date": "2013-07-09",
+          "groupe": "RDSE",
+          "id_api": "67328",
+          "numero": "55",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Collombat, …",
+          "date": "2013-07-09",
+          "groupe": "RDSE",
+          "id_api": "67329",
+          "numero": "56",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Collombat, …",
+          "date": "2013-07-09",
+          "groupe": "RDSE",
+          "id_api": "67330",
+          "numero": "57",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Mézard, …",
+          "date": "2013-07-09",
+          "groupe": "RDSE",
+          "id_api": "67331",
+          "numero": "58",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Collombat, …",
+          "date": "2013-07-09",
+          "groupe": "RDSE",
+          "id_api": "67332",
+          "numero": "59",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Collombat, …",
+          "date": "2013-07-09",
+          "groupe": "RDSE",
+          "id_api": "67333",
+          "numero": "60",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Collombat, …",
+          "date": "2013-07-09",
+          "groupe": "RDSE",
+          "id_api": "67341",
+          "numero": "68",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Maurey, …",
+          "date": "2013-07-09",
+          "groupe": "UC",
+          "id_api": "67342",
+          "numero": "69",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Maurey, …",
+          "date": "2013-07-09",
+          "groupe": "UC",
+          "id_api": "67343",
+          "numero": "70",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Maurey, …",
+          "date": "2013-07-09",
+          "groupe": "UC",
+          "id_api": "67345",
+          "numero": "72",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Maurey, …",
+          "date": "2013-07-09",
+          "groupe": "UC",
+          "id_api": "67346",
+          "numero": "73",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Pozzo di Borgo, …",
+          "date": "2013-07-09",
+          "groupe": "UC",
+          "id_api": "67347",
+          "numero": "75",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Pozzo di Borgo, …",
+          "date": "2013-07-09",
+          "groupe": "UC",
+          "id_api": "67348",
+          "numero": "76",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Lipietz, …",
+          "date": "2013-07-08",
+          "groupe": "NI",
+          "id_api": "67080",
+          "numero": "77",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Lipietz, …",
+          "date": "2013-07-08",
+          "groupe": "NI",
+          "id_api": "67082",
+          "numero": "79",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Lipietz, …",
+          "date": "2013-07-08",
+          "groupe": "NI",
+          "id_api": "67083",
+          "numero": "80",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Ango Ela, …",
+          "date": "2013-07-09",
+          "groupe": "ECOLO",
+          "id_api": "67349",
+          "numero": "90",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Lipietz, …",
+          "date": "2013-07-08",
+          "groupe": "NI",
+          "id_api": "67097",
+          "numero": "94",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. de Montgolfier, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67350",
+          "numero": "95",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Anziani, …",
+          "date": "2013-07-08",
+          "groupe": "SOC",
+          "id_api": "67099",
+          "numero": "96",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Anziani, …",
+          "date": "2013-07-08",
+          "groupe": "SOC",
+          "id_api": "67100",
+          "numero": "97",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Anziani, …",
+          "date": "2013-07-08",
+          "groupe": "SOC",
+          "id_api": "67101",
+          "numero": "98",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Anziani, …",
+          "date": "2013-07-08",
+          "groupe": "SOC",
+          "id_api": "67102",
+          "numero": "99",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Zocchetto, …",
+          "date": "2013-07-09",
+          "groupe": "UC",
+          "id_api": "67351",
+          "numero": "101",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Mercier, …",
+          "date": "2013-07-09",
+          "groupe": "UC",
+          "id_api": "67352",
+          "numero": "102",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. de Montgolfier, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67354",
+          "numero": "104",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Assassi, …",
+          "date": "2013-07-08",
+          "groupe": "CRCE",
+          "id_api": "67109",
+          "numero": "107",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Assassi, …",
+          "date": "2013-07-08",
+          "groupe": "CRCE",
+          "id_api": "67110",
+          "numero": "108",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Assassi, …",
+          "date": "2013-07-08",
+          "groupe": "CRCE",
+          "id_api": "67111",
+          "numero": "109",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Assassi, …",
+          "date": "2013-07-09",
+          "groupe": "CRCE",
+          "id_api": "67356",
+          "numero": "110",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Collombat, …",
+          "date": "2013-07-09",
+          "groupe": "RDSE",
+          "id_api": "67358",
+          "numero": "121",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Longuet, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67359",
+          "numero": "122",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-09",
+          "groupe": "SOC",
+          "id_api": "67361",
+          "numero": "125",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-09",
+          "groupe": "SOC",
+          "id_api": "67362",
+          "numero": "126",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-09",
+          "groupe": "SOC",
+          "id_api": "67363",
+          "numero": "127",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-09",
+          "groupe": "SOC",
+          "id_api": "67364",
+          "numero": "128",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-09",
+          "groupe": "SOC",
+          "id_api": "67365",
+          "numero": "129",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-09",
+          "groupe": "SOC",
+          "id_api": "67366",
+          "numero": "130",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-09",
+          "groupe": "SOC",
+          "id_api": "67367",
+          "numero": "131",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Zocchetto, …",
+          "date": "2013-07-09",
+          "groupe": "UC",
+          "id_api": "67369",
+          "numero": "135",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Assassi, …",
+          "date": "2013-07-09",
+          "groupe": "CRCE",
+          "id_api": "67370",
+          "numero": "136",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 20,
+      "titre": "Article 1er"
+    },
+    "Article 1er A": {
+      "amendements": [
+        {
+          "aut": "M. Longuet",
+          "date": "2013-07-08",
+          "groupe": "LR",
+          "id_api": "67122",
+          "numero": "123",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 10,
+      "titre": "Article 1er A"
+    },
+    "Article 2": {
+      "amendements": [
+        {
+          "aut": "MM. Hyest, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67313",
+          "numero": "29",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme N. Goulet, …",
+          "date": "2013-07-09",
+          "groupe": "UC",
+          "id_api": "67315",
+          "numero": "31",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Longuet, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67325",
+          "numero": "48",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Longuet",
+          "date": "2013-07-08",
+          "groupe": "LR",
+          "id_api": "67052",
+          "numero": "49",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Longuet, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67326",
+          "numero": "50",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Mézard, …",
+          "date": "2013-07-09",
+          "groupe": "RDSE",
+          "id_api": "67334",
+          "numero": "61",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Mézard, …",
+          "date": "2013-07-09",
+          "groupe": "RDSE",
+          "id_api": "67335",
+          "numero": "62",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Mézard, …",
+          "date": "2013-07-09",
+          "groupe": "RDSE",
+          "id_api": "67336",
+          "numero": "63",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Mézard, …",
+          "date": "2013-07-09",
+          "groupe": "RDSE",
+          "id_api": "67337",
+          "numero": "64",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Maurey, …",
+          "date": "2013-07-09",
+          "groupe": "UC",
+          "id_api": "67344",
+          "numero": "71",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Pozzo di Borgo",
+          "date": "2013-07-08",
+          "groupe": "UC",
+          "id_api": "67077",
+          "numero": "74",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Lipietz, …",
+          "date": "2013-07-08",
+          "groupe": "NI",
+          "id_api": "67084",
+          "numero": "81",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Lipietz, …",
+          "date": "2013-07-08",
+          "groupe": "NI",
+          "id_api": "67085",
+          "numero": "82",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Lipietz, …",
+          "date": "2013-07-08",
+          "groupe": "NI",
+          "id_api": "67086",
+          "numero": "83",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Lipietz, …",
+          "date": "2013-07-08",
+          "groupe": "NI",
+          "id_api": "67087",
+          "numero": "84",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Lipietz, …",
+          "date": "2013-07-08",
+          "groupe": "NI",
+          "id_api": "67088",
+          "numero": "85",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Lipietz, …",
+          "date": "2013-07-08",
+          "groupe": "NI",
+          "id_api": "67092",
+          "numero": "89",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Lipietz, …",
+          "date": "2013-07-08",
+          "groupe": "NI",
+          "id_api": "67096",
+          "numero": "93",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Anziani, …",
+          "date": "2013-07-08",
+          "groupe": "SOC",
+          "id_api": "67103",
+          "numero": "100",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Assassi, …",
+          "date": "2013-07-08",
+          "groupe": "CRCE",
+          "id_api": "67113",
+          "numero": "111",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Assassi, …",
+          "date": "2013-07-08",
+          "groupe": "CRCE",
+          "id_api": "67114",
+          "numero": "112",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Assassi, …",
+          "date": "2013-07-08",
+          "groupe": "CRCE",
+          "id_api": "67115",
+          "numero": "113",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Assassi, …",
+          "date": "2013-07-08",
+          "groupe": "CRCE",
+          "id_api": "67116",
+          "numero": "114",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Assassi, …",
+          "date": "2013-07-08",
+          "groupe": "CRCE",
+          "id_api": "67118",
+          "numero": "116",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Longuet, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67360",
+          "numero": "124",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 30,
+      "titre": "Article 2"
+    },
+    "Article 2 bis A": {
+      "amendements": [
+        {
+          "aut": "M. Sueur, …",
+          "date": "2013-07-09",
+          "groupe": "SOC",
+          "id_api": "67368",
+          "numero": "132",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 40,
+      "titre": "Article 2 bis A"
+    },
+    "Article 4 ter": {
+      "amendements": [
+        {
+          "aut": "M. Hyest, …",
+          "date": "2013-07-09",
+          "groupe": "LR",
+          "id_api": "67314",
+          "numero": "30",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Lipietz, …",
+          "date": "2013-07-08",
+          "groupe": "NI",
+          "id_api": "67081",
+          "numero": "78",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 120,
+      "titre": "Article 4 ter"
+    },
+    "Avant l'article 1er A": {
+      "amendements": [
+        {
+          "aut": "MM. Collombat, …",
+          "date": "2013-07-09",
+          "groupe": "RDSE",
+          "id_api": "67357",
+          "numero": "120",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 9,
+      "titre": "Avant l'article 1er A"
+    },
+    "Motion tendant au renvoi en commission": {
+      "amendements": [
+        {
+          "aut": "MM. J.C. Gaudin, …",
+          "date": "2013-07-04",
+          "groupe": "LR",
+          "id_api": "66893",
+          "numero": "3",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Collombat, …",
+          "date": "2013-07-09",
+          "groupe": "RDSE",
+          "id_api": "67355",
+          "numero": "105",
+          "sort": "adopté"
+        }
+      ],
+      "order": 1,
+      "titre": "Motion tendant au renvoi en commission"
+    },
+    "Motion tendant à opposer l'exception d'irrecevabilité": {
+      "amendements": [
+        {
+          "aut": "MM. J.C. Gaudin, …",
+          "date": "2013-07-04",
+          "groupe": "LR",
+          "id_api": "66891",
+          "numero": "1",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 1,
+      "titre": "Motion tendant à opposer l'exception d'irrecevabilité"
+    },
+    "Motion tendant à opposer la question préalable": {
+      "amendements": [
+        {
+          "aut": "MM. J.C. Gaudin, …",
+          "date": "2013-07-04",
+          "groupe": "LR",
+          "id_api": "66892",
+          "numero": "2",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 1,
+      "titre": "Motion tendant à opposer la question préalable"
+    }
+  }
+}

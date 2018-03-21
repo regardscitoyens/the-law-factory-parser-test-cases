@@ -1,0 +1,388 @@
+{
+  "api_root_url": "https://2012-2017.nosdeputes.fr/api/document/Amendement/",
+  "groupes": {
+    "ECOLO": {
+      "color": "rgb(0,230,30)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/ECOLO",
+      "nom": "Écologiste",
+      "order": 13
+    },
+    "Gouvernement": {
+      "color": "#cccbb3",
+      "link": "",
+      "nom": "Gouvernement",
+      "order": 60
+    },
+    "RRDP": {
+      "color": "rgb(250,195,132)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/RRDP",
+      "nom": "Radical, républicain, démocrate et progressiste",
+      "order": 14
+    },
+    "SRC": {
+      "color": "rgb(255,50,190)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/SRC",
+      "nom": "Socialiste, républicain et citoyen",
+      "order": 11
+    },
+    "UDI": {
+      "color": "rgb(30,180,255)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/UDI",
+      "nom": "Union des démocrates et indépendants",
+      "order": 15
+    },
+    "UMP": {
+      "color": "rgb(30,30,200)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/UMP",
+      "nom": "Union pour un mouvement populaire",
+      "order": 16
+    }
+  },
+  "id_step": "11_nouv.lect._assemblee_hemicycle",
+  "sujets": {
+    "Article 1er": {
+      "amendements": [
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-07-19",
+          "groupe": "ECOLO",
+          "id_api": "31382",
+          "numero": "1",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-07-19",
+          "groupe": "ECOLO",
+          "id_api": "31418",
+          "numero": "4",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Dosière, …",
+          "date": "2013-07-19",
+          "groupe": "SRC",
+          "id_api": "31397",
+          "numero": "7",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Dosière, …",
+          "date": "2013-07-19",
+          "groupe": "SRC",
+          "id_api": "31401",
+          "numero": "8",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Schwartzenberg, …",
+          "date": "2013-07-19",
+          "groupe": "RRDP",
+          "id_api": "31416",
+          "numero": "11",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Schwartzenberg, …",
+          "date": "2013-07-19",
+          "groupe": "RRDP",
+          "id_api": "31385",
+          "numero": "12",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-19",
+          "groupe": "SRC",
+          "id_api": "32097",
+          "numero": "15",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-19",
+          "groupe": "SRC",
+          "id_api": "31403",
+          "numero": "16",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-19",
+          "groupe": "SRC",
+          "id_api": "31399",
+          "numero": "17",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-19",
+          "groupe": "SRC",
+          "id_api": "31400",
+          "numero": "18",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Jean-Christophe Lagarde, …",
+          "date": "2013-07-19",
+          "groupe": "UDI",
+          "id_api": "31395",
+          "numero": "21",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Morin, …",
+          "date": "2013-07-19",
+          "groupe": "UDI",
+          "id_api": "31408",
+          "numero": "22",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Fromantin, …",
+          "date": "2013-07-19",
+          "groupe": "UDI",
+          "id_api": "31394",
+          "numero": "23",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Fromantin, …",
+          "date": "2013-07-19",
+          "groupe": "UDI",
+          "id_api": "31406",
+          "numero": "24",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Morin, …",
+          "date": "2013-07-19",
+          "groupe": "UDI",
+          "id_api": "31405",
+          "numero": "25",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Morin, …",
+          "date": "2013-07-19",
+          "groupe": "UDI",
+          "id_api": "31404",
+          "numero": "26",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-20",
+          "groupe": "SRC",
+          "id_api": "31499",
+          "numero": "33",
+          "sort": "adopté"
+        },
+        {
+          "aut": "",
+          "date": "2013-07-22",
+          "groupe": "Gouvernement",
+          "id_api": "32102",
+          "numero": "35",
+          "sort": "adopté"
+        },
+        {
+          "aut": "",
+          "date": "2013-07-22",
+          "groupe": "Gouvernement",
+          "id_api": "32101",
+          "numero": "37",
+          "sort": "adopté"
+        }
+      ],
+      "order": 0,
+      "titre": "Article 1er"
+    },
+    "Article 2": {
+      "amendements": [
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-07-19",
+          "groupe": "ECOLO",
+          "id_api": "31384",
+          "numero": "2",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-07-19",
+          "groupe": "ECOLO",
+          "id_api": "31383",
+          "numero": "3",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-07-19",
+          "groupe": "ECOLO",
+          "id_api": "31381",
+          "numero": "5",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. de Rugy, …",
+          "date": "2013-07-19",
+          "groupe": "ECOLO",
+          "id_api": "31389",
+          "numero": "6",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Dosière, …",
+          "date": "2013-07-19",
+          "groupe": "SRC",
+          "id_api": "31417",
+          "numero": "10",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-19",
+          "groupe": "SRC",
+          "id_api": "31413",
+          "numero": "19",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. de Courson, …",
+          "date": "2013-07-19",
+          "groupe": "UDI",
+          "id_api": "31410",
+          "numero": "27",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. de Courson, …",
+          "date": "2013-07-19",
+          "groupe": "UDI",
+          "id_api": "31412",
+          "numero": "28",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "",
+          "date": "2013-07-19",
+          "groupe": "Gouvernement",
+          "id_api": "31505",
+          "numero": "32",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Larrivé",
+          "date": "2013-07-22",
+          "groupe": "UMP",
+          "id_api": "32100",
+          "numero": "34",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 1,
+      "titre": "Article 2"
+    },
+    "Article 2 bis A": {
+      "amendements": [
+        {
+          "aut": "M. Thévenoud, …",
+          "date": "2013-07-19",
+          "groupe": "SRC",
+          "id_api": "31411",
+          "numero": "14",
+          "sort": "adopté"
+        }
+      ],
+      "order": 2,
+      "titre": "Article 2 bis A"
+    },
+    "Article 3": {
+      "amendements": [
+        {
+          "aut": "M. Dosière, …",
+          "date": "2013-07-19",
+          "groupe": "SRC",
+          "id_api": "31402",
+          "numero": "13",
+          "sort": "adopté"
+        }
+      ],
+      "order": 3,
+      "titre": "Article 3"
+    },
+    "Article 4": {
+      "amendements": [
+        {
+          "aut": "M. Urvoas",
+          "date": "2013-07-19",
+          "groupe": "SRC",
+          "id_api": "31393",
+          "numero": "20",
+          "sort": "adopté"
+        }
+      ],
+      "order": 4,
+      "titre": "Article 4"
+    },
+    "Article 4 bis A": {
+      "amendements": [
+        {
+          "aut": "M. Dosière, …",
+          "date": "2013-07-19",
+          "groupe": "SRC",
+          "id_api": "31415",
+          "numero": "9",
+          "sort": "adopté"
+        }
+      ],
+      "order": 5,
+      "titre": "Article 4 bis A"
+    },
+    "Article 6": {
+      "amendements": [
+        {
+          "aut": "M. Gomes",
+          "date": "2013-07-19",
+          "groupe": "UDI",
+          "id_api": "31396",
+          "numero": "29",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Gomes, …",
+          "date": "2013-07-19",
+          "groupe": "UDI",
+          "id_api": "31398",
+          "numero": "31",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 6,
+      "titre": "Article 6"
+    },
+    "Article 8": {
+      "amendements": [
+        {
+          "aut": "M. Gomes, …",
+          "date": "2013-07-19",
+          "groupe": "UDI",
+          "id_api": "31407",
+          "numero": "30",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "",
+          "date": "2013-07-22",
+          "groupe": "Gouvernement",
+          "id_api": "32103",
+          "numero": "36",
+          "sort": "adopté"
+        }
+      ],
+      "order": 7,
+      "titre": "Article 8"
+    }
+  }
+}
