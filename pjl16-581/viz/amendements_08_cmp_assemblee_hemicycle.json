@@ -1,0 +1,64 @@
+{
+  "api_root_url": "https://2017-2022.nosdeputes.fr/api/document/Amendement/",
+  "groupes": {
+    "Gouvernement": {
+      "color": "#cccbb3",
+      "link": "",
+      "nom": "Gouvernement",
+      "order": 60
+    }
+  },
+  "id_step": "08_cmp_assemblee_hemicycle",
+  "sujets": {
+    "Article 1er": {
+      "amendements": [
+        {
+          "aut": "",
+          "date": "2017-08-02",
+          "groupe": "Gouvernement",
+          "id_api": "2097",
+          "numero": "7",
+          "sort": "adopté"
+        },
+        {
+          "aut": "",
+          "date": "2017-08-02",
+          "groupe": "Gouvernement",
+          "id_api": "2098",
+          "numero": "8",
+          "sort": "adopté"
+        }
+      ],
+      "order": 10,
+      "titre": "Article 1er"
+    },
+    "Article 2 quater": {
+      "amendements": [
+        {
+          "aut": "",
+          "date": "2017-08-02",
+          "groupe": "Gouvernement",
+          "id_api": "2095",
+          "numero": "9",
+          "sort": "adopté"
+        }
+      ],
+      "order": 90,
+      "titre": "Article 2 quater"
+    },
+    "Article 3 ter A": {
+      "amendements": [
+        {
+          "aut": "",
+          "date": "2017-08-02",
+          "groupe": "Gouvernement",
+          "id_api": "2096",
+          "numero": "10",
+          "sort": "adopté"
+        }
+      ],
+      "order": 130,
+      "titre": "Article 3 ter A"
+    }
+  }
+}
