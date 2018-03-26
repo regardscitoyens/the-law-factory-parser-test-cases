@@ -1,0 +1,296 @@
+ -= DOSLEG URL: http://www.senat.fr/dossier-legislatif/pjl16-581.html =-
+  [] download SENAT version
+[download] http://www.senat.fr/dossier-legislatif/pjl16-581.html
+  [] parse SENAT version
+[download] http://www.conseil-constitutionnel.fr/decision/2017/2017752dc.htm
+[download] https://www.senat.fr/dossier-legislatif/tc/tc_pjl16-581.html
+  [] download AN version
+[download] http://www.assemblee-nationale.fr/15/dossiers/retablissement_confiance_action_publique.asp
+  [] parse AN version
+[download] http://www.legifrance.gouv.fr/WAspad/UnTexteDeJorf?numjo=JUSC1715752L
+[download] http://www.legifrance.gouv.fr/WAspad/UnTexteDeJorf?numjo=JUSC1715752L
+[download] http://www.conseil-constitutionnel.fr/decision/2017/2017753dc.htm
+[download] http://www.legifrance.gouv.fr/WAspad/UnTexteDeJorf?numjo=JUSC1715753L
+## WARNING ### FOUND ANOTHER DOSLEG INSIDE THE DOSLEG
+[download] http://www.conseil-constitutionnel.fr/decision/2017/2017752dc.htm
+        title: projet de loi pour la confiance dans la vie politique
+0 anomalies ( 1 doslegs)
+   DEBUG - dumped debug_an_dos.json
+   DEBUG - dumped debug_senat_dos.json
+   DEBUG - dumped debug_dos.json
+  [] parse the texts
+** parsing texts of pjl16-581
+    ^ text:  https://www.senat.fr/leg/pjl16-581.html
+[download] https://www.senat.fr/leg/pjl16-581.html
+   DEBUG - dumped debug_parsed_text_step_0.json
+    ^ text:  https://www.senat.fr/leg/pjl16-609.html
+[download] https://www.senat.fr/leg/pjl16-609.html
+   DEBUG - dumped debug_parsed_text_step_1.json
+    ^ text:  https://www.senat.fr/leg/tas16-113.html
+[download] https://www.senat.fr/leg/tas16-113.html
+   DEBUG - dumped debug_parsed_text_step_2.json
+    ^ text:  http://www.assemblee-nationale.fr/15/projets/pl0098.asp
+[download] http://www.assemblee-nationale.fr/15/projets/pl0098.asp
+   DEBUG - dumped debug_parsed_text_step_3.json
+    ^ text:  http://www.assemblee-nationale.fr/15/ta-commission/r0106-a0.asp
+[download] http://www.assemblee-nationale.fr/15/ta-commission/r0106-a0.asp
+   DEBUG - dumped debug_parsed_text_step_4.json
+    ^ text:  http://www.assemblee-nationale.fr/15/ta/ta0008.asp
+[download] http://www.assemblee-nationale.fr/15/ta/ta0008.asp
+   DEBUG - dumped debug_parsed_text_step_5.json
+    ^ text:  https://www.senat.fr/leg/pjl16-700.html
+[download] https://www.senat.fr/leg/pjl16-700.html
+   DEBUG - dumped debug_parsed_text_step_6.json
+    ^ text:  https://www.senat.fr/leg/tas16-126.html
+[download] https://www.senat.fr/leg/tas16-126.html
+   DEBUG - dumped debug_parsed_text_step_7.json
+    ^ text:  http://www.assemblee-nationale.fr/15/ta/ta0016.asp
+[download] http://www.assemblee-nationale.fr/15/ta/ta0016.asp
+   DEBUG - dumped debug_parsed_text_step_8.json
+    ^ text:  http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2017/2017-752-dc/decision-n-2017-752-dc-du-8-septembre-2017.149701.html
+    ^ text:  https://www.legifrance.gouv.fr/eli/loi/2017/9/15/JUSC1715753L/jo/texte
+    ^ complete text:  https://www.senat.fr/leg/pjl16-581.html
+   DEBUG - dumped debug_completed_text_step_0.json
+    ^ complete text:  https://www.senat.fr/leg/pjl16-609.html
+   DEBUG - dumped debug_complete_args_step_1.json
+   DEBUG - dumped debug_completed_text_step_1.json
+    ^ complete text:  https://www.senat.fr/leg/tas16-113.html
+   DEBUG - dumped debug_complete_args_step_2.json
+   DEBUG - dumped debug_completed_text_step_2.json
+    ^ complete text:  http://www.assemblee-nationale.fr/15/projets/pl0098.asp
+   DEBUG - dumped debug_complete_args_step_3.json
+   DEBUG - dumped debug_completed_text_step_3.json
+    ^ complete text:  http://www.assemblee-nationale.fr/15/ta-commission/r0106-a0.asp
+   DEBUG - dumped debug_complete_args_step_4.json
+DEBUG: Marking as deleted articles 2 ter B à 2 ter E
+DEBUG: Marking art 2 ter B as supprimé (mult)
+DEBUG: Marking art 2 ter C as supprimé (mult)
+DEBUG: Marking art 2 ter D as supprimé (mult)
+DEBUG: Marking art 2 ter E as supprimé (mult)
+   DEBUG - dumped debug_completed_text_step_4.json
+    ^ complete text:  http://www.assemblee-nationale.fr/15/ta/ta0008.asp
+   DEBUG - dumped debug_complete_args_step_5.json
+DEBUG: SKIP already deleted articles 2 ter B to 2 ter E
+EXTRACT non-modifiés for 2 ter: I à V
+- GET Extract from I to V
+  --> START FOUND . -
+     copy alinea
+     copy alinea
+     copy alinea
+     copy alinea
+     copy alinea
+  --> END FOUND
+EXTRACT non-modifiés for 5: II
+- GET Extract from II to 
+  --> START FOUND . -
+     copy alinea
+EXTRACT non-modifiés for 6 bis: II
+- GET Extract from II to 
+  --> START FOUND . -
+     copy alinea
+     copy alinea
+     copy alinea
+     copy alinea
+EXTRACT non-modifiés for 7: II
+- GET Extract from II to 
+  --> START FOUND . -
+     copy alinea
+  --> END FOUND
+EXTRACT non-modifiés for 7: IV
+- GET Extract from IV to 
+  --> START FOUND . -
+     copy alinea
+     copy alinea
+  --> END FOUND
+EXTRACT non-modifiés for 7 bis: II
+- GET Extract from II to 
+  --> START FOUND . -
+     copy alinea
+EXTRACT non-modifiés for 8: II
+- GET Extract from II to 
+  --> START FOUND . -
+     copy alinea
+     copy alinea
+  --> END FOUND
+EXTRACT non-modifiés for 8: IV
+- GET Extract from IV to 
+  --> START FOUND . -
+     copy alinea
+EXTRACT non-modifiés for 9: II à IV
+- GET Extract from II to IV
+  --> START FOUND . -
+     copy alinea
+     copy alinea
+     copy alinea
+     copy alinea
+EXTRACT non-modifiés for 13: I
+- GET Extract from I to 
+  --> START FOUND . -
+     copy alinea
+  --> END FOUND
+EXTRACT non-modifiés for 13: III,IV
+- GET Extract from III to 
+  --> START FOUND . -
+     copy alinea
+     copy alinea
+  --> END FOUND
+- GET Extract from IV to 
+  --> START FOUND . -
+     copy alinea
+EXTRACT non-modifiés for 14: I
+- GET Extract from I to 
+  --> START FOUND . -
+     copy alinea
+  --> END FOUND
+EXTRACT non-modifiés for 14: V
+- GET Extract from V to 
+  --> START FOUND . -
+     copy alinea
+   DEBUG - dumped debug_completed_text_step_5.json
+    ^ complete text:  https://www.senat.fr/leg/pjl16-700.html
+   DEBUG - dumped debug_complete_args_step_6.json
+DEBUG: SKIP already deleted articles 2 ter B to 2 ter D
+   DEBUG - dumped debug_completed_text_step_6.json
+    ^ complete text:  https://www.senat.fr/leg/tas16-126.html
+   DEBUG - dumped debug_complete_args_step_7.json
+DEBUG: SKIP already deleted articles 2 ter B to 2 ter D
+   DEBUG - dumped debug_completed_text_step_7.json
+    ^ complete text:  http://www.assemblee-nationale.fr/15/ta/ta0016.asp
+   DEBUG - dumped debug_complete_args_step_8.json
+DEBUG: article '1er' matched with old article '1er'
+DEBUG: article '2' matched with old article '1er bis A'
+DEBUG: article '3' matched with old article '2'
+DEBUG: article '4' matched with old article '2 bis AA'
+DEBUG: article '5' matched with old article '2 bis AB'
+DEBUG: article '6' matched with old article '2 bis'
+DEBUG: article '7' matched with old article '2 ter E'
+DEBUG: Matched section T3 (Dispositions relatives aux obligations déclaratives) with old section T2 bis (Dispositions relatives aux obligations déclaratives)
+DEBUG: article '8' matched with old article '2 ter'
+DEBUG: article '9' matched with old article '2 quater'
+DEBUG: article '10' matched with old article '2 quinquies'
+DEBUG: Matched section T4 (Dispositions relatives aux emplois de collaborateur parlementaire à l'assemblée nationale et au sénat, de collaborateur de ministre et de collaborateur d'élu local) with old section T3 (Dispositions relatives aux emplois de collaborateur parlementaire à l'assemblée nationale et au sénat, de collaborateur de ministre et de collaborateur d'élu local)
+DEBUG: article '11' matched with old article '3'
+DEBUG: article '12' matched with old article '3 bis'
+DEBUG: article '13' matched with old article '3 ter A'
+DEBUG: article '14' matched with old article '4'
+DEBUG: article '15' matched with old article '5'
+DEBUG: article '16' matched with old article '5 bis'
+DEBUG: article '17' matched with old article '5 ter'
+DEBUG: article '18' matched with old article '6'
+DEBUG: article '19' matched with old article '6 bis'
+DEBUG: Matched section T5 (Dispositions relatives à l'indemnité des membres du parlement) with old section T4 (Dispositions relatives à l'indemnité des membres du parlement)
+DEBUG: article '20' matched with old article '7'
+DEBUG: article '21' matched with old article '7 bis'
+DEBUG: Matched section T6 (Dispositions relatives à la nomination des membres du gouvernement) with old section T4 bis A (Dispositions relatives à la nomination des membres du gouvernement)
+DEBUG: article '22' matched with old article '7 ter A'
+DEBUG: Matched section T7 (Dispositions relatives aux frais de réception et de représentation des membres du gouvernement ainsi qu'à leur situation fiscale) with old section T4 bis (Dispositions relatives aux frais de réception et de représentation des membres du gouvernement ainsi qu'à leur situation fiscale)
+DEBUG: article '23' matched with old article '7 ter B'
+DEBUG: article '24' matched with old article '7 ter'
+DEBUG: Matched section T8 (Dispositions relatives au financement de la vie politique) with old section T5 (Dispositions relatives au financement de la vie politique)
+DEBUG: Matched section T8C1 (Dispositions applicables aux partis et groupements politiques) with old section T5C1 (Dispositions applicables aux partis et groupements politiques)
+DEBUG: article '25' matched with old article '8'
+DEBUG: Matched section T8C2 (Dispositions applicables aux campagnes électorales) with old section T5C2 (Dispositions applicables aux campagnes électorales)
+DEBUG: article '26' matched with old article '9'
+DEBUG: article '27' matched with old article '9 bis'
+DEBUG: Matched section T8C3 (Accès au financement et pluralisme) with old section T5C3 (Accès au financement et pluralisme)
+DEBUG: article '28' matched with old article '10'
+DEBUG: article '29' matched with old article '11'
+DEBUG: article '30' matched with old article '12'
+DEBUG: Matched section T9 (Dispositions relatives aux représentants au parlement européen) with old section T6 (Dispositions relatives aux représentants au parlement européen)
+DEBUG: article '31' matched with old article '13'
+DEBUG: article '32' matched with old article '13 ter'
+DEBUG: Matched section T10 (Dispositions diverses et transitoires) with old section T8 (Dispositions diverses et transitoires)
+DEBUG: article '33' matched with old article '14'
+DEBUG: article '34' matched with old article '15'
+   DEBUG - dumped debug_completed_text_step_8.json
+    ^ complete text:  http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2017/2017-752-dc/decision-n-2017-752-dc-du-8-septembre-2017.149701.html
+   DEBUG - dumped debug_completed_text_step_9.json
+    ^ complete text:  https://www.legifrance.gouv.fr/eli/loi/2017/9/15/JUSC1715753L/jo/texte
+   DEBUG - dumped debug_completed_text_step_10.json
+  [] format data for the frontend
+     writing to: pjl16-581_tmp
+ - process article versions
+      * preparing articles for step 00_1erelecture_senat_depot
+      * preparing articles for step 01_1erelecture_senat_commission
+      * preparing articles for step 02_1erelecture_senat_hemicycle
+      * preparing articles for step 04_1erelecture_assemblee_commission
+      * preparing articles for step 05_1erelecture_assemblee_hemicycle
+      * preparing articles for step 06_cmp_cmp_commission
+      * preparing articles for step 07_cmp_senat_hemicycle
+      * preparing articles for step 08_cmp_assemblee_hemicycle
+ - process amendements & interventions
+    * step - 1ère lecture depot https://www.senat.fr/leg/pjl16-581.html
+    * step - 1ère lecture commission https://www.senat.fr/leg/pjl16-609.html
+      * downloading amendments: https://nossenateurs.fr/amendements/20162017-581/json?cache=5feb2018 for https://www.senat.fr/leg/pjl16-581.html
+[download] https://nossenateurs.fr/amendements/20162017-581/json?cache=5feb2018
+        parsing amendments: 131
+      * downloading interventions
+        * downloading seances -  https://www.nossenateurs.fr/seances/20162017-581/json?commission=1
+[download] https://www.nossenateurs.fr/seances/20162017-581/json?commission=1
+           downloading seance -  https://www.nossenateurs.fr/seance/16359/20162017-581/json
+[download] https://www.nossenateurs.fr/seance/16359/20162017-581/json
+           downloading seance -  https://www.nossenateurs.fr/seance/16399/20162017-581/json
+[download] https://www.nossenateurs.fr/seance/16399/20162017-581/json
+           downloading seance -  https://www.nossenateurs.fr/seance/16401/20162017-581/json
+[download] https://www.nossenateurs.fr/seance/16401/20162017-581/json
+           downloading seance -  https://www.nossenateurs.fr/seance/16424/20162017-581/json
+[download] https://www.nossenateurs.fr/seance/16424/20162017-581/json
+           downloading seance -  https://www.nossenateurs.fr/seance/16425/20162017-581/json
+[download] https://www.nossenateurs.fr/seance/16425/20162017-581/json
+    * step - 1ère lecture hemicycle https://www.senat.fr/leg/tas16-113.html
+      * downloading amendments: https://nossenateurs.fr/amendements/20162017-609/json?cache=5feb2018 for https://www.senat.fr/leg/pjl16-609.html
+[download] https://nossenateurs.fr/amendements/20162017-609/json?cache=5feb2018
+        parsing amendments: 276
+      * downloading interventions
+        * downloading seances -  https://www.nossenateurs.fr/seances/20162017-609/json?hemicycle=1
+[download] https://www.nossenateurs.fr/seances/20162017-609/json?hemicycle=1
+           downloading seance -  https://www.nossenateurs.fr/seance/16415/20162017-609/json
+[download] https://www.nossenateurs.fr/seance/16415/20162017-609/json
+            dumping seance - 2017-07-10T16:00_16415
+           downloading seance -  https://www.nossenateurs.fr/seance/16431/20162017-609/json
+[download] https://www.nossenateurs.fr/seance/16431/20162017-609/json
+            dumping seance - 2017-07-11T14:15_16431
+           downloading seance -  https://www.nossenateurs.fr/seance/16433/20162017-609/json
+[download] https://www.nossenateurs.fr/seance/16433/20162017-609/json
+            dumping seance - 2017-07-12T14:30_16433
+    * step - 1ère lecture depot http://www.assemblee-nationale.fr/15/projets/pl0098.asp
+    * step - 1ère lecture commission http://www.assemblee-nationale.fr/15/ta-commission/r0106-a0.asp
+      * downloading amendments: https://nosdeputes.fr/15/amendements/98/json?cache=5feb2018 for http://www.assemblee-nationale.fr/15/projets/pl0098.asp
+[download] https://nosdeputes.fr/15/amendements/98/json?cache=5feb2018
+        parsing amendments: 193
+      * downloading interventions
+        * downloading seances -  https://2017-2022.nosdeputes.fr/seances/98/json?commission=1
+[download] https://2017-2022.nosdeputes.fr/seances/98/json?commission=1
+    * step - 1ère lecture hemicycle http://www.assemblee-nationale.fr/15/ta/ta0008.asp
+      * downloading amendments: https://nosdeputes.fr/15/amendements/106/json?cache=5feb2018 for http://www.assemblee-nationale.fr/15/ta-commission/r0106-a0.asp
+[download] https://nosdeputes.fr/15/amendements/106/json?cache=5feb2018
+        parsing amendments: 590
+      * downloading interventions
+        * downloading seances -  https://2017-2022.nosdeputes.fr/seances/106/json?hemicycle=1
+[download] https://2017-2022.nosdeputes.fr/seances/106/json?hemicycle=1
+        * downloading seances -  https://2017-2022.nosdeputes.fr/seances/98/json?hemicycle=1
+[download] https://2017-2022.nosdeputes.fr/seances/98/json?hemicycle=1
+    * step - CMP commission https://www.senat.fr/leg/pjl16-700.html
+    * step - CMP hemicycle https://www.senat.fr/leg/tas16-126.html
+      * downloading amendments: https://nossenateurs.fr/amendements/20162017-700/json?cache=5feb2018 for https://www.senat.fr/leg/pjl16-700.html
+[download] https://nossenateurs.fr/amendements/20162017-700/json?cache=5feb2018
+        parsing amendments: 4
+      * downloading interventions
+        * downloading seances -  https://www.nossenateurs.fr/seances/20162017-700/json?hemicycle=1
+[download] https://www.nossenateurs.fr/seances/20162017-700/json?hemicycle=1
+           downloading seance -  https://www.nossenateurs.fr/seance/16546/20162017-700/json
+[download] https://www.nossenateurs.fr/seance/16546/20162017-700/json
+            dumping seance - 2017-08-02T16:00_16546
+    * step - CMP hemicycle http://www.assemblee-nationale.fr/15/ta/ta0016.asp
+      * downloading amendments: https://nosdeputes.fr/15/amendements/120/json?cache=5feb2018 for http://www.assemblee-nationale.fr/15/ta-commission/r0120-a0.asp
+[download] https://nosdeputes.fr/15/amendements/120/json?cache=5feb2018
+        parsing amendments: 4
+      * downloading interventions
+        * downloading seances -  https://2017-2022.nosdeputes.fr/seances/120/json?hemicycle=1
+[download] https://2017-2022.nosdeputes.fr/seances/120/json?hemicycle=1
+    * step - constitutionnalité None http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2017/2017-752-dc/decision-n-2017-752-dc-du-8-septembre-2017.149701.html
+    * step - promulgation None https://www.legifrance.gouv.fr/eli/loi/2017/9/15/JUSC1715753L/jo/texte
+ - re-order interventions and correct procedure dates
+INFO: change beginning date of 2 thanks to 2017-07-10T16:00_16415
+ - prepare interventions.json
+  FINISHED - pjl16-581
