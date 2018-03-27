@@ -1716,11 +1716,11 @@
           "status": "none"
         },
         {
-          "diff": "rem",
+          "diff": "both",
           "directory": "04_1erelecture_senat_commission",
           "id_step": "04_1erelecture_senat_commission",
-          "length": 327,
-          "n_diff": 0.2434988179669031,
+          "length": 425,
+          "n_diff": 0.009411764705882342,
           "order": 26,
           "status": "none"
         },
@@ -1728,17 +1728,17 @@
           "diff": "none",
           "directory": "05_1erelecture_senat_hemicycle",
           "id_step": "05_1erelecture_senat_hemicycle",
-          "length": 327,
+          "length": 425,
           "n_diff": 0,
           "order": 30,
           "status": "none"
         },
         {
-          "diff": "add",
+          "diff": "none",
           "directory": "08_nouv.lect._assemblee_commission",
           "id_step": "08_nouv.lect._assemblee_commission",
           "length": 425,
-          "n_diff": 0.23764705882352943,
+          "n_diff": 0,
           "order": 31,
           "status": "none"
         },

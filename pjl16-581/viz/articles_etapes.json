@@ -88,7 +88,7 @@
           "diff": "add",
           "directory": "00_1erelecture_senat_depot",
           "id_step": "00_1erelecture_senat_depot",
-          "length": 314,
+          "length": 370,
           "n_diff": 1,
           "order": 11,
           "status": "depot"
@@ -97,26 +97,26 @@
           "diff": "both",
           "directory": "01_1erelecture_senat_commission",
           "id_step": "01_1erelecture_senat_commission",
-          "length": 299,
-          "n_diff": 0.05351170568561869,
+          "length": 371,
+          "n_diff": 0.04312668463611857,
           "order": 20,
           "status": "none"
         },
         {
-          "diff": "both",
+          "diff": "add",
           "directory": "02_1erelecture_senat_hemicycle",
           "id_step": "02_1erelecture_senat_hemicycle",
-          "length": 314,
-          "n_diff": 0.05414012738853502,
+          "length": 405,
+          "n_diff": 0.09629629629629632,
           "order": 32,
           "status": "none"
         },
         {
-          "diff": "add",
+          "diff": "both",
           "directory": "04_1erelecture_assemblee_commission",
           "id_step": "04_1erelecture_assemblee_commission",
           "length": 398,
-          "n_diff": 0.2562814070351759,
+          "n_diff": 0.041975308641975295,
           "order": 35,
           "status": "none"
         },
@@ -130,11 +130,11 @@
           "status": "none"
         },
         {
-          "diff": "rem",
+          "diff": "none",
           "directory": "06_cmp_cmp_commission",
           "id_step": "06_cmp_cmp_commission",
-          "length": 310,
-          "n_diff": 0.22864321608040206,
+          "length": 398,
+          "n_diff": 0,
           "order": 31,
           "status": "none"
         },
@@ -142,17 +142,17 @@
           "diff": "none",
           "directory": "07_cmp_senat_hemicycle",
           "id_step": "07_cmp_senat_hemicycle",
-          "length": 310,
+          "length": 398,
           "n_diff": 0,
           "order": 29,
           "status": "none"
         },
         {
-          "diff": "add",
+          "diff": "none",
           "directory": "08_cmp_assemblee_hemicycle",
           "id_step": "08_cmp_assemblee_hemicycle",
           "length": 398,
-          "n_diff": 0.22864321608040206,
+          "n_diff": 0,
           "newnum": "29",
           "order": 29,
           "status": "none"
