@@ -1,0 +1,2898 @@
+{
+  "api_root_url": "https://2007-2012.nosdeputes.fr/api/document/Amendement/",
+  "groupes": {
+    "GDR": {
+      "color": "rgb(255,30,30)",
+      "link": "https://2007-2012.nosdeputes.fr/groupe/GDR",
+      "nom": "Gauche démocrate et républicaine",
+      "order": 10
+    },
+    "Gouvernement": {
+      "color": "#cccbb3",
+      "link": "",
+      "nom": "Gouvernement",
+      "order": 60
+    },
+    "NC": {
+      "color": "rgb(30,180,255)",
+      "link": "https://2007-2012.nosdeputes.fr/groupe/NC",
+      "nom": "Nouveau centre",
+      "order": 12
+    },
+    "NI": {
+      "color": "rgb(165,165,165)",
+      "link": "https://2007-2012.nosdeputes.fr/groupe/NI",
+      "nom": "Députés n'appartenant à aucun groupe",
+      "order": 14
+    },
+    "SRC": {
+      "color": "rgb(255,50,190)",
+      "link": "https://2007-2012.nosdeputes.fr/groupe/SRC",
+      "nom": "Socialiste, radical, citoyen et divers gauche",
+      "order": 11
+    },
+    "UMP": {
+      "color": "rgb(30,30,200)",
+      "link": "https://2007-2012.nosdeputes.fr/groupe/UMP",
+      "nom": "Union pour un mouvement populaire",
+      "order": 13
+    }
+  },
+  "id_step": "08_2emelecture_assemblee_hemicycle",
+  "sujets": {
+    "Après l'article 30 quinquies": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8157",
+          "numero": "35",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 451,
+      "titre": "Après l'article 30 quinquies"
+    },
+    "Après l'article 30 sexies": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8154",
+          "numero": "38",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8153",
+          "numero": "39",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Le Fur, …",
+          "date": "2008-07-07",
+          "groupe": "UMP",
+          "id_api": "9753",
+          "numero": "86",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Sauvadet, …",
+          "date": "2008-07-07",
+          "groupe": "NC",
+          "id_api": "9248",
+          "numero": "117",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Bayrou",
+          "date": "2008-07-08",
+          "groupe": "NI",
+          "id_api": "5419",
+          "numero": "316",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 461,
+      "titre": "Après l'article 30 sexies"
+    },
+    "Après l'article 31 bis": {
+      "amendements": [
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-04",
+          "groupe": "GDR",
+          "id_api": "8704",
+          "numero": "66",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 481,
+      "titre": "Après l'article 31 bis"
+    },
+    "Article 10": {
+      "amendements": [
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-04",
+          "groupe": "GDR",
+          "id_api": "8698",
+          "numero": "72",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-04",
+          "groupe": "GDR",
+          "id_api": "8697",
+          "numero": "73",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2008-07-07",
+          "groupe": "UMP",
+          "id_api": "9750",
+          "numero": "90",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2008-07-07",
+          "groupe": "UMP",
+          "id_api": "9749",
+          "numero": "91",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Debré, …",
+          "date": "2008-07-07",
+          "groupe": "UMP",
+          "id_api": "9244",
+          "numero": "124",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. de Charette",
+          "date": "2008-07-08",
+          "groupe": "UMP",
+          "id_api": "10022",
+          "numero": "143",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "10006",
+          "numero": "159",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "10005",
+          "numero": "160",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5513",
+          "numero": "190",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "5503",
+          "numero": "212",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "5501",
+          "numero": "214",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "5500",
+          "numero": "215",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9764",
+          "numero": "244",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9763",
+          "numero": "245",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Urvoas, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5479",
+          "numero": "246",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Urvoas, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5478",
+          "numero": "247",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Urvoas, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5477",
+          "numero": "248",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Derosier, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5476",
+          "numero": "249",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 130,
+      "titre": "Article 10"
+    },
+    "Article 10 bis": {
+      "amendements": [
+        {
+          "aut": "M. Pancher",
+          "date": "2008-07-04",
+          "groupe": "UMP",
+          "id_api": "8707",
+          "numero": "62",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Sauvadet, …",
+          "date": "2008-07-07",
+          "groupe": "NC",
+          "id_api": "9239",
+          "numero": "131",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Sauvadet, …",
+          "date": "2008-07-07",
+          "groupe": "NC",
+          "id_api": "9238",
+          "numero": "132",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "5499",
+          "numero": "216",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "5498",
+          "numero": "217",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5480",
+          "numero": "243",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 140,
+      "titre": "Article 10 bis"
+    },
+    "Article 11": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8683",
+          "numero": "9",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8682",
+          "numero": "10",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8681",
+          "numero": "11",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Méhaignerie, …",
+          "date": "2008-07-05",
+          "groupe": "UMP",
+          "id_api": "9225",
+          "numero": "63",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-04",
+          "groupe": "GDR",
+          "id_api": "8696",
+          "numero": "75",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Migaud",
+          "date": "2008-07-05",
+          "groupe": "SRC",
+          "id_api": "9223",
+          "numero": "84",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Sauvadet, …",
+          "date": "2008-07-08",
+          "groupe": "NC",
+          "id_api": "10032",
+          "numero": "133",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Sauvadet, …",
+          "date": "2008-07-08",
+          "groupe": "NC",
+          "id_api": "10031",
+          "numero": "134",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Giacobbi, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5468",
+          "numero": "258",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5465",
+          "numero": "262",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5434",
+          "numero": "301",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bayrou",
+          "date": "2008-07-08",
+          "groupe": "NI",
+          "id_api": "5424",
+          "numero": "311",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bayrou",
+          "date": "2008-07-08",
+          "groupe": "NI",
+          "id_api": "5423",
+          "numero": "312",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 150,
+      "titre": "Article 11"
+    },
+    "Article 12": {
+      "amendements": [
+        {
+          "aut": "M. Vanneste",
+          "date": "2008-07-04",
+          "groupe": "UMP",
+          "id_api": "9213",
+          "numero": "56",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2008-07-07",
+          "groupe": "UMP",
+          "id_api": "9748",
+          "numero": "92",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Debré, …",
+          "date": "2008-07-07",
+          "groupe": "UMP",
+          "id_api": "9243",
+          "numero": "125",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. de Charette",
+          "date": "2008-07-08",
+          "groupe": "UMP",
+          "id_api": "10021",
+          "numero": "144",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9783",
+          "numero": "191",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9782",
+          "numero": "192",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9781",
+          "numero": "193",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5512",
+          "numero": "194",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "",
+          "date": "2008-07-08",
+          "groupe": "Gouvernement",
+          "id_api": "5429",
+          "numero": "306",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-09",
+          "groupe": "SRC",
+          "id_api": "5516",
+          "numero": "329",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-09",
+          "groupe": "SRC",
+          "id_api": "5515",
+          "numero": "330",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 160,
+      "titre": "Article 12"
+    },
+    "Article 13": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8680",
+          "numero": "12",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-04",
+          "groupe": "GDR",
+          "id_api": "8695",
+          "numero": "76",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-04",
+          "groupe": "GDR",
+          "id_api": "8694",
+          "numero": "77",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-04",
+          "groupe": "GDR",
+          "id_api": "8693",
+          "numero": "78",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2008-07-07",
+          "groupe": "UMP",
+          "id_api": "9747",
+          "numero": "93",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Sauvadet, …",
+          "date": "2008-07-08",
+          "groupe": "NC",
+          "id_api": "10030",
+          "numero": "135",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "10004",
+          "numero": "161",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "5497",
+          "numero": "218",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "5496",
+          "numero": "219",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Cazeneuve, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5464",
+          "numero": "263",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Cazeneuve, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5463",
+          "numero": "264",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Cazeneuve, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5462",
+          "numero": "265",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Cazeneuve, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5461",
+          "numero": "266",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Cazeneuve, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5460",
+          "numero": "267",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Folliot, …",
+          "date": "2008-07-08",
+          "groupe": "NC",
+          "id_api": "5428",
+          "numero": "307",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 170,
+      "titre": "Article 13"
+    },
+    "Article 14": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8679",
+          "numero": "13",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8678",
+          "numero": "14",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2008-07-07",
+          "groupe": "UMP",
+          "id_api": "9746",
+          "numero": "94",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9780",
+          "numero": "195",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9779",
+          "numero": "196",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9761",
+          "numero": "268",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5435",
+          "numero": "300",
+          "sort": "adopté"
+        }
+      ],
+      "order": 190,
+      "titre": "Article 14"
+    },
+    "Article 15": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8677",
+          "numero": "15",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "10003",
+          "numero": "162",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9778",
+          "numero": "197",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "5495",
+          "numero": "220",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 200,
+      "titre": "Article 15"
+    },
+    "Article 16": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8676",
+          "numero": "16",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8675",
+          "numero": "17",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8674",
+          "numero": "18",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Migaud",
+          "date": "2008-07-05",
+          "groupe": "SRC",
+          "id_api": "9222",
+          "numero": "85",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2008-07-07",
+          "groupe": "UMP",
+          "id_api": "9745",
+          "numero": "95",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "10002",
+          "numero": "163",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "10001",
+          "numero": "164",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9760",
+          "numero": "269",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Derosier, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5459",
+          "numero": "270",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9759",
+          "numero": "271",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9758",
+          "numero": "272",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 210,
+      "titre": "Article 16"
+    },
+    "Article 17": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8673",
+          "numero": "19",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Sauvadet, …",
+          "date": "2008-07-08",
+          "groupe": "NC",
+          "id_api": "10029",
+          "numero": "136",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Sauvadet, …",
+          "date": "2008-07-08",
+          "groupe": "NC",
+          "id_api": "10028",
+          "numero": "137",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "5494",
+          "numero": "221",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5458",
+          "numero": "273",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 220,
+      "titre": "Article 17"
+    },
+    "Article 18": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8672",
+          "numero": "20",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-04",
+          "groupe": "GDR",
+          "id_api": "8691",
+          "numero": "80",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2008-07-07",
+          "groupe": "UMP",
+          "id_api": "9744",
+          "numero": "96",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Sauvadet, …",
+          "date": "2008-07-07",
+          "groupe": "NC",
+          "id_api": "9256",
+          "numero": "109",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "10000",
+          "numero": "165",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9777",
+          "numero": "198",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5511",
+          "numero": "199",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-07",
+          "groupe": "GDR",
+          "id_api": "9772",
+          "numero": "222",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5457",
+          "numero": "274",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9757",
+          "numero": "275",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 230,
+      "titre": "Article 18"
+    },
+    "Article 19": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8671",
+          "numero": "21",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8670",
+          "numero": "22",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8669",
+          "numero": "23",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-04",
+          "groupe": "GDR",
+          "id_api": "8690",
+          "numero": "81",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "9999",
+          "numero": "166",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-07",
+          "groupe": "GDR",
+          "id_api": "9771",
+          "numero": "223",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "5493",
+          "numero": "224",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "5492",
+          "numero": "225",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5456",
+          "numero": "276",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5455",
+          "numero": "277",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Derosier, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5454",
+          "numero": "278",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5453",
+          "numero": "279",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Derosier, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5450",
+          "numero": "285",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 240,
+      "titre": "Article 19"
+    },
+    "Article 1er": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8688",
+          "numero": "4",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2008-07-08",
+          "groupe": "UMP",
+          "id_api": "10037",
+          "numero": "87",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bayrou",
+          "date": "2008-07-08",
+          "groupe": "NI",
+          "id_api": "5417",
+          "numero": "318",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bayrou",
+          "date": "2008-07-08",
+          "groupe": "NI",
+          "id_api": "5415",
+          "numero": "320",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bayrou",
+          "date": "2008-07-08",
+          "groupe": "NI",
+          "id_api": "10038",
+          "numero": "328",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 30,
+      "titre": "Article 1er"
+    },
+    "Article 1er B": {
+      "amendements": [
+        {
+          "aut": "M. Debray",
+          "date": "2008-07-01",
+          "groupe": "UMP",
+          "id_api": "8143",
+          "numero": "3",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-04",
+          "groupe": "GDR",
+          "id_api": "8706",
+          "numero": "64",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-04",
+          "groupe": "GDR",
+          "id_api": "8705",
+          "numero": "65",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Vanneste",
+          "date": "2008-07-05",
+          "groupe": "UMP",
+          "id_api": "9224",
+          "numero": "83",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Debré, …",
+          "date": "2008-07-07",
+          "groupe": "UMP",
+          "id_api": "9246",
+          "numero": "121",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Lagarde",
+          "date": "2008-07-08",
+          "groupe": "NC",
+          "id_api": "10034",
+          "numero": "127",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Sauvadet, …",
+          "date": "2008-07-08",
+          "groupe": "NC",
+          "id_api": "10033",
+          "numero": "128",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. de Charette",
+          "date": "2008-07-08",
+          "groupe": "UMP",
+          "id_api": "10026",
+          "numero": "139",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "9991",
+          "numero": "177",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "9990",
+          "numero": "178",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Braouezec",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "9785",
+          "numero": "179",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "9784",
+          "numero": "180",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-07",
+          "groupe": "GDR",
+          "id_api": "9234",
+          "numero": "181",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "5509",
+          "numero": "206",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "5508",
+          "numero": "207",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "5507",
+          "numero": "208",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Lurel, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5487",
+          "numero": "232",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Giacobbi, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5475",
+          "numero": "250",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5474",
+          "numero": "251",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Lurel, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5433",
+          "numero": "302",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "5432",
+          "numero": "303",
+          "sort": "en attente"
+        },
+        {
+          "aut": "MM. Folliot, …",
+          "date": "2008-07-08",
+          "groupe": "NC",
+          "id_api": "5430",
+          "numero": "305",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 20,
+      "titre": "Article 1er B"
+    },
+    "Article 2": {
+      "amendements": [
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-04",
+          "groupe": "GDR",
+          "id_api": "8703",
+          "numero": "67",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2008-07-07",
+          "groupe": "UMP",
+          "id_api": "9752",
+          "numero": "88",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "10015",
+          "numero": "150",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 40,
+      "titre": "Article 2"
+    },
+    "Article 20": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8668",
+          "numero": "24",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "9998",
+          "numero": "167",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9756",
+          "numero": "280",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5449",
+          "numero": "286",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 250,
+      "titre": "Article 20"
+    },
+    "Article 21": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8667",
+          "numero": "25",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "5491",
+          "numero": "226",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "",
+          "date": "2008-07-08",
+          "groupe": "Gouvernement",
+          "id_api": "5484",
+          "numero": "237",
+          "sort": "adopté"
+        },
+        {
+          "aut": "",
+          "date": "2008-07-08",
+          "groupe": "Gouvernement",
+          "id_api": "5483",
+          "numero": "238",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Giscard d'Estaing, …",
+          "date": "2008-07-08",
+          "groupe": "UMP",
+          "id_api": "5427",
+          "numero": "308",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Lagarde",
+          "date": "2008-07-08",
+          "groupe": "NC",
+          "id_api": "5418",
+          "numero": "317",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 260,
+      "titre": "Article 21"
+    },
+    "Article 22": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8666",
+          "numero": "26",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Sauvadet, …",
+          "date": "2008-07-07",
+          "groupe": "NC",
+          "id_api": "9255",
+          "numero": "110",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "9997",
+          "numero": "168",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-07",
+          "groupe": "GDR",
+          "id_api": "9770",
+          "numero": "227",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9755",
+          "numero": "281",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9754",
+          "numero": "282",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5452",
+          "numero": "283",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5451",
+          "numero": "284",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 270,
+      "titre": "Article 22"
+    },
+    "Article 23": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8665",
+          "numero": "27",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Pancher",
+          "date": "2008-07-04",
+          "groupe": "UMP",
+          "id_api": "9218",
+          "numero": "51",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Sauvadet, …",
+          "date": "2008-07-07",
+          "groupe": "NC",
+          "id_api": "9254",
+          "numero": "111",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "9996",
+          "numero": "169",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5467",
+          "numero": "259",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5448",
+          "numero": "287",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 280,
+      "titre": "Article 23"
+    },
+    "Article 23 bis": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8664",
+          "numero": "28",
+          "sort": "adopté"
+        }
+      ],
+      "order": 290,
+      "titre": "Article 23 bis"
+    },
+    "Article 24": {
+      "amendements": [
+        {
+          "aut": "M. Myard",
+          "date": "2008-07-07",
+          "groupe": "UMP",
+          "id_api": "9743",
+          "numero": "97",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Debré, …",
+          "date": "2008-07-07",
+          "groupe": "UMP",
+          "id_api": "9242",
+          "numero": "126",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "9995",
+          "numero": "170",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5466",
+          "numero": "260",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Derosier, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5447",
+          "numero": "288",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5446",
+          "numero": "289",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 300,
+      "titre": "Article 24"
+    },
+    "Article 24 bis": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann, …",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8663",
+          "numero": "29",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Vanneste",
+          "date": "2008-07-04",
+          "groupe": "UMP",
+          "id_api": "9211",
+          "numero": "58",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2008-07-07",
+          "groupe": "UMP",
+          "id_api": "9742",
+          "numero": "98",
+          "sort": "adopté"
+        }
+      ],
+      "order": 310,
+      "titre": "Article 24 bis"
+    },
+    "Article 24 ter": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann, …",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8662",
+          "numero": "30",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Vanneste",
+          "date": "2008-07-04",
+          "groupe": "UMP",
+          "id_api": "8709",
+          "numero": "60",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2008-07-07",
+          "groupe": "UMP",
+          "id_api": "9741",
+          "numero": "99",
+          "sort": "adopté"
+        }
+      ],
+      "order": 320,
+      "titre": "Article 24 ter"
+    },
+    "Article 25": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann, …",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8661",
+          "numero": "31",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Vanneste",
+          "date": "2008-07-04",
+          "groupe": "UMP",
+          "id_api": "8708",
+          "numero": "61",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2008-07-07",
+          "groupe": "UMP",
+          "id_api": "9740",
+          "numero": "100",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-07",
+          "groupe": "GDR",
+          "id_api": "9773",
+          "numero": "204",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5445",
+          "numero": "290",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5444",
+          "numero": "291",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 330,
+      "titre": "Article 25"
+    },
+    "Article 25 bis": {
+      "amendements": [
+        {
+          "aut": "M. Myard",
+          "date": "2008-07-07",
+          "groupe": "UMP",
+          "id_api": "9739",
+          "numero": "101",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 340,
+      "titre": "Article 25 bis"
+    },
+    "Article 25 ter": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann, …",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8160",
+          "numero": "32",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Vanneste",
+          "date": "2008-07-04",
+          "groupe": "UMP",
+          "id_api": "8710",
+          "numero": "59",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2008-07-07",
+          "groupe": "UMP",
+          "id_api": "9738",
+          "numero": "102",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5510",
+          "numero": "200",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 350,
+      "titre": "Article 25 ter"
+    },
+    "Article 26": {
+      "amendements": [
+        {
+          "aut": "M. Ueberschlag, …",
+          "date": "2008-07-07",
+          "groupe": "UMP",
+          "id_api": "9258",
+          "numero": "107",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Ueberschlag, …",
+          "date": "2008-07-07",
+          "groupe": "UMP",
+          "id_api": "9257",
+          "numero": "108",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Sauvadet, …",
+          "date": "2008-07-07",
+          "groupe": "NC",
+          "id_api": "9253",
+          "numero": "112",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. de Charette",
+          "date": "2008-07-08",
+          "groupe": "UMP",
+          "id_api": "10020",
+          "numero": "145",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-07",
+          "groupe": "GDR",
+          "id_api": "9237",
+          "numero": "171",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9776",
+          "numero": "201",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-07",
+          "groupe": "GDR",
+          "id_api": "9769",
+          "numero": "228",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5443",
+          "numero": "292",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5442",
+          "numero": "293",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 360,
+      "titre": "Article 26"
+    },
+    "Article 28": {
+      "amendements": [
+        {
+          "aut": "MM. Sauvadet, …",
+          "date": "2008-07-07",
+          "groupe": "NC",
+          "id_api": "9252",
+          "numero": "113",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Sauvadet, …",
+          "date": "2008-07-07",
+          "groupe": "NC",
+          "id_api": "9251",
+          "numero": "114",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Sauvadet, …",
+          "date": "2008-07-07",
+          "groupe": "NC",
+          "id_api": "9250",
+          "numero": "115",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Sauvadet, …",
+          "date": "2008-07-07",
+          "groupe": "NC",
+          "id_api": "9249",
+          "numero": "116",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. de Charette",
+          "date": "2008-07-08",
+          "groupe": "UMP",
+          "id_api": "10019",
+          "numero": "146",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. de Charette",
+          "date": "2008-07-08",
+          "groupe": "UMP",
+          "id_api": "10018",
+          "numero": "147",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. de Charette",
+          "date": "2008-07-08",
+          "groupe": "UMP",
+          "id_api": "10017",
+          "numero": "148",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. de Charette",
+          "date": "2008-07-08",
+          "groupe": "UMP",
+          "id_api": "10016",
+          "numero": "149",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-07",
+          "groupe": "GDR",
+          "id_api": "9236",
+          "numero": "172",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-07",
+          "groupe": "GDR",
+          "id_api": "9235",
+          "numero": "173",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9775",
+          "numero": "202",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "5490",
+          "numero": "229",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "5489",
+          "numero": "230",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "5488",
+          "numero": "231",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Le Bouillonnec, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5441",
+          "numero": "294",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5440",
+          "numero": "295",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bayrou",
+          "date": "2008-07-08",
+          "groupe": "NI",
+          "id_api": "5422",
+          "numero": "313",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bayrou",
+          "date": "2008-07-08",
+          "groupe": "NI",
+          "id_api": "5421",
+          "numero": "314",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-08",
+          "groupe": "UMP",
+          "id_api": "5413",
+          "numero": "323",
+          "sort": "adopté"
+        }
+      ],
+      "order": 380,
+      "titre": "Article 28"
+    },
+    "Article 3 bis": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8687",
+          "numero": "5",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Vanneste",
+          "date": "2008-07-04",
+          "groupe": "UMP",
+          "id_api": "9215",
+          "numero": "54",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "10014",
+          "numero": "151",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "10013",
+          "numero": "152",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-07",
+          "groupe": "GDR",
+          "id_api": "9233",
+          "numero": "182",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9231",
+          "numero": "184",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9230",
+          "numero": "185",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9229",
+          "numero": "186",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "5506",
+          "numero": "209",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "5505",
+          "numero": "210",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5486",
+          "numero": "233",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5485",
+          "numero": "234",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 50,
+      "titre": "Article 3 bis"
+    },
+    "Article 3 ter": {
+      "amendements": [
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "10012",
+          "numero": "153",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 60,
+      "titre": "Article 3 ter"
+    },
+    "Article 30 quater": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8159",
+          "numero": "33",
+          "sort": "adopté"
+        }
+      ],
+      "order": 440,
+      "titre": "Article 30 quater"
+    },
+    "Article 30 quinquies": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8158",
+          "numero": "34",
+          "sort": "adopté"
+        }
+      ],
+      "order": 450,
+      "titre": "Article 30 quinquies"
+    },
+    "Article 30 sexies": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8156",
+          "numero": "36",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8155",
+          "numero": "37",
+          "sort": "adopté"
+        }
+      ],
+      "order": 460,
+      "titre": "Article 30 sexies"
+    },
+    "Article 31": {
+      "amendements": [
+        {
+          "aut": "M. Vanneste",
+          "date": "2008-07-04",
+          "groupe": "UMP",
+          "id_api": "9217",
+          "numero": "52",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2008-07-07",
+          "groupe": "UMP",
+          "id_api": "9737",
+          "numero": "103",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "9994",
+          "numero": "174",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9774",
+          "numero": "203",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5439",
+          "numero": "296",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 470,
+      "titre": "Article 31"
+    },
+    "Article 31 bis": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8152",
+          "numero": "40",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Vanneste",
+          "date": "2008-07-04",
+          "groupe": "UMP",
+          "id_api": "9212",
+          "numero": "57",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 480,
+      "titre": "Article 31 bis"
+    },
+    "Article 32": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8151",
+          "numero": "41",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Garrigue",
+          "date": "2008-07-04",
+          "groupe": "UMP",
+          "id_api": "9219",
+          "numero": "50",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2008-07-07",
+          "groupe": "UMP",
+          "id_api": "9736",
+          "numero": "104",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2008-07-07",
+          "groupe": "UMP",
+          "id_api": "9260",
+          "numero": "105",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Sauvadet, …",
+          "date": "2008-07-07",
+          "groupe": "NC",
+          "id_api": "9247",
+          "numero": "118",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Sauvadet, …",
+          "date": "2008-07-08",
+          "groupe": "NC",
+          "id_api": "10036",
+          "numero": "119",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5438",
+          "numero": "297",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 490,
+      "titre": "Article 32"
+    },
+    "Article 33": {
+      "amendements": [
+        {
+          "aut": "Mme Marland-Militello, …",
+          "date": "2008-07-01",
+          "groupe": "UMP",
+          "id_api": "8145",
+          "numero": "1",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Poniatowski",
+          "date": "2008-07-01",
+          "groupe": "UMP",
+          "id_api": "8144",
+          "numero": "2",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8150",
+          "numero": "42",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2008-07-07",
+          "groupe": "UMP",
+          "id_api": "9259",
+          "numero": "106",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Luca",
+          "date": "2008-07-08",
+          "groupe": "UMP",
+          "id_api": "10027",
+          "numero": "138",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "9993",
+          "numero": "175",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Mallié, …",
+          "date": "2008-07-08",
+          "groupe": "UMP",
+          "id_api": "5431",
+          "numero": "304",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Bayrou",
+          "date": "2008-07-08",
+          "groupe": "NI",
+          "id_api": "5420",
+          "numero": "315",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-08",
+          "groupe": "UMP",
+          "id_api": "5414",
+          "numero": "322",
+          "sort": "adopté"
+        }
+      ],
+      "order": 500,
+      "titre": "Article 33"
+    },
+    "Article 33 bis": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8149",
+          "numero": "43",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Pancher",
+          "date": "2008-07-04",
+          "groupe": "UMP",
+          "id_api": "9216",
+          "numero": "53",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Pancher",
+          "date": "2008-07-04",
+          "groupe": "UMP",
+          "id_api": "9214",
+          "numero": "55",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-07",
+          "groupe": "GDR",
+          "id_api": "9232",
+          "numero": "183",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Dosière, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5437",
+          "numero": "298",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 510,
+      "titre": "Article 33 bis"
+    },
+    "Article 34": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8148",
+          "numero": "44",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8147",
+          "numero": "45",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8146",
+          "numero": "46",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-09",
+          "groupe": "UMP",
+          "id_api": "5514",
+          "numero": "47",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-04",
+          "groupe": "GDR",
+          "id_api": "8689",
+          "numero": "82",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-08",
+          "groupe": "UMP",
+          "id_api": "5412",
+          "numero": "324",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-08",
+          "groupe": "UMP",
+          "id_api": "5411",
+          "numero": "325",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-08",
+          "groupe": "UMP",
+          "id_api": "10039",
+          "numero": "326",
+          "sort": "adopté"
+        }
+      ],
+      "order": 520,
+      "titre": "Article 34"
+    },
+    "Article 35": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann, …",
+          "date": "2008-07-04",
+          "groupe": "UMP",
+          "id_api": "9221",
+          "numero": "48",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-04",
+          "groupe": "UMP",
+          "id_api": "9220",
+          "numero": "49",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Lagarde, …",
+          "date": "2008-07-08",
+          "groupe": "NC",
+          "id_api": "10035",
+          "numero": "120",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "9992",
+          "numero": "176",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Caresche, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5436",
+          "numero": "299",
+          "sort": "adopté"
+        }
+      ],
+      "order": 530,
+      "titre": "Article 35"
+    },
+    "Article 4": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8686",
+          "numero": "6",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-04",
+          "groupe": "GDR",
+          "id_api": "8702",
+          "numero": "68",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Myard",
+          "date": "2008-07-07",
+          "groupe": "UMP",
+          "id_api": "9751",
+          "numero": "89",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Debré, …",
+          "date": "2008-07-07",
+          "groupe": "UMP",
+          "id_api": "9245",
+          "numero": "122",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. de Charette",
+          "date": "2008-07-08",
+          "groupe": "UMP",
+          "id_api": "10025",
+          "numero": "140",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "10011",
+          "numero": "154",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9228",
+          "numero": "187",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9227",
+          "numero": "188",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "5504",
+          "numero": "211",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9768",
+          "numero": "235",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9767",
+          "numero": "236",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Giacobbi, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5473",
+          "numero": "252",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bayrou",
+          "date": "2008-07-08",
+          "groupe": "NI",
+          "id_api": "5426",
+          "numero": "309",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 80,
+      "titre": "Article 4"
+    },
+    "Article 6": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8685",
+          "numero": "7",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-04",
+          "groupe": "GDR",
+          "id_api": "8701",
+          "numero": "69",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Sauvadet, …",
+          "date": "2008-07-07",
+          "groupe": "NC",
+          "id_api": "9241",
+          "numero": "129",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "10010",
+          "numero": "155",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "10009",
+          "numero": "156",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Le Bouillonnec, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5482",
+          "numero": "239",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 100,
+      "titre": "Article 6"
+    },
+    "Article 9": {
+      "amendements": [
+        {
+          "aut": "M. Warsmann",
+          "date": "2008-07-03",
+          "groupe": "UMP",
+          "id_api": "8684",
+          "numero": "8",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-04",
+          "groupe": "GDR",
+          "id_api": "8700",
+          "numero": "70",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-04",
+          "groupe": "GDR",
+          "id_api": "8699",
+          "numero": "71",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Sauvadet, …",
+          "date": "2008-07-07",
+          "groupe": "NC",
+          "id_api": "9240",
+          "numero": "130",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. de Charette",
+          "date": "2008-07-08",
+          "groupe": "UMP",
+          "id_api": "10024",
+          "numero": "141",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. de Charette",
+          "date": "2008-07-08",
+          "groupe": "UMP",
+          "id_api": "10023",
+          "numero": "142",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "10008",
+          "numero": "157",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Sandrier, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "10007",
+          "numero": "158",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9226",
+          "numero": "189",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Mamère, …",
+          "date": "2008-07-08",
+          "groupe": "GDR",
+          "id_api": "5502",
+          "numero": "213",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5481",
+          "numero": "240",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9766",
+          "numero": "241",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Montebourg, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9765",
+          "numero": "242",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Pinel, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5472",
+          "numero": "253",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5471",
+          "numero": "254",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Pinel, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5470",
+          "numero": "255",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Robin-Rodrigo, …",
+          "date": "2008-07-08",
+          "groupe": "SRC",
+          "id_api": "5469",
+          "numero": "256",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Pinel, …",
+          "date": "2008-07-07",
+          "groupe": "SRC",
+          "id_api": "9762",
+          "numero": "257",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bayrou",
+          "date": "2008-07-08",
+          "groupe": "NI",
+          "id_api": "5425",
+          "numero": "310",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bayrou",
+          "date": "2008-07-08",
+          "groupe": "NI",
+          "id_api": "5416",
+          "numero": "319",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 120,
+      "titre": "Article 9"
+    }
+  }
+}

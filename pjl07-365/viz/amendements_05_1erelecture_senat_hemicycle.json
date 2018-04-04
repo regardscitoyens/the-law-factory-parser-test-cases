@@ -1,0 +1,4532 @@
+{
+  "api_root_url": "https://www.nossenateurs.fr/api/document/Amendement/",
+  "groupes": {
+    "CRC": {
+      "color": "rgb(255,30,30)",
+      "link": "https://www.nossenateurs.fr/groupe/CRC",
+      "nom": "Communiste, Républicain, Citoyen et des Sénateurs du Parti de Gauche",
+      "order": 11
+    },
+    "CRCE": {
+      "color": "rgb(255,30,30)",
+      "link": "https://www.nossenateurs.fr/groupe/CRCE",
+      "nom": "Communiste républicain citoyen et Écologiste",
+      "order": 10
+    },
+    "Gouvernement": {
+      "color": "#cccbb3",
+      "link": "",
+      "nom": "Gouvernement",
+      "order": 60
+    },
+    "Inconnu": {
+      "color": "#bfbfbf",
+      "link": "",
+      "nom": "Inconnu",
+      "order": 100
+    },
+    "LR": {
+      "color": "rgb(30,30,200)",
+      "link": "https://www.nossenateurs.fr/groupe/LR",
+      "nom": "Les Républicains",
+      "order": 24
+    },
+    "RDSE": {
+      "color": "rgb(250,195,132)",
+      "link": "https://www.nossenateurs.fr/groupe/RDSE",
+      "nom": "Rassemblement Démocratique et Social européen",
+      "order": 17
+    },
+    "SOC": {
+      "color": "rgb(255,50,190)",
+      "link": "https://www.nossenateurs.fr/groupe/SOC",
+      "nom": "Socialiste et républicain",
+      "order": 14
+    },
+    "UC": {
+      "color": "rgb(130,140,255)",
+      "link": "https://www.nossenateurs.fr/groupe/UC",
+      "nom": "Union Centriste",
+      "order": 20
+    },
+    "UDI": {
+      "color": "rgb(30,180,255)",
+      "link": "https://www.nossenateurs.fr/groupe/UDI",
+      "nom": "Union des Démocrates et Indépendants - UC",
+      "order": 21
+    },
+    "UMP": {
+      "color": "rgb(30,30,200)",
+      "link": "https://www.nossenateurs.fr/groupe/UMP",
+      "nom": "Union pour un Mouvement Populaire",
+      "order": 23
+    }
+  },
+  "id_step": "05_1erelecture_senat_hemicycle",
+  "sujets": {
+    "Après l'article 10": {
+      "amendements": [
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15066",
+          "numero": "183",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15067",
+          "numero": "184",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15203",
+          "numero": "331",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15245",
+          "numero": "374",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15246",
+          "numero": "375",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15307",
+          "numero": "438",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15310",
+          "numero": "441",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 141,
+      "titre": "Après l'article 10"
+    },
+    "Après l'article 12": {
+      "amendements": [
+        {
+          "aut": "MM. Baylet, …",
+          "date": "2008-06-17",
+          "groupe": "RDSE",
+          "id_api": "15259",
+          "numero": "389",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 171,
+      "titre": "Après l'article 12"
+    },
+    "Après l'article 13": {
+      "amendements": [
+        {
+          "aut": "Mme Khiari, …",
+          "date": "2008-06-21",
+          "groupe": "Inconnu",
+          "id_api": "14931",
+          "numero": "44",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15330",
+          "numero": "461",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 181,
+      "titre": "Après l'article 13"
+    },
+    "Après l'article 14": {
+      "amendements": [
+        {
+          "aut": "M. Cointat, …",
+          "date": "2008-06-16",
+          "groupe": "LR",
+          "id_api": "14933",
+          "numero": "46",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Cointat, …",
+          "date": "2008-06-16",
+          "groupe": "UMP",
+          "id_api": "14934",
+          "numero": "47",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Delfau",
+          "date": "2008-06-19",
+          "groupe": "RDSE",
+          "id_api": "14935",
+          "numero": "48",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Arthuis",
+          "date": "2008-06-12",
+          "groupe": "UDI",
+          "id_api": "15030",
+          "numero": "146",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15083",
+          "numero": "200",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Lambert, …",
+          "date": "2008-06-19",
+          "groupe": "UMP",
+          "id_api": "15183",
+          "numero": "310",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15207",
+          "numero": "335",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15336",
+          "numero": "467",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 201,
+      "titre": "Après l'article 14"
+    },
+    "Après l'article 17": {
+      "amendements": [
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-13",
+          "groupe": "RDSE",
+          "id_api": "14916",
+          "numero": "24",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 231,
+      "titre": "Après l'article 17"
+    },
+    "Après l'article 18": {
+      "amendements": [
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15208",
+          "numero": "336",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15209",
+          "numero": "337",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 241,
+      "titre": "Après l'article 18"
+    },
+    "Après l'article 1er": {
+      "amendements": [
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-17",
+          "groupe": "SOC",
+          "id_api": "15292",
+          "numero": "423",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-17",
+          "groupe": "SOC",
+          "id_api": "15293",
+          "numero": "424",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Borvo Cohen-Seat",
+          "date": "2008-06-19",
+          "groupe": "CRCE",
+          "id_api": "15380",
+          "numero": "512",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Charasse",
+          "date": "2008-06-19",
+          "groupe": "RDSE",
+          "id_api": "15381",
+          "numero": "513",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 21,
+      "titre": "Après l'article 1er"
+    },
+    "Après l'article 1er A": {
+      "amendements": [
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15289",
+          "numero": "420",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 11,
+      "titre": "Après l'article 1er A"
+    },
+    "Après l'article 2": {
+      "amendements": [
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15050",
+          "numero": "167",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15051",
+          "numero": "168",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15052",
+          "numero": "169",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 31,
+      "titre": "Après l'article 2"
+    },
+    "Après l'article 20": {
+      "amendements": [
+        {
+          "aut": "MM. Cointat, …",
+          "date": "2008-06-16",
+          "groupe": "LR",
+          "id_api": "14937",
+          "numero": "50",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15096",
+          "numero": "214",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 261,
+      "titre": "Après l'article 20"
+    },
+    "Après l'article 22": {
+      "amendements": [
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15105",
+          "numero": "223",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 281,
+      "titre": "Après l'article 22"
+    },
+    "Après l'article 24": {
+      "amendements": [
+        {
+          "aut": "MM. Portelli, …",
+          "date": "2008-06-17",
+          "groupe": "UMP",
+          "id_api": "14957",
+          "numero": "71",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15113",
+          "numero": "231",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15114",
+          "numero": "232",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15115",
+          "numero": "233",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15205",
+          "numero": "333",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15222",
+          "numero": "351",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 311,
+      "titre": "Après l'article 24"
+    },
+    "Après l'article 27": {
+      "amendements": [
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-13",
+          "groupe": "RDSE",
+          "id_api": "14921",
+          "numero": "34",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 341,
+      "titre": "Après l'article 27"
+    },
+    "Après l'article 28": {
+      "amendements": [
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15228",
+          "numero": "357",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 351,
+      "titre": "Après l'article 28"
+    },
+    "Après l'article 3 bis": {
+      "amendements": [
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15054",
+          "numero": "171",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 51,
+      "titre": "Après l'article 3 bis"
+    },
+    "Après l'article 3 quater": {
+      "amendements": [
+        {
+          "aut": "MM. Fauchon, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15139",
+          "numero": "265",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Baylet, …",
+          "date": "2008-06-17",
+          "groupe": "RDSE",
+          "id_api": "15253",
+          "numero": "383",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 71,
+      "titre": "Après l'article 3 quater"
+    },
+    "Après l'article 30 quater": {
+      "amendements": [
+        {
+          "aut": "M. Cointat",
+          "date": "2008-06-24",
+          "groupe": "UMP",
+          "id_api": "15367",
+          "numero": "499",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Cointat",
+          "date": "2008-06-24",
+          "groupe": "UMP",
+          "id_api": "15368",
+          "numero": "500",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Cointat",
+          "date": "2008-06-16",
+          "groupe": "UMP",
+          "id_api": "15369",
+          "numero": "501",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 411,
+      "titre": "Après l'article 30 quater"
+    },
+    "Après l'article 30 ter": {
+      "amendements": [
+        {
+          "aut": "M. Laffitte",
+          "date": "2008-06-16",
+          "groupe": "RDSE",
+          "id_api": "15190",
+          "numero": "318",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 401,
+      "titre": "Après l'article 30 ter"
+    },
+    "Après l'article 31": {
+      "amendements": [
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15119",
+          "numero": "237",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15120",
+          "numero": "238",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15240",
+          "numero": "369",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15241",
+          "numero": "370",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15243",
+          "numero": "372",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Legendre, …",
+          "date": "2008-06-17",
+          "groupe": "UMP",
+          "id_api": "15248",
+          "numero": "377",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Baylet, …",
+          "date": "2008-06-16",
+          "groupe": "RDSE",
+          "id_api": "15264",
+          "numero": "394",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15290",
+          "numero": "421",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 421,
+      "titre": "Après l'article 31"
+    },
+    "Après l'article 33": {
+      "amendements": [
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "15018",
+          "numero": "134",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15362",
+          "numero": "494",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 441,
+      "titre": "Après l'article 33"
+    },
+    "Après l'article 35": {
+      "amendements": [
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15126",
+          "numero": "245",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15127",
+          "numero": "246",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 461,
+      "titre": "Après l'article 35"
+    },
+    "Après l'article 7": {
+      "amendements": [
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-17",
+          "groupe": "RDSE",
+          "id_api": "14902",
+          "numero": "9",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15298",
+          "numero": "429",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 111,
+      "titre": "Après l'article 7"
+    },
+    "Après l'article 8": {
+      "amendements": [
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15235",
+          "numero": "364",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15299",
+          "numero": "430",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15300",
+          "numero": "431",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 121,
+      "titre": "Après l'article 8"
+    },
+    "Après l'article 9": {
+      "amendements": [
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15199",
+          "numero": "327",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15200",
+          "numero": "328",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15308",
+          "numero": "439",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15309",
+          "numero": "440",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 131,
+      "titre": "Après l'article 9"
+    },
+    "Article 10": {
+      "amendements": [
+        {
+          "aut": "MM. Gélard, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "14967",
+          "numero": "81",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "14989",
+          "numero": "104",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15068",
+          "numero": "185",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Mercier, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15144",
+          "numero": "270",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme N. Goulet",
+          "date": "2008-06-13",
+          "groupe": "UC",
+          "id_api": "15172",
+          "numero": "299",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Alfonsi",
+          "date": "2008-06-16",
+          "groupe": "RDSE",
+          "id_api": "15186",
+          "numero": "313",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15215",
+          "numero": "343",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15218",
+          "numero": "347",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15232",
+          "numero": "361",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15311",
+          "numero": "442",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15312",
+          "numero": "443",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15313",
+          "numero": "444",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15314",
+          "numero": "445",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 140,
+      "titre": "Article 10"
+    },
+    "Article 10 bis": {
+      "amendements": [
+        {
+          "aut": "MM. Gélard, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "14968",
+          "numero": "82",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "14990",
+          "numero": "105",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Détraigne, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15148",
+          "numero": "274",
+          "sort": "adopté"
+        }
+      ],
+      "order": 150,
+      "titre": "Article 10 bis"
+    },
+    "Article 11": {
+      "amendements": [
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-17",
+          "groupe": "RDSE",
+          "id_api": "14908",
+          "numero": "16",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-17",
+          "groupe": "RDSE",
+          "id_api": "14909",
+          "numero": "17",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-17",
+          "groupe": "RDSE",
+          "id_api": "14910",
+          "numero": "18",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-17",
+          "groupe": "RDSE",
+          "id_api": "14911",
+          "numero": "19",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Cointat, …",
+          "date": "2008-06-16",
+          "groupe": "LR",
+          "id_api": "14928",
+          "numero": "41",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Cointat, …",
+          "date": "2008-06-17",
+          "groupe": "LR",
+          "id_api": "14929",
+          "numero": "42",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Cointat, …",
+          "date": "2008-06-17",
+          "groupe": "LR",
+          "id_api": "14930",
+          "numero": "43",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Virapoullé, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "14945",
+          "numero": "58",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-21",
+          "groupe": "LR",
+          "id_api": "14946",
+          "numero": "59",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Portelli, …",
+          "date": "2008-06-17",
+          "groupe": "UMP",
+          "id_api": "14955",
+          "numero": "69",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Gélard, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "14969",
+          "numero": "83",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Gélard, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "14970",
+          "numero": "84",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Gélard, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "14971",
+          "numero": "85",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "14991",
+          "numero": "106",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "14992",
+          "numero": "107",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-17",
+          "groupe": "LR",
+          "id_api": "14993",
+          "numero": "108",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Puech, …",
+          "date": "2008-06-20",
+          "groupe": "UMP",
+          "id_api": "15034",
+          "numero": "151",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Cointat, …",
+          "date": "2008-06-17",
+          "groupe": "LR",
+          "id_api": "15038",
+          "numero": "155",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-18",
+          "groupe": "CRCE",
+          "id_api": "15070",
+          "numero": "187",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15072",
+          "numero": "189",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15073",
+          "numero": "190",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15074",
+          "numero": "191",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15075",
+          "numero": "192",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Mercier, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15149",
+          "numero": "275",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Vanlerenberghe, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15151",
+          "numero": "277",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Mercier, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15167",
+          "numero": "294",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Arthuis, …",
+          "date": "2008-06-20",
+          "groupe": "UMP",
+          "id_api": "15174",
+          "numero": "301",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Arthuis, …",
+          "date": "2008-06-17",
+          "groupe": "UMP",
+          "id_api": "15175",
+          "numero": "302",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Lambert, …",
+          "date": "2008-06-18",
+          "groupe": "UMP",
+          "id_api": "15182",
+          "numero": "309",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Lambert, …",
+          "date": "2008-06-18",
+          "groupe": "UMP",
+          "id_api": "15185",
+          "numero": "312",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15236",
+          "numero": "365",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Lambert, …",
+          "date": "2008-06-18",
+          "groupe": "UMP",
+          "id_api": "15251",
+          "numero": "380",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Baylet, …",
+          "date": "2008-06-17",
+          "groupe": "RDSE",
+          "id_api": "15258",
+          "numero": "388",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. About",
+          "date": "2008-06-16",
+          "groupe": "UC",
+          "id_api": "15271",
+          "numero": "401",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15315",
+          "numero": "446",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15316",
+          "numero": "447",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15317",
+          "numero": "448",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15318",
+          "numero": "449",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15319",
+          "numero": "450",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15320",
+          "numero": "451",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Cerisier-ben Guiga, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15321",
+          "numero": "452",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Cerisier-ben Guiga, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15322",
+          "numero": "453",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Cerisier-ben Guiga, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15323",
+          "numero": "454",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-21",
+          "groupe": "SOC",
+          "id_api": "15324",
+          "numero": "455",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-20",
+          "groupe": "LR",
+          "id_api": "15371",
+          "numero": "503",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Cointat, …",
+          "date": "2008-06-17",
+          "groupe": "LR",
+          "id_api": "15372",
+          "numero": "504",
+          "sort": "adopté"
+        }
+      ],
+      "order": 160,
+      "titre": "Article 11"
+    },
+    "Article 12": {
+      "amendements": [
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "14994",
+          "numero": "109",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. de Rohan, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "15022",
+          "numero": "138",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15071",
+          "numero": "188",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Mercier, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15152",
+          "numero": "278",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15224",
+          "numero": "353",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15325",
+          "numero": "456",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 170,
+      "titre": "Article 12"
+    },
+    "Article 13": {
+      "amendements": [
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-17",
+          "groupe": "RDSE",
+          "id_api": "14912",
+          "numero": "20",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "14995",
+          "numero": "110",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "14996",
+          "numero": "111",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. de Rohan, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "15023",
+          "numero": "139",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. de Rohan, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "15024",
+          "numero": "140",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Demessine, …",
+          "date": "2008-06-16",
+          "groupe": "CRC",
+          "id_api": "15076",
+          "numero": "193",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Demessine, …",
+          "date": "2008-06-16",
+          "groupe": "CRC",
+          "id_api": "15131",
+          "numero": "257",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Demessine, …",
+          "date": "2008-06-16",
+          "groupe": "CRC",
+          "id_api": "15132",
+          "numero": "258",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Demessine, …",
+          "date": "2008-06-16",
+          "groupe": "CRC",
+          "id_api": "15133",
+          "numero": "259",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Pozzo di Borgo, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15153",
+          "numero": "279",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15213",
+          "numero": "341",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15233",
+          "numero": "362",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15326",
+          "numero": "457",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15327",
+          "numero": "458",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15328",
+          "numero": "459",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15329",
+          "numero": "460",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 180,
+      "titre": "Article 13"
+    },
+    "Article 13 bis": {
+      "amendements": [
+        {
+          "aut": "MM. Virapoullé, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "14947",
+          "numero": "61",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Portelli, …",
+          "date": "2008-06-17",
+          "groupe": "UMP",
+          "id_api": "14956",
+          "numero": "70",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Gélard, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "14972",
+          "numero": "86",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15078",
+          "numero": "195",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15079",
+          "numero": "196",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15080",
+          "numero": "197",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-16",
+          "groupe": "CRCE",
+          "id_api": "15284",
+          "numero": "414",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-20",
+          "groupe": "SOC",
+          "id_api": "15331",
+          "numero": "462",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 190,
+      "titre": "Article 13 bis"
+    },
+    "Article 14": {
+      "amendements": [
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-17",
+          "groupe": "RDSE",
+          "id_api": "14913",
+          "numero": "21",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Cointat, …",
+          "date": "2008-06-17",
+          "groupe": "LR",
+          "id_api": "14932",
+          "numero": "45",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Gélard, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "14973",
+          "numero": "87",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "14997",
+          "numero": "112",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-23",
+          "groupe": "CRCE",
+          "id_api": "15081",
+          "numero": "198",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15082",
+          "numero": "199",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Mercier, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15154",
+          "numero": "280",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Mercier, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15155",
+          "numero": "281",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Marini",
+          "date": "2008-06-16",
+          "groupe": "UMP",
+          "id_api": "15192",
+          "numero": "320",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Vasselle",
+          "date": "2008-06-16",
+          "groupe": "LR",
+          "id_api": "15194",
+          "numero": "322",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15332",
+          "numero": "463",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15333",
+          "numero": "464",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15334",
+          "numero": "465",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15335",
+          "numero": "466",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 200,
+      "titre": "Article 14"
+    },
+    "Article 15": {
+      "amendements": [
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "14998",
+          "numero": "113",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15084",
+          "numero": "201",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15244",
+          "numero": "373",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15337",
+          "numero": "468",
+          "sort": "adopté"
+        }
+      ],
+      "order": 210,
+      "titre": "Article 15"
+    },
+    "Article 16": {
+      "amendements": [
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-13",
+          "groupe": "RDSE",
+          "id_api": "14914",
+          "numero": "22",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-13",
+          "groupe": "RDSE",
+          "id_api": "14915",
+          "numero": "23",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "14999",
+          "numero": "114",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "15000",
+          "numero": "115",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "15001",
+          "numero": "116",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15085",
+          "numero": "202",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15086",
+          "numero": "203",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Lambert, …",
+          "date": "2008-06-18",
+          "groupe": "UMP",
+          "id_api": "15184",
+          "numero": "311",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. About, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15268",
+          "numero": "398",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-16",
+          "groupe": "CRCE",
+          "id_api": "15273",
+          "numero": "403",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15338",
+          "numero": "469",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-23",
+          "groupe": "SOC",
+          "id_api": "15339",
+          "numero": "470",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15340",
+          "numero": "471",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15341",
+          "numero": "472",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 220,
+      "titre": "Article 16"
+    },
+    "Article 17": {
+      "amendements": [
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "15002",
+          "numero": "117",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15238",
+          "numero": "367",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 230,
+      "titre": "Article 17"
+    },
+    "Article 18": {
+      "amendements": [
+        {
+          "aut": "MM. Cointat, …",
+          "date": "2008-06-16",
+          "groupe": "LR",
+          "id_api": "14936",
+          "numero": "49",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "15003",
+          "numero": "118",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15087",
+          "numero": "204",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15088",
+          "numero": "205",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15089",
+          "numero": "206",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15090",
+          "numero": "207",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15210",
+          "numero": "338",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Lambert, …",
+          "date": "2008-06-18",
+          "groupe": "UMP",
+          "id_api": "15249",
+          "numero": "378",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15342",
+          "numero": "473",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15343",
+          "numero": "474",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-18",
+          "groupe": "CRCE",
+          "id_api": "15376",
+          "numero": "508",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-23",
+          "groupe": "CRCE",
+          "id_api": "15382",
+          "numero": "514",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Charasse",
+          "date": "2008-06-23",
+          "groupe": "RDSE",
+          "id_api": "15386",
+          "numero": "518",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 240,
+      "titre": "Article 18"
+    },
+    "Article 19": {
+      "amendements": [
+        {
+          "aut": "MM. Virapoullé, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "14948",
+          "numero": "62",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "15004",
+          "numero": "119",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "15005",
+          "numero": "120",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "15006",
+          "numero": "121",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15091",
+          "numero": "208",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15092",
+          "numero": "209",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15093",
+          "numero": "210",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Détraigne, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15156",
+          "numero": "282",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15198",
+          "numero": "326",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-20",
+          "groupe": "SOC",
+          "id_api": "15202",
+          "numero": "330",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15230",
+          "numero": "359",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-16",
+          "groupe": "CRCE",
+          "id_api": "15272",
+          "numero": "402",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15344",
+          "numero": "475",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15345",
+          "numero": "476",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15346",
+          "numero": "477",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15347",
+          "numero": "478",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 250,
+      "titre": "Article 19"
+    },
+    "Article 1er": {
+      "amendements": [
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-17",
+          "groupe": "RDSE",
+          "id_api": "14898",
+          "numero": "5",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "14981",
+          "numero": "96",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Mercier, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15135",
+          "numero": "261",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15291",
+          "numero": "422",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 20,
+      "titre": "Article 1er"
+    },
+    "Article 1er A": {
+      "amendements": [
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-13",
+          "groupe": "RDSE",
+          "id_api": "14896",
+          "numero": "3",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-18",
+          "groupe": "RDSE",
+          "id_api": "14897",
+          "numero": "4",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Cointat, …",
+          "date": "2008-06-16",
+          "groupe": "LR",
+          "id_api": "14925",
+          "numero": "38",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Virapoullé, …",
+          "date": "2008-06-17",
+          "groupe": "UMP",
+          "id_api": "14944",
+          "numero": "57",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Gélard, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "14963",
+          "numero": "77",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "14980",
+          "numero": "95",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Mélenchon",
+          "date": "2008-06-11",
+          "groupe": "CRC",
+          "id_api": "15029",
+          "numero": "145",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15039",
+          "numero": "156",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15040",
+          "numero": "157",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Gouteyron, …",
+          "date": "2008-06-17",
+          "groupe": "UMP",
+          "id_api": "15129",
+          "numero": "250",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Détraigne, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15134",
+          "numero": "260",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Détraigne, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15150",
+          "numero": "276",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Béteille, …",
+          "date": "2008-06-17",
+          "groupe": "UMP",
+          "id_api": "15177",
+          "numero": "304",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Lecerf",
+          "date": "2008-06-16",
+          "groupe": "UMP",
+          "id_api": "15188",
+          "numero": "315",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15220",
+          "numero": "349",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15227",
+          "numero": "356",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Legendre, …",
+          "date": "2008-06-17",
+          "groupe": "UMP",
+          "id_api": "15247",
+          "numero": "376",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. About, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15269",
+          "numero": "399",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. About, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15270",
+          "numero": "400",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 10,
+      "titre": "Article 1er A"
+    },
+    "Article 2": {
+      "amendements": [
+        {
+          "aut": "M. Charasse",
+          "date": "2008-06-19",
+          "groupe": "RDSE",
+          "id_api": "14964",
+          "numero": "78",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "14982",
+          "numero": "97",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15221",
+          "numero": "350",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 30,
+      "titre": "Article 2"
+    },
+    "Article 20": {
+      "amendements": [
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-17",
+          "groupe": "LR",
+          "id_api": "15007",
+          "numero": "122",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15094",
+          "numero": "212",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15095",
+          "numero": "213",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15348",
+          "numero": "479",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 260,
+      "titre": "Article 20"
+    },
+    "Article 21": {
+      "amendements": [
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-24",
+          "groupe": "RDSE",
+          "id_api": "14917",
+          "numero": "26",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Portelli, …",
+          "date": "2008-06-17",
+          "groupe": "LR",
+          "id_api": "15028",
+          "numero": "144",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15097",
+          "numero": "215",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15098",
+          "numero": "216",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15099",
+          "numero": "217",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Arthuis, …",
+          "date": "2008-06-17",
+          "groupe": "UMP",
+          "id_api": "15176",
+          "numero": "303",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15349",
+          "numero": "480",
+          "sort": "adopté"
+        }
+      ],
+      "order": 270,
+      "titre": "Article 21"
+    },
+    "Article 22": {
+      "amendements": [
+        {
+          "aut": "MM. Cointat, …",
+          "date": "2008-06-16",
+          "groupe": "LR",
+          "id_api": "14938",
+          "numero": "51",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Gélard, …",
+          "date": "2008-06-16",
+          "groupe": "UMP",
+          "id_api": "14974",
+          "numero": "88",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-24",
+          "groupe": "LR",
+          "id_api": "15008",
+          "numero": "123",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15100",
+          "numero": "218",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15101",
+          "numero": "219",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15102",
+          "numero": "220",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15103",
+          "numero": "221",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-23",
+          "groupe": "CRCE",
+          "id_api": "15104",
+          "numero": "222",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Mercier, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15170",
+          "numero": "297",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Vasselle",
+          "date": "2008-06-16",
+          "groupe": "LR",
+          "id_api": "15195",
+          "numero": "323",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Vasselle",
+          "date": "2008-06-16",
+          "groupe": "LR",
+          "id_api": "15196",
+          "numero": "324",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-16",
+          "groupe": "CRCE",
+          "id_api": "15282",
+          "numero": "412",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15350",
+          "numero": "481",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15351",
+          "numero": "482",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Cointat",
+          "date": "2008-06-18",
+          "groupe": "UMP",
+          "id_api": "15375",
+          "numero": "507",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-23",
+          "groupe": "CRCE",
+          "id_api": "15383",
+          "numero": "515",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-23",
+          "groupe": "CRCE",
+          "id_api": "15384",
+          "numero": "516",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-23",
+          "groupe": "CRCE",
+          "id_api": "15385",
+          "numero": "517",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 280,
+      "titre": "Article 22"
+    },
+    "Article 23": {
+      "amendements": [
+        {
+          "aut": "MM. Gélard, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "14975",
+          "numero": "89",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-24",
+          "groupe": "LR",
+          "id_api": "15009",
+          "numero": "124",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Cointat, …",
+          "date": "2008-06-16",
+          "groupe": "UMP",
+          "id_api": "15033",
+          "numero": "150",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15107",
+          "numero": "225",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15108",
+          "numero": "226",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Mercier, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15168",
+          "numero": "295",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Mercier, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15171",
+          "numero": "298",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Béteille, …",
+          "date": "2008-06-17",
+          "groupe": "UMP",
+          "id_api": "15178",
+          "numero": "305",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Alfonsi",
+          "date": "2008-06-16",
+          "groupe": "RDSE",
+          "id_api": "15187",
+          "numero": "314",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Lecerf",
+          "date": "2008-06-16",
+          "groupe": "UMP",
+          "id_api": "15189",
+          "numero": "317",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15226",
+          "numero": "355",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Baylet, …",
+          "date": "2008-06-17",
+          "groupe": "RDSE",
+          "id_api": "15260",
+          "numero": "390",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Baylet, …",
+          "date": "2008-06-17",
+          "groupe": "RDSE",
+          "id_api": "15261",
+          "numero": "391",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15352",
+          "numero": "483",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 290,
+      "titre": "Article 23"
+    },
+    "Article 23 bis": {
+      "amendements": [
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-13",
+          "groupe": "RDSE",
+          "id_api": "14919",
+          "numero": "31",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "15010",
+          "numero": "125",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-23",
+          "groupe": "CRCE",
+          "id_api": "15109",
+          "numero": "227",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Mercier, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15159",
+          "numero": "285",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15353",
+          "numero": "484",
+          "sort": "adopté"
+        }
+      ],
+      "order": 300,
+      "titre": "Article 23 bis"
+    },
+    "Article 24": {
+      "amendements": [
+        {
+          "aut": "MM. Gélard, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "14976",
+          "numero": "90",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15110",
+          "numero": "228",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15111",
+          "numero": "229",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15112",
+          "numero": "230",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Mercier, …",
+          "date": "2008-06-13",
+          "groupe": "UC",
+          "id_api": "15158",
+          "numero": "284",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Baylet, …",
+          "date": "2008-06-24",
+          "groupe": "RDSE",
+          "id_api": "15262",
+          "numero": "392",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15354",
+          "numero": "485",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-24",
+          "groupe": "LR",
+          "id_api": "15387",
+          "numero": "519",
+          "sort": "adopté"
+        }
+      ],
+      "order": 310,
+      "titre": "Article 24"
+    },
+    "Article 25": {
+      "amendements": [
+        {
+          "aut": "MM. Portelli, …",
+          "date": "2008-06-17",
+          "groupe": "UMP",
+          "id_api": "14958",
+          "numero": "72",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Portelli, …",
+          "date": "2008-06-24",
+          "groupe": "UMP",
+          "id_api": "14959",
+          "numero": "73",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Gélard, …",
+          "date": "2008-06-16",
+          "groupe": "UMP",
+          "id_api": "14977",
+          "numero": "91",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-24",
+          "groupe": "CRCE",
+          "id_api": "15116",
+          "numero": "234",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15237",
+          "numero": "366",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Baylet, …",
+          "date": "2008-06-17",
+          "groupe": "RDSE",
+          "id_api": "15263",
+          "numero": "393",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Badinter, …",
+          "date": "2008-06-24",
+          "groupe": "SOC",
+          "id_api": "15355",
+          "numero": "487",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Badinter, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15356",
+          "numero": "488",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Charasse",
+          "date": "2008-06-24",
+          "groupe": "RDSE",
+          "id_api": "15388",
+          "numero": "520",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 320,
+      "titre": "Article 25"
+    },
+    "Article 26": {
+      "amendements": [
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-13",
+          "groupe": "RDSE",
+          "id_api": "14920",
+          "numero": "33",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Virapoullé, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "14949",
+          "numero": "63",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Portelli, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "14961",
+          "numero": "75",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "15012",
+          "numero": "128",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15118",
+          "numero": "236",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15223",
+          "numero": "352",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 330,
+      "titre": "Article 26"
+    },
+    "Article 28": {
+      "amendements": [
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-13",
+          "groupe": "RDSE",
+          "id_api": "14922",
+          "numero": "35",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Virapoullé, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "14950",
+          "numero": "64",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Gélard, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "14978",
+          "numero": "92",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "15013",
+          "numero": "129",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Cointat, …",
+          "date": "2008-06-16",
+          "groupe": "UMP",
+          "id_api": "15032",
+          "numero": "149",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Lecerf",
+          "date": "2008-06-12",
+          "groupe": "UMP",
+          "id_api": "15036",
+          "numero": "153",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Détraigne, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15157",
+          "numero": "283",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Gourault",
+          "date": "2008-06-13",
+          "groupe": "UC",
+          "id_api": "15160",
+          "numero": "287",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Fauchon, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15161",
+          "numero": "288",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Fauchon, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15162",
+          "numero": "289",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Lecerf",
+          "date": "2008-06-16",
+          "groupe": "UMP",
+          "id_api": "15191",
+          "numero": "319",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15214",
+          "numero": "342",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-16",
+          "groupe": "CRCE",
+          "id_api": "15274",
+          "numero": "404",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-23",
+          "groupe": "CRCE",
+          "id_api": "15275",
+          "numero": "405",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-23",
+          "groupe": "CRCE",
+          "id_api": "15276",
+          "numero": "406",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-16",
+          "groupe": "CRCE",
+          "id_api": "15277",
+          "numero": "407",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-16",
+          "groupe": "CRCE",
+          "id_api": "15285",
+          "numero": "415",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-16",
+          "groupe": "CRCE",
+          "id_api": "15286",
+          "numero": "416",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Badinter, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15357",
+          "numero": "489",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "",
+          "date": "2008-06-24",
+          "groupe": "Gouvernement",
+          "id_api": "15374",
+          "numero": "506",
+          "sort": "adopté"
+        }
+      ],
+      "order": 350,
+      "titre": "Article 28"
+    },
+    "Article 28 bis": {
+      "amendements": [
+        {
+          "aut": "MM. Cointat, …",
+          "date": "2008-06-16",
+          "groupe": "LR",
+          "id_api": "14939",
+          "numero": "52",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 360,
+      "titre": "Article 28 bis"
+    },
+    "Article 29": {
+      "amendements": [
+        {
+          "aut": "MM. Cointat, …",
+          "date": "2008-06-16",
+          "groupe": "LR",
+          "id_api": "14940",
+          "numero": "53",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Cointat, …",
+          "date": "2008-06-16",
+          "groupe": "LR",
+          "id_api": "14941",
+          "numero": "54",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 370,
+      "titre": "Article 29"
+    },
+    "Article 3": {
+      "amendements": [
+        {
+          "aut": "MM. Lambert, …",
+          "date": "2008-06-18",
+          "groupe": "UMP",
+          "id_api": "15181",
+          "numero": "308",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 40,
+      "titre": "Article 3"
+    },
+    "Article 3 bis": {
+      "amendements": [
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-17",
+          "groupe": "RDSE",
+          "id_api": "14899",
+          "numero": "6",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Portelli, …",
+          "date": "2008-06-17",
+          "groupe": "UMP",
+          "id_api": "14954",
+          "numero": "68",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Gélard, …",
+          "date": "2008-06-18",
+          "groupe": "UMP",
+          "id_api": "14965",
+          "numero": "79",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-19",
+          "groupe": "LR",
+          "id_api": "14983",
+          "numero": "98",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15053",
+          "numero": "170",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Gouteyron, …",
+          "date": "2008-06-17",
+          "groupe": "UMP",
+          "id_api": "15130",
+          "numero": "255",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Détraigne, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15137",
+          "numero": "263",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Détraigne, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15138",
+          "numero": "264",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-17",
+          "groupe": "RDSE",
+          "id_api": "15370",
+          "numero": "502",
+          "sort": "adopté"
+        }
+      ],
+      "order": 50,
+      "titre": "Article 3 bis"
+    },
+    "Article 3 quater": {
+      "amendements": [
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "14985",
+          "numero": "100",
+          "sort": "adopté"
+        }
+      ],
+      "order": 70,
+      "titre": "Article 3 quater"
+    },
+    "Article 3 ter": {
+      "amendements": [
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "14984",
+          "numero": "99",
+          "sort": "adopté"
+        }
+      ],
+      "order": 60,
+      "titre": "Article 3 ter"
+    },
+    "Article 30": {
+      "amendements": [
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "15014",
+          "numero": "130",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. About, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15267",
+          "numero": "397",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 380,
+      "titre": "Article 30"
+    },
+    "Article 30 bis": {
+      "amendements": [
+        {
+          "aut": "MM. Cointat, …",
+          "date": "2008-06-16",
+          "groupe": "LR",
+          "id_api": "14942",
+          "numero": "55",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 390,
+      "titre": "Article 30 bis"
+    },
+    "Article 30 quater": {
+      "amendements": [
+        {
+          "aut": "M. Cointat",
+          "date": "2008-06-16",
+          "groupe": "UMP",
+          "id_api": "15366",
+          "numero": "498",
+          "sort": "adopté"
+        }
+      ],
+      "order": 410,
+      "titre": "Article 30 quater"
+    },
+    "Article 30 ter": {
+      "amendements": [
+        {
+          "aut": "M. Cointat, …",
+          "date": "2008-06-16",
+          "groupe": "UMP",
+          "id_api": "14943",
+          "numero": "56",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15358",
+          "numero": "490",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 400,
+      "titre": "Article 30 ter"
+    },
+    "Article 31": {
+      "amendements": [
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-13",
+          "groupe": "RDSE",
+          "id_api": "14924",
+          "numero": "37",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Virapoullé, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "14951",
+          "numero": "65",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Virapoullé, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "14952",
+          "numero": "66",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "15015",
+          "numero": "131",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Amoudry, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15163",
+          "numero": "290",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15359",
+          "numero": "491",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 420,
+      "titre": "Article 31"
+    },
+    "Article 32": {
+      "amendements": [
+        {
+          "aut": "MM. Gélard, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "14979",
+          "numero": "93",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "15016",
+          "numero": "132",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. de Rohan, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "15025",
+          "numero": "141",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15122",
+          "numero": "240",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Amoudry, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15164",
+          "numero": "291",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Mercier, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15166",
+          "numero": "293",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15231",
+          "numero": "360",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15360",
+          "numero": "492",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 430,
+      "titre": "Article 32"
+    },
+    "Article 33": {
+      "amendements": [
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "15017",
+          "numero": "133",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. de Rohan, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "15026",
+          "numero": "142",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Lecerf",
+          "date": "2008-06-12",
+          "groupe": "UMP",
+          "id_api": "15037",
+          "numero": "154",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15123",
+          "numero": "241",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15124",
+          "numero": "242",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Mercier, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15165",
+          "numero": "292",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Baylet, …",
+          "date": "2008-06-16",
+          "groupe": "RDSE",
+          "id_api": "15265",
+          "numero": "395",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Haenel, …",
+          "date": "2008-06-17",
+          "groupe": "UMP",
+          "id_api": "15266",
+          "numero": "396",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15361",
+          "numero": "493",
+          "sort": "adopté"
+        }
+      ],
+      "order": 440,
+      "titre": "Article 33"
+    },
+    "Article 34": {
+      "amendements": [
+        {
+          "aut": "MM. Portelli, …",
+          "date": "2008-06-18",
+          "groupe": "UMP",
+          "id_api": "14962",
+          "numero": "76",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "15019",
+          "numero": "135",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "15020",
+          "numero": "136",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Lecerf",
+          "date": "2008-06-14",
+          "groupe": "UMP",
+          "id_api": "15180",
+          "numero": "307",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15212",
+          "numero": "340",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-24",
+          "groupe": "SOC",
+          "id_api": "15229",
+          "numero": "358",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15363",
+          "numero": "495",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15364",
+          "numero": "496",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15365",
+          "numero": "497",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 450,
+      "titre": "Article 34"
+    },
+    "Article 35": {
+      "amendements": [
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "15021",
+          "numero": "137",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. de Rohan, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "15027",
+          "numero": "143",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15125",
+          "numero": "244",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 460,
+      "titre": "Article 35"
+    },
+    "Article 4": {
+      "amendements": [
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-19",
+          "groupe": "RDSE",
+          "id_api": "14900",
+          "numero": "7",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Gélard, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "14966",
+          "numero": "80",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-17",
+          "groupe": "LR",
+          "id_api": "14986",
+          "numero": "101",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Cointat, …",
+          "date": "2008-06-16",
+          "groupe": "UMP",
+          "id_api": "15031",
+          "numero": "147",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15055",
+          "numero": "172",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15056",
+          "numero": "173",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15057",
+          "numero": "174",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15216",
+          "numero": "344",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-17",
+          "groupe": "SOC",
+          "id_api": "15217",
+          "numero": "346",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Baylet, …",
+          "date": "2008-06-17",
+          "groupe": "RDSE",
+          "id_api": "15254",
+          "numero": "384",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Baylet, …",
+          "date": "2008-06-17",
+          "groupe": "RDSE",
+          "id_api": "15255",
+          "numero": "385",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-16",
+          "groupe": "CRCE",
+          "id_api": "15287",
+          "numero": "417",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15294",
+          "numero": "425",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 80,
+      "titre": "Article 4"
+    },
+    "Article 5": {
+      "amendements": [
+        {
+          "aut": "M. Lecerf",
+          "date": "2008-06-17",
+          "groupe": "UMP",
+          "id_api": "15035",
+          "numero": "152",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15058",
+          "numero": "175",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15059",
+          "numero": "176",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Amoudry, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15141",
+          "numero": "267",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15234",
+          "numero": "363",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15295",
+          "numero": "426",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 90,
+      "titre": "Article 5"
+    },
+    "Article 6": {
+      "amendements": [
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-13",
+          "groupe": "RDSE",
+          "id_api": "14901",
+          "numero": "8",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15060",
+          "numero": "177",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15211",
+          "numero": "339",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Baylet, …",
+          "date": "2008-06-17",
+          "groupe": "RDSE",
+          "id_api": "15256",
+          "numero": "386",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15296",
+          "numero": "427",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 100,
+      "titre": "Article 6"
+    },
+    "Article 7": {
+      "amendements": [
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15061",
+          "numero": "178",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Amoudry, …",
+          "date": "2008-06-20",
+          "groupe": "UC",
+          "id_api": "15142",
+          "numero": "268",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15201",
+          "numero": "329",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15297",
+          "numero": "428",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 110,
+      "titre": "Article 7"
+    },
+    "Article 9": {
+      "amendements": [
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-17",
+          "groupe": "RDSE",
+          "id_api": "14903",
+          "numero": "10",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-17",
+          "groupe": "RDSE",
+          "id_api": "14904",
+          "numero": "11",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-20",
+          "groupe": "RDSE",
+          "id_api": "14905",
+          "numero": "12",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-17",
+          "groupe": "RDSE",
+          "id_api": "14906",
+          "numero": "13",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Cointat, …",
+          "date": "2008-06-16",
+          "groupe": "UMP",
+          "id_api": "14926",
+          "numero": "39",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Cointat, …",
+          "date": "2008-06-17",
+          "groupe": "UMP",
+          "id_api": "14927",
+          "numero": "40",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "14987",
+          "numero": "102",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-17",
+          "groupe": "LR",
+          "id_api": "14988",
+          "numero": "103",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-18",
+          "groupe": "CRCE",
+          "id_api": "15063",
+          "numero": "180",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-20",
+          "groupe": "CRCE",
+          "id_api": "15064",
+          "numero": "181",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15065",
+          "numero": "182",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme N. Goulet",
+          "date": "2008-06-13",
+          "groupe": "UC",
+          "id_api": "15128",
+          "numero": "249",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Mercier, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15136",
+          "numero": "262",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Mercier, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15140",
+          "numero": "266",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Mercier, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15143",
+          "numero": "269",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Détraigne, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15145",
+          "numero": "271",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Biwer, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15146",
+          "numero": "272",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Biwer, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15147",
+          "numero": "273",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Détraigne, …",
+          "date": "2008-06-17",
+          "groupe": "UC",
+          "id_api": "15169",
+          "numero": "296",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Arthuis, …",
+          "date": "2008-06-17",
+          "groupe": "UMP",
+          "id_api": "15173",
+          "numero": "300",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Charasse",
+          "date": "2008-06-14",
+          "groupe": "RDSE",
+          "id_api": "15179",
+          "numero": "306",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15197",
+          "numero": "325",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15204",
+          "numero": "332",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15206",
+          "numero": "334",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15219",
+          "numero": "348",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Baylet, …",
+          "date": "2008-06-17",
+          "groupe": "RDSE",
+          "id_api": "15257",
+          "numero": "387",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-16",
+          "groupe": "CRCE",
+          "id_api": "15279",
+          "numero": "409",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-16",
+          "groupe": "CRCE",
+          "id_api": "15283",
+          "numero": "413",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15301",
+          "numero": "432",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15302",
+          "numero": "433",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15303",
+          "numero": "434",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15304",
+          "numero": "435",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15305",
+          "numero": "436",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15306",
+          "numero": "437",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 130,
+      "titre": "Article 9"
+    },
+    "Avant l'article 10 bis": {
+      "amendements": [
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-17",
+          "groupe": "RDSE",
+          "id_api": "14907",
+          "numero": "15",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15069",
+          "numero": "186",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 149,
+      "titre": "Avant l'article 10 bis"
+    },
+    "Avant l'article 13 bis": {
+      "amendements": [
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15077",
+          "numero": "194",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 189,
+      "titre": "Avant l'article 13 bis"
+    },
+    "Avant l'article 1er": {
+      "amendements": [
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15041",
+          "numero": "158",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15044",
+          "numero": "161",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15045",
+          "numero": "162",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-16",
+          "groupe": "CRCE",
+          "id_api": "15046",
+          "numero": "163",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15047",
+          "numero": "164",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15048",
+          "numero": "165",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15239",
+          "numero": "368",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15242",
+          "numero": "371",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Baylet, …",
+          "date": "2008-06-17",
+          "groupe": "RDSE",
+          "id_api": "15252",
+          "numero": "381",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-18",
+          "groupe": "LR",
+          "id_api": "15377",
+          "numero": "509",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Borvo Cohen-Seat",
+          "date": "2008-06-18",
+          "groupe": "CRCE",
+          "id_api": "15378",
+          "numero": "510",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-18",
+          "groupe": "SOC",
+          "id_api": "15379",
+          "numero": "511",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 19,
+      "titre": "Avant l'article 1er"
+    },
+    "Avant l'article 1er A": {
+      "amendements": [
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15042",
+          "numero": "159",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15043",
+          "numero": "160",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15225",
+          "numero": "354",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Frimat, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15288",
+          "numero": "419",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 9,
+      "titre": "Avant l'article 1er A"
+    },
+    "Avant l'article 2": {
+      "amendements": [
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15049",
+          "numero": "166",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 29,
+      "titre": "Avant l'article 2"
+    },
+    "Avant l'article 21": {
+      "amendements": [
+        {
+          "aut": "MM. Lambert, …",
+          "date": "2008-06-18",
+          "groupe": "UMP",
+          "id_api": "15250",
+          "numero": "379",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 269,
+      "titre": "Avant l'article 21"
+    },
+    "Avant l'article 23": {
+      "amendements": [
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15106",
+          "numero": "224",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 289,
+      "titre": "Avant l'article 23"
+    },
+    "Avant l'article 25": {
+      "amendements": [
+        {
+          "aut": "M. Badinter, …",
+          "date": "2008-06-16",
+          "groupe": "SOC",
+          "id_api": "15193",
+          "numero": "321",
+          "sort": "adopté"
+        }
+      ],
+      "order": 319,
+      "titre": "Avant l'article 25"
+    },
+    "Avant l'article 26": {
+      "amendements": [
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-13",
+          "groupe": "RDSE",
+          "id_api": "14918",
+          "numero": "28",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Virapoullé, …",
+          "date": "2008-06-11",
+          "groupe": "UMP",
+          "id_api": "14953",
+          "numero": "67",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Portelli, …",
+          "date": "2008-06-24",
+          "groupe": "UMP",
+          "id_api": "14960",
+          "numero": "74",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Hyest, …",
+          "date": "2008-06-11",
+          "groupe": "LR",
+          "id_api": "15011",
+          "numero": "127",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15117",
+          "numero": "235",
+          "sort": "adopté"
+        }
+      ],
+      "order": 329,
+      "titre": "Avant l'article 26"
+    },
+    "Avant l'article 28 bis": {
+      "amendements": [
+        {
+          "aut": "M. Charasse, …",
+          "date": "2008-06-13",
+          "groupe": "RDSE",
+          "id_api": "14923",
+          "numero": "36",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 359,
+      "titre": "Avant l'article 28 bis"
+    },
+    "Avant l'article 31": {
+      "amendements": [
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-16",
+          "groupe": "CRCE",
+          "id_api": "15121",
+          "numero": "239",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 419,
+      "titre": "Avant l'article 31"
+    },
+    "Avant l'article 32": {
+      "amendements": [
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-16",
+          "groupe": "CRCE",
+          "id_api": "15278",
+          "numero": "408",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-16",
+          "groupe": "CRCE",
+          "id_api": "15280",
+          "numero": "410",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-16",
+          "groupe": "CRCE",
+          "id_api": "15281",
+          "numero": "411",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 429,
+      "titre": "Avant l'article 32"
+    },
+    "Avant l'article 9": {
+      "amendements": [
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-13",
+          "groupe": "CRCE",
+          "id_api": "15062",
+          "numero": "179",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 129,
+      "titre": "Avant l'article 9"
+    },
+    "Motion tendant au renvoi en commission": {
+      "amendements": [
+        {
+          "aut": "M. Bret, …",
+          "date": "2008-06-17",
+          "groupe": "CRCE",
+          "id_api": "15373",
+          "numero": "505",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 1,
+      "titre": "Motion tendant au renvoi en commission"
+    },
+    "Motion tendant à opposer l'exception d'irrecevabilité": {
+      "amendements": [
+        {
+          "aut": "Mmes Borvo Cohen-Seat, …",
+          "date": "2008-06-10",
+          "groupe": "CRCE",
+          "id_api": "14895",
+          "numero": "2",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 1,
+      "titre": "Motion tendant à opposer l'exception d'irrecevabilité"
+    },
+    "Motion tendant à opposer la question préalable": {
+      "amendements": [
+        {
+          "aut": "M. Sueur, …",
+          "date": "2008-06-12",
+          "groupe": "SOC",
+          "id_api": "14894",
+          "numero": "1",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 1,
+      "titre": "Motion tendant à opposer la question préalable"
+    }
+  }
+}
