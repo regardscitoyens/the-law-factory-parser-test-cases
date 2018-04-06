@@ -18,7 +18,7 @@
     ^ text:  https://www.senat.fr/leg/tas16-126.html
     ^ text:  http://www.assemblee-nationale.fr/15/ta/ta0016.asp
     ^ text:  http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2017/2017-752-dc/decision-n-2017-752-dc-du-8-septembre-2017.149701.html
-    ^ text:  https://www.legifrance.gouv.fr/eli/loi/2017/9/15/JUSC1715753L/jo/texte
+    ^ text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035567974&categorieLien=id
     ^ complete text:  https://www.senat.fr/leg/pjl16-581.html
     ^ complete text:  https://www.senat.fr/leg/pjl16-609.html
     ^ complete text:  https://www.senat.fr/leg/tas16-113.html
@@ -29,7 +29,7 @@
     ^ complete text:  https://www.senat.fr/leg/tas16-126.html
     ^ complete text:  http://www.assemblee-nationale.fr/15/ta/ta0016.asp
     ^ complete text:  http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2017/2017-752-dc/decision-n-2017-752-dc-du-8-septembre-2017.149701.html
-    ^ complete text:  https://www.legifrance.gouv.fr/eli/loi/2017/9/15/JUSC1715753L/jo/texte
+    ^ complete text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035567974&categorieLien=id
   [] format data for the frontend
      writing to: pjl16-581_tmp
  - process article versions
@@ -90,7 +90,7 @@
       * downloading interventions
         * downloading seances -  https://2017-2022.nosdeputes.fr/seances/120/json?hemicycle=1
     * step - constitutionnalité None http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2017/2017-752-dc/decision-n-2017-752-dc-du-8-septembre-2017.149701.html
-    * step - promulgation None https://www.legifrance.gouv.fr/eli/loi/2017/9/15/JUSC1715753L/jo/texte
+    * step - promulgation None https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035567974&categorieLien=id
  - re-order interventions and correct procedure dates
 INFO: change beginning date of 2 thanks to 2017-07-10T16:00_16415
  - prepare interventions.json

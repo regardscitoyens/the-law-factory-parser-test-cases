@@ -4,6 +4,7 @@
   "beginning": "2017-06-14",
   "end": "2017-09-15",
   "end_jo": "2017-09-16",
+  "legifrance_cidTexte": "JORFTEXT000035567974",
   "long_title": "projet de loi pour la confiance dans la vie politique",
   "long_title_descr": "Loi pour la confiance dans la vie politique",
   "objet_du_texte": "Pendant la campagne présidentielle, Emmanuel MACRON s'était engagé à présenter plusieurs textes visant à \"moraliser la vie publique\" afin de \"renforcer le lien qui existe entre les citoyens et leurs représentants\".Présentée le 14 juin en Conseil des ministres et déposée le même jour devant le Sénat, la réforme se décline en deux volets : un projet loi organique et un projet de loi ordinaire.Elle comporte notamment des dispositions relatives :- au financement de la vie politique, avec un renforcement du contrôle des comptes des partis politiques et un encadrement de leur financement et de celui des campagnes électorales ;- à l'exercice du mandat parlementaire, en matière de prévention et de cessation des conflits d'intérêts et de cumul de fonctions, notamment s'agissant de l'activité de conseil ;- aux conditions d'embauche et de nomination des collaborateurs des membres du Gouvernement, des parlementaires et des titulaires de fonctions exécutives locales ;- à l'inéligibilité en cas de crimes ou d'infractions traduisant des manquements à la probité pour les candidats aux élections législatives et sénatoriales.",
@@ -143,7 +144,7 @@
       "directory": "10_promulgation_gouvernement_",
       "enddate": "2017-09-15",
       "institution": "gouvernement",
-      "source_url": "https://www.legifrance.gouv.fr/eli/loi/2017/9/15/JUSC1715753L/jo/texte",
+      "source_url": "https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035567974&categorieLien=id",
       "stage": "promulgation"
     }
   ],
@@ -204,5 +205,5 @@
   "urgence": true,
   "url_dossier_assemblee": "http://www.assemblee-nationale.fr/15/dossiers/retablissement_confiance_action_publique.asp",
   "url_dossier_senat": "https://www.senat.fr/dossier-legislatif/pjl16-581.html",
-  "url_jo": "https://www.legifrance.gouv.fr/eli/loi/2017/9/15/JUSC1715753L/jo/texte"
+  "url_jo": "https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035567974&categorieLien=id"
 }
