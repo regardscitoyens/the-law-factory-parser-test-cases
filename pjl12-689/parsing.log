@@ -43,6 +43,7 @@
 [step_logic] l. définitive / hemicycle: fetching last AN hemi or last CMP commission
 WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 13 bis <-> 21 484 chars, similarity; 0.69
     ^ complete text:  http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2013/2013-676-dc/decision-n-2013-676-dc-du-9-octobre-2013.138228.html
+WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 11 <-> 12 1140 chars, similarity; 0.52
     ^ complete text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028056315&categorieLien=id
   [] format data for the frontend
      writing to: pjl12-689_tmp
@@ -59,6 +60,7 @@ WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 13 bis <-> 21 484 chars, simil
       * preparing articles for step 12_nouv.lect._senat_hemicycle
       * preparing articles for step 14_l.définitive_assemblee_hemicycle
 Matched an article deleted in this step 19_bis
+      * preparing articles for step 15_constitutionnalité_conseilconstitutionnel_
  - process amendements & interventions
     * step - 1ère lecture depot http://www.assemblee-nationale.fr/14/projets/pl1005.asp
     * step - 1ère lecture commission http://www.assemblee-nationale.fr/14/ta-commission/r1109-a0.asp

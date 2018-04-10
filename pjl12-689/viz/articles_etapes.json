@@ -85,6 +85,16 @@
           "newnum": "11",
           "order": 11,
           "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 6460,
+          "n_diff": 0.0013921113689094877,
+          "newnum": "11",
+          "order": 11,
+          "status": "none"
         }
       ],
       "titre": "10"
@@ -174,6 +184,16 @@
           "newnum": "12",
           "order": 12,
           "status": "none"
+        },
+        {
+          "diff": "add",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 1140,
+          "n_diff": 0.47697974217311234,
+          "newnum": "12",
+          "order": 12,
+          "status": "none"
         }
       ],
       "titre": "11"
@@ -254,6 +274,16 @@
           "newnum": "14",
           "order": 14,
           "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 1383,
+          "n_diff": 0,
+          "newnum": "14",
+          "order": 14,
+          "status": "none"
         }
       ],
       "titre": "11 bis"
@@ -325,6 +355,16 @@
           "newnum": "13",
           "order": 13,
           "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 343,
+          "n_diff": 0,
+          "newnum": "13",
+          "order": 13,
+          "status": "none"
         }
       ],
       "titre": "11 bis A"
@@ -387,6 +427,16 @@
           "newnum": "17",
           "order": 17,
           "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 555,
+          "n_diff": 0.0035906642728904536,
+          "newnum": "17",
+          "order": 17,
+          "status": "none"
         }
       ],
       "titre": "11 quater"
@@ -440,6 +490,16 @@
           "newnum": "16",
           "order": 16,
           "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 484,
+          "n_diff": 0.0020618556701030855,
+          "newnum": "16",
+          "order": 16,
+          "status": "none"
         }
       ],
       "titre": "11 quater A"
@@ -488,6 +548,16 @@
           "diff": "none",
           "directory": "14_l.d\u00e9finitive_assemblee_hemicycle",
           "id_step": "14_l.d\u00e9finitive_assemblee_hemicycle",
+          "length": 318,
+          "n_diff": 0,
+          "newnum": "18",
+          "order": 18,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
           "length": 318,
           "n_diff": 0,
           "newnum": "18",
@@ -570,6 +640,16 @@
           "id_step": "14_l.d\u00e9finitive_assemblee_hemicycle",
           "length": 1204,
           "n_diff": 0.0380566801619433,
+          "newnum": "15",
+          "order": 15,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 1204,
+          "n_diff": 0,
           "newnum": "15",
           "order": 15,
           "status": "none"
@@ -662,6 +742,16 @@
           "newnum": "19",
           "order": 19,
           "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 5006,
+          "n_diff": 0.0015980823012384793,
+          "newnum": "19",
+          "order": 19,
+          "status": "none"
         }
       ],
       "titre": "12"
@@ -751,6 +841,16 @@
           "newnum": "20",
           "order": 20,
           "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 3553,
+          "n_diff": 0.0030890199382196393,
+          "newnum": "20",
+          "order": 20,
+          "status": "none"
         }
       ],
       "titre": "13"
@@ -801,6 +901,16 @@
           "id_step": "14_l.d\u00e9finitive_assemblee_hemicycle",
           "length": 484,
           "n_diff": 0.3099173553719008,
+          "newnum": "21",
+          "order": 21,
+          "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 509,
+          "n_diff": 0.0491159135559921,
           "newnum": "21",
           "order": 21,
           "status": "none"
@@ -918,6 +1028,16 @@
           "newnum": "22",
           "order": 22,
           "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 1017,
+          "n_diff": 0,
+          "newnum": "22",
+          "order": 22,
+          "status": "none"
         }
       ],
       "titre": "14"
@@ -1004,6 +1124,16 @@
           "id_step": "14_l.d\u00e9finitive_assemblee_hemicycle",
           "length": 3390,
           "n_diff": 0.0005899705014749124,
+          "newnum": "23",
+          "order": 23,
+          "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 3391,
+          "n_diff": 0.00029489826010031805,
           "newnum": "23",
           "order": 23,
           "status": "none"
@@ -1096,6 +1226,16 @@
           "newnum": "24",
           "order": 24,
           "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 1067,
+          "n_diff": 0.0037383177570093906,
+          "newnum": "24",
+          "order": 24,
+          "status": "none"
         }
       ],
       "titre": "16"
@@ -1176,6 +1316,16 @@
           "newnum": "25",
           "order": 25,
           "status": "new"
+        },
+        {
+          "diff": "both",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 1983,
+          "n_diff": 0.0015105740181269312,
+          "newnum": "25",
+          "order": 25,
+          "status": "none"
         }
       ],
       "titre": "17"
@@ -1265,6 +1415,16 @@
           "newnum": "26",
           "order": 26,
           "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 1277,
+          "n_diff": 0.004676539360872978,
+          "newnum": "26",
+          "order": 26,
+          "status": "none"
         }
       ],
       "titre": "18"
@@ -1351,6 +1511,16 @@
           "id_step": "14_l.d\u00e9finitive_assemblee_hemicycle",
           "length": 1626,
           "n_diff": 0.07269605037206639,
+          "newnum": "27",
+          "order": 27,
+          "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 1622,
+          "n_diff": 0.002460024600245969,
           "newnum": "27",
           "order": 27,
           "status": "none"
@@ -1503,6 +1673,15 @@
           "n_diff": 0,
           "order": 1,
           "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 262,
+          "n_diff": 0,
+          "order": 1,
+          "status": "none"
         }
       ],
       "titre": "1er"
@@ -1589,6 +1768,15 @@
           "id_step": "14_l.d\u00e9finitive_assemblee_hemicycle",
           "length": 1393,
           "n_diff": 0.14434330299089726,
+          "order": 2,
+          "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 1393,
+          "n_diff": 0.000717875089734421,
           "order": 2,
           "status": "none"
         }
@@ -1680,6 +1868,16 @@
           "newnum": "28",
           "order": 28,
           "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 406,
+          "n_diff": 0,
+          "newnum": "28",
+          "order": 28,
+          "status": "none"
         }
       ],
       "titre": "20"
@@ -1764,6 +1962,16 @@
           "diff": "none",
           "directory": "14_l.d\u00e9finitive_assemblee_hemicycle",
           "id_step": "14_l.d\u00e9finitive_assemblee_hemicycle",
+          "length": 425,
+          "n_diff": 0,
+          "newnum": "29",
+          "order": 29,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
           "length": 425,
           "n_diff": 0,
           "newnum": "29",
@@ -1858,6 +2066,16 @@
           "newnum": "30",
           "order": 30,
           "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 1852,
+          "n_diff": 0.0005399568034557545,
+          "newnum": "30",
+          "order": 30,
+          "status": "none"
         }
       ],
       "titre": "22"
@@ -1935,6 +2153,16 @@
           "id_step": "14_l.d\u00e9finitive_assemblee_hemicycle",
           "length": 630,
           "n_diff": 0.004761904761904745,
+          "newnum": "31",
+          "order": 31,
+          "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 655,
+          "n_diff": 0.03816793893129766,
           "newnum": "31",
           "order": 31,
           "status": "none"
@@ -2043,6 +2271,16 @@
           "newnum": "32",
           "order": 32,
           "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 191,
+          "n_diff": 0,
+          "newnum": "32",
+          "order": 32,
+          "status": "none"
         }
       ],
       "titre": "22 ter"
@@ -2132,6 +2370,16 @@
           "newnum": "33",
           "order": 33,
           "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 854,
+          "n_diff": 0.0011709601873536313,
+          "newnum": "33",
+          "order": 33,
+          "status": "none"
         }
       ],
       "titre": "23"
@@ -2200,6 +2448,16 @@
           "id_step": "14_l.d\u00e9finitive_assemblee_hemicycle",
           "length": 1904,
           "n_diff": 0,
+          "newnum": "34",
+          "order": 34,
+          "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 1902,
+          "n_diff": 0.0010504201680672232,
           "newnum": "34",
           "order": 34,
           "status": "none"
@@ -2292,6 +2550,16 @@
           "newnum": "35",
           "order": 35,
           "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 810,
+          "n_diff": 0,
+          "newnum": "35",
+          "order": 35,
+          "status": "none"
         }
       ],
       "titre": "24"
@@ -2369,6 +2637,16 @@
           "id_step": "14_l.d\u00e9finitive_assemblee_hemicycle",
           "length": 443,
           "n_diff": 0,
+          "newnum": "3",
+          "order": 3,
+          "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 443,
+          "n_diff": 0.0022573363431150906,
           "newnum": "3",
           "order": 3,
           "status": "none"
@@ -2461,6 +2739,16 @@
           "newnum": "4",
           "order": 4,
           "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 4882,
+          "n_diff": 0.011994307786135416,
+          "newnum": "4",
+          "order": 4,
+          "status": "none"
         }
       ],
       "titre": "3"
@@ -2547,6 +2835,16 @@
           "id_step": "14_l.d\u00e9finitive_assemblee_hemicycle",
           "length": 4294,
           "n_diff": 0.026552759178018914,
+          "newnum": "5",
+          "order": 5,
+          "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 4244,
+          "n_diff": 0.015137401024685637,
           "newnum": "5",
           "order": 5,
           "status": "none"
@@ -2639,6 +2937,16 @@
           "newnum": "6",
           "order": 6,
           "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 1590,
+          "n_diff": 0.0006289308176100628,
+          "newnum": "6",
+          "order": 6,
+          "status": "none"
         }
       ],
       "titre": "5"
@@ -2723,6 +3031,16 @@
           "diff": "none",
           "directory": "14_l.d\u00e9finitive_assemblee_hemicycle",
           "id_step": "14_l.d\u00e9finitive_assemblee_hemicycle",
+          "length": 676,
+          "n_diff": 0,
+          "newnum": "7",
+          "order": 7,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
           "length": 676,
           "n_diff": 0,
           "newnum": "7",
@@ -2817,6 +3135,16 @@
           "newnum": "8",
           "order": 8,
           "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 376,
+          "n_diff": 0.0053050397877983935,
+          "newnum": "8",
+          "order": 8,
+          "status": "none"
         }
       ],
       "titre": "7"
@@ -2903,6 +3231,16 @@
           "id_step": "14_l.d\u00e9finitive_assemblee_hemicycle",
           "length": 497,
           "n_diff": 0,
+          "newnum": "9",
+          "order": 9,
+          "status": "none"
+        },
+        {
+          "diff": "both",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 497,
+          "n_diff": 0.002012072434607659,
           "newnum": "9",
           "order": 9,
           "status": "none"
@@ -2995,6 +3333,16 @@
           "newnum": "10",
           "order": 10,
           "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 396,
+          "n_diff": 0,
+          "newnum": "10",
+          "order": 10,
+          "status": "none"
         }
       ],
       "titre": "9"
@@ -3061,6 +3409,10 @@
       "14_l.d\u00e9finitive_assemblee_hemicycle": {
         "title": "La pr\u00e9vention des conflits d'int\u00e9r\u00eats et la transparence dans la vie publique",
         "type": "Chapitre"
+      },
+      "15_constitutionnalit\u00e9_conseilconstitutionnel_": {
+        "title": "La pr\u00e9vention des conflits d'int\u00e9r\u00eats et la transparence dans la vie publique",
+        "type": "Chapitre"
       }
     },
     "C1S1": {
@@ -3097,6 +3449,10 @@
         "type": "Section"
       },
       "14_l.d\u00e9finitive_assemblee_hemicycle": {
+        "title": "Obligations d'abstention",
+        "type": "Section"
+      },
+      "15_constitutionnalit\u00e9_conseilconstitutionnel_": {
         "title": "Obligations d'abstention",
         "type": "Section"
       }
@@ -3137,6 +3493,10 @@
       "14_l.d\u00e9finitive_assemblee_hemicycle": {
         "title": "Obligations de d\u00e9claration",
         "type": "Section"
+      },
+      "15_constitutionnalit\u00e9_conseilconstitutionnel_": {
+        "title": "Obligations de d\u00e9claration",
+        "type": "Section"
       }
     },
     "C1S2 bis": {
@@ -3157,6 +3517,11 @@
         "type": "Section"
       },
       "14_l.d\u00e9finitive_assemblee_hemicycle": {
+        "newnum": "C1S3",
+        "title": "Financement de la vie politique",
+        "type": "Section"
+      },
+      "15_constitutionnalit\u00e9_conseilconstitutionnel_": {
         "newnum": "C1S3",
         "title": "Financement de la vie politique",
         "type": "Section"
@@ -3199,6 +3564,11 @@
         "newnum": "C1S4",
         "title": "La haute autorit\u00e9 pour la transparence de la vie publique",
         "type": "Section"
+      },
+      "15_constitutionnalit\u00e9_conseilconstitutionnel_": {
+        "newnum": "C1S4",
+        "title": "La haute autorit\u00e9 pour la transparence de la vie publique",
+        "type": "Section"
       }
     },
     "C1S4": {
@@ -3238,6 +3608,11 @@
         "newnum": "C1S5",
         "title": "Position des fonctionnaires exer\u00e7ant un mandat parlementaire",
         "type": "Section"
+      },
+      "15_constitutionnalit\u00e9_conseilconstitutionnel_": {
+        "newnum": "C1S5",
+        "title": "Position des fonctionnaires exer\u00e7ant un mandat parlementaire",
+        "type": "Section"
       }
     },
     "C1S5": {
@@ -3270,6 +3645,11 @@
         "type": "Section"
       },
       "14_l.d\u00e9finitive_assemblee_hemicycle": {
+        "newnum": "C1S6",
+        "title": "Protection des lanceurs d'alerte",
+        "type": "Section"
+      },
+      "15_constitutionnalit\u00e9_conseilconstitutionnel_": {
         "newnum": "C1S6",
         "title": "Protection des lanceurs d'alerte",
         "type": "Section"
@@ -3311,6 +3691,10 @@
       "14_l.d\u00e9finitive_assemblee_hemicycle": {
         "title": "Dispositions p\u00e9nales",
         "type": "Chapitre"
+      },
+      "15_constitutionnalit\u00e9_conseilconstitutionnel_": {
+        "title": "Dispositions p\u00e9nales",
+        "type": "Chapitre"
       }
     },
     "C3": {
@@ -3347,6 +3731,10 @@
         "type": "Chapitre"
       },
       "14_l.d\u00e9finitive_assemblee_hemicycle": {
+        "title": "Dispositions finales",
+        "type": "Chapitre"
+      },
+      "15_constitutionnalit\u00e9_conseilconstitutionnel_": {
         "title": "Dispositions finales",
         "type": "Chapitre"
       }

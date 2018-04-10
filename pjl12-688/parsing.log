@@ -46,6 +46,7 @@
     ^ complete text:  http://www.assemblee-nationale.fr/14/ta/ta0209.asp
 [step_logic] l. définitive / hemicycle: fetching last AN hemi or last CMP commission
     ^ complete text:  http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2013/2013-675-dc/decision-n-2013-675-dc-du-9-octobre-2013.138242.html
+WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 4 bis A <-> 9 781 chars, similarity; 0.60
     ^ complete text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028056223&categorieLien=id
   [] format data for the frontend
      writing to: pjl12-688_tmp
@@ -69,6 +70,7 @@ Matched an article deleted in this step 5
       * preparing articles for step 14_nouv.lect._senat_hemicycle
       * preparing articles for step 16_l.définitive_assemblee_hemicycle
 Matched an article deleted in this step 1er_A
+      * preparing articles for step 17_constitutionnalité_conseilconstitutionnel_
 same id_step 10_nouv.lect._assemblee_commission
 same id_step 07_1erelecture_senat_hemicycle
 same id_step 10_nouv.lect._assemblee_commission

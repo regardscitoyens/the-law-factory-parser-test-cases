@@ -82,6 +82,15 @@
           "n_diff": 0.001954397394136831,
           "order": 2,
           "status": "none"
+        },
+        {
+          "diff": "rem",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 7630,
+          "n_diff": 0.0046972860125260585,
+          "order": 2,
+          "status": "none"
         }
       ],
       "titre": "2"
@@ -121,6 +130,16 @@
           "diff": "none",
           "directory": "14_l.d\u00e9finitive_assemblee_hemicycle",
           "id_step": "14_l.d\u00e9finitive_assemblee_hemicycle",
+          "length": 202,
+          "n_diff": 0,
+          "newnum": "1er",
+          "order": 1,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
           "length": 202,
           "n_diff": 0,
           "newnum": "1er",
@@ -170,6 +189,16 @@
           "newnum": "3",
           "order": 3,
           "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 333,
+          "n_diff": 0,
+          "newnum": "3",
+          "order": 3,
+          "status": "none"
         }
       ],
       "titre": "2 bis"
@@ -209,6 +238,16 @@
           "diff": "none",
           "directory": "14_l.d\u00e9finitive_assemblee_hemicycle",
           "id_step": "14_l.d\u00e9finitive_assemblee_hemicycle",
+          "length": 1228,
+          "n_diff": 0,
+          "newnum": "5",
+          "order": 5,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
           "length": 1228,
           "n_diff": 0,
           "newnum": "5",
@@ -255,6 +294,16 @@
           "id_step": "14_l.d\u00e9finitive_assemblee_hemicycle",
           "length": 263,
           "n_diff": 0.06859205776173283,
+          "newnum": "4",
+          "order": 4,
+          "status": "none"
+        },
+        {
+          "diff": "none",
+          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "length": 263,
+          "n_diff": 0,
           "newnum": "4",
           "order": 4,
           "status": "none"

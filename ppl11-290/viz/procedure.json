@@ -211,8 +211,9 @@
     },
     {
       "date": "2012-03-15",
-      "debats_order": null,
+      "debats_order": 15,
       "directory": "15_constitutionnalité_conseilconstitutionnel_",
+      "echec": null,
       "enddate": "2012-03-15",
       "institution": "conseil constitutionnel",
       "source_url": "http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2012/2012-650-dc/decision-n-2012-650-dc-du-15-mars-2012.105010.html",
