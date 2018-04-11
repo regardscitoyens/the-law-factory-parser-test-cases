@@ -2,8 +2,8 @@
   "assemblee_id": "reforme_5eme",
   "assemblee_legislature": 13,
   "beginning": "2008-04-23",
-  "end": "2008-07-23",
-  "end_jo": "2008-07-24",
+  "end": "2008-07-24",
+  "law_name": "Loi n° 2008-724 du 23 juillet 2008",
   "legifrance_cidTexte": "JORFTEXT000019237256",
   "long_title": "projet de loi  constitutionnelle de modernisation des institutions de la Ve République",
   "long_title_descr": "Loi constitutionnelle de modernisation des institutions de la Ve République",
@@ -212,10 +212,10 @@
       "step": "hemicycle"
     },
     {
-      "date": "2008-07-23",
+      "date": "2008-07-24",
       "debats_order": null,
       "directory": "13_promulgation_gouvernement_",
-      "enddate": "2008-07-23",
+      "enddate": "2008-07-24",
       "institution": "gouvernement",
       "source_url": "https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000019237256&categorieLien=id",
       "stage": "promulgation"

@@ -2,8 +2,8 @@
   "assemblee_id": "retablissement_confiance_action_publique",
   "assemblee_legislature": 15,
   "beginning": "2017-06-14",
-  "end": "2017-09-15",
-  "end_jo": "2017-09-16",
+  "end": "2017-09-16",
+  "law_name": "Loi n° 2017-1339 du 15 septembre 2017",
   "legifrance_cidTexte": "JORFTEXT000035567974",
   "long_title": "projet de loi pour la confiance dans la vie politique",
   "long_title_descr": "Loi pour la confiance dans la vie politique",
@@ -140,10 +140,10 @@
       "stage": "constitutionnalité"
     },
     {
-      "date": "2017-09-15",
+      "date": "2017-09-16",
       "debats_order": null,
       "directory": "10_promulgation_gouvernement_",
-      "enddate": "2017-09-15",
+      "enddate": "2017-09-16",
       "institution": "gouvernement",
       "source_url": "https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035567974&categorieLien=id",
       "stage": "promulgation"

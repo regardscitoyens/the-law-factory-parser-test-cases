@@ -2,8 +2,8 @@
   "assemblee_id": "information_passagers_transport_aerien",
   "assemblee_legislature": 13,
   "beginning": "2011-11-22",
-  "end": "2012-03-19",
-  "end_jo": "2012-03-20",
+  "end": "2012-03-20",
+  "law_name": "Loi n° 2012-375 du 19 mars 2012",
   "legifrance_cidTexte": "JORFTEXT000025540947",
   "long_title": "proposition de loi relative à l'organisation du service et à l'information des passagers dans les entreprises de transport aérien de passagers et à diverses dispositions dans le domaine des transports",
   "long_title_descr": "Loi relative à l'organisation du service et à l'information des passagers dans les entreprises de transport aérien de passagers et à diverses dispositions dans le domaine des transports",
@@ -220,10 +220,10 @@
       "stage": "constitutionnalité"
     },
     {
-      "date": "2012-03-19",
+      "date": "2012-03-20",
       "debats_order": null,
       "directory": "16_promulgation_gouvernement_",
-      "enddate": "2012-03-19",
+      "enddate": "2012-03-20",
       "institution": "gouvernement",
       "source_url": "https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000025540947&categorieLien=id",
       "stage": "promulgation"

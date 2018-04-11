@@ -1238,8 +1238,8 @@
           "diff": "rem",
           "directory": "08_2emelecture_assemblee_hemicycle",
           "id_step": "08_2emelecture_assemblee_hemicycle",
-          "length": 587,
-          "n_diff": 0.776831345826235,
+          "length": 588,
+          "n_diff": 0.7772108843537415,
           "order": 26,
           "status": "none"
         },
@@ -1248,7 +1248,7 @@
           "directory": "11_2emelecture_senat_hemicycle",
           "id_step": "11_2emelecture_senat_hemicycle",
           "length": 749,
-          "n_diff": 0.29105473965287054,
+          "n_diff": 0.28971962616822433,
           "newnum": "26",
           "order": 26,
           "status": "none"

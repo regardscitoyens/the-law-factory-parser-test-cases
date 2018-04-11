@@ -924,11 +924,11 @@
           "status": "new"
         },
         {
-          "diff": "both",
+          "diff": "none",
           "directory": "02_1erelecture_senat_hemicycle",
           "id_step": "02_1erelecture_senat_hemicycle",
-          "length": 488,
-          "n_diff": 0.002044989775051076,
+          "length": 489,
+          "n_diff": 0,
           "order": 6,
           "status": "none"
         },
@@ -1842,8 +1842,8 @@
           "diff": "rem",
           "directory": "02_1erelecture_senat_hemicycle",
           "id_step": "02_1erelecture_senat_hemicycle",
-          "length": 1626,
-          "n_diff": 0.07810578105781063,
+          "length": 1627,
+          "n_diff": 0.07805777504609712,
           "order": 18,
           "status": "none"
         },
@@ -1852,7 +1852,7 @@
           "directory": "04_1erelecture_assemblee_commission",
           "id_step": "04_1erelecture_assemblee_commission",
           "length": 2839,
-          "n_diff": 0.46882705177879536,
+          "n_diff": 0.46847481507573085,
           "order": 19,
           "status": "none"
         },
