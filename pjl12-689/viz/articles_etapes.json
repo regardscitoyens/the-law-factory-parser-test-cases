@@ -492,11 +492,11 @@
           "status": "none"
         },
         {
-          "diff": "both",
+          "diff": "none",
           "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
           "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
-          "length": 484,
-          "n_diff": 0.0020618556701030855,
+          "length": 485,
+          "n_diff": 0,
           "newnum": "16",
           "order": 16,
           "status": "none"
