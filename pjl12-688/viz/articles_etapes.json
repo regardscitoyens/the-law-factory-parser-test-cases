@@ -767,7 +767,7 @@
           "diff": "add",
           "directory": "00_1erelecture_assemblee_depot",
           "id_step": "00_1erelecture_assemblee_depot",
-          "length": 235,
+          "length": 222,
           "n_diff": 1,
           "order": 4,
           "status": "depot"
@@ -776,8 +776,8 @@
           "diff": "both",
           "directory": "01_1erelecture_assemblee_commission",
           "id_step": "01_1erelecture_assemblee_commission",
-          "length": 315,
-          "n_diff": 0.292063492063492,
+          "length": 302,
+          "n_diff": 0.304635761589404,
           "order": 7,
           "status": "none"
         },
@@ -785,8 +785,8 @@
           "diff": "both",
           "directory": "02_1erelecture_assemblee_hemicycle",
           "id_step": "02_1erelecture_assemblee_hemicycle",
-          "length": 333,
-          "n_diff": 0.0570570570570571,
+          "length": 321,
+          "n_diff": 0.05919003115264798,
           "order": 8,
           "status": "none"
         },
@@ -794,8 +794,8 @@
           "diff": "both",
           "directory": "04_1erelecture_senat_commission",
           "id_step": "04_1erelecture_senat_commission",
-          "length": 335,
-          "n_diff": 0.011940298507462699,
+          "length": 323,
+          "n_diff": 0.012383900928792602,
           "order": 9,
           "status": "none"
         },
@@ -803,8 +803,8 @@
           "diff": "both",
           "directory": "05_1erelecture_senat_hemicycle",
           "id_step": "05_1erelecture_senat_hemicycle",
-          "length": 333,
-          "n_diff": 0.011940298507462699,
+          "length": 321,
+          "n_diff": 0.012383900928792602,
           "order": 8,
           "status": "none"
         },
@@ -821,7 +821,7 @@
           "diff": "add",
           "directory": "11_nouv.lect._assemblee_hemicycle",
           "id_step": "11_nouv.lect._assemblee_hemicycle",
-          "length": 335,
+          "length": 323,
           "n_diff": 1,
           "order": 8,
           "status": "new"
@@ -830,7 +830,7 @@
           "diff": "none",
           "directory": "14_nouv.lect._senat_hemicycle",
           "id_step": "14_nouv.lect._senat_hemicycle",
-          "length": 335,
+          "length": 323,
           "n_diff": 0,
           "order": 9,
           "status": "none"
@@ -839,18 +839,18 @@
           "diff": "none",
           "directory": "16_l.d\u00e9finitive_assemblee_hemicycle",
           "id_step": "16_l.d\u00e9finitive_assemblee_hemicycle",
-          "length": 335,
+          "length": 323,
           "n_diff": 0,
           "newnum": "8",
           "order": 8,
           "status": "none"
         },
         {
-          "diff": "both",
+          "diff": "none",
           "directory": "17_constitutionnalit\u00e9_conseilconstitutionnel_",
           "id_step": "17_constitutionnalit\u00e9_conseilconstitutionnel_",
           "length": 323,
-          "n_diff": 0.035820895522388096,
+          "n_diff": 0,
           "newnum": "8",
           "order": 8,
           "status": "none"
