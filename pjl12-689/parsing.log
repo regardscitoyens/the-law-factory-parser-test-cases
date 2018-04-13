@@ -41,9 +41,9 @@
     ^ complete text:  http://www.assemblee-nationale.fr/14/ta/ta0192.asp
     ^ complete text:  http://www.assemblee-nationale.fr/14/ta/ta0208.asp
 [step_logic] l. définitive / hemicycle: fetching last AN hemi or last CMP commission
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 13 bis <-> 21 484 chars, similarity; 0.69
+WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 13 bis <-> 21 470 chars, similarity; 0.68
     ^ complete text:  http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2013/2013-676-dc/decision-n-2013-676-dc-du-9-octobre-2013.138228.html
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 11 <-> 12 1140 chars, similarity; 0.52
+WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 11 <-> 12 1116 chars, similarity; 0.52
     ^ complete text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028056315&categorieLien=id
   [] format data for the frontend
      writing to: pjl12-689_tmp

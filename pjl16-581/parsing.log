@@ -29,9 +29,9 @@
     ^ complete text:  https://www.senat.fr/leg/tas16-126.html
     ^ complete text:  http://www.assemblee-nationale.fr/15/ta/ta0016.asp
     ^ complete text:  http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2017/2017-752-dc/decision-n-2017-752-dc-du-8-septembre-2017.149701.html
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 2 ter E <-> 7 109 chars, similarity; 0.08
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 2 quater <-> 9 109 chars, similarity; 0.04
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 7 ter B <-> 23 109 chars, similarity; 0.21
+WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 2 ter E <-> 7 107 chars, similarity; 0.10
+WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 2 quater <-> 9 107 chars, similarity; 0.06
+WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 7 ter B <-> 23 107 chars, similarity; 0.23
     ^ complete text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035567974&categorieLien=id
   [] format data for the frontend
      writing to: pjl16-581_tmp
