@@ -8,7 +8,7 @@
           "diff": "add",
           "directory": "00_1erelecture_assemblee_depot",
           "id_step": "00_1erelecture_assemblee_depot",
-          "length": 262,
+          "length": 266,
           "n_diff": 1,
           "order": 1,
           "status": "depot"
@@ -17,7 +17,7 @@
           "diff": "none",
           "directory": "01_1erelecture_assemblee_commission",
           "id_step": "01_1erelecture_assemblee_commission",
-          "length": 262,
+          "length": 266,
           "n_diff": 0,
           "order": 1,
           "status": "none"
@@ -26,7 +26,7 @@
           "diff": "none",
           "directory": "02_1erelecture_assemblee_hemicycle",
           "id_step": "02_1erelecture_assemblee_hemicycle",
-          "length": 262,
+          "length": 267,
           "n_diff": 0,
           "order": 1,
           "status": "none"
@@ -35,7 +35,7 @@
           "diff": "none",
           "directory": "04_1erelecture_senat_commission",
           "id_step": "04_1erelecture_senat_commission",
-          "length": 262,
+          "length": 267,
           "n_diff": 0,
           "order": 1,
           "status": "none"
@@ -44,7 +44,7 @@
           "diff": "none",
           "directory": "05_1erelecture_senat_hemicycle",
           "id_step": "05_1erelecture_senat_hemicycle",
-          "length": 262,
+          "length": 267,
           "n_diff": 0,
           "order": 1,
           "status": "none"

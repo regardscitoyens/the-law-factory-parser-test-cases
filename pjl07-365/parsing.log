@@ -43,8 +43,8 @@ downloading www.nossenateurs.parlementaires.json
     ^ complete text:  https://www.senat.fr/leg/pjl07-459.html
     ^ complete text:  https://www.senat.fr/rap/l07-463/l07-463.html
     ^ complete text:  https://www.senat.fr/leg/tas07-137.html
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 24 <-> 26 732 chars, similarity; 0.71
-WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 25 <-> 27 318 chars, similarity; 0.06
+WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 24 <-> 26 431 Vs 613 chars, similarity; 0.70
+WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 25 <-> 27 20 Vs 285 chars, similarity; 0.05
     ^ complete text:  https://www.senat.fr/leg/tac07-002.html
     ^ complete text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000019237256&categorieLien=id
   [] format data for the frontend
