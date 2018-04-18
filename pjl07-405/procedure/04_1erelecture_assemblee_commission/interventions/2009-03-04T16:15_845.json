@@ -1,0 +1,3031 @@
+{
+  "seance": [
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Commission des affaires économiques, de l'environnement et du territoire</p><p>La Commission des affaires économiques, de l'environnement et du territoire a entendu M. Dominique Bussereau, secrétaire d'État chargé des Transports, sur l'application de la loi n° 2007-1224 du 21 août 2007 sur le dialogue social et la continuité du service public dans les transports terrestres réguliers de voyageurs.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325559",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "63",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000010",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_504ea79ef134338df363d9d6ddc8ae1c",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325559/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Nous sommes heureux de recevoir M. Dominique Bussereau, secrétaire d'État chargé des transports, pour évoquer avec lui le bilan de l'application de la loi du 21 août 2007, dont M. Jacques Kossowski fut le rapporteur, et qui visait à concilier deux exigences constitutionnelles, le droit de grève et la continuité du service public. Après les incidents survenus à la gare Saint-Lazare, j'ai souhaité que la Commission des affaires économiques établisse un rapport de contrôle de l'application de la loi. Elle est d'ailleurs la première commission de l'Assemblée à avoir pris ce type d'initiative, il y a deux ans déjà, prouvant ainsi qu'il était possible, sans modification constitutionnelle préalable, de contrôler l'exécution d'une loi.</p><p>Dans un souci de transparence, deux co-rapporteurs ont été nommés : M. Jacques Kossowski, en toute logique, et un représentant de l'opposition désigné par le groupe socialiste, M. Maxime Bono. Ce matin, à l'unanimité, la Commission a adopté leurs conclusions et autorisé la publication de leur rapport. Après leur avoir donné la parole pour présenter leurs propositions, je vous inviterai, Monsieur le ministre, à nous faire part de vos réactions.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325560",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Patrick Ollier",
+        "intervenant_slug": "patrick-ollier",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "197",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "grève"
+          }
+        ],
+        "timestamp": "41000020",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_fc7d7295ef305cc125db23f055938a24",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325560/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je me limiterai à indiquer ce qu'ont été nos choix liminaires : M. Maxime Bono et moi-même avons décidé d'un commun accord que nous ne recommanderions ni une modification de la loi du 21 août 2007 ni le recours à la réquisition. Pour le reste, vous avez pris connaissance de nos propositions, monsieur le ministre, et nous attendons de savoir si elles vous agréent.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325561",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Jacques Kossowski",
+        "intervenant_slug": "jacques-kossowski",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "66",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000030",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_e566083e792b3a779b44b00834003fff",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325561/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je n'ai pas voté la loi du 21 août 2007. Cela étant, il s'agissait cette fois de déterminer comment elle est exécutée, et les auditions auxquelles nous avons procédé montre qu'elle est acceptée et correctement appliquée. Il nous est donc apparu que mieux valait, pour l'instant, s'abstenir de la modifier, tout en permettant son approfondissement. Nous avons formulé huit propositions à cet effet.</p><p>La première est la création d'un observatoire des relations sociales dans les transports terrestres, doté de tous les pouvoirs d'investigation nécessaires et appelé à faire un bilan de l'état du dialogue social. Il pourrait procéder à un examen impartial de la situation dans une entreprise ; n'étant aucunement obligé de répondre aux sollicitations, il ne pourrait pas être instrumentalisé dans un conflit. On ne donnerait à cet organisme, au moins dans un premier temps, qu'une durée temporaire.</p><p>Notre deuxième proposition est de renforcer le dialogue social sur la sécurité. C'est le meilleur moyen d'éviter les grèves émotionnelles &#8211;  parfois improprement appelées « droit de retrait ». Il faut assurer la prise en charge la plus efficace possible des agents victimes d'une agression et préparer autant que possible les conducteurs à des situations difficiles.</p><p>La troisième proposition est de renforcer le dialogue entre les entreprises de transports et les usagers.</p><p>La quatrième est d'engager des négociations collectives dans toutes les entreprises qui relèvent du champ de la loi, afin que, lorsque le service du matin a été assuré, celui du soir le soit aussi &#8211; ainsi les voyageurs partis travailler seront-ils assurés de pouvoir rentrer chez eux.</p><p>Notre cinquième proposition consiste à inviter les partenaires sociaux à interdire par voie conventionnelle tout nouveau préavis de grève avant l'expiration des négociations engagées sur le premier.</p><p>La sixième proposition est de poursuivre activement la politique de décentralisation et de déconcentration du pouvoir à la SNCF. La RATP a mis au point une procédure de traitement des conflits qui s'avère efficace et dont la SNCF pourrait s'inspirer pour éviter que des conflits locaux ne prennent parfois une dimension démesurée.</p><p>Notre septième proposition est de mettre au point des indicateurs permettant de mesurer l'application de la loi sur le long terme.</p><p>Enfin, la dernière proposition faite à la Commission est de nous autoriser à poursuivre notre travail de suivi, notamment quant aux suites données aux sept propositions qui précèdent.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325562",
+        "intervenant_fonction": "rapporteur adjoint",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Maxime Bono",
+        "intervenant_slug": "maxime-bono",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "431",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "dialogue"
+          },
+          {
+            "tag": "grève"
+          }
+        ],
+        "timestamp": "41000040",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_09901e3362b0bb5b171b938b5fdebc99",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325562/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Sous la XIème législature déjà, une proposition de loi sur ce thème, déposée par les groupes RPR, UDF et Démocratie libérale, alors dans l'opposition, et signée par M. Nicolas Sarkozy, Mme Anne-Marie Idrac et moi-même, avait été discutée dans le cadre d'une « niche » parlementaire. M. Jean Le Garrec, qui présidait la Commission des affaires sociales, tout en s'exprimant contre le texte, avait reconnu qu'il faudrait bien, un jour, trouver une solution. Un commencement de réflexion s'amorçait donc.</p><p>Avant de répondre aux questions de vos rapporteurs, que je remercie d'être venus dialoguer avec moi à l'occasion de leur travail, je ferai un rapide bilan de l'application de la loi du 21 août 2007, dont l'ambition est de prévenir les conflits et d'organiser le service de transports terrestres en cas de grève, afin de concilier le principe de continuité des services publics et le droit de grève. Sa mise en oeuvre s'est traduite, pour les entreprises de transports publics urbains, par la signature le 27 septembre 2007 d'un accord de branche, et, à la RATP et à la SNCF, par la mise en conformité des accords préexistants sur la prévention des conflits.</p><p>Au terme d'une année d'application, on constate que la loi a atteint ses objectifs. La  procédure de concertation préalable à tout préavis de grève a prouvé son efficacité. A Paris, à la RATP, trente préavis de grève ont été déposés au premier semestre 2008, soit quatre fois moins qu'au cours des cinq dernières années pendant la même période. En ce qui concerne les transports relevant de l'Union des transports publics et ferroviaires (UTP), 80 % des entreprises appliquent cette procédure, laquelle a permis d'éviter un dépôt de préavis de grève dans 40% des cas. A la RATP, le nombre de préavis de grève est passé de 367 en 2007 à 59 en 2008 ; si l'on prend comme référence le nombre annuel moyen de préavis déposés entre 2003 et 2007, il a été divisé par trois.</p><p>La SNCF a rendu les « demandes de concertation immédiate » (DCI) obligatoires, ce qui a permis de désamorcer beaucoup de conflits et de faire baisser le nombre de préavis de grève de 30% par rapport au premier semestre 2007. Entre 2007 et 2008, le nombre de journées de grève a diminué de moitié. Cela étant, le dispositif ne permet pas d'éviter les conflits liés à des revendications nationales, tel celui qui a porté sur la réforme des retraites, la grève du 29 janvier dernier ou celle qui est annoncée pour le 19 mars.</p><p>Mais les grandes grèves nationales des cheminots ont montré l'efficacité du deuxième volet de la loi, qui a fixé les modalités d'organisation de la continuité des services en cas de conflit social. La déclaration individuelle d'intention, quarante-huit heures avant la grève, pour les conducteurs, les contrôleurs et les aiguilleurs, a permis d'établir les niveaux de service et les plans de transport, et de les faire connaître à l'avance à la clientèle. Lors des grèves du 22 mai 2008 et du 29 janvier 2009, la SNCF a assuré exactement le service annoncé.</p><p>A la SNCF toujours, au premier semestre 2008, un préavis de grève sur deux n'a pas entraîné de perturbations pour la clientèle. Sur les 248 préavis recensés, la moitié a abouti à la mise en oeuvre du service prévisible. Et parmi les seize mouvements de grève qui ont affecté le réseau de la RATP au cours de la même période, quatre ont rendu nécessaire le déclenchement du « plan d'information voyageurs » ; dans les autres cas, le service a été assuré à 97% en moyenne.</p><p>Les clients des services publics de transport &#8211; terme que je préfère à celui d' « usagers », car il s'agit bien de clients, qui payent leurs trajets, y compris comme contribuables &#8211; ont donc tout lieu d'être  satisfaits des avancées importantes permises par cette loi. Il convient néanmoins de remédier aux difficultés qui subsistent, ce à quoi visent les propositions de vos rapporteurs.</p><p>La première est de créer un observatoire des relations sociales dans les transports terrestres. L'idée est excellente, la seule question portant sur ses modalités d'application : ne serait-il pas préférable de créer un observatoire par branche d'activité plutôt qu'un observatoire global ? L'UTP a d'ailleurs installé, fin 2007, un observatoire paritaire de la négociation collective et du dialogue social.</p><p>Je suis tout à fait favorable à la deuxième proposition, le renforcement du dialogue social sur la sécurité. L'UTP a d'ailleurs conclu en 2007 un accord-cadre relatif à la sécurité des personnes et des biens. A la suite des événements de la gare Saint-Lazare, le 13 janvier dernier, la SNCF s'est aussi engagée dans cette voie. Le président Pepy a réuni les organisations syndicales et décidé avec elles une série de mesures, notamment la réunion immédiate du CHSCT en cas d'agression d'un agent. J'ai, de plus, insisté auprès de M. Pepy pour que, en cas d'incident, la communication entre les voyageurs et les agents soit améliorée. Je crois qu'il serait bon de permettre aux voyageurs qui le souhaitent de manifester leur solidarité avec l'agent concerné ; après le dépôt d'affichettes sur la ligne pour expliquer les circonstances de l'agression, il faudrait mettre à la disposition des clients un site internet, un numéro de téléphone ou un registre pour recueillir leurs messages de sympathie. J'invite les entreprises de transports à le faire, au moins à titre expérimental.</p><p>Les rapporteurs, de même que le ministre du travail, écartent toute modification législative des textes sur le droit de retrait. Je partage leur analyse. Il revient aux partenaires sociaux de négocier les mesures à prendre pour protéger les agents, réagir en cas d'agression de l'un d'eux et informer les voyageurs.</p><p>J'approuve également la troisième proposition, celle d'encourager le dialogue social avec les clients des transports collectifs. Hormis la Fédération nationale des usagers des transports, la France n'a pas de grandes associations de clients des transports collectifs. Nous devons renforcer leur poids, et il serait bon de généraliser le système des comités de ligne de la RATP ou des transports régionaux, où les voyageurs sont représentés.</p><p>Nous allons examiner les quatrième et cinquième propositions &#8211; visant à engager des négociations collectives pour garantir le service du soir lorsque le service du matin a été assuré et à interdire tout nouveau préavis avant l'expiration des négociations engagées sur le premier &#8211; afin de nous assurer qu'elles ne remettent pas en cause le droit de grève. J'observe qu'un amendement rédigé dans le même esprit, mais qui concerne les seuls transports aériens, a été déposé au Sénat par le groupe des Radicaux de gauche.</p><p>Vos rapporteurs proposent ensuite, très judicieusement, de poursuivre la politique de décentralisation et de déconcentration de la SNCF. Dans la lettre de mission qu'il a adressé à M. Guillaume Pepy, le Président de la République lui a demandé de moderniser les relations sociales au sein de l'entreprise ; il appartient au président de la SNCF de définir son organisation interne et territoriale, effectivement peu lisible. Il serait bon, par exemple, que les chefs de gare nouvellement nommés se présentent aux élus, comme le font les responsables de La Poste ou d'EDF, et que l'entreprise se dote de patrons de ligne connus de tous, comme il en existe à la RATP.</p><p>Enfin, il est proposé d'améliorer le suivi de l'application de la loi du 21 août 2007 sur le long terme, d'abord par la définition de nouveaux indicateurs, ce qui est une très bonne idée, et ensuite en rendant annuel le bilan d'application de la loi &#8211; proposition sur laquelle il revient au Parlement de se prononcer, mais que j'approuverais si j'étais parlementaire ! C'était d'ailleurs l'une des propositions de M. Hervé Mariton dans son récent rapport sur « les récents mouvements sociaux à la SNCF et l'impact du service minimum ». Conformément à l'article 11 de la loi du 21 août 2007, le premier bilan d'application a été remis au Parlement à la fin 2008, ainsi qu'un bilan portant sur les modes de transport qui ne sont pas traités dans la loi - la desserte de la Corse et des îles du Ponant par exemple.</p><p>Nous allons maintenant travailler sur ces propositions, dont je remercie votre Commission, et singulièrement vos rapporteurs.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325563",
+        "intervenant_fonction": "secrétaire d'état chargé des transports",
+        "intervenant_groupe": "",
+        "intervenant_nom": "Dominique Bussereau",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "1482",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000050",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_ebf843754dcae98c3cbd87fd37eaefcb",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325563/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Monsieur le ministre, je vous remercie. Je rappelle que ce rapport a été adopté à l'unanimité des groupes et je suis heureux de constater que vous approuvez toutes les propositions qu'il contient. Il nous reste à savoir selon quel calendrier elles pourront être mises en oeuvre.</p><p>J'invite à présent les représentants des groupes à s'exprimer.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325564",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Patrick Ollier",
+        "intervenant_slug": "patrick-ollier",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "57",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000060",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_a0a35657b02fbf9809d14cecb7fa2481",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325564/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Vous préférez, monsieur le ministre, parler de « clients » plutôt que d'« usagers ». Ce n'est pas mon cas : à mes yeux, le mot « usager » a un sens intéressant.</p><p>Le rapport que nous avons examiné ce matin a, c'est vrai, recueilli l'unanimité. Il ne pouvait en être autrement, puisqu'il dresse un bilan, confirmant au passage ce que j'avais dit, au nom du groupe GDR, lors de l'examen du texte : la loi du 21 août 2007 est un fusil à tirer dans les coins. On a prétendu vouloir régler les problèmes des usagers mais l'objectif réel était tout autre : il s'agissait d'enfoncer encore un coin dans le droit de grève, droit constitutionnel. Ce n'était pas facile, mais la majorité y est parvenue en opposant les usagers et les agents et en présentant ces derniers comme des « gréviculteurs », à l'origine de tous les dysfonctionnements constatés. Le rapport fait litière de ces allégations en montrant que les grèves ne sont qu'un élément « minime » - selon les termes mêmes du président de la RATP - de ces dysfonctionnements. C'est précisément ce que M. Bono et moi-même avions dit au cours des débats de l'été 2007.</p><p>Si l'on avait consacré à la rénovation des infrastructures et du matériel les mêmes efforts qu'à la mise au point de la loi du 21 août 2007, le taux de conflictualité aurait diminué dans les mêmes proportions. Si l'on améliorait le fonctionnement de la ligne 13 du métro parisien, il est évident qu'il y aurait moins de difficultés. De même, si on rénovait les voies ferrées, on ne serait pas contraint de faire circuler des TER neufs à 50 kilomètres à l'heure, et cela irait mieux sur ces lignes. Cela ne veut pas dire,  bien entendu, qu'il ne resterait pas des motifs de conflits sociaux.</p><p>Je suis donc satisfait que ce rapport d'étape contribue à mettre en lumière la réalité des dysfonctionnements dans les réseaux de transports terrestres. La conflictualité existe, c'est vrai, mais elle s'explique aussi par l'évolution des entreprises publiques de transports et par ce qui les guette : des entreprises qui se pensaient pérennes se trouvent brutalement confrontées à une dure compétition. Les politiques publiques récentes ont aggravé les conditions de la mise en concurrence, ce qui contribue à la conflictualité. Tout ce qui pourra réduire les raisons qu'ont les agents de se mettre en grève sera bienvenu, si des solutions durables sont apportées aux problèmes soulevés.</p><p>J'illustrerai mon propos par un exemple. Le jour où la grève a éclaté à la gare Saint-Lazare à Paris, nous étions chez M. Pepy. En quelques heures d'une grève dure qui a semé la pagaille dans l'Ouest parisien, les agents ont obtenu ce qu'ils demandaient sans succès depuis un an, à savoir des moyens pour faire face aux dysfonctionnements. Il leur a, hélas, fallu en arriver à une action de ce type pour y parvenir &#8211; et ils ont même obtenu davantage. Certains mouvements naissent du refus des directions d'entendre que les difficultés sont réelles. Telle est la réalité sociale du pays, et si ce rapport permet d'en finir avec cette attitude, je serai le premier à m'en féliciter.</p><p>Vous avez dit, monsieur le ministre, ne pas souhaiter une nouvelle loi. J'en prends acte, mais je ne suis pas dupe. Je pense en effet que cette prudence s'explique par la crise et les difficultés que connaissent usagers et agents, auxquelles vous ne voulez pas ajouter. On sait, cependant, que certaines personnalités de la majorité souhaitent, elles, pousser les feux. Je souhaite donc que la raison l'emporte et que l'on fasse tout pour que les transports terrestres fonctionnent bien.</p><p>A ce propos, je vais devoir vous quitter dans quelques minutes pour prendre le train du Havre. Je souhaite que les problèmes de cette ligne soient réglés le plus vite possible.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325565",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "GDR",
+        "intervenant_nom": "Daniel Paul",
+        "intervenant_slug": "daniel-paul",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "684",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "grève"
+          }
+        ],
+        "timestamp": "41000070",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_6fdc246acf071272b1d4669a39bff28c",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325565/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je tiens, au nom du groupe UMP, à remercier les rapporteurs, ainsi que le président Patrick Ollier qui a anticipé les nouveaux pouvoirs du Parlement en matière de contrôle de l'application des lois. L'excellent rapport qui nous a été présenté met en lumière trois éléments.</p><p>Tout d'abord, le principe directeur de la loi est accepté par les salariés des entreprises de transports, ce qui a permis un renforcement du dialogue social. Le cadre qui a été créé permet de trouver des solutions aux situations difficiles et de favoriser l'amélioration des pratiques.</p><p>Ensuite, la continuité du service public, qui est le pendant du dialogue social, est mieux assurée, si bien que les usagers n'ont plus le sentiment d'être pris en otage, ce qui contribue à apaiser le climat social. En cas de grève, les gens peuvent désormais s'organiser. Les propositions formulées dans le rapport visent notamment à renforcer le dialogue au sein de l'entreprise et avec les usagers ; c'est une démarche très constructive.</p><p>Enfin, il n'est pas question de modifier la loi pour l'instant. Il faut en effet lui laisser le temps de continuer à produire ses effets, même si des améliorations sont bien entendu possibles. Il est sage de ne pas toucher au droit de retrait &#8211; dont le détournement dessert ceux qui en abusent, plus qu'il ne sert la cause qu'ils pensent défendre.</p><p>S'agissant de la création d'un observatoire des relations sociales dans les transports terrestres et du suivi de la loi, qui font l'objet des première et dernière propositions de nos rapporteurs, nous laisserons le Gouvernement et le président Patrick Ollier trouver avec eux le cadre adéquat.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325566",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Michel Havard",
+        "intervenant_slug": "michel-havard",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "298",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "dialogue"
+          },
+          {
+            "tag": "grève"
+          }
+        ],
+        "timestamp": "41000080",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_5362de853d556deb6b05e84b0a3d010d",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325566/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Le groupe socialiste s'associe aux félicitations adressées aux deux rapporteurs. Lors du débat sur cette loi, il l'avait combattue pour un ensemble de raisons. Sur le plan de la forme, nous avions déploré que le projet fasse l'objet d'une déclaration d'urgence, qu'il soit débattu très rapidement, à la fin du mois de juillet, et, ce qui n'était pas sans portée symbolique, que le ministre des transports de l'époque ne soit pas présent dans l'hémicycle. Sur le fond, nous avions souligné que ce texte n'ambitionnait pas de régler les problèmes liés au manque d'investissements dans les transports. Plus encore aujourd'hui, on constate que la plupart des retards ou autres problèmes subis par les usagers sont dus à la vétusté des infrastructures et aux insuffisances du matériel roulant. Cette urgence-là n'est toujours pas traitée, et j'ose encore espérer qu'elle fera bientôt l'objet d'un vrai débat. Quant aux conflits sociaux dans les transports, vous avez fait état de leur diminution, monsieur le ministre, mais à l'époque du vote de la loi on ne pouvait leur imputer qu'à peine 2 % des perturbations sur l'ensemble du territoire.</p><p>Quoi qu'il en soit, faisons maintenant en sorte d'améliorer l'application de cette loi. A cet égard, les huit propositions qui figurent dans le rapport sont intéressantes car elles tendent à faire progresser le dialogue social, le dialogue avec les usagers ainsi que le suivi de la loi, avec la mise en place d'indicateurs.</p><p>A propos de ce qui s'est passé gare Saint-Lazare, force est de reconnaître que l'augmentation des agressions envers les agents des transports est le reflet de ce qu'on constate dans l'ensemble de la société. En effet, si la délinquance générale est en baisse, les violences aux personnes sont en en forte hausse. En tout cas, il me paraît très utile d'améliorer le dialogue avec les usagers et de mieux les informer, notamment sur les causes des perturbations car ils imaginent parfois qu'il s'agit d'une grève alors que ce n'est pas le cas.</p><p>Parmi ces causes, il en est une qui est un peu taboue. Je veux parler des suicides, dont le nombre a fortement augmenté. Il faut non seulement se préoccuper des agents qui y sont confrontés, mais dire à nos concitoyens la vérité sur ce sujet.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325567",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Annick Lepetit",
+        "intervenant_slug": "annick-lepetit",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "411",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "dialogue"
+          },
+          {
+            "tag": "grève"
+          }
+        ],
+        "timestamp": "41000090",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_d0caacd8a21501604c6c677944911f2d",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325567/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Les rapporteurs en ont longuement parlé ce matin.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325568",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Patrick Ollier",
+        "intervenant_slug": "patrick-ollier",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "10",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000100",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_69c5cebafcf002f03ea437f7ec5d5b99",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325568/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je les en remercie. Il est important d'apporter notre appui aux entreprises de transports sur ce sujet complexe.</p><p>Nous serons extrêmement vigilants quant à la mise en application de ces propositions, à laquelle nous souhaitons bien entendu participer, et nous sommes satisfaits que le ministre accepte l'idée de ne pas légiférer à nouveau mais plutôt d'améliorer le dialogue social.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325569",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Annick Lepetit",
+        "intervenant_slug": "annick-lepetit",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "66",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "dialogue"
+          }
+        ],
+        "timestamp": "41000110",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_3ed9eefd15678e17e7498d37f3a61623",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325569/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>J'ai dit ce matin qu'en tant que président de la commission, j'acceptais bien volontiers la huitième proposition : les deux rapporteurs pourront d'ici à la fin de l'année dresser devant la Commission un nouveau bilan de la situation, et notamment de la mise en application de leurs propositions. Je leur ferai une lettre de mission en ce sens, et ainsi pourra se poursuivre un partenariat constructif &#8211; une coproduction &#8211; avec le Gouvernement.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325570",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Patrick Ollier",
+        "intervenant_slug": "patrick-ollier",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "74",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000120",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_3d86dc28547c48dd6e84273e49612e43",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325570/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Il doit être très clair que notre intention n'est pas de produire une nouvelle loi. Une bonne loi n'est pas celle que l'on modifie sans cesse, mais celle que l'on s'efforce de bien appliquer &#8211; et le travail de votre commission va nous y aider.</p><p>Comme M. Paul et Mme Lepetit l'ont fait remarquer, les dysfonctionnements peuvent avoir d'autres causes que les mouvements sociaux. En ce qui concerne le Transilien, les retards sont dus pour 45 % à des causes externes, notamment la malveillance et les suicides, pour 17 % &#8211; et c'est trop &#8211; aux infrastructures et pour 38 % à des causes internes, lesquelles peuvent consister en déficiences du matériel &#8211; ce qui n'est pas davantage acceptable &#8211; ou des personnels. En ce qui concerne le TER, nous poursuivons nos efforts dans le cadre des contrats de projets Etat-régions. L'Etat s'est en outre engagé dans certaines régions &#8211; Midi-Pyrénées, Limousin, Auvergne, Centre &#8211;, avec Réseau ferré de France, dans un processus de régénération du réseau secondaire, afin d'améliorer la qualité des lignes TER.</p><p>Quant à la continuité du service public évoquée par M. Havard, son absence a deux conséquences. D'une part, elle conduit une partie des clients à se tourner vers un autre mode de transport ; elle peut ainsi obliger un couple jeune à conserver deux voitures pour parer aux risques de perturbation des transports publics, et elle pénalise surtout les plus modestes. D'autre part, elle va à l'encontre des objectifs du Grenelle de l'environnement car le développement de l'usage des transports publics suppose que ceux-ci répondent aux impératifs de continuité, de sécurité ainsi que de confort susceptibles d'amener nos concitoyens à abandonner sans regret la voiture individuelle. Si, dans Paris intra muros, près de 60 % des ménages n'ont pas de voiture, c'est bien en raison de l'importance du réseau de transports en commun.</p><p>Concernant les événements de Saint-Lazare, le dialogue social aurait pu, en effet, s'engager plus tôt ; le Président de la République et moi-même l'avons dit au président Pepy. Mais il est aussi très choquant, alors que l'incident touchant un agent de conduite s'était produit un soir à 21 heures, que la réaction n'ait eu lieu que treize heures plus tard, le lendemain à 10 heures, car les personnes transportées le matin se sont ainsi retrouvées prises en otage. C'est en particulier le fait d'une organisation syndicale.</p><p>Monsieur Paul, je recevrai prochainement le président Le Vern et les élus de Haute-Normandie pour leur faire des propositions très précises sur la ligne du Havre &#8211; qui concernent également les clients de la Basse-Normandie &#8211;, en particulier au sujet de la bifurcation de Mantes.</p><p>Concernant la région parisienne, madame Lepetit, le Président de la République prendra prochainement des décisions relatives à la carte des infrastructures. Le Gouvernement devra également en prendre très vite, en liaison avec le STIF, notamment sur le prolongement de la ligne E de Saint-Lazare à la Défense ou à Mantes. Le dossier des transports sera sans doute, en Ile-de-France, le principal sujet des élections régionales ; il est donc important que les candidats des différentes listes connaissent préalablement les intentions de l'Etat.</p><p>Enfin, on constate malheureusement, en effet, une forte augmentation de ce qu'on appelle pudiquement les « incidents de personne ». Rien qu'hier, sur le réseau TGV à l'Ouest de Paris, il y a eu très probablement &#8211; l'enquête le confirmera &#8211; deux suicides. Il y en a quasiment un par jour sur le réseau de la RATP. La SNCF a réagi à cette triste évolution en sensibilisant ses personnels au problème. Il ne serait pas envisageable, en France, de s'inspirer de l'exemple du Japon ou du Canada, où les entreprises font payer à la famille du suicidé le coût entraîné par les retards, lequel peut atteindre plusieurs millions de dollars. En revanche, il faut faire en sorte que l'intervention de l'autorité judiciaire soit rapide. L'appel à un nouvel agent de conduite &#8211; le train ne pouvant pas repartir avec le même agent, traumatisé par ce qui s'est passé &#8211; et la nécessité de faire venir le procureur ou le substitut entraînent au minimum deux à trois heures d'interruption du service sur le réseau de la SNCF. L'interruption est évidemment moins longue sur celui de la RATP. Nous recherchons avec le ministère de la justice et le ministère de l'intérieur les moyens d'améliorer la situation, dans le respect des familles.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325571",
+        "intervenant_fonction": "secrétaire d'état chargé des transports",
+        "intervenant_groupe": "",
+        "intervenant_nom": "Dominique Bussereau",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "761",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000130",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_7e8f9ebf07957d371e307a60ca8dc132",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325571/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>En 2007, Mme Idrac nous avait dit que la SNCF allait investir deux milliards d'euros par an pour qu'en 2010, les motrices n'aient pas plus de cinq ans d'ancienneté. Cet investissement est-il toujours à l'ordre du jour ?</p><p>Dans le plan de relance, a-t-on prévu des crédits pour rénover les infrastructures et renouveler le matériel ?</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325572",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Jacques Kossowski",
+        "intervenant_slug": "jacques-kossowski",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "59",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000140",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_d771dd910d97b91a56b59b6fb9b89f12",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325572/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Le plan de relance comporte plusieurs mesures qui concernent les transports publics, tant urbains que ferroviaires. Il s'agit, comme dans l'ensemble du plan, d'accélérer des opérations prêtes à être exécutées ; par nature, le plan de relance ne peut pas porter sur des investissements structurants, mais seulement sur ce qui peut se faire rapidement.</p><p>Quant aux matériels, la politique de la SNCF a toujours été de les garder longtemps, en les entretenant dans ses propres ateliers ; certains matériels étaient déjà en service il y a soixante ans et ne sont pas pour autant obsolètes, ayant été fortement rénovés. Au Japon au contraire, un matériel ferroviaire ne dure pas plus de dix ans. Sur le réseau TGV, le matériel le plus ancien date de la mise en service de la première ligne TGV, c'est-à-dire de 1981, et le processus de renouvellement conduit à prévoir l'achat de 200 rames &#8211; dans un avenir sans doute un peu moins rapproché du fait de la crise économique, laquelle conduit à une stagnation des trafics. En ce qui concerne le fret, un gros effort a été fait sur les matériels diesel. La rénovation des matériels a été plus lente en Ile-de-France, où les commandes de rames Transilien par la SNCF et la région se heurtent au planning de travail du constructeur Bombardier. Une accélération des livraisons serait nécessaire.</p><p>Le plan de relance a permis d'avancer les commandes d'automotrices du Transilien et de quelques rames TGV, mais l'industrie ferroviaire a déjà un cahier des charges énorme, du fait des commandes de tramways par de très nombreuses villes de France et d'Europe, des commandes en cours de la SNCF à Alstom pour le TGV et des besoins exprimés par un très grand nombre de pays à travers le monde, tels la Libye, l'Arabie saoudite, l'Inde ou la Chine. A la différence, donc, de l'industrie aéronautique, soumise à des à-coups, l'industrie ferroviaire française, européenne et mondiale a des perspectives assurées pour très longtemps &#8211; et qui, au-delà du matériel roulant, s'étendent aux caténaires, à la signalisation, ou encore à la « billetique ». Ainsi, l'usine Alstom située à côté de La Rochelle, que je connais bien, a un carnet de commandes de sept à huit ans ; et en Ile-de-France, le problème est la capacité de Bombardier à livrer les automotrices aussi vite qu'il le faudrait. Pour le moment donc, le secteur de la construction ferroviaire n'est pas affecté par la crise. Il pourrait cependant être affecté dans l'avenir par l'entrée des pays asiatiques sur le marché : les matériels ferroviaires japonais, coréens et chinois commencent à arriver en Europe.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325573",
+        "intervenant_fonction": "secrétaire d'état chargé des transports",
+        "intervenant_groupe": "",
+        "intervenant_nom": "Dominique Bussereau",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "461",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000150",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_7b83616c894d3ec87fa4b38b5c385f6d",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325573/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je voudrais revenir sur les accidents de personne et sur leurs conséquences parfois très préjudiciables pour les passagers, qui se trouvent en quelque sorte pris en otage pendant plusieurs heures. Lorsqu'en tant que maire j'ai été confronté, à deux reprises, à un suicide sur autoroute, du fait de la présence d'un péage à côté de ma commune, la chaussée a été dégagée pour éviter de bloquer la circulation. Peut-être pourrait-on faire de même en cas de suicide sur une voie ferrée, en faisant appel au maire &#8211; officier de police judiciaire &#8211; le plus proche, pour que le convoi puisse redémarrer, même à vitesse lente eu égard au traumatisme vécu par le chauffeur.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325574",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "François Brottes",
+        "intervenant_slug": "francois-brottes",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "124",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000160",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_9ba2e3ed5a84d4f11a1b01a04f584dd5",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325574/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Sur autoroute, l'existence de plusieurs files permet d'en réserver une au traitement de l'accident et de maintenir le trafic sur les autres ; en outre, il y a toujours des gendarmes et des agents de maintenance à proximité. Sur une voie ferrée unique, il est beaucoup plus difficile d'intervenir. De plus, outre le problème du changement de chauffeur, peut se poser celui de la  détérioration de la motrice ou des systèmes de sécurité &#8211; notamment dans les cas de suicide en moto ou en voiture sur un passage à niveau, qui représentent les deux tiers des accidents de passage à niveau. Enfin, le lieu où s'est produit l'accident peut être très difficile d'accès. Certes on peut essayer d'intervenir plus vite, mais la situation demeure plus difficile à gérer que sur le réseau routier.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325575",
+        "intervenant_fonction": "secrétaire d'état chargé des transports",
+        "intervenant_groupe": "",
+        "intervenant_nom": "Dominique Bussereau",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "141",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000170",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_8125c8c6edcaf6a1c6a3d151199fe0c5",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325575/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Merci pour la précision de vos réponses, monsieur le ministre. Et merci d'avoir accepté les propositions de nos rapporteurs. Nous vous transmettrons officiellement le rapport par un courrier qui partira dès demain matin, et nous chargerons MM. Kossowski et Bono de voir avec vous-même et votre cabinet le calendrier qui peut être établi pour la mise en oeuvre des mesures proposées. J'aimerais que nous puissions le connaître assez rapidement, dans un souci de lisibilité.</p><p>&#9674;</p><p>&#9674;     &#9674;</p><p>Puis la Commission a examiné, sur le rapport pour avis de M. Bernard Gérard, le projet de loi, adopté par le Sénat, favorisant la diffusion et la protection de la création sur Internet (n° 1240).</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325576",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Patrick Ollier",
+        "intervenant_slug": "patrick-ollier",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "125",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internet"
+          }
+        ],
+        "timestamp": "41000180",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_851258fc08dc2ffc5d98f26fa95a6353",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325576/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Après les différents travaux qui ont été menés au sein de notre commission sur Internet, notamment par MM. Jean Dionis du Séjour et François Brottes, il était opportun que nous nous saisissions pour avis du texte « Création sur Internet » dont je déplore qu'il fasse l'objet d'une procédure d'urgence. Ce texte, déjà adopté en première lecture au Sénat, apporte un certain nombre d'avancées en développant la réponse graduée et en créant une autorité indépendante. Avant de passer à l'examen des amendements, je tiens à indiquer d'emblée que plusieurs d'entre eux sont irrecevables au titre de l'article 40.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325577",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Patrick Ollier",
+        "intervenant_slug": "patrick-ollier",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "113",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internet"
+          }
+        ],
+        "timestamp": "41000190",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_d6cc1a32620facb23fce87ffdb754e26",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325577/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Comme vous le savez, le présent projet de loi a pour ambition de mieux réguler les extraordinaires opportunités d'accès aux oeuvres culturelles rendues possibles par Internet. Cette régulation doit être comprise et acceptée de tous. Le projet de loi a donc été précédé d'une concertation extrêmement poussée. Le président de la République a confié mi-2007 à M. Denis Olivennes, alors PDG de la FNAC, le soin d'animer une mission sur cette question des relations entre l'Internet et la création artistique. Cette mission a rendu son rapport à l'automne 2007 et préparé un accord historique entre les différentes parties intéressées. Signé le 23 novembre 2007 à l'Élysée, cet accord arrête un corpus d'engagements pris par 47 organisations professionnelles (fournisseurs d'accès, chaînes de télévision, représentants des ayants droits de l'audiovisuel, du cinéma et de la musique, etc.).</p><p>Le projet de loi constitue le volet préventif de cet accord et traduit l'engagement de tous les professionnels concernés de mieux favoriser l'accès aux oeuvres culturelles dans un cadre légal, mais aussi de mieux lutter en faveur d'une protection des droits attachés à ces oeuvres.</p><p>Ce texte est donc un signal positif et nécessaire envoyé aux utilisateurs d'Internet de la volonté publique de mieux réguler Internet.</p><p>Il doit être une réponse efficace dans le cadre de la révolution numérique que nous connaissons et que les pouvoirs publics ont décidé d'accompagner dans le cadre du plan numérique 2012. En effet, l'accès à tous au haut débit ne doit pas se traduire par une recrudescence du piratage. Aujourd'hui, la France compte 18 millions d'abonnés à Internet, dont près de 17 millions en haut débit. Avec un taux de pénétration du haut débit de 61 % des ménages, la France arrive en troisième position en Europe, à égalité avec le Royaume-Uni. Le plan numérique 2012 devrait encore amplifier cette bonne position puisqu'il prévoit l'accès de 100 % de la population au haut débit en 2012.</p><p>Cette révolution numérique entraîne de nombreuses évolutions dans les modes de communication bien sûr, mais aussi dans les modes de consommation et, enfin, dans certains modèles économiques. Les très bons chiffres du commerce en ligne ou « e-commerce » en témoignent avec une croissance de 29 % en 2008 pour un total de 20 milliards d'euros. Dans le domaine de la communication, les possibilités ouvertes par Internet permettent la création de nouveaux réseaux, et pas seulement chez les jeunes générations comme on le croit souvent.</p><p>Évidemment, ces nouveaux réseaux de communication ne servent pas qu'à échanger des photos de vacances ou des oeuvres légales. Le piratage est devenu un phénomène massif autant qu'inacceptable. On estime en effet que pour chaque fichier vendu légalement, 20 fichiers sont téléchargés illégalement sur le Net. Dans le domaine musical, le principal syndicat professionnel estime qu'un milliard de fichiers sont échangés illégalement pour 20 millions issus des plateformes légales. Les flux « peer to peer » représentent 80 % de l'ensemble des flux de communication numérique de l'Internet, dont une grande partie est liée au piratage.</p><p>C'est ce phénomène massif que le présent projet de loi va tenter de juguler par le biais de la « réponse graduée », qui consiste à sortir d'une logique uniquement pénale pour adopter une logique de sensibilisation progressive du contrevenant, à plus grande échelle.</p><p>Une nouvelle autorité administrative indépendante devra en effet envoyer un premier mèl d'avertissement en cas de piratage, puis un second mèl accompagné d'un courrier avec accusé de réception en cas de récidive. Ce n'est que dans un troisième temps que cette autorité administrative pourra prendre une sanction qui consiste soit en la coupure de l'accès à Internet, soit, lorsque cela sera possible, la limitation de l'accès à Internet, ou enfin l'injonction de prendre des mesures propres à prévenir un nouveau piratage.</p><p>Ce dispositif pédagogique, pragmatique, doit permettre d'apporter une réponse aux difficultés que connaît aujourd'hui la filière de l'industrie culturelle. En effet, le marché de la musique a enregistré une baisse de 50 % en 5 ans, avec une diminution de 30 % des effectifs des maisons de production, mais également la résiliation de nombreux contrats d'artistes et la diminution de 40 % du nombre de nouveaux artistes qui bénéficient d'un contrat. Aujourd'hui l'industrie culturelle se porte mal alors même que les salles de cinéma sont pleines et que les jeunes notamment écoutent énormément de musique. Les vidéoclubs, par exemple, pâtissent énormément de la situation actuelle. On ne peut donc pas laisser Internet tuer un secteur industriel et la création artistique. Faute de quoi, il n'y aurait bientôt plus rien à télécharger !</p><p>C'est à ce résultat que risque de conduire l'illusion de la gratuité des oeuvres culturelles que véhicule actuellement l'Internet : « tout, tout de suite et gratuitement ». Car c'est bien d'une illusion qu'il s'agit : les jeunes (et les moins jeunes) qui téléchargent gratuitement ne mesurent pas pour certains, aujourd'hui, les conséquences de leur acte pour eux-mêmes et pour les créateurs.</p><p>Cette illusion de la gratuité pose aussi la question de l'offre légale qui doit être un enjeu majeur du présent projet de loi. Si une musique ou un film ne se trouve pas légalement, il est presque inévitable qu'une personne intéressée aille le chercher sur des réseaux illégaux. Aujourd'hui, cette offre légale existe, soit qu'elle soit payante, soit qu'elle soit gratuite et financée par la publicité. Mais elle mérite d'être encore développée, encore soutenue. Pour ce faire, il était nécessaire de revenir sur la chronologie des médias : aujourd'hui, il existe un décalage temporel entre la possibilité de diffuser un film en salle, ou sur un support physique et par le biais de la VoD (« Video on Demand »). Ce décalage, probablement trop important (6 mois pour les DVD physiques et   semaines pour la VoD), ouvre un boulevard au téléchargement illégal.</p><p>Les professionnels ont largement eu le temps d'engager une concertation dans ce domaine et ne l'ont pourtant pas fait. En ce qui me concerne, je trouve anormal que le secteur n'ait absolument pas anticipé l'adoption de la loi. Je proposerai donc que celle-ci fixe un délai de trois ou quatre mois pour que soit engagée une démarche volontaire en la matière car comme nous l'avons dit le développement de l'offre légale est l'outil qui permettra les mutations de consommation des produits culturels. Un équilibre doit donc être trouvé. Nous devons agir pour le plein respect des droits d'auteur. Nous devons également assurer au consommateur l'existence d'une offre légale intéressante, abordable financièrement et accessible. J'ai été sensible aux arguments de certains interlocuteurs que j'ai rencontrés qui font preuve d'initiative en la matière, qu'il s'agisse de plateformes d'écoute financées par la publicité et qui rémunèrent les artistes ou encore d'offres d'abonnements forfaitaires proposés par des fournisseurs d'accès (FAI).</p><p>Plusieurs amendements de la Commission des lois répondent en outre opportunément aux questions qui m'ont été soumises. Ils garantissent notamment le caractère transparent de la procédure devant la Haute autorité pour la diffusion des oeuvres et la protection des droits sur Internet (HADOPI), et la garantie des droits pour le justiciable. Celui-ci pourra être informé de ce qu'on lui reproche, avoir accès à la liste des oeuvres frauduleusement téléchargées sur demande et pourra formuler des observations à l'HADOPI dès l'envoi du premier mail. En outre, une seule des sanctions prévues (coupure, limitation d'accès, ou installation d'un logiciel anti-piratage) pourra être imposée par l'HADOPI.</p><p>Dans l'ensemble, il s'agit donc d'un projet de loi qui adopte une démarche constructive et pragmatique. Il ne sera peut-être pas la panacée compte tenu de l'évolution très rapide de la technique. Mais il invite l'internaute à une conduite citoyenne et à une réflexion sur les modalités de la diffusion de la création sur Internet.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325578",
+        "intervenant_fonction": "rapporteur pour avis",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Bernard Gérard",
+        "intervenant_slug": "bernard-gerard",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "1417",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internaute"
+          },
+          {
+            "tag": "internet"
+          },
+          {
+            "tag": "débit"
+          },
+          {
+            "tag": "HADOPI"
+          }
+        ],
+        "timestamp": "41000200",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_c14b7ada7b10ccd0387c8beb067c3835",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325578/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>A titre personnel, j'aurais été en faveur d'une sévérité plus forte à l'encontre des fraudeurs qui mettent sur le réseau des oeuvres illégalement : le progrès ne doit en effet pas conduire à une ignorance de la loi. Je présenterai par ailleurs un amendement visant à pousser d'avantage le juge à intervenir pour faire fermer les sites illégaux via les fournisseurs d'accès.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325579",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Patrick Ollier",
+        "intervenant_slug": "patrick-ollier",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "67",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000210",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_c509400dc61ec6650c5595c30ebbcc7c",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325579/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'Internet constitue un sujet complexe et passionnel et le texte qui nous est présenté ne permettra pas de résoudre l'ensemble des questions qui se posent dans ce domaine. Plusieurs points majeurs sont en effet ignorés. Quid de la rémunération des droits d'auteurs à l'ère numérique ? Quel modèle économique propose-t-on ? A cet égard, le groupe socialiste aurait préféré que la ponction opérée sur les fournisseurs d'accès n'aille pas alimenter la suppression de la publicité mais finance plutôt la création. Le texte pose ensuite de nombreuses questions en termes de libertés publiques : quel sera le rôle exact de l'HADOPI ? Comment fonctionnera-t-elle et de quels moyens usera-t-elle pour tracer les internautes ? A cet égard, un certain nombre d'interrogations sur l'efficacité des dispositions envisagées vont nécessairement se faire jour en raison des progrès techniques extrêmement rapides qui sont constatés dans ce domaine. Comment les fraudeurs pourront-ils être repérés quand ils agissent par le biais de points d'accès Wi-Fi collectifs ? Enfin, quel point d'équilibre sera trouvé entre le respect des droits d'auteurs et le respect de la liberté des internautes, qu'il convient de ne pas opposer. Et comment développer une offre légale suffisamment attractive pour la grande majorité des personnes qui aujourd'hui téléchargent illégalement ?</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325580",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Corinne Erhel",
+        "intervenant_slug": "corinne-erhel",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "231",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internaute"
+          },
+          {
+            "tag": "internet"
+          },
+          {
+            "tag": "HADOPI"
+          }
+        ],
+        "timestamp": "41000220",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_d956742c797900872106a34523d7644f",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325580/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Ce texte témoigne d'une bonne intention qui est d'éviter que, dans l'esprit des plus jeunes, tout ce qui est sur Internet soit considéré comme gratuit et échappe au respect de la loi et de la liberté d'autrui. Il ne faut cependant pas oublier que ce projet de loi fait suite à l'adoption, il y a deux ans, de la loi « DADVSI » (droits d'auteur et droits voisins dans la société de l'information) qui était elle-même la traduction d'une directive communautaire déjà ancienne. Or, l'objectif de ce texte était de mettre en place des barrières techniques appelées « digital right management » qui se sont avérées in fine aisément contournables. Il convient donc aujourd'hui avant tout de mener une réflexion approfondie sur Internet et sur la liberté que ce média apporte, liberté dont il faut prendre la mesure. A cet égard, l'addition de sanctions pour contrefaçons ou le cumul d'amendes n'apparaît comme une réponse satisfaisante. Rappelons que, dans le cadre du recours déposé devant lui sur le texte « DADVSI », le Conseil constitutionnel avait jugé inconstitutionnelles la réponse graduée. C'est pourquoi, avant de prendre toute nouvelle disposition, il fraudait d'abord revenir sur ce qui avait été mise en oeuvre dans le cadre de la loi DADVSI. Ensuite, l'État ne doit pas apparaître uniquement comme une puissance qui sanctionne. Une grande prudence est donc de mise : la réponse graduée doit être encadrée, les droits de la défense doivent être respectés et l'intervention d'un organe judiciaire est nécessaire. Quant à l'aspect « création » du texte, il doit être étoffé en prévoyant notamment un financement par les fournisseurs d'accès. Il n'est en effet pas normal que ce soit uniquement l'internaute qui paie, alors même que parfois, par exemple dans le cadre du « streaming », il n'est même pas conscient qu'il effectue un téléchargement.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325581",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Alain Suguenot",
+        "intervenant_slug": "alain-suguenot",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "327",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internaute"
+          },
+          {
+            "tag": "internet"
+          }
+        ],
+        "timestamp": "41000230",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_5318d9ead77ed36e6b24cdb813d48892",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325581/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Plusieurs points de ce texte me gênent et notamment la mise en place d'une autorité administrative, l'HADOPI, qui se substituerait à une intervention de l'autorité judiciaire et s'accompagnerait d'un renversement de la charge de la preuve. Par ailleurs, d'un point de vue technique, plusieurs questions se posent : dans les zones dégroupées, qui représentent encore 25 % du territoire, comment couper l'accès à Internet sans couper également l'accès au téléphone et à la télévision ? De même, de plus en plus d'internautes &#8211; ils représentent 35 % des abonnés chez Free &#8211; ont des adresses IP dynamiques : comment réussir à les identifier à coup sûr ? Enfin, quel sera le coût du dispositif ? Le gouvernement avance la somme de 6,7 millions d'euros mais d'aucuns prétendent que l'on pourrait atteindre les 31 millions d'euros : n'est-ce pas un peu exagéré par rapport au coût de la fraude ?</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325582",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Lionel Tardy",
+        "intervenant_slug": "lionel-tardy",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "150",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internaute"
+          },
+          {
+            "tag": "internet"
+          },
+          {
+            "tag": "HADOPI"
+          }
+        ],
+        "timestamp": "41000240",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_7a072136b0d246bf35a753b2e49852d7",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325582/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>J'ai rencontré un grand nombre d'intervenants de ce secteur, ce qui me conduit à penser que la plupart des questions soulevées par les députés présents sont réglées. En toute hypothèse, ce texte doit libérer les tribunaux de nombreuses procédures lourdes et longues pour les concentrer sur la lutte contre le grand piratage. Le but profond de ce projet de loi est de faire en sorte que la création soit respectée et de développer le dialogue entre la HADOPI et les internautes. Il faut comprendre qu'en diminuant le téléchargement illégal, on va libérer de l'espace qui apportera des moyens financiers aux fournisseurs d'accès internet.</p><p>La Commission est passée ensuite à l'examen des articles.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325583",
+        "intervenant_fonction": "rapporteur pour avis",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Bernard Gérard",
+        "intervenant_slug": "bernard-gerard",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "132",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internaute"
+          },
+          {
+            "tag": "internet"
+          },
+          {
+            "tag": "dialogue"
+          },
+          {
+            "tag": "HADOPI"
+          }
+        ],
+        "timestamp": "41000250",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_c2086957293f83fd91a28d1bfad4b07a",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325583/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Avant l'article 1er</p><p>Trois amendements avant l'article premier ont été déclarés irrecevables.</p><p>Article 1er (art. L. 331-5 à L. 331-22 du code de la propriété intellectuelle) : Coordinations et renumérotations d'articles du code de la propriété intellectuelle</p><p>La Commission a donné un avis favorable à l'adoption de cet article sans modification.</p><p>Article 1er bis (nouveau) (Intitulé du titre III du livre III du code de la propriété intellectuelle) : Affichage de la dimension préventive des procédures mises en place </p><p>La Commission a donné un avis favorable à l'adoption de cet article sans modification.</p><p>Avant l'article 2 :</p><p>La Commission rejette un amendement présenté par Mme Corinne Erhel ayant pour objet de soumettre les nouveaux services d'enregistrement en ligne dématérialisés au versement d'une rémunération proportionnelle au profit des ayants droit, après une intervention de M. François Brottes et le rapporteur ayant émis un avis défavorable, jugeant que cette extension aurait un impact négatif sur plusieurs secteurs de l'économie.</p><p>La Commission rejette  un amendement de Mme Corinne Erhel prévoyant qu'aucune restriction aux droits fondamentaux des utilisateurs de service de communication au public en ligne ne peut être imposée sans décision préalable des autorités judiciaires, le rapporteur ayant estimé que les garanties nécessaires étaient respectées par le projet de loi.</p><p>Article 2 (art. L. 331-12 à L. 331-22, art. L. 331-23 à L. 331-36 [nouveaux] du code de la propriété intellectuelle) : Institution d'une Haute Autorité pour la diffusion des oeuvres et la protection des droits sur internet </p><p>La Commission a rejeté un amendement de suppression présenté par Mme Corinne Erhel, puis adopté un amendement du rapporteur précisant que la Haute autorité pour la diffusion des oeuvres et la protection des droits sur internet a la nature d'autorité publique indépendante. Elle a rejeté un amendement de Mme Corinne Erhel prévoyant que le droit à un procès équitable doit être respecté en toutes circonstances par la Haute autorité. M. Lionel Tardy s'est déclaré favorable à cet amendement, auquel le rapporteur s'est déclaré défavorable, estimant que la majorité des litiges seront réglés par les premières procédures.</p><p>La Commission a également rejeté un amendement de Mme Corinne Erhel, demandant notamment que les conditions de circulation des programmes soient fluidifiées.</p><p>La Commission a adopté, sur avis favorable du rapporteur, un amendement de M. Lionel Tardy prévoyant de rendre facultatif l'avis demandé par le Gouvernement à la HADOPI sur les projets de lois et de décrets relatifs à la protection des droits de propriété littéraire et artistique. Elle a rejeté un amendement de Mme Corinne Erhel demandant une évaluation de la loi du 1er août 2006 relative au droit d'auteur et aux droits voisins dans la société de l'information. M. Alain Suguenot avait souligné l'intérêt de cet amendement, auquel le rapporteur s'est déclaré défavorable, ayant fait valoir que le Gouvernement doit déposer un tel rapport d'évaluation avant la fin de cette année.</p><p>La Commission a ensuite examiné un amendement de Mme Corinne Erhel demandant que le texte précise que siègent au collège de la HADOPI deux représentants des internautes. M. François Brottes a fait valoir que de telles dispositions avaient été retenues dans des textes créant de hautes autorités.</p><p>Après les interventions du président Patrick Ollier et de M. Antoine Herth soulignant l'intérêt de prévoir explicitement une participation des utilisateurs, la commission a adopté un amendement rectifié de Mme Corinne Erhel, disposant qu'au moins un représentant des utilisateurs des réseaux de communication en ligne siégerait au collège de la HADOPI.</p><p>La Commission a ensuite rejeté un amendement de Mme Corinne Erhel, prévoyant un délai non plus de trois, mais de cinq ans entre l'exercice de certaines fonctions dans l'industrie de la musique et la présence au sein de la HADOPI.</p><p>La Commission a examiné un amendement de Mme Corinne Erhel indiquant que chaque membre de la Haute autorité fait une déclaration d'intérêts au moment de sa désignation.</p><p>Après les interventions du président Patrick Ollier et de M. François Brottes, la commission a adopté l'amendement de Mme Corinne Erhel rectifié, faisant référence à une « déclaration visant à éviter tout conflit d'intérêts ».</p><p>Elle a ensuite rejeté, sur avis défavorable du rapporteur, deux amendements de Mme Corinne Erhel, prévoyant pour l'un que les rapporteurs chargés de l'instruction des dossiers ne peuvent participer au délibéré des recommandations ou décisions qu'ils préparent et prévoyant, pour l'autre, de supprimer certains des pouvoirs reconnus par le projet de loi aux membres de la commission de la protection des droits et aux agents assermentés de la HADOPI.</p><p>La Commission a rejeté un amendement de M. Lionel Tardy prévoyant l'intervention de l'autorité judiciaire pour l'accès aux données personnelles des internautes. M. Alain Suguenot s'est déclaré favorable à cet amendement, le rapporteur s'y opposant, estimant qu'il réintroduisait une démarche pénale, alors que le projet de loi s'inscrit dans un esprit de prévention.</p><p>La Commission a rejeté un amendement de Mme Corinne Erhel, prévoyant d'exclure explicitement la possibilité d'un cumul d'une sanction administrative et d'une sanction pénale ainsi qu'un amendement de M. Jean-Pierre Decool précisant que la commission de protection des droits doit respecter scrupuleusement la procédure contradictoire.</p><p>La Commission a ensuite examiné un amendement de Mme Corinne Erhel disposant que les faits pouvant être incriminés doivent être graves, précis et concordants et démontrer l'intervention fautive de l'abonné. M. Alain Suguenot a estimé  que, se trouvant dans un champ de compétence du juge judiciaire, l'on devait effectivement démontrer l'intervention fautive. Le rapporteur s'est en revanche déclaré défavorable à cet amendement, estimant que l'on était sur un simple « terrain » administratif. La Commission a rejeté l'amendement.</p><p>La Commission examine un amendement de Mme Corinne Erhel prévoyant qu'aucune sanction ne peut être prise en l'absence de l'existence d'une offre légale, la HADOPI appréciant l'existence, l'accessibilité et le contenu de cette offre.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325584",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "1090",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000260",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_9c18996fe70455920d9d83768010353f",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325584/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'intention est bonne, mais il est techniquement impossible de vérifier l'existence de cette offre dans l'immensité de la toile.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325585",
+        "intervenant_fonction": "rapporteur pour avis",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Bernard Gérard",
+        "intervenant_slug": "bernard-gerard",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "22",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000270",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_c471c77636bac5b223618430c9bc40f7",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325585/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>En outre, l'amendement n'aborde pas la question de la chronologie dans la mise en oeuvre des différents médias, par exemple la sortie d'un film au cinéma, avant sa parution en VoD puis en DVD.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325586",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Lionel Tardy",
+        "intervenant_slug": "lionel-tardy",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "39",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000280",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_32e53c87a5dc82ad8d6a48714fa6de38",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325586/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'amendement est retiré.</p><p>La Commission adopte un amendement défendu par M. Jean-Pierre Decool recommandant la mise en oeuvre d'un moyen de sécurisation dès le départ, afin d'éviter des sanctions. A la demande du rapporteur, cet amendement est rectifié en vue de tenir compte de l'information qui a pu déjà être donnée par les fournisseurs d'accès à internet sur la mise en oeuvre de moyens de sécurisation. Répondant à Mme Corinne Erhel, le rapporteur précise que c'est normalement à la personne qui se voit appliquer cette mesure de payer les moyens de sécurisation.</p><p>Le rapporteur ayant fait part de ses réserves, un amendement de M. Jean-Pierre Decool prévoyant la mise en place d'une charte dont le contenu, fixé par décret, indiquerait clairement les droits et obligations des abonnés, est retiré.</p><p>La Commission adopte un amendement de Mme Corinne Erhel prévoyant que la recommandation est accompagnée d'une lettre remise contre signature ou de tout autre moyen propre à établir la preuve de la date d'envoi de cette recommandation et celle de sa réception par l'abonné.</p><p>Puis la Commission adopte quatre sous-amendements du rapporteur à l'amendement n° 52 présenté par M. Franck Riester, rapporteur au nom de la commission des lois, prévoyant que :</p><p>&#8211; la recommandation précise l'heure et la date auxquelles les faits susceptibles de constituer un manquement ont été constatés ainsi que le contenu d'au moins une oeuvre ayant fait l'objet du manquement, permettant ainsi au destinataire de la recommandation d'adresser des observations à la commission de protection des droits.</p><p>&#8211; les manquements signalés par la HADOPI lors des deux premiers envois sous forme électronique ne sont que présumés.</p><p>&#8211; le principe du contradictoire dans le cadre de la procédure diligentée devant la HADOPI soit bien respecté.</p><p>La Commission rejette ensuite un amendement de Mme Corinne Erhel supprimant l'obligation de secret qui prive les abonnés de toute possibilité de défense, le rapporteur indiquant qu'il était satisfait par les sous-amendements précédents.</p><p>Elle rejette également un autre amendement du même auteur harmonisant les régimes de la première et de la seconde recommandation, pour viser dans les deux cas les « faits constituant un manquement ». Le rapporteur a indiqué que l'amendement de la commission des lois rendait celui-ci sans objet et qu'il allait contre la volonté de favoriser le dialogue entre la HADOPI et les intervenants.</p><p>La Commission adopte un amendement du même auteur précisant que la seconde recommandation doit être obligatoirement accompagnée d'une lettre remise contre signature ou de tout autre moyen propre à établir la preuve de la date d'envoi de cette recommandation et celle de sa réception par l'abonné.</p><p>La Commission adopte un amendement de M. Jean-Pierre Decool prévoyant le rappel à l'abonné de la possibilité de se faire assister par un conseil de son choix, MM. François Brottes et Alain Suguenot ayant souligné que ce conseil ne serait pas nécessairement un avocat.</p><p>La Commission examine un amendement du même auteur précisant qu'aucune sanction ne peut être prononcée avant que la commission ait répondu aux observations de l'intéressé. Le rapporteur ayant indiqué que cet amendement était satisfait puisque la HADOPI constitue un tribunal au sens de l'article 6 de la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales, cet amendement est retiré.</p><p>Mme Corinne Erhel présente un amendement prévoyant que s'il estime qu'une recommandation adressée en vertu du présent article lui a été signifiée à tort, l'abonné, justifiant de son identité, peut en contester par courrier le bien-fondé auprès de la HADOPI, qui devra justifier sous trente jours l'envoi de cette recommandation, sous peine de nullité.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325587",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Corinne Erhel",
+        "intervenant_slug": "corinne-erhel",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "657",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internet"
+          },
+          {
+            "tag": "dialogue"
+          },
+          {
+            "tag": "HADOPI"
+          }
+        ],
+        "timestamp": "41000290",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_23b32f25d5cc4cd9b98a110ced03532e",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325587/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cet amendement est trop rigide et risque ainsi de scléroser la procédure. Le délai de trente jours sera parfois trop court, parfois trop long. Il s'agit de préserver une certaine souplesse.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325588",
+        "intervenant_fonction": "rapporteur pour avis",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Bernard Gérard",
+        "intervenant_slug": "bernard-gerard",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "37",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000300",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_e8d7febe895066e1aea3f5efc9b54c8e",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325588/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'amendement prévoit également la possibilité pour la victime d'une erreur de la signaler et de faire ainsi valoir ses droits.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325589",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "François Brottes",
+        "intervenant_slug": "francois-brottes",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "23",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000310",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_b82fe03cd43ac7b3d86b2ea69d61ad64",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325589/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cette exigence sera satisfaite par le dialogue entre la HADOPI et les internautes : il existera à chaque étape de la procédure !</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325590",
+        "intervenant_fonction": "rapporteur pour avis",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Bernard Gérard",
+        "intervenant_slug": "bernard-gerard",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "23",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internaute"
+          },
+          {
+            "tag": "dialogue"
+          },
+          {
+            "tag": "HADOPI"
+          }
+        ],
+        "timestamp": "41000320",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_104fcb43404d3ded3b966cf9fb65bd5a",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325590/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Il est gênant de ne pas avoir de contrainte de temps alors que la sanction ultime sera la coupure de la connexion internet.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325591",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Lionel Tardy",
+        "intervenant_slug": "lionel-tardy",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "26",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internet"
+          }
+        ],
+        "timestamp": "41000330",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_7da6753973cbde35ac60d7fbe23769d5",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325591/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Il  faut rappeler que la coupure de la connexion n'est pas automatique : un dialogue s'instaurera préalablement, chacun fera valoir ses arguments et son point de vue, une transaction sera possible&#8230;</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325592",
+        "intervenant_fonction": "rapporteur pour avis",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Bernard Gérard",
+        "intervenant_slug": "bernard-gerard",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "33",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "dialogue"
+          }
+        ],
+        "timestamp": "41000340",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_230c2a8cc85d175c937af9d400d5a229",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325592/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Comment la HADOPI pourra-t-elle gérer 300 000 recommandations par mois ? L'instauration d'un délai de 30 jours est nécessaire car il obligerait la HADOPI à observer une certaine célérité.</p><p>Suivant l'avis défavorable du rapporteur, la Commission rejette l'amendement.</p><p>La Commission examine un amendement de Mme Corinne Erhel visant à ce que la Haute Autorité soit tenue de préciser l'ensemble des oeuvres dont l'utilisation illicite a été constatée en cas de contestation d'une recommandation de la part de l'abonné.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325593",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Corinne Erhel",
+        "intervenant_slug": "corinne-erhel",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "86",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "HADOPI"
+          }
+        ],
+        "timestamp": "41000350",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_9983a43579a268f59501b4f72bbc6dfe",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325593/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je suis défavorable à cet amendement, qui me paraît satisfait par un de ceux que nous avons précédemment adoptés, et qui précise que, en cas de contestation d'une recommandation par un abonné, au moins l'une des oeuvres doit être mentionnée. C'est un équilibre entre le pouvoir d'investigation de la HADOPI et le respect de la vie privée des internautes.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325594",
+        "intervenant_fonction": "rapporteur pour avis",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Bernard Gérard",
+        "intervenant_slug": "bernard-gerard",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "68",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internaute"
+          },
+          {
+            "tag": "HADOPI"
+          }
+        ],
+        "timestamp": "41000360",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_6c8c182a548e37c4c590dbf20c2a1611",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325594/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>On peut en effet supposer que si un abonné fait l'objet d'une recommandation visant 50 téléchargements illégaux, s'il est en mesure d'apporter la preuve qu'il y a erreur pour quarante-neuf d'entre eux, il bénéficiera d'une présomption favorable pour celle des oeuvres qui ne lui a pas été notifiée. Mais pourquoi avoir retenu cette formule évoquant au moins une oeuvre, et ne pas avoir obligé la Haute Autorité à mentionner la totalité des contenus litigieux ?</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325595",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Alain Suguenot",
+        "intervenant_slug": "alain-suguenot",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "81",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000370",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_524b920ad315faa76a45ccd6dd81d53b",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325595/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Divulguer l'intégralité des oeuvres ayant été illégalement téléchargées est inutile. La procédure étant engagée à partir du moment où une constatation est effectuée, il est sage de laisser la HADOPI choisir l'oeuvre téléchargée.</p><p>L'amendement est rejeté.</p><p>Puis la Commission, suivant l'avis défavorable de son rapporteur, rejette un amendement de Mme Corinne Erhel visant à supprimer les sanctions prévues par le projet de loi en cas de téléchargement illégal. L'efficacité de la HADOPI justifie de la doter d'un pouvoir de sanction effectif.</p><p>La Commission rejette ensuite un amendement de M. Jean-Pierre Decool visant à subordonner la mise en oeuvre des sanctions prévues par le texte à la notification de deux recommandations de la commission de protection des droits au lieu d'une seule.</p><p>Elle examine ensuite un amendement de Mme Corinne Erhel visant à subordonner la mise en oeuvre de ces sanctions à la notification de trois recommandations de la commission de protection des droits.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325596",
+        "intervenant_fonction": "rapporteur pour avis",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Bernard Gérard",
+        "intervenant_slug": "bernard-gerard",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "174",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "HADOPI"
+          }
+        ],
+        "timestamp": "41000380",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_4009c3bcf684f0b92564bf04fd1fa15f",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325596/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Les chiffres mis en avant par le projet de loi soulignent que 90 % des internautes renoncent au téléchargement illégal à la réception d'un troisième message d'avertissement. Nous proposons donc que les sanctions prévues par le texte soient appliquées à partir de la troisième recommandation, et non dès la première, ce qui leur conférerait ainsi un caractère plus pédagogique.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325597",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Corinne Erhel",
+        "intervenant_slug": "corinne-erhel",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "70",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internaute"
+          }
+        ],
+        "timestamp": "41000390",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_681f7642731de5854bd42927538bac9f",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325597/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je suis défavorable à votre amendement, car le projet de loi ne prévoit la sanction que de manière ultime, après l'envoi d'au moins deux recommandations ; il ne me paraît donc pas opportun de les multiplier.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325598",
+        "intervenant_fonction": "rapporteur pour avis",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Bernard Gérard",
+        "intervenant_slug": "bernard-gerard",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "41",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000400",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_6c3835526efa3d9102b8f9b2e0e3eb3b",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325598/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Lorsqu'un salarié pratique le télétravail, mais fait l'objet d'une suspension de sa connexion en raison de téléchargements illégaux effectués à titre privé, que se passe-t-il ? Sera-t-il privé de son outil de travail ?</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325599",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "François Brottes",
+        "intervenant_slug": "francois-brottes",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "39",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000410",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_69efd46cc8c6d98860a2c089dae8052a",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325599/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La difficulté que vous soulevez est traitée dans l'un de mes amendements, que nous allons examiner ultérieurement.</p><p>La Commission rejette cet amendement, ainsi qu'un amendement de Mme Corinne Erhel visant à confier le pouvoir de sanction à l'autorité judiciaire.</p><p>Puis la Commission examine un amendement de M. Lionel Tardy poursuivant le même objet.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325600",
+        "intervenant_fonction": "rapporteur pour avis",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Bernard Gérard",
+        "intervenant_slug": "bernard-gerard",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "60",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000420",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_b7f4b072b47bb397ddff114cae986e19",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325600/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cet amendement rouvre un débat que nous avons eu précédemment et qui concerne la nécessité de prendre en compte un élément intentionnel dans la définition de la pratique susceptible d'être sanctionnée, or seul le recours à l'autorité judiciaire est de nature à apporter une telle garantie.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325601",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Alain Suguenot",
+        "intervenant_slug": "alain-suguenot",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "54",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000430",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_fa6f6ace19e0e2e96637a2898aa1c68d",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325601/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je suis défavorable à votre amendement. On ne situe pas sur le terrain judiciaire, mais administratif.</p><p>La Commission adopte cet amendement.</p><p>Elle adopte également, avec l'avis favorable du rapporteur, un amendement de Mme Corinne Erhel visant à supprimer le cumul des sanctions dont le principe a été introduit par le Sénat mais qui n'existait pas dans le texte initial.</p><p>Elle examine ensuite un amendement de M. Lionel Tardy visant à remplacer, au titre des sanctions des téléchargements illégaux, la suspension de l'accès internet par une amende.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325602",
+        "intervenant_fonction": "rapporteur pour avis",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Bernard Gérard",
+        "intervenant_slug": "bernard-gerard",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "97",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internet"
+          }
+        ],
+        "timestamp": "41000440",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_cfd28df1292d2ee80ce95610269cacb2",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325602/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Une sanction reposant sur la suspension de l'accès internet va poser des problèmes techniques insurmontables, notamment pour les offres composites en zones non dégroupées. Mieux vaut appliquer une amende, aussi dissuasive et plus facile à appliquer.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325603",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Lionel Tardy",
+        "intervenant_slug": "lionel-tardy",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "41",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internet"
+          }
+        ],
+        "timestamp": "41000450",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_362e093a4740bf431af79ddf855de50f",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325603/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Une amende serait trop discriminante et revêt un caractère punitif qui ne correspond pas à la philosophie du texte, davantage axé sur la prévention et la dissuasion. Cette option n'a donc pas été retenue par le projet de loi.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325604",
+        "intervenant_fonction": "rapporteur pour avis",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Bernard Gérard",
+        "intervenant_slug": "bernard-gerard",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "43",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000460",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_a8b367eb94b3a78ce1cc9a410da70b47",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325604/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Le choix d'une sanction par la perception d'une amende présente l'avantage que celle-ci constitue une contravention, et permet donc la prise en compte de l'élément intentionnel dans la qualification de la pratique litigieuse.</p><p>La Commission adopte l'amendement.</p><p>Puis la Commission examine un amendement de M. Lionel Tardy  visant à supprimer la disposition en vertu de laquelle la Haute Autorité pourrait mettre en oeuvre une réduction du débit de l'internaute indélicat.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325605",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Alain Suguenot",
+        "intervenant_slug": "alain-suguenot",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "81",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internaute"
+          },
+          {
+            "tag": "débit"
+          }
+        ],
+        "timestamp": "41000470",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_523bbdd64f65eea87c8394a15ef3127e",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325605/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Introduite par le Sénat, la possibilité de réduire le débit est impossible à mettre en oeuvre. En cas d'offre composite, le haut débit est indispensable pour recevoir correctement la télévision et le téléphone : réduire ce débit aboutit à priver l'internaute de télévision !</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325606",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Lionel Tardy",
+        "intervenant_slug": "lionel-tardy",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "54",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internaute"
+          },
+          {
+            "tag": "débit"
+          }
+        ],
+        "timestamp": "41000480",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_b72210fed51c92512dc0c5aa08570fab",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325606/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je suis défavorable à votre amendement. Cette sanction constitue un moyen terme avant la suspension pure et simple de l'accès à internet : elle permet donc à l'internaute de mieux appréhender la sanction et à la Haute Autorité de procéder de manière graduée.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325607",
+        "intervenant_fonction": "rapporteur pour avis",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Bernard Gérard",
+        "intervenant_slug": "bernard-gerard",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "46",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internaute"
+          },
+          {
+            "tag": "internet"
+          }
+        ],
+        "timestamp": "41000490",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_550e4897b7574728390380122dd8fcd2",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325607/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>M. Tardy, votre amendement est inacceptable.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325608",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Patrick Ollier",
+        "intervenant_slug": "patrick-ollier",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "8",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000500",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_bf9844b5b25550ecb2dcbaa42eba3777",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325608/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>On m'a donné des assurances que l'objectif poursuivi par le texte était de réduire l'accès à internet, mais pas d'aller au-delà. Or, en cas d'offre « triple play », nous n'avons tout simplement pas les moyens techniques de cibler la sanction sur le seul accès internet.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325609",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Lionel Tardy",
+        "intervenant_slug": "lionel-tardy",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "48",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internet"
+          }
+        ],
+        "timestamp": "41000510",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_6768d271776259c832918387dc519d6a",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325609/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Si nous n'adoptions pas cet amendement, la HADOPI risquerait d'être mort-née ! En effet, si le Parlement européen définit, dans le cadre du paquet télécom, le service universel comme incluant internet, l'Autorité sera alors dépourvue de tout moyen d'action.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325610",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Alain Suguenot",
+        "intervenant_slug": "alain-suguenot",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "47",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internet"
+          },
+          {
+            "tag": "HADOPI"
+          }
+        ],
+        "timestamp": "41000520",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_bdd8ee7d1b313cc4ed50dfefcce4dd03",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325610/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Chers collègues, lisons le texte du projet de loi ! Celui-ci subordonne la mise en oeuvre de ses mesures  à « l'état de l'art ». Le Gouvernement a prévu  l'évolution future des technologies. Cette mesure pourra donc être mise en oeuvre quand l'état de l'art le permettra, c'est-à-dire quand il sera possible de réduire le débit sans incidence sur l'accès à la télévision ou au téléphone. Je vous demande donc de retirer votre amendement.</p><p>L'amendement est retiré.</p><p>La Commission examine un amendement de Mme Corinne Erhel limitant à quinze jours au maximum la durée pendant laquelle la limitation des services ou de l'accès à ces services peut être imposée.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325611",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Patrick Ollier",
+        "intervenant_slug": "patrick-ollier",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "124",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "débit"
+          }
+        ],
+        "timestamp": "41000530",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_640d38ef2dbeaf567739819fbe012cbe",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325611/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'absence de délai limitant dans le temps l'application de cette sanction soulève quand même quelques difficultés. On ne peut priver indéfiniment un internaute de l'accès à sa messagerie !</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325612",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Corinne Erhel",
+        "intervenant_slug": "corinne-erhel",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "35",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internaute"
+          }
+        ],
+        "timestamp": "41000540",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_8101b9307f368200f1825ebebeabc41e",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325612/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'un de mes amendements, que nous nous apprêtons à examiner, permet précisément de régler ce problème. L'amendement est donc retiré.</p><p>La Commission examine alors un amendement de son rapporteur précisant qu'une telle limitation intervient pendant une durée de deux mois à un an.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325613",
+        "intervenant_fonction": "rapporteur pour avis",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Bernard Gérard",
+        "intervenant_slug": "bernard-gerard",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "52",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000550",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_14f4387a889143b400b15fba8008013e",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325613/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cet amendement fixe la durée de limitation de l'accès aux services internet entre deux mois et un an, ce qui correspond à la durée prévue par le texte s'agissant de la suspension de l'accès à internet.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325614",
+        "intervenant_fonction": "rapporteur pour avis",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Bernard Gérard",
+        "intervenant_slug": "bernard-gerard",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "41",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internet"
+          }
+        ],
+        "timestamp": "41000560",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_4af04913b5c4749257ca6df2bb7e3109",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325614/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cette limitation soulève tout de même d'autres difficultés. Si l'internaute dispose d'un débit de 512 Ko, la limitation du débit aboutit à le priver également de télévision et de téléphone, dans le cas d'une offre « triple play ».</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325615",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Corinne Erhel",
+        "intervenant_slug": "corinne-erhel",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "46",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internaute"
+          },
+          {
+            "tag": "débit"
+          }
+        ],
+        "timestamp": "41000570",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_6e00355facae7c130bf551213fbf3985",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325615/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>On introduit une discrimination entre les villes et les campagnes.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325616",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Alain Suguenot",
+        "intervenant_slug": "alain-suguenot",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "12",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000580",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_f0989816bab1ba17b6a5c081dffd4475",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325616/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Avec une connexion de 2 Mo, la limitation du débit sera sans incidence sur l'accès au téléphone et à la télévision. Mais pas avec une connexion de 512 Ko. Or le territoire n'est pas intégralement couvert par le haut débit, et bien souvent dans les campagnes, vous n'avez accès qu'au 512 Ko. Il y a là une rupture d'égalité flagrante !</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325617",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Corinne Erhel",
+        "intervenant_slug": "corinne-erhel",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "68",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "débit"
+          }
+        ],
+        "timestamp": "41000590",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_aa528c27e61575fc00a37b4bcb192839",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325617/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>M. le Rapporteur me fait très justement observer qu'une fois encore, l'application de ces mesures est subordonnée à « l'état de l'art ».</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325618",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Patrick Ollier",
+        "intervenant_slug": "patrick-ollier",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "25",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000600",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_fad85041482e711618ce5c93e8c3217c",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325618/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Mais la couverture numérique du territoire en haut débit n'est pas achevée, sans parler de la fibre optique !</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325619",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Corinne Erhel",
+        "intervenant_slug": "corinne-erhel",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "23",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "débit"
+          }
+        ],
+        "timestamp": "41000610",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_492292c2486956c3fdebba453a5a1bc3",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325619/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je le sais parfaitement. Seul un tiers du territoire de ma commune de Rueil-Malmaison est couvert par le très haut débit. Ces mesures s'y appliqueront, et pas sur le reste du territoire, qui n'a pas accès au très haut débit.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325620",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Patrick Ollier",
+        "intervenant_slug": "patrick-ollier",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "47",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "débit"
+          }
+        ],
+        "timestamp": "41000620",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_02d9bfe6f5002cba749ca113eb2ae187",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325620/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Si l'on souhaite assurer à la HADOPI une certaine longévité, il faut à tout prix éviter une censure du juge constitutionnel et voter cet amendement. En effet, il est clairement porté atteinte au principe d'égalité des citoyens.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325621",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Alain Suguenot",
+        "intervenant_slug": "alain-suguenot",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "39",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "HADOPI"
+          }
+        ],
+        "timestamp": "41000630",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_40ddb4f48a3592636f126fb8a2218fa0",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325621/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Tout cela n'est pas acceptable. Quand on évoque « l'état de l'art », on fait allusion à ce qu'on sait faire ou pas. Il est question ici de quelque chose que l'on peut faire ou ne pas faire selon la zone du territoire sur laquelle on se trouve.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325622",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "François Brottes",
+        "intervenant_slug": "francois-brottes",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "48",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000640",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_e16f73ef1cf6eb6f01dca831580ac4fc",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325622/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je tiens à préciser que la HADOPI dispose d'une réelle marge de manoeuvre puisqu'elle peut également recourir à des mesures de transaction.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325623",
+        "intervenant_fonction": "rapporteur pour avis",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Bernard Gérard",
+        "intervenant_slug": "bernard-gerard",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "24",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "HADOPI"
+          }
+        ],
+        "timestamp": "41000650",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_c1345a7c3d25c1931c0447aaba497907",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325623/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>On ne porte atteinte au principe d'égalité que si l'on traite différemment des situations identiques. Or les conditions en divers points du territoire ne sont pas identiques.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325624",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Patrick Ollier",
+        "intervenant_slug": "patrick-ollier",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "31",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000660",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_b67a5f6f20fb4cd303c19591cb98426e",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325624/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Ce débat est très intéressant, car il montre que cette loi ne pourra être effective qu'à condition que tout le territoire soit couvert par le haut débit, ce qui constituait d'ailleurs l'objectif de certains de nos amendements, qui ont été rejetés.</p><p>La Commission rejette l'amendement de Mme Corinne Erhel, et adopte l'amendement de son rapporteur.</p><p>La Commission adopte ensuite, suivant l'avis favorable du rapporteur, un amendement de M. Bernard Gérard, visant à soumettre aux mêmes sanctions les télétravailleurs et les entreprises dont la connexion a été utilisée à des fins illégales.</p><p>Puis la commission examine un amendement de Mme Corinne Erhel, visant à supprimer l'alinéa 79 de l'article 2.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325625",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Corinne Erhel",
+        "intervenant_slug": "corinne-erhel",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "124",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "débit"
+          }
+        ],
+        "timestamp": "41000670",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_7018dada6fd1e13330ea4f0eaba1a60d",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325625/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cet amendement vise à supprimer l'alinéa 79 puisque cet alinéa permet à l'HADOPI de décider que l'injonction de prendre des mesures de nature à prévenir le renouvellement du manquement constaté fera l'objet d'une publication. Cette disposition apparaît inutile et excessive, car on ne connaîtra pas à chaque fois la nature du manquement.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325626",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Corinne Erhel",
+        "intervenant_slug": "corinne-erhel",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "55",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "HADOPI"
+          }
+        ],
+        "timestamp": "41000680",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_793e90bc1ecf228501904a5746117296",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325626/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Avis défavorable, car la publication des décisions importantes de l'HADOPI sera un élément important de connaissance du droit par les citoyens et participera au respect du droit à un procès équitable.</p><p>La Commission rejette cet amendement.</p><p>Puis elle rejette, suivant l'avis défavorable du rapporteur, un amendement de M. Lionel Tardy visant à remplacer le pouvoir de sanction de l'HADOPI par la faculté de demander à l'autorité judiciaire de prendre ces sanctions.</p><p>La Commission rejette ensuite un amendement de M. Jean-Pierre Decool visant à préciser les critères à prendre en compte pour l'établissement de la sanction, le rapporteur ayant exprimé un avis défavorable.</p><p>La Commission examine ensuite un amendement de Mme Corinne Erhel visant à supprimer l'alinéa 80 de l'article 2.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325627",
+        "intervenant_fonction": "rapporteur pour avis",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Bernard Gérard",
+        "intervenant_slug": "bernard-gerard",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "132",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "HADOPI"
+          }
+        ],
+        "timestamp": "41000690",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_62635b28ea564c9021eacea3cf25b002",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325627/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La « liste noire » prévue par l'alinéa 80 présente un risque d'atteinte aux libertés individuelles.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325628",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Corinne Erhel",
+        "intervenant_slug": "corinne-erhel",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "19",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000700",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_d1beb15a09f1291e337112d3c6e5febb",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325628/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'alinéa 80 prévoit que la sanction doit être notifiée à l'abonné, ce qui me paraît être une bonne chose, d'où un avis défavorable.</p><p>La Commission rejette cet amendement.</p><p>Un amendement de M. Jean-Pierre Decool visant à ce que soient définies par décret en Conseil d'État les conditions de publicité des décisions de l'HADOPI est ensuite retiré par son auteur, le rapporteur ayant fait valoir qu'il est déjà prévu que le rapport annuel de l'HADOPI fasse le point sur les principales décisions prises.</p><p>La Commission examine ensuite un amendement de M. Lionel Tardy visant à rendre automatiquement suspensifs les recours formés contre les décisions de l'HADOPI.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325629",
+        "intervenant_fonction": "rapporteur pour avis",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Bernard Gérard",
+        "intervenant_slug": "bernard-gerard",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "123",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "HADOPI"
+          }
+        ],
+        "timestamp": "41000710",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_7d5db4f2df6218801b7a3374e9102481",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325629/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Le texte prévoit qu'en cas de recours contre une décision de l'HADOPI, le sursis à exécution de celle-ci  ne pourra être décidé que sous certaines conditions. Il y a lieu de s'interroger sur le sens de l'annulation par le juge des décisions de suspension d'abonnement en l'absence de sursis à exécution puisque les délais contentieux conduiront à une décision du juge alors que la peine aura été purgée.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325630",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Lionel Tardy",
+        "intervenant_slug": "lionel-tardy",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "76",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "HADOPI"
+          }
+        ],
+        "timestamp": "41000720",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_aa7790c007b6cf56fc70fbf3a426c3bc",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325630/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Avis défavorable, car cela risquerait d'encourager les manoeuvres dilatoires.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325631",
+        "intervenant_fonction": "rapporteur pour avis",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Bernard Gérard",
+        "intervenant_slug": "bernard-gerard",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "12",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000730",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_164d7cec37f09ec76941ce02c86507d9",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325631/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Votre position conduit à placer le Parlement en dessous de l'administration en laissant à celle-ci le soin de définir suivant quelles modalités les recours seront suspensifs. Pourquoi ne pas le faire dans la loi ?</p><p>La Commission rejette cet amendement, puis elle rejette un amendement de Mme Corinne Erhel ayant le même objet.</p><p>Elle rejette ensuite un autre amendement du même auteur, visant à donner explicitement à la juridiction judiciaire la possibilité d'allouer à l'internaute des dommages et intérêts lorsqu'elle réforme les décisions de l'HADOPI, le rapporteur ayant fait remarquer que la possibilité d'allouer des dommages-intérêts relève du droit commun et ayant exprimé un avis défavorable.</p><p>La Commission examine ensuite un amendement de M. Lionel Tardy.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325632",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Alain Suguenot",
+        "intervenant_slug": "alain-suguenot",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "130",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internaute"
+          },
+          {
+            "tag": "HADOPI"
+          }
+        ],
+        "timestamp": "41000740",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_8d4da7ac224db3358b33d43d3ab40c51",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325632/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cet amendement vise à ce que la voie de la sanction administrative et celle de la sanction pénale ne soient pas ouvertes en même temps. Les ayants droit devraient ainsi « choisir leur voie ».</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325633",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Lionel Tardy",
+        "intervenant_slug": "lionel-tardy",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "36",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000750",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_66cf63d4234c46e6001265335c308860",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325633/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je ne peux pas donner un avis favorable à cette proposition, qui est contraire à la Constitution dans la mesure où il n'est pas possible de « bloquer » des poursuites pénales au motif qu'une procédure administrative serait ouverte. Il s'agit de deux types d'action bien différents.</p><p>La Commission rejette cet amendement.</p><p>Suivant l'avis défavorable du rapporteur, elle rejette ensuite deux amendements de Mme Corinne Erhel, visant d'une part à supprimer les alinéas 84 à 88 de l'article 2 qui transposent certaines modalités du mécanisme de sanction à la transaction, et d'autre part à permettre à l'abonné d'être assisté d'un conseil dans la procédure de transaction.</p><p>La Commission adopte ensuite un amendement du même auteur, prévoyant que le cumul des sanctions décidées par l'HADOPI n'est pas possible, cet amendement ayant recueilli un avis favorable du rapporteur.</p><p>Puis elle rejette un amendement de M. Lionel Tardy visant à supprimer la possibilité d'infliger une sanction de réduction des débits, sur l'avis défavorable du rapporteur.</p><p>Elle adopte ensuite un amendement de M. Bernard Gérard, rapporteur, visant à aligner la procédure de suspension et de limitation d'accès à Internet dans le cadre de la transaction.</p><p>Puis la commission rejette un amendement de Mme Corinne Erhel visant à préciser par décret en Conseil d'État comment l'HADOPI choisira entre sanction et transaction, sur avis défavorable du rapporteur.</p><p>Elle rejette ensuite un amendement de M. Lionel Tardy visant à remplacer le pouvoir de suspension de l'accès de l'HADOPI par la faculté de demander à l'autorité judiciaire de prendre une telle sanction, sur avis défavorable du rapporteur.</p><p>Puis la commission examine un amendement de Mme Corinne Erhel.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325634",
+        "intervenant_fonction": "rapporteur pour avis",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Bernard Gérard",
+        "intervenant_slug": "bernard-gerard",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "294",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internet"
+          },
+          {
+            "tag": "débit"
+          },
+          {
+            "tag": "HADOPI"
+          }
+        ],
+        "timestamp": "41000760",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_f2b0e546dad7963b4c5032b600bda7a0",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325634/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cet amendement vise à supprimer les alinéas 89 et 90 de l'article 2, qui prévoient que les abonnées dont la connexion est suspendue continueront à payer leur abonnement. Une telle disposition présente le caractère d'une double peine. Rien ne la justifie.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325635",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Corinne Erhel",
+        "intervenant_slug": "corinne-erhel",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "43",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000770",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_636c1540b80d3f603813a2b2a800dbbc",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325635/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Défavorable : il n'y a au contraire aucune raison pour qu'une sanction administrative fasse obstacle à l'exécution d'obligations contractuelles contractées vis-à-vis d'un tiers. Pour faire une comparaison avec l'automobile, ce n'est pas parce qu'on vous retire votre permis que vous pouvez cesser de payer votre prime d'assurance.</p><p>La Commission rejette cet amendement, puis elle rejette un autre amendement du même auteur visant à ce que le montant des abonnements soit versé à la création, sur avis défavorable du rapporteur.</p><p>Elle rejette ensuite un amendement du même auteur, prévoyant que lorsqu'il n'est pas possible de suspendre techniquement la connexion sans suspendre aussi d'autres types de services, alors la suspension ne doit pas être effectuée, le rapporteur ayant affirmé que le projet de loi est très clair sur ce sujet en prévoyant que, dans de telles circonstances, la sanction doit être l'installation d'un logiciel anti-piratage et ayant exprimé son avis défavorable.</p><p>Puis la commission rejette un amendement du même auteur prévoyant de supprimer l'obligation faite aux FAI de suspendre l'accès à Internet dans un délai de 15 jours, les FAI contrevenants s'exposant à un amendement de 5 000 euros par manquement, suivant l'avis défavorable du rapporteur.</p><p>La Commission examine ensuite un amendement de Mme Corinne Erhel, visant transférer de l'HADOPI à l'autorité judiciaire une partie des pouvoirs de sanction des pirates affectant les libertés individuelles.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325636",
+        "intervenant_fonction": "rapporteur pour avis",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Bernard Gérard",
+        "intervenant_slug": "bernard-gerard",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "243",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internet"
+          },
+          {
+            "tag": "HADOPI"
+          }
+        ],
+        "timestamp": "41000780",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_7292117002bbd224214de9245b537b38",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325636/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je voudrais souligner qu'on vient de rejeter une série d'amendements qui visaient à éviter que l'internaute ne paie pour des services non rendus. La comparaison faite par le rapporteur avec la voiture ne tient pas : dans un cas on a un produit et dans l'autre un service. A la limite, on pourrait comparer la voiture à l'ordinateur, mais la voiture à l'accès Internet, non.</p><p>La Commission rejette cet amendement suivant l'avis défavorable du rapporteur.</p><p>Puis elle rejette trois amendements de M. Jean Pierre Decool ayant fait l'objet d'un avis défavorable du rapporteur, le premier visant à préciser qu'un délai de 15 jours s'entend en jours « ouvrable », le second que l'internaute peut être assisté d'un conseil dans le cadre d'une procédure HADOPI., et le troisième que l'internaute est informé des conséquences du non respect des mesures décidées par l'HADOPI.</p><p>La Commission examine ensuite un amendement de Mme Corinne Erhel visant à apporter deux précisions concernant les moyens de sécurisation des connexions Internet labellisés par l'HADOPI : ceux-ci seraient mis gratuitement à dispositions des abonnés et devraient être interopérables.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325637",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "François Brottes",
+        "intervenant_slug": "francois-brottes",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "193",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internaute"
+          },
+          {
+            "tag": "internet"
+          },
+          {
+            "tag": "HADOPI"
+          }
+        ],
+        "timestamp": "41000790",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_980ea098caab12f6eee6242aef851c33",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325637/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Défavorable : il paraît étrange qu'une nouvelle obligation légale soit gratuite.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325638",
+        "intervenant_fonction": "rapporteur pour avis",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Bernard Gérard",
+        "intervenant_slug": "bernard-gerard",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "15",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000800",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_403aab900631cf18f79eba6ed59df707",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325638/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Dans une période de crise du pouvoir d'achat, cette nouvelle obligation mise à la charge des abonnés est au contraire absurde. Comment ferez-vous pour empêcher que le coût ne s'alourdisse au fur et à mesure que le progrès technique rendra les moyens de sécurisation plus sophistiqués ?</p><p>La Commission rejette cet amendement.</p><p>Puis elle examine un amendement du même auteur visant à supprimer les dispositions relatives au répertoire national au motif que ce répertoire serait une « liste noire » des internautes.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325639",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Corinne Erhel",
+        "intervenant_slug": "corinne-erhel",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "92",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internaute"
+          }
+        ],
+        "timestamp": "41000810",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_6838fc722b8c15208c9807f545a0a71d",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325639/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Ce répertoire est le seul mécanisme à même de rendre la loi applicable.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325640",
+        "intervenant_fonction": "rapporteur pour avis",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Bernard Gérard",
+        "intervenant_slug": "bernard-gerard",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "17",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000820",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_bfb2d8232e12ac6ef8b5f077923ced12",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325640/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Qu'a dit la CNIL sur ce sujet ?</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325641",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Corinne Erhel",
+        "intervenant_slug": "corinne-erhel",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "9",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000830",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_946d1d61c13b01243861f084954543dd",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325641/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La CNIL n'est pas contre le projet de loi et elle ne nous a fait aucune observation à ce sujet.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325642",
+        "intervenant_fonction": "rapporteur pour avis",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Bernard Gérard",
+        "intervenant_slug": "bernard-gerard",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "21",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000840",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_4262f3d6e6a1d60f216784bca57a3c27",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325642/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Comment vous assurerez-vous que le répertoire sera protégé ?</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325643",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Corinne Erhel",
+        "intervenant_slug": "corinne-erhel",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "12",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000850",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_adba4f3ccec0c4ec82d3bea8d7582d37",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325643/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Ainsi que le précise l'article 331-31-1, les informations recueillies, à l'occasion de la consultation de ce répertoire par les personnes dont l'activité est d'offrir un accès à des services de communication au public en ligne, dans les conditions définies à l'article L. 331-31, ne peuvent être conservées par ces personnes, ni faire l'objet d'aucune communication excédant la conclusion ou la non conclusion du contrat de fourniture de services de communication ayant provoqué ladite consultation.</p><p>La Commission rejette cet amendement.</p><p>Puis elle adopte, avec l'avis favorable du rapporteur, un amendement du même auteur visant à faire figurer dans les contrats conclus avec les FAI les sanctions pénales et civiles encourues qui ne se disparaissent pas avec le mécanisme de « riposte graduée ».</p><p>Un amendement de M. Jean-Pierre Decool ayant un objet identique est ensuite retiré par son auteur.</p><p>Après qu'un amendement de M. Lionel Tardy prévoyant le remboursement par l'État des charges nouvelles des FAI a été déclaré irrecevable au titre de l'article 40, la commission rejette un amendement présenté par Corinne Erhel visant à mettre gratuitement à disposition du public une assistance téléphonique à l'HADOPI, la rapporteur ayant souligné le caractère irrecevable d'un tel amendement.</p><p>La Commission donne un avis favorable à l'adoption de cet article sans modification.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325644",
+        "intervenant_fonction": "rapporteur pour avis",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Bernard Gérard",
+        "intervenant_slug": "bernard-gerard",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "229",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "HADOPI"
+          }
+        ],
+        "timestamp": "41000860",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_8447d3c6b8f7f0876e7d8190bc9e447a",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325644/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Après l'article 2 :</p><p>Suivant l'avis défavorable du rapporteur, la commission rejette un amendement de Mme Corinne Erhel portant article additionnel et prévoyant qu'aucune poursuite pénale ne peut être engagée pour des faits dont est saisie l'HADOPI.</p><p>Article 3 (section IV du chapitre Ier du titre III du livre III du code de la propriété intellectuelle) : Transfert à la HADOPI de la mission de régulation et de veille dans le domaine des mesures techniques de protection </p><p>La Commission donne un avis favorable à l'adoption de cet article sans modification.</p><p>Article 4 (art. L. 332-1 et art. L. 335-12 du code de la propriété intellectuelle) : Suppression de dispositions explicitées par ailleurs </p><p>La Commission donne un avis favorable à l'adoption de cet article sans modification.</p><p>Article 4 bis (nouveau) (Intitulé du chapitre VI du titre III du livre III du code de la propriété intellectuelle) : Coordination rédactionnelle </p><p>La Commission donne un avis favorable à l'adoption de cet article sans modification.</p><p>Article 5 (art. L. 336-2 du code de la propriété intellectuelle) : Référé juridictionnel pour cesser ou prévenir le renouvellement d'une atteinte à un droit d'auteur ou voisin occasionnée via le contenu d'un site Web </p><p>Puis la commission examine un amendement de M. Patrick Ollier, président, visant à renforcer l'arsenal permettant de lutter contre les hébergeurs de contenus illégaux.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325645",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "243",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000870",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_37558189688a44ac9c38c41949d35c13",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325645/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Le texte de loi met l'accent sur la sanction des internautes, alors que les premiers coupables sont les hébergeurs de contenu. Il faut trouver des moyens de lutter plus efficacement contre les sites de téléchargement. Je souhaite reprendre dans cet amendement cette logique qui figurait dans le projet de loi initial. L'amendement prévoit essentiellement que le juge peut ordonner aux FAI de suspendre l'accès à des sites de téléchargement illégal, qui se trouvent souvent à l'étranger.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325646",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Patrick Ollier",
+        "intervenant_slug": "patrick-ollier",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "85",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internaute"
+          }
+        ],
+        "timestamp": "41000880",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_d4535382219528c8a9d7578f3b4eb1b8",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325646/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>J'abonde dans votre sens : il faut remplacer la sanction des internautes par celles des fournisseurs d'accès. Je pense d'ailleurs que vous soutiendrez un amendement que je présente plus loin et qui va dans le même sens.</p><p>Suivant l'avis de sagesse du rapporteur, la commission adopte cet amendement.</p><p>Un amendement de M. Lionel Tardy prévoyant que les mesures ordonnées par le tribunal doivent être proportionnées est devenu sans objet, de même qu'un amendement de Mme Corinne Erhel rappelant le principe de subsidiarité défini par la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique.</p><p>Suivant l'avis défavorable du rapporteur, invoquant son coût pour les finances publiques, la commission rejette un amendement de M. Alain Suguenot amnistiant les contraventions dressées en vertu des articles R. 335-3 et R. 335-4 du code de la propriété intellectuelle, lorsqu'elles ont été commises avant l'entrée en vigueur de la présente loi.</p><p>Puis la commission  donne un avis favorable à l'adoption de l'article 5 ainsi modifié. </p><p>Article 6 (art. L. 336-3, art. L. 336-4 [nouveaux] du code de la propriété intellectuelle) : Obligation et contrepartie pour l'abonné à internet de veiller à ce que son accès ne soit pas utilisé dans le non-respect des droits d'auteur et voisins </p><p>La Commission examine un amendement de Mme Corinne Erhel proposant de supprimer cet article.</p><p>En réponse à l'auteur de l'amendement, ainsi qu'à MM. Lionel Tardy et Alain Suguenot, posant la question de l'application concrète de ces dispositions dans les collectivités comme les établissements scolaires, et de leur compatibilité avec l'usage du wifi, le rapporteur indique qu'il ne faut pas réduire la portée de la loi aux seules personnes physiques. La Commission rejette l'amendement, ainsi qu'un amendement de repli du même auteur.</p><p>La Commission donne un avis favorable à l'adoption de cet article sans modification.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325647",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Alain Suguenot",
+        "intervenant_slug": "alain-suguenot",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "331",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "internaute"
+          },
+          {
+            "tag": "internet"
+          }
+        ],
+        "timestamp": "41000890",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_1b4142301fda09304bacb02eb42c2390",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325647/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Après l'article 6 : </p><p>Suivant l'avis défavorable du rapporteur, la commission rejette un amendement de Mme Corinne Erhel prévoyant la disparition progressive des mesures techniques de protection qui restreignent l'interopérabilité et l'usage des fichiers.</p><p>Article 7 (art. L. 342-3-1 du code de la propriété intellectuelle) : Coordinations au sein des dispositions relatives aux mesures techniques de protection mises en oeuvre par les producteurs de bases de données </p><p>La Commission donne un avis favorable à l'adoption de cet article sans modification.</p><p>Après l'article 7 :</p><p>La Commission examine un amendement de M. Alain Suguenot prévoyant un rapport annuel du collège de l'HADOPI portant sur les efforts réalisés par les différents acteurs et partenaires de l'industrie culturelle pour améliorer le développement de l'offre légale. Le rapporteur indiquant que le projet de loi prévoit déjà un rapport qui portera nécessairement sur ces questions, l'amendement est retiré.</p><p>Article 7 bis : Mission de référencement des offres légales sur les moteurs de recherche confiée au Centre national de la cinématographie</p><p>La Commission donne un avis favorable à l'adoption de cet article sans modification.</p><p>Chapitre II : Dispositions modifiant la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique </p><p>Article 8 (I de l'art. 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique) : Information des abonnés par leur fournisseur d'accès sur les moyens techniques permettant de les exonérer de leur obligation de surveillance</p><p>La Commission donne un avis favorable à l'adoption de cet article sans modification.</p><p>Chapitre III : Dispositions modifiant le code des postes et des communications électroniques</p><p>Article 9 (II de l'art. L. 34-1 du code des postes et des communications électroniques) : Accès de la HADOPI à certaines données techniques des fournisseurs d'accès relatives au trafic sur le Web </p><p>La Commission examine un amendement de Mme Corinne Erhel supprimant cet article, afin de maintenir l'exigence d'une requête judiciaire pour toute levée de l'anonymat. Suivant l'avis défavorable du rapporteur, pour qui l'HADOPI présente toutes les garanties nécessaires, la commission rejette l'amendement.</p><p>La Commission donne un avis favorable à l'adoption de cet article sans modification.</p><p>Après l'article 9 : </p><p>Suivant l'avis défavorable du rapporteur, la commission rejette un amendement de M. Alain Suguenot visant à développer l'offre légale et l'interopérabilité en faisant disparaître  progressivement les mesures techniques de protection.</p><p>Chapitre III bis [nouveau] : Dispositions modifiant le code de l'éducation </p><p>Article 9 bis (nouveau) (art. L. 312-9 du code de l'éducation) : Information des élèves sur les effets du piratage et de la contrefaçon ainsi que sur les sanctions qui en découlent </p><p>La Commission adopte un amendement de M. Jean-Pierre Decool prévoyant de développer, chaque année, une information courte sur la question des risques de l'utilisation des services de communication au public en ligne.</p><p>Un amendement du même auteur visant à développer cette information dans les cours d'instruction civique est retiré, le rapporteur objectant que cette information doit pourvoir se faire également en cours de technologie ou d'informatique.</p><p>Puis la commission adopte un amendement du rapporteur prévoyant que cette information porte également sur l'offre légale d'oeuvres culturelles sur les services de communication au public en  ligne, le rapporteur précisant à M. Alain Suguenot qu'il n'est bien sûr pas question de publicité, mais d'information positive sur le principe de l'offre légale.</p><p>Puis la commission donne un avis favorable à l'adoption de cet article ainsi modifié.</p><p>Chapitre III ter [nouveau] : Dispositions modifiant le code de l'industrie cinématographique</p><p>Article 9 ter (nouveau) (art. L. 30-4 à 30-8 [nouveaux] du code de l'industrie cinématographique) : Modalités de fixation des délais d'exploitation des oeuvres cinématographiques </p><p>La Commission adopte un amendement du rapporteur prévoyant qu'aucune oeuvre cinématographique ne peut, à compter de la date de sa sortie en salles de spectacles cinématographiques, faire l'objet d'une exploitation sous forme de vidéogrammes destinés à la vente ou à la location pour l'usage privé du public avant l'expiration d'un délai de trois mois, le rapporteur indiquant que 85% des films sont vus dans les cinq semaines qui suivent leur sortie en salles.</p><p>Puis la commission donne un avis favorable à l'adoption de cet article ainsi modifié.</p><p>Article 9 quater (nouveau) : Accord du secteur des phonogrammes sur l'interopérabilité des fichiers musicaux et des catalogues d'oeuvres sans mesures techniques de protection </p><p>La Commission donne un avis favorable à l'adoption de cet article sans modification.</p><p>Après l'article 9 quater :</p><p>La Commission rejette un amendement de Mme Corinne Erhel prévoyant que les films susceptibles de bénéficier d'une aide publique par l'intermédiaire du Centre national de la cinématographie soient disponibles en vidéo à la demande.</p><p>Chapitre IV : Dispositions diverses</p><p>Article 10 : Dispositions transitoires et nécessaires à la transformation de l'Autorité de régulation des mesures techniques en HADOPI</p><p>La Commission donne un avis favorable à l'adoption de cet article sans modification.</p><p>Après l'article 10 :</p><p>La Commission examine un amendement de M. Alain Suguenot  prévoyant la rémunération des auteurs et interprètes à partir de recettes générées par la commercialisation d'espaces publicitaires effectuée directement ou indirectement par les services de communication au public en ligne.</p><p>Le rapporteur.  Cette question n'est pas mûre. Le dispositif proposé est trop proche de la licence globale, que nous cherchons tous à éviter, et l'amendement ne mentionne pas les producteurs.</p><p>La Commission rejette l'amendement.</p><p>Puis la commission rejette un amendement de Mme Corinne Erhel obligeant tout vendeur de DVD, CD ou fichier de film ou de musique, à indiquer au consommateur la part revenant à la création sur le prix de vente.</p><p>Article 10 bis (nouveau) (art. 89 de la loi n° 82-652 du 29 juillet 1982 sur la communication audiovisuelle, art. 70-1 et 79 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de la communication) : Abrogation de dispositions légales codifiées au code de l'industrie cinématographique </p><p>La Commission donne un avis favorable à l'adoption de cet article sans modification.</p><p>Article 11 (art. L. 811-1 du code de la propriété intellectuelle) : Application outre-mer de la loi et de certaines dispositions du code de la propriété intellectuelle </p><p>La Commission donne un avis favorable à l'adoption de cet article sans modification.</p><p>Après l'article 11 :</p><p>La Commission rejette un amendement de M. Lionel Tardy prévoyant l'entrée en vigueur des dispositions de la présente loi neuf mois après sa promulgation.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325648",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "1162",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "41000900",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_b1bfb5774dadf237ab0a03d8485cafd5",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325648/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Certains articles peuvent entrer en vigueur immédiatement. La rédaction des décrets d'application et la constitution de l'HADOPI laisseront par ailleurs le temps aux opérateurs de s'adapter aux nouvelles dispositions.</p><p>La Commission donne un avis favorable à l'adoption de l'ensemble du projet de loi ainsi modifié.</p>",
+        "date": "2009-03-04",
+        "heure": "16:15",
+        "id": "325649",
+        "intervenant_fonction": "rapporteur pour avis",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Bernard Gérard",
+        "intervenant_slug": "bernard-gerard",
+        "lois": [
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "52",
+        "seance_id": "845",
+        "seance_lieu": "Commission des affaires économiques",
+        "seance_titre": "réunion du 4 mars 2009 à 16h15",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cpro/08-09/c0809041.asp#P4_351",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "HADOPI"
+          }
+        ],
+        "timestamp": "41000910",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/845#inter_aa4f92263429dec323fc0a892ea19280",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/325649/json"
+      }
+    }
+  ]
+}

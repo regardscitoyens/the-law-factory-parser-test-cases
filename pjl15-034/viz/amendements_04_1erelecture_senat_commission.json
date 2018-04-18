@@ -1,0 +1,178 @@
+{
+  "api_root_url": "https://www.nossenateurs.fr/api/document/Amendement/",
+  "groupes": {
+    "Gouvernement": {
+      "color": "#cccbb3",
+      "link": "",
+      "nom": "Gouvernement",
+      "order": 60
+    },
+    "LR": {
+      "color": "rgb(30,30,200)",
+      "link": "https://www.nossenateurs.fr/groupe/LR",
+      "nom": "Les Républicains",
+      "order": 24
+    }
+  },
+  "id_step": "04_1erelecture_senat_commission",
+  "sujets": {
+    "Article 1er": {
+      "amendements": [
+        {
+          "aut": "M. Portelli, …",
+          "date": "2015-10-19",
+          "groupe": "LR",
+          "id_api": "106231",
+          "numero": "COM-2",
+          "sort": "adopté"
+        }
+      ],
+      "order": 30,
+      "titre": "Article 1er"
+    },
+    "Article 1er B": {
+      "amendements": [
+        {
+          "aut": "M. Portelli, …",
+          "date": "2015-10-19",
+          "groupe": "LR",
+          "id_api": "106230",
+          "numero": "COM-1",
+          "sort": "adopté"
+        }
+      ],
+      "order": 20,
+      "titre": "Article 1er B"
+    },
+    "Article 2": {
+      "amendements": [
+        {
+          "aut": "M. Portelli, …",
+          "date": "2015-10-19",
+          "groupe": "LR",
+          "id_api": "106232",
+          "numero": "COM-3",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Portelli, …",
+          "date": "2015-10-19",
+          "groupe": "LR",
+          "id_api": "106233",
+          "numero": "COM-4",
+          "sort": "adopté"
+        }
+      ],
+      "order": 40,
+      "titre": "Article 2"
+    },
+    "Article 3": {
+      "amendements": [
+        {
+          "aut": "M. Portelli, …",
+          "date": "2015-10-19",
+          "groupe": "LR",
+          "id_api": "106234",
+          "numero": "COM-5",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Portelli, …",
+          "date": "2015-10-19",
+          "groupe": "LR",
+          "id_api": "106235",
+          "numero": "COM-6",
+          "sort": "adopté"
+        }
+      ],
+      "order": 50,
+      "titre": "Article 3"
+    },
+    "Article 4": {
+      "amendements": [
+        {
+          "aut": "M. Portelli, …",
+          "date": "2015-10-19",
+          "groupe": "LR",
+          "id_api": "106236",
+          "numero": "COM-7",
+          "sort": "adopté"
+        }
+      ],
+      "order": 60,
+      "titre": "Article 4"
+    },
+    "Article 5": {
+      "amendements": [
+        {
+          "aut": "M. Portelli, …",
+          "date": "2015-10-19",
+          "groupe": "LR",
+          "id_api": "106237",
+          "numero": "COM-8",
+          "sort": "adopté"
+        }
+      ],
+      "order": 70,
+      "titre": "Article 5"
+    },
+    "Article 7": {
+      "amendements": [
+        {
+          "aut": "M. Portelli, …",
+          "date": "2015-10-19",
+          "groupe": "LR",
+          "id_api": "106238",
+          "numero": "COM-9",
+          "sort": "adopté"
+        },
+        {
+          "aut": "",
+          "date": "2015-10-19",
+          "groupe": "Gouvernement",
+          "id_api": "106240",
+          "numero": "COM-11",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 90,
+      "titre": "Article 7"
+    },
+    "Article 8": {
+      "amendements": [
+        {
+          "aut": "M. Portelli, …",
+          "date": "2015-10-20",
+          "groupe": "LR",
+          "id_api": "106239",
+          "numero": "COM-10",
+          "sort": "adopté"
+        }
+      ],
+      "order": 100,
+      "titre": "Article 8"
+    },
+    "Article 9": {
+      "amendements": [
+        {
+          "aut": "",
+          "date": "2015-10-19",
+          "groupe": "Gouvernement",
+          "id_api": "106241",
+          "numero": "COM-12",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Portelli, …",
+          "date": "2015-10-20",
+          "groupe": "LR",
+          "id_api": "106350",
+          "numero": "COM-13",
+          "sort": "adopté"
+        }
+      ],
+      "order": 110,
+      "titre": "Article 9"
+    }
+  }
+}

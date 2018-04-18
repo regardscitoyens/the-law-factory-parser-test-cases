@@ -1,0 +1,4228 @@
+{
+  "api_root_url": "https://2007-2012.nosdeputes.fr/api/document/Amendement/",
+  "groupes": {
+    "GDR": {
+      "color": "rgb(255,30,30)",
+      "link": "https://2007-2012.nosdeputes.fr/groupe/GDR",
+      "nom": "Gauche démocrate et républicaine",
+      "order": 10
+    },
+    "Gouvernement": {
+      "color": "#cccbb3",
+      "link": "",
+      "nom": "Gouvernement",
+      "order": 60
+    },
+    "Inconnu": {
+      "color": "#bfbfbf",
+      "link": "",
+      "nom": "Inconnu",
+      "order": 100
+    },
+    "NC": {
+      "color": "rgb(30,180,255)",
+      "link": "https://2007-2012.nosdeputes.fr/groupe/NC",
+      "nom": "Nouveau centre",
+      "order": 12
+    },
+    "SRC": {
+      "color": "rgb(255,50,190)",
+      "link": "https://2007-2012.nosdeputes.fr/groupe/SRC",
+      "nom": "Socialiste, radical, citoyen et divers gauche",
+      "order": 11
+    },
+    "UMP": {
+      "color": "rgb(30,30,200)",
+      "link": "https://2007-2012.nosdeputes.fr/groupe/UMP",
+      "nom": "Union pour un mouvement populaire",
+      "order": 13
+    }
+  },
+  "id_step": "05_1erelecture_assemblee_hemicycle",
+  "sujets": {
+    "ARTICLE 9 TER": {
+      "amendements": [
+        {
+          "aut": "Mme Marland-Militello",
+          "date": "2009-03-10",
+          "groupe": "UMP",
+          "id_api": "18058",
+          "numero": "219",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 16,
+      "titre": "ARTICLE 9 TER"
+    },
+    "Après l'article 10": {
+      "amendements": [
+        {
+          "aut": "Mme Marland-Militello, …",
+          "date": "2009-02-23",
+          "groupe": "UMP",
+          "id_api": "17800",
+          "numero": "1",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17824",
+          "numero": "106",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Huyghe, …",
+          "date": "2009-03-03",
+          "groupe": "UMP",
+          "id_api": "17980",
+          "numero": "141",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Terrasse",
+          "date": "2009-03-09",
+          "groupe": "SRC",
+          "id_api": "18010",
+          "numero": "168",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18051",
+          "numero": "306",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Suguenot, …",
+          "date": "2009-03-11",
+          "groupe": "UMP",
+          "id_api": "18245",
+          "numero": "313",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18048",
+          "numero": "316",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-11",
+          "groupe": "GDR",
+          "id_api": "18249",
+          "numero": "335",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18050",
+          "numero": "422",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Marland-Militello",
+          "date": "2009-03-30",
+          "groupe": "UMP",
+          "id_api": "18295",
+          "numero": "425",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Filipetti, …",
+          "date": "2009-03-11",
+          "groupe": "SRC",
+          "id_api": "18244",
+          "numero": "426",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-11",
+          "groupe": "SRC",
+          "id_api": "18247",
+          "numero": "427",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-11",
+          "groupe": "SRC",
+          "id_api": "18248",
+          "numero": "454",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Suguenot, …",
+          "date": "2009-03-11",
+          "groupe": "UMP",
+          "id_api": "18263",
+          "numero": "455",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "",
+          "date": "2009-03-30",
+          "groupe": "Gouvernement",
+          "id_api": "18294",
+          "numero": "490",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Kert",
+          "date": "2009-04-02",
+          "groupe": "UMP",
+          "id_api": "18330",
+          "numero": "516",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Kert",
+          "date": "2009-04-02",
+          "groupe": "UMP",
+          "id_api": "18338",
+          "numero": "517",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Kert",
+          "date": "2009-04-02",
+          "groupe": "UMP",
+          "id_api": "18337",
+          "numero": "518",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Kert",
+          "date": "2009-04-02",
+          "groupe": "UMP",
+          "id_api": "18336",
+          "numero": "519",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Kert",
+          "date": "2009-04-02",
+          "groupe": "UMP",
+          "id_api": "18335",
+          "numero": "521",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Kert",
+          "date": "2009-04-02",
+          "groupe": "UMP",
+          "id_api": "18334",
+          "numero": "522",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Kert",
+          "date": "2009-04-02",
+          "groupe": "UMP",
+          "id_api": "18333",
+          "numero": "523",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Kert",
+          "date": "2009-04-02",
+          "groupe": "UMP",
+          "id_api": "18332",
+          "numero": "524",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Kert",
+          "date": "2009-04-02",
+          "groupe": "UMP",
+          "id_api": "18339",
+          "numero": "525",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Kert",
+          "date": "2009-04-02",
+          "groupe": "UMP",
+          "id_api": "18331",
+          "numero": "526",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Kert",
+          "date": "2009-04-02",
+          "groupe": "UMP",
+          "id_api": "18329",
+          "numero": "532",
+          "sort": "adopté"
+        }
+      ],
+      "order": 27,
+      "titre": "Après l'article 10"
+    },
+    "Après l'article 10 bis": {
+      "amendements": [
+        {
+          "aut": "Mme Marland-Militello",
+          "date": "2009-03-05",
+          "groupe": "UMP",
+          "id_api": "18000",
+          "numero": "24",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Marland-Militello",
+          "date": "2009-02-23",
+          "groupe": "UMP",
+          "id_api": "17799",
+          "numero": "26",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17820",
+          "numero": "110",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18009",
+          "numero": "204",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Marland-Militello",
+          "date": "2009-03-10",
+          "groupe": "UMP",
+          "id_api": "18049",
+          "numero": "220",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Martin-Lalande",
+          "date": "2009-03-11",
+          "groupe": "UMP",
+          "id_api": "18246",
+          "numero": "310",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Marland-Militello",
+          "date": "2009-04-01",
+          "groupe": "UMP",
+          "id_api": "18322",
+          "numero": "508",
+          "sort": "adopté"
+        }
+      ],
+      "order": 29,
+      "titre": "Après l'article 10 bis"
+    },
+    "Après l'article 11": {
+      "amendements": [
+        {
+          "aut": "M. Nicolas",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17933",
+          "numero": "113",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17939",
+          "numero": "138",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Nicolas",
+          "date": "2009-03-06",
+          "groupe": "UMP",
+          "id_api": "18003",
+          "numero": "164",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Remiller",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18008",
+          "numero": "175",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Dionis du Séjour, …",
+          "date": "2009-03-09",
+          "groupe": "NC",
+          "id_api": "18007",
+          "numero": "201",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Dionis du Séjour, …",
+          "date": "2009-03-10",
+          "groupe": "NC",
+          "id_api": "18047",
+          "numero": "332",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Dionis du Séjour, …",
+          "date": "2009-03-10",
+          "groupe": "NC",
+          "id_api": "18046",
+          "numero": "333",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Marland-Militello, …",
+          "date": "2009-03-11",
+          "groupe": "UMP",
+          "id_api": "18243",
+          "numero": "457",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "",
+          "date": "2009-03-30",
+          "groupe": "Gouvernement",
+          "id_api": "18293",
+          "numero": "492",
+          "sort": "adopté"
+        },
+        {
+          "aut": "",
+          "date": "2009-03-31",
+          "groupe": "Gouvernement",
+          "id_api": "18310",
+          "numero": "505",
+          "sort": "adopté"
+        }
+      ],
+      "order": 31,
+      "titre": "Après l'article 11"
+    },
+    "Après l'article 1er": {
+      "amendements": [
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17858",
+          "numero": "32",
+          "sort": "adopté"
+        }
+      ],
+      "order": 3,
+      "titre": "Après l'article 1er"
+    },
+    "Après l'article 2": {
+      "amendements": [
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18080",
+          "numero": "411",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 5,
+      "titre": "Après l'article 2"
+    },
+    "Après l'article 4": {
+      "amendements": [
+        {
+          "aut": "M. Kert, …",
+          "date": "2009-03-06",
+          "groupe": "UMP",
+          "id_api": "18005",
+          "numero": "169",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18081",
+          "numero": "294",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Lefebvre",
+          "date": "2009-03-10",
+          "groupe": "UMP",
+          "id_api": "18079",
+          "numero": "386",
+          "sort": "adopté"
+        }
+      ],
+      "order": 7,
+      "titre": "Après l'article 4"
+    },
+    "Après l'article 4 bis": {
+      "amendements": [
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18078",
+          "numero": "414",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 9,
+      "titre": "Après l'article 4 bis"
+    },
+    "Après l'article 7 bis": {
+      "amendements": [
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-11",
+          "groupe": "SRC",
+          "id_api": "18255",
+          "numero": "302",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Marland-Militello",
+          "date": "2009-03-11",
+          "groupe": "UMP",
+          "id_api": "18254",
+          "numero": "461",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 14,
+      "titre": "Après l'article 7 bis"
+    },
+    "Après l'article 9": {
+      "amendements": [
+        {
+          "aut": "Mme Erhel, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18060",
+          "numero": "399",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Erhel, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18059",
+          "numero": "400",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 18,
+      "titre": "Après l'article 9"
+    },
+    "Après l'article 9 ter": {
+      "amendements": [
+        {
+          "aut": "M. Dionis du Séjour, …",
+          "date": "2009-03-11",
+          "groupe": "NC",
+          "id_api": "18251",
+          "numero": "327",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 23,
+      "titre": "Après l'article 9 ter"
+    },
+    "Article 10": {
+      "amendements": [
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17827",
+          "numero": "103",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17826",
+          "numero": "104",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17825",
+          "numero": "105",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Vandewalle",
+          "date": "2009-03-03",
+          "groupe": "UMP",
+          "id_api": "17998",
+          "numero": "140",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2009-03-11",
+          "groupe": "UMP",
+          "id_api": "18250",
+          "numero": "459",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 26,
+      "titre": "Article 10"
+    },
+    "Article 10 bis": {
+      "amendements": [
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17823",
+          "numero": "107",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17822",
+          "numero": "108",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17821",
+          "numero": "109",
+          "sort": "adopté"
+        }
+      ],
+      "order": 28,
+      "titre": "Article 10 bis"
+    },
+    "Article 11": {
+      "amendements": [
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17819",
+          "numero": "111",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17818",
+          "numero": "112",
+          "sort": "adopté"
+        }
+      ],
+      "order": 30,
+      "titre": "Article 11"
+    },
+    "Article 1er": {
+      "amendements": [
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17937",
+          "numero": "27",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17862",
+          "numero": "28",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17861",
+          "numero": "29",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17860",
+          "numero": "30",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17859",
+          "numero": "31",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-11",
+          "groupe": "SRC",
+          "id_api": "18275",
+          "numero": "301",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18237",
+          "numero": "304",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18236",
+          "numero": "305",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Suguenot, …",
+          "date": "2009-03-10",
+          "groupe": "UMP",
+          "id_api": "18238",
+          "numero": "311",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Dionis du Séjour, …",
+          "date": "2009-03-10",
+          "groupe": "NC",
+          "id_api": "18235",
+          "numero": "331",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-11",
+          "groupe": "GDR",
+          "id_api": "18274",
+          "numero": "337",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18234",
+          "numero": "421",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 2,
+      "titre": "Article 1er"
+    },
+    "Article 2": {
+      "amendements": [
+        {
+          "aut": "Mme Marland-Militello, …",
+          "date": "2009-02-23",
+          "groupe": "GDR",
+          "id_api": "17814",
+          "numero": "2",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Marland-Militello, …",
+          "date": "2009-02-23",
+          "groupe": "GDR",
+          "id_api": "17813",
+          "numero": "3",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Marland-Militello, …",
+          "date": "2009-03-11",
+          "groupe": "GDR",
+          "id_api": "18269",
+          "numero": "4",
+          "sort": "adopté"
+        },
+        {
+          "aut": "",
+          "date": "2009-02-23",
+          "groupe": "Inconnu",
+          "id_api": "17817",
+          "numero": "5",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Marland-Militello, …",
+          "date": "2009-02-23",
+          "groupe": "GDR",
+          "id_api": "17812",
+          "numero": "7",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Marland-Militello",
+          "date": "2009-02-23",
+          "groupe": "UMP",
+          "id_api": "17811",
+          "numero": "8",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Marland-Militello",
+          "date": "2009-02-23",
+          "groupe": "UMP",
+          "id_api": "17810",
+          "numero": "9",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Marland-Militello",
+          "date": "2009-02-23",
+          "groupe": "UMP",
+          "id_api": "17809",
+          "numero": "10",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Marland-Militello, …",
+          "date": "2009-02-23",
+          "groupe": "SRC",
+          "id_api": "17816",
+          "numero": "11",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Marland-Militello",
+          "date": "2009-02-23",
+          "groupe": "UMP",
+          "id_api": "17815",
+          "numero": "12",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Marland-Militello, …",
+          "date": "2009-02-23",
+          "groupe": "GDR",
+          "id_api": "17808",
+          "numero": "13",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Marland-Militello, …",
+          "date": "2009-02-24",
+          "groupe": "SRC",
+          "id_api": "17849",
+          "numero": "14",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Marland-Militello, …",
+          "date": "2009-02-23",
+          "groupe": "SRC",
+          "id_api": "17807",
+          "numero": "15",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Marland-Militello, …",
+          "date": "2009-02-23",
+          "groupe": "SRC",
+          "id_api": "17806",
+          "numero": "16",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Marland-Militello",
+          "date": "2009-02-23",
+          "groupe": "UMP",
+          "id_api": "17805",
+          "numero": "17",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Marland-Militello, …",
+          "date": "2009-02-23",
+          "groupe": "GDR",
+          "id_api": "17804",
+          "numero": "18",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Marland-Militello, …",
+          "date": "2009-02-23",
+          "groupe": "SRC",
+          "id_api": "17803",
+          "numero": "19",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Marland-Militello",
+          "date": "2009-02-23",
+          "groupe": "UMP",
+          "id_api": "17802",
+          "numero": "20",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Marland-Militello",
+          "date": "2009-02-23",
+          "groupe": "UMP",
+          "id_api": "17801",
+          "numero": "21",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Marland-Militello",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17843",
+          "numero": "22",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17936",
+          "numero": "33",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17935",
+          "numero": "34",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17934",
+          "numero": "35",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17926",
+          "numero": "36",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17925",
+          "numero": "37",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17924",
+          "numero": "38",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17923",
+          "numero": "39",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17922",
+          "numero": "40",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17921",
+          "numero": "41",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17920",
+          "numero": "42",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17919",
+          "numero": "43",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17918",
+          "numero": "44",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17867",
+          "numero": "45",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester, …",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17866",
+          "numero": "46",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17865",
+          "numero": "47",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17864",
+          "numero": "48",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17863",
+          "numero": "49",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-03-12",
+          "groupe": "UMP",
+          "id_api": "18286",
+          "numero": "50",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester, …",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17857",
+          "numero": "51",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17856",
+          "numero": "52",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester, …",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17855",
+          "numero": "53",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17932",
+          "numero": "54",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17854",
+          "numero": "55",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17931",
+          "numero": "56",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17853",
+          "numero": "57",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17852",
+          "numero": "58",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester, …",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17851",
+          "numero": "59",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17850",
+          "numero": "60",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17930",
+          "numero": "61",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17929",
+          "numero": "62",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17848",
+          "numero": "63",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester, …",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17847",
+          "numero": "64",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17928",
+          "numero": "65",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17927",
+          "numero": "66",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17967",
+          "numero": "67",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17965",
+          "numero": "68",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17964",
+          "numero": "69",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17963",
+          "numero": "70",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17961",
+          "numero": "71",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17960",
+          "numero": "72",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17958",
+          "numero": "73",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17957",
+          "numero": "74",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17979",
+          "numero": "75",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17955",
+          "numero": "76",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17947",
+          "numero": "77",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17954",
+          "numero": "78",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17953",
+          "numero": "79",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17952",
+          "numero": "80",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester, …",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17950",
+          "numero": "81",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17846",
+          "numero": "82",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17845",
+          "numero": "83",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17844",
+          "numero": "84",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17842",
+          "numero": "85",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17978",
+          "numero": "115",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17977",
+          "numero": "116",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17976",
+          "numero": "117",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17975",
+          "numero": "118",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17974",
+          "numero": "119",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2009-03-10",
+          "groupe": "UMP",
+          "id_api": "18179",
+          "numero": "120",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17973",
+          "numero": "121",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17972",
+          "numero": "122",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17971",
+          "numero": "123",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2009-02-25",
+          "groupe": "UMP",
+          "id_api": "17938",
+          "numero": "124",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17970",
+          "numero": "125",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17969",
+          "numero": "126",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17968",
+          "numero": "127",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17966",
+          "numero": "128",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17962",
+          "numero": "129",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17959",
+          "numero": "130",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17956",
+          "numero": "131",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17951",
+          "numero": "132",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17949",
+          "numero": "133",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17948",
+          "numero": "134",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17946",
+          "numero": "135",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Poisson, …",
+          "date": "2009-03-03",
+          "groupe": "UMP",
+          "id_api": "17981",
+          "numero": "142",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Poisson, …",
+          "date": "2009-03-03",
+          "groupe": "UMP",
+          "id_api": "17999",
+          "numero": "143",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Poisson, …",
+          "date": "2009-03-03",
+          "groupe": "UMP",
+          "id_api": "17996",
+          "numero": "144",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Poisson, …",
+          "date": "2009-03-03",
+          "groupe": "UMP",
+          "id_api": "17995",
+          "numero": "145",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Poisson, …",
+          "date": "2009-03-03",
+          "groupe": "UMP",
+          "id_api": "17994",
+          "numero": "146",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Poisson, …",
+          "date": "2009-03-03",
+          "groupe": "UMP",
+          "id_api": "17993",
+          "numero": "147",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Poisson, …",
+          "date": "2009-03-03",
+          "groupe": "UMP",
+          "id_api": "17992",
+          "numero": "148",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Poisson, …",
+          "date": "2009-03-03",
+          "groupe": "UMP",
+          "id_api": "17991",
+          "numero": "149",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Poisson, …",
+          "date": "2009-03-03",
+          "groupe": "UMP",
+          "id_api": "17990",
+          "numero": "150",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Poisson, …",
+          "date": "2009-03-03",
+          "groupe": "UMP",
+          "id_api": "17989",
+          "numero": "151",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Poisson, …",
+          "date": "2009-03-03",
+          "groupe": "UMP",
+          "id_api": "17988",
+          "numero": "152",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Poisson, …",
+          "date": "2009-03-03",
+          "groupe": "UMP",
+          "id_api": "17987",
+          "numero": "153",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Poisson, …",
+          "date": "2009-03-03",
+          "groupe": "UMP",
+          "id_api": "17986",
+          "numero": "154",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Poisson, …",
+          "date": "2009-03-03",
+          "groupe": "UMP",
+          "id_api": "17985",
+          "numero": "155",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Poisson, …",
+          "date": "2009-03-03",
+          "groupe": "UMP",
+          "id_api": "17997",
+          "numero": "156",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Poisson, …",
+          "date": "2009-03-03",
+          "groupe": "UMP",
+          "id_api": "17984",
+          "numero": "157",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Poisson, …",
+          "date": "2009-03-03",
+          "groupe": "UMP",
+          "id_api": "17983",
+          "numero": "158",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Poisson, …",
+          "date": "2009-03-05",
+          "groupe": "UMP",
+          "id_api": "18002",
+          "numero": "159",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Poisson, …",
+          "date": "2009-03-03",
+          "groupe": "UMP",
+          "id_api": "17982",
+          "numero": "161",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2009-03-06",
+          "groupe": "UMP",
+          "id_api": "18006",
+          "numero": "165",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18039",
+          "numero": "167",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Remiller",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18026",
+          "numero": "170",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Remiller",
+          "date": "2009-03-10",
+          "groupe": "UMP",
+          "id_api": "18207",
+          "numero": "171",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Remiller",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18025",
+          "numero": "172",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Remiller",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18024",
+          "numero": "174",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Gérard",
+          "date": "2009-03-11",
+          "groupe": "UMP",
+          "id_api": "18273",
+          "numero": "176",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Gérard, …",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18023",
+          "numero": "177",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Gérard, …",
+          "date": "2009-03-09",
+          "groupe": "SRC",
+          "id_api": "18022",
+          "numero": "178",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Gérard, …",
+          "date": "2009-03-09",
+          "groupe": "SRC",
+          "id_api": "18040",
+          "numero": "179",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Gérard, …",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18035",
+          "numero": "180",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "",
+          "date": "2009-03-09",
+          "groupe": "Inconnu",
+          "id_api": "18043",
+          "numero": "181",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Gérard",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18036",
+          "numero": "182",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Gérard",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18021",
+          "numero": "183",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Gérard",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18037",
+          "numero": "184",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Gérard",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18020",
+          "numero": "185",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Gérard, …",
+          "date": "2009-03-09",
+          "groupe": "SRC",
+          "id_api": "18034",
+          "numero": "186",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Gérard, …",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18033",
+          "numero": "187",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Gérard, …",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18032",
+          "numero": "188",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Gérard, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18152",
+          "numero": "189",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Gérard, …",
+          "date": "2009-03-10",
+          "groupe": "UMP",
+          "id_api": "18148",
+          "numero": "190",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Gérard",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18031",
+          "numero": "191",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Gérard, …",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18030",
+          "numero": "192",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Gérard, …",
+          "date": "2009-03-09",
+          "groupe": "SRC",
+          "id_api": "18028",
+          "numero": "193",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Gérard",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18027",
+          "numero": "194",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Gérard, …",
+          "date": "2009-03-09",
+          "groupe": "SRC",
+          "id_api": "18016",
+          "numero": "195",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18015",
+          "numero": "203",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18038",
+          "numero": "205",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18017",
+          "numero": "206",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18041",
+          "numero": "207",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2009-03-10",
+          "groupe": "UMP",
+          "id_api": "18100",
+          "numero": "208",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Warsmann",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18029",
+          "numero": "210",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Warsmann",
+          "date": "2009-03-10",
+          "groupe": "UMP",
+          "id_api": "18133",
+          "numero": "211",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Warsmann",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18018",
+          "numero": "213",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Warsmann",
+          "date": "2009-03-10",
+          "groupe": "UMP",
+          "id_api": "18117",
+          "numero": "214",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Marland-Militello",
+          "date": "2009-03-10",
+          "groupe": "UMP",
+          "id_api": "18196",
+          "numero": "216",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Marland-Militello",
+          "date": "2009-03-10",
+          "groupe": "UMP",
+          "id_api": "18195",
+          "numero": "217",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Marland-Militello",
+          "date": "2009-03-10",
+          "groupe": "UMP",
+          "id_api": "18194",
+          "numero": "218",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2009-03-10",
+          "groupe": "UMP",
+          "id_api": "18099",
+          "numero": "221",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Martin-Lalande",
+          "date": "2009-03-11",
+          "groupe": "UMP",
+          "id_api": "18272",
+          "numero": "222",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18126",
+          "numero": "223",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18125",
+          "numero": "225",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18124",
+          "numero": "226",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18123",
+          "numero": "227",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Filippetti, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18122",
+          "numero": "228",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18120",
+          "numero": "229",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18119",
+          "numero": "230",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18116",
+          "numero": "231",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18114",
+          "numero": "232",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18113",
+          "numero": "233",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18112",
+          "numero": "234",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18111",
+          "numero": "235",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18107",
+          "numero": "236",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18110",
+          "numero": "237",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18105",
+          "numero": "238",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18106",
+          "numero": "239",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Filippetti, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18102",
+          "numero": "240",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18098",
+          "numero": "241",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18094",
+          "numero": "243",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18089",
+          "numero": "244",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18077",
+          "numero": "245",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18084",
+          "numero": "246",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Karamanli, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18211",
+          "numero": "247",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18206",
+          "numero": "248",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18204",
+          "numero": "249",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18192",
+          "numero": "250",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18186",
+          "numero": "251",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18189",
+          "numero": "252",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "",
+          "date": "2009-03-10",
+          "groupe": "Inconnu",
+          "id_api": "18228",
+          "numero": "253",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18178",
+          "numero": "254",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "",
+          "date": "2009-03-10",
+          "groupe": "Inconnu",
+          "id_api": "18227",
+          "numero": "255",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18177",
+          "numero": "256",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18176",
+          "numero": "257",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18175",
+          "numero": "258",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18174",
+          "numero": "259",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18159",
+          "numero": "260",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18158",
+          "numero": "261",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18156",
+          "numero": "262",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18151",
+          "numero": "263",
+          "sort": "adopté"
+        },
+        {
+          "aut": "",
+          "date": "2009-03-10",
+          "groupe": "Inconnu",
+          "id_api": "18226",
+          "numero": "264",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-11",
+          "groupe": "SRC",
+          "id_api": "18262",
+          "numero": "265",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18146",
+          "numero": "266",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Filipetti, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18142",
+          "numero": "267",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18140",
+          "numero": "268",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18139",
+          "numero": "269",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Filipetti, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18138",
+          "numero": "270",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18134",
+          "numero": "271",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Dionis du Séjour, …",
+          "date": "2009-03-10",
+          "groupe": "NC",
+          "id_api": "18185",
+          "numero": "273",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Dionis du Séjour, …",
+          "date": "2009-03-10",
+          "groupe": "NC",
+          "id_api": "18184",
+          "numero": "274",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Dionis du Séjour, …",
+          "date": "2009-03-10",
+          "groupe": "NC",
+          "id_api": "18180",
+          "numero": "275",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Dionis du Séjour",
+          "date": "2009-03-10",
+          "groupe": "NC",
+          "id_api": "18200",
+          "numero": "276",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Dionis du Séjour",
+          "date": "2009-03-10",
+          "groupe": "NC",
+          "id_api": "18199",
+          "numero": "277",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Dionis du Séjour, …",
+          "date": "2009-03-10",
+          "groupe": "NC",
+          "id_api": "18145",
+          "numero": "278",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Dionis du Séjour, …",
+          "date": "2009-03-10",
+          "groupe": "NC",
+          "id_api": "18137",
+          "numero": "279",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Dionis du Séjour, …",
+          "date": "2009-03-10",
+          "groupe": "NC",
+          "id_api": "18128",
+          "numero": "281",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Dionis du Séjour, …",
+          "date": "2009-03-10",
+          "groupe": "NC",
+          "id_api": "18118",
+          "numero": "282",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Dionis du Séjour, …",
+          "date": "2009-03-10",
+          "groupe": "NC",
+          "id_api": "18225",
+          "numero": "283",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Dionis du Séjour, …",
+          "date": "2009-03-10",
+          "groupe": "NC",
+          "id_api": "18109",
+          "numero": "284",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Dionis du Séjour, …",
+          "date": "2009-03-10",
+          "groupe": "NC",
+          "id_api": "18104",
+          "numero": "285",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Dionis du Séjour, …",
+          "date": "2009-03-10",
+          "groupe": "NC",
+          "id_api": "18083",
+          "numero": "287",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18082",
+          "numero": "288",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "",
+          "date": "2009-03-10",
+          "groupe": "Inconnu",
+          "id_api": "18224",
+          "numero": "289",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18182",
+          "numero": "290",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18183",
+          "numero": "291",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18181",
+          "numero": "292",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-11",
+          "groupe": "SRC",
+          "id_api": "18264",
+          "numero": "293",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Martin-Lalande",
+          "date": "2009-03-10",
+          "groupe": "UMP",
+          "id_api": "18197",
+          "numero": "309",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Suguenot, …",
+          "date": "2009-03-10",
+          "groupe": "UMP",
+          "id_api": "18188",
+          "numero": "312",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-03-10",
+          "groupe": "UMP",
+          "id_api": "18230",
+          "numero": "318",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-04-01",
+          "groupe": "UMP",
+          "id_api": "18326",
+          "numero": "319",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-04-01",
+          "groupe": "UMP",
+          "id_api": "18323",
+          "numero": "320",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18233",
+          "numero": "338",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18217",
+          "numero": "340",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18213",
+          "numero": "341",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18216",
+          "numero": "342",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18215",
+          "numero": "343",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-11",
+          "groupe": "GDR",
+          "id_api": "18268",
+          "numero": "344",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18222",
+          "numero": "345",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "",
+          "date": "2009-03-10",
+          "groupe": "Inconnu",
+          "id_api": "18221",
+          "numero": "346",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "",
+          "date": "2009-03-10",
+          "groupe": "Inconnu",
+          "id_api": "18220",
+          "numero": "347",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18212",
+          "numero": "348",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18205",
+          "numero": "349",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18202",
+          "numero": "350",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18198",
+          "numero": "351",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18203",
+          "numero": "352",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18201",
+          "numero": "353",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18097",
+          "numero": "354",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18096",
+          "numero": "356",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18093",
+          "numero": "357",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18092",
+          "numero": "358",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18091",
+          "numero": "359",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18090",
+          "numero": "360",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18088",
+          "numero": "361",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18087",
+          "numero": "362",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18086",
+          "numero": "363",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18076",
+          "numero": "364",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18085",
+          "numero": "365",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18173",
+          "numero": "367",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18172",
+          "numero": "368",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18171",
+          "numero": "369",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18170",
+          "numero": "370",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18169",
+          "numero": "371",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18168",
+          "numero": "372",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18167",
+          "numero": "373",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18166",
+          "numero": "374",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18165",
+          "numero": "375",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18164",
+          "numero": "376",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18163",
+          "numero": "377",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18162",
+          "numero": "378",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18157",
+          "numero": "379",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18155",
+          "numero": "380",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18154",
+          "numero": "381",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18150",
+          "numero": "382",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18149",
+          "numero": "383",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18144",
+          "numero": "384",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18141",
+          "numero": "385",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18136",
+          "numero": "387",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18135",
+          "numero": "388",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18147",
+          "numero": "389",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18132",
+          "numero": "390",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18131",
+          "numero": "391",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18153",
+          "numero": "393",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Mariani",
+          "date": "2009-03-10",
+          "groupe": "UMP",
+          "id_api": "18143",
+          "numero": "395",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18232",
+          "numero": "403",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18231",
+          "numero": "404",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18229",
+          "numero": "405",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18218",
+          "numero": "406",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18214",
+          "numero": "407",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18210",
+          "numero": "408",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Karamanli, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18209",
+          "numero": "409",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18208",
+          "numero": "410",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18161",
+          "numero": "423",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18160",
+          "numero": "424",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-11",
+          "groupe": "GDR",
+          "id_api": "18266",
+          "numero": "428",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18193",
+          "numero": "429",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-11",
+          "groupe": "GDR",
+          "id_api": "18265",
+          "numero": "430",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18191",
+          "numero": "431",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18190",
+          "numero": "432",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18187",
+          "numero": "433",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18130",
+          "numero": "434",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18129",
+          "numero": "435",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18127",
+          "numero": "436",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18121",
+          "numero": "437",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18115",
+          "numero": "438",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18095",
+          "numero": "446",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-11",
+          "groupe": "GDR",
+          "id_api": "18260",
+          "numero": "447",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-11",
+          "groupe": "GDR",
+          "id_api": "18261",
+          "numero": "448",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18103",
+          "numero": "449",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-11",
+          "groupe": "GDR",
+          "id_api": "18259",
+          "numero": "450",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18101",
+          "numero": "451",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18108",
+          "numero": "453",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "",
+          "date": "2009-03-11",
+          "groupe": "Gouvernement",
+          "id_api": "18267",
+          "numero": "456",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Dionis du Séjour, …",
+          "date": "2009-03-11",
+          "groupe": "NC",
+          "id_api": "18258",
+          "numero": "458",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Karamanli, …",
+          "date": "2009-03-12",
+          "groupe": "SRC",
+          "id_api": "18287",
+          "numero": "469",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Martin-Lalande, …",
+          "date": "2009-03-27",
+          "groupe": "UMP",
+          "id_api": "18292",
+          "numero": "470",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Martin-Lalande, …",
+          "date": "2009-03-20",
+          "groupe": "UMP",
+          "id_api": "18290",
+          "numero": "471",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Martin-Lalande, …",
+          "date": "2009-03-20",
+          "groupe": "UMP",
+          "id_api": "18289",
+          "numero": "472",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Martin-Lalande, …",
+          "date": "2009-03-20",
+          "groupe": "UMP",
+          "id_api": "18288",
+          "numero": "473",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Martin-Lalande, …",
+          "date": "2009-03-26",
+          "groupe": "UMP",
+          "id_api": "18291",
+          "numero": "474",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-30",
+          "groupe": "GDR",
+          "id_api": "18309",
+          "numero": "475",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-30",
+          "groupe": "GDR",
+          "id_api": "18307",
+          "numero": "476",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-30",
+          "groupe": "GDR",
+          "id_api": "18305",
+          "numero": "477",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-30",
+          "groupe": "GDR",
+          "id_api": "18299",
+          "numero": "478",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-30",
+          "groupe": "GDR",
+          "id_api": "18298",
+          "numero": "479",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2009-03-30",
+          "groupe": "UMP",
+          "id_api": "18297",
+          "numero": "480",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2009-03-30",
+          "groupe": "UMP",
+          "id_api": "18304",
+          "numero": "481",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2009-03-30",
+          "groupe": "UMP",
+          "id_api": "18306",
+          "numero": "482",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2009-03-30",
+          "groupe": "UMP",
+          "id_api": "18296",
+          "numero": "483",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Dionis du Séjour",
+          "date": "2009-03-30",
+          "groupe": "NC",
+          "id_api": "18302",
+          "numero": "484",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Dionis du Séjour",
+          "date": "2009-03-30",
+          "groupe": "NC",
+          "id_api": "18300",
+          "numero": "485",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Dionis du Séjour",
+          "date": "2009-03-30",
+          "groupe": "NC",
+          "id_api": "18301",
+          "numero": "486",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Suguenot",
+          "date": "2009-03-30",
+          "groupe": "UMP",
+          "id_api": "18303",
+          "numero": "489",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-30",
+          "groupe": "SRC",
+          "id_api": "18308",
+          "numero": "493",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Suguenot, …",
+          "date": "2009-03-31",
+          "groupe": "UMP",
+          "id_api": "18320",
+          "numero": "494",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Suguenot",
+          "date": "2009-03-31",
+          "groupe": "UMP",
+          "id_api": "18312",
+          "numero": "495",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Suguenot",
+          "date": "2009-03-31",
+          "groupe": "UMP",
+          "id_api": "18313",
+          "numero": "496",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Suguenot",
+          "date": "2009-03-31",
+          "groupe": "UMP",
+          "id_api": "18319",
+          "numero": "498",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Suguenot",
+          "date": "2009-03-31",
+          "groupe": "UMP",
+          "id_api": "18315",
+          "numero": "499",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-31",
+          "groupe": "GDR",
+          "id_api": "18318",
+          "numero": "500",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-31",
+          "groupe": "GDR",
+          "id_api": "18317",
+          "numero": "501",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-31",
+          "groupe": "GDR",
+          "id_api": "18316",
+          "numero": "502",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-31",
+          "groupe": "GDR",
+          "id_api": "18314",
+          "numero": "503",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-31",
+          "groupe": "GDR",
+          "id_api": "18321",
+          "numero": "504",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-31",
+          "groupe": "GDR",
+          "id_api": "18311",
+          "numero": "506",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Le Fur",
+          "date": "2009-04-01",
+          "groupe": "UMP",
+          "id_api": "18328",
+          "numero": "507",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Martin-Lalande",
+          "date": "2009-04-01",
+          "groupe": "UMP",
+          "id_api": "18327",
+          "numero": "509",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard",
+          "date": "2009-04-01",
+          "groupe": "GDR",
+          "id_api": "18325",
+          "numero": "510",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-04-01",
+          "groupe": "SRC",
+          "id_api": "18324",
+          "numero": "511",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2009-04-02",
+          "groupe": "UMP",
+          "id_api": "18347",
+          "numero": "512",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2009-04-02",
+          "groupe": "UMP",
+          "id_api": "18346",
+          "numero": "513",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2009-04-02",
+          "groupe": "UMP",
+          "id_api": "18345",
+          "numero": "514",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 4,
+      "titre": "Article 2"
+    },
+    "Article 3": {
+      "amendements": [
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17841",
+          "numero": "86",
+          "sort": "adopté"
+        }
+      ],
+      "order": 6,
+      "titre": "Article 3"
+    },
+    "Article 4 bis": {
+      "amendements": [
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17840",
+          "numero": "87",
+          "sort": "adopté"
+        }
+      ],
+      "order": 8,
+      "titre": "Article 4 bis"
+    },
+    "Article 5": {
+      "amendements": [
+        {
+          "aut": "M. Tardy, …",
+          "date": "2009-03-05",
+          "groupe": "UMP",
+          "id_api": "18001",
+          "numero": "163",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Gérard, …",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18014",
+          "numero": "196",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18074",
+          "numero": "295",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18075",
+          "numero": "298",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Dionis du Séjour, …",
+          "date": "2009-03-10",
+          "groupe": "NC",
+          "id_api": "18073",
+          "numero": "324",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Dionis du Séjour, …",
+          "date": "2009-03-10",
+          "groupe": "NC",
+          "id_api": "18072",
+          "numero": "325",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18071",
+          "numero": "415",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy, …",
+          "date": "2009-03-11",
+          "groupe": "UMP",
+          "id_api": "18257",
+          "numero": "460",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 10,
+      "titre": "Article 5"
+    },
+    "Article 6": {
+      "amendements": [
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17839",
+          "numero": "88",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17838",
+          "numero": "89",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17837",
+          "numero": "90",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18013",
+          "numero": "209",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18070",
+          "numero": "296",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18068",
+          "numero": "297",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18066",
+          "numero": "299",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18065",
+          "numero": "300",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Dionis du Séjour, …",
+          "date": "2009-03-10",
+          "groupe": "NC",
+          "id_api": "18064",
+          "numero": "326",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18069",
+          "numero": "416",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Billard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18067",
+          "numero": "417",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-11",
+          "groupe": "GDR",
+          "id_api": "18256",
+          "numero": "418",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 11,
+      "titre": "Article 6"
+    },
+    "Article 7": {
+      "amendements": [
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17836",
+          "numero": "91",
+          "sort": "adopté"
+        }
+      ],
+      "order": 12,
+      "titre": "Article 7"
+    },
+    "Article 7 bis ": {
+      "amendements": [
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17835",
+          "numero": "92",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2009-03-06",
+          "groupe": "UMP",
+          "id_api": "18004",
+          "numero": "166",
+          "sort": "adopté"
+        }
+      ],
+      "order": 13,
+      "titre": "Article 7 bis "
+    },
+    "Article 8": {
+      "amendements": [
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17834",
+          "numero": "93",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17945",
+          "numero": "94",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18063",
+          "numero": "307",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 15,
+      "titre": "Article 8"
+    },
+    "Article 9": {
+      "amendements": [
+        {
+          "aut": "M. Tardy, …",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17944",
+          "numero": "136",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18062",
+          "numero": "308",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18061",
+          "numero": "420",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 17,
+      "titre": "Article 9"
+    },
+    "Article 9 bis": {
+      "amendements": [
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17832",
+          "numero": "95",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17831",
+          "numero": "96",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17943",
+          "numero": "97",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Gérard, …",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18012",
+          "numero": "197",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Gérard",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18019",
+          "numero": "198",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Gérard",
+          "date": "2009-03-11",
+          "groupe": "UMP",
+          "id_api": "18252",
+          "numero": "462",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-04-02",
+          "groupe": "GDR",
+          "id_api": "18343",
+          "numero": "527",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-04-02",
+          "groupe": "GDR",
+          "id_api": "18344",
+          "numero": "528",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 20,
+      "titre": "Article 9 bis"
+    },
+    "Article 9 quater": {
+      "amendements": [
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17828",
+          "numero": "102",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18054",
+          "numero": "315",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 24,
+      "titre": "Article 9 quater"
+    },
+    "Article 9 ter": {
+      "amendements": [
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17942",
+          "numero": "98",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17941",
+          "numero": "99",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17830",
+          "numero": "100",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17829",
+          "numero": "101",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Gérard",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18011",
+          "numero": "199",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Lefebvre, …",
+          "date": "2009-03-10",
+          "groupe": "UMP",
+          "id_api": "18045",
+          "numero": "321",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Lefebvre",
+          "date": "2009-03-11",
+          "groupe": "UMP",
+          "id_api": "18242",
+          "numero": "322",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Dionis du Séjour, …",
+          "date": "2009-03-10",
+          "groupe": "NC",
+          "id_api": "18057",
+          "numero": "328",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Dionis du Séjour, …",
+          "date": "2009-03-10",
+          "groupe": "NC",
+          "id_api": "18056",
+          "numero": "329",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Dionis du Séjour, …",
+          "date": "2009-03-10",
+          "groupe": "NC",
+          "id_api": "18055",
+          "numero": "330",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Lefebvre",
+          "date": "2009-03-10",
+          "groupe": "UMP",
+          "id_api": "18219",
+          "numero": "392",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Riester",
+          "date": "2009-04-02",
+          "groupe": "UMP",
+          "id_api": "18342",
+          "numero": "515",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Marland-Militello, …",
+          "date": "2009-04-02",
+          "groupe": "UMP",
+          "id_api": "18341",
+          "numero": "530",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Marland-Militello, …",
+          "date": "2009-04-02",
+          "groupe": "UMP",
+          "id_api": "18340",
+          "numero": "531",
+          "sort": "adopté"
+        }
+      ],
+      "order": 22,
+      "titre": "Article 9 ter"
+    },
+    "Avant l'article 10": {
+      "amendements": [
+        {
+          "aut": "M. Tardy, …",
+          "date": "2009-02-26",
+          "groupe": "UMP",
+          "id_api": "17940",
+          "numero": "137",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Dionis du Séjour, …",
+          "date": "2009-03-10",
+          "groupe": "NC",
+          "id_api": "18053",
+          "numero": "323",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18052",
+          "numero": "402",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 25,
+      "titre": "Avant l'article 10"
+    },
+    "Avant l'article 1er": {
+      "amendements": [
+        {
+          "aut": "M. Dionis du Séjour, …",
+          "date": "2009-03-09",
+          "groupe": "NC",
+          "id_api": "18044",
+          "numero": "202",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Dionis du séjour, …",
+          "date": "2009-03-11",
+          "groupe": "NC",
+          "id_api": "18277",
+          "numero": "215",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Riester, …",
+          "date": "2009-03-10",
+          "groupe": "UMP",
+          "id_api": "18239",
+          "numero": "317",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Suguenot",
+          "date": "2009-03-11",
+          "groupe": "UMP",
+          "id_api": "18280",
+          "numero": "394",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-11",
+          "groupe": "GDR",
+          "id_api": "18276",
+          "numero": "412",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18240",
+          "numero": "413",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-11",
+          "groupe": "GDR",
+          "id_api": "18279",
+          "numero": "419",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-11",
+          "groupe": "SRC",
+          "id_api": "18278",
+          "numero": "445",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 1,
+      "titre": "Avant l'article 1er"
+    },
+    "Avant l'article 9 bis": {
+      "amendements": [
+        {
+          "aut": "Mme Marland-Militello",
+          "date": "2009-02-24",
+          "groupe": "UMP",
+          "id_api": "17833",
+          "numero": "23",
+          "sort": "adopté"
+        }
+      ],
+      "order": 19,
+      "titre": "Avant l'article 9 bis"
+    },
+    "Avant l'article 9 ter": {
+      "amendements": [
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-11",
+          "groupe": "SRC",
+          "id_api": "18253",
+          "numero": "314",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 21,
+      "titre": "Avant l'article 9 ter"
+    },
+    "Avant le chapitre 1er": {
+      "amendements": [
+        {
+          "aut": "M. Martin-Lalande",
+          "date": "2009-03-09",
+          "groupe": "UMP",
+          "id_api": "18042",
+          "numero": "200",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Brard, …",
+          "date": "2009-03-10",
+          "groupe": "GDR",
+          "id_api": "18223",
+          "numero": "336",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-10",
+          "groupe": "SRC",
+          "id_api": "18241",
+          "numero": "396",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-11",
+          "groupe": "SRC",
+          "id_api": "18271",
+          "numero": "397",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-11",
+          "groupe": "SRC",
+          "id_api": "18270",
+          "numero": "401",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-11",
+          "groupe": "SRC",
+          "id_api": "18281",
+          "numero": "439",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-11",
+          "groupe": "SRC",
+          "id_api": "18285",
+          "numero": "440",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-11",
+          "groupe": "SRC",
+          "id_api": "18284",
+          "numero": "441",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-11",
+          "groupe": "SRC",
+          "id_api": "18282",
+          "numero": "443",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bloche, …",
+          "date": "2009-03-11",
+          "groupe": "SRC",
+          "id_api": "18283",
+          "numero": "444",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 0,
+      "titre": "Avant le chapitre 1er"
+    }
+  }
+}

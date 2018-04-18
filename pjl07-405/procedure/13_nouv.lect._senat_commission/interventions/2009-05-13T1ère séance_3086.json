@@ -1,0 +1,196 @@
+{
+  "seance": [
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Diffusion et protection de la création sur Internet - Examen des amendements en nouvelle lecture</p>",
+        "date": "2009-05-13",
+        "heure": "1ère séance",
+        "id": "854891",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [],
+        "nbmots": "18",
+        "seance_id": "3086",
+        "seance_lieu": "Commission des affaires culturelles, familiales et sociales",
+        "seance_titre": "réunion du 13 mai 2009 : 1ère réunion",
+        "section": "Diffusion et protection de la création sur internet",
+        "source": "http://www.senat.fr/compte-rendu-commissions/20090511/cult.html#par75",
+        "soussection": "Examen des amendements en nouvelle lecture",
+        "tags": [],
+        "timestamp": "20",
+        "type": "commission",
+        "url_nossenateurs": "http://www.nossenateurs.fr/seance/3086#inter_d161b1b660835025d2858f8f1f511f99",
+        "url_nossenateurs_api": "http://www.nossenateurs.fr/api/document/Intervention/854891/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La commission a procédé à l'examen des amendements au texte n° 397 de la commission sur le projet de loi n° 395 (2008-2009), en nouvelle lecture, favorisant la diffusion et la protection de la création sur internet.</p>",
+        "date": "2009-05-13",
+        "heure": "1ère séance",
+        "id": "854892",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "20082009-395"
+          }
+        ],
+        "nbmots": "38",
+        "seance_id": "3086",
+        "seance_lieu": "Commission des affaires culturelles, familiales et sociales",
+        "seance_titre": "réunion du 13 mai 2009 : 1ère réunion",
+        "section": "Diffusion et protection de la création sur internet",
+        "source": "http://www.senat.fr/compte-rendu-commissions/20090511/cult.html#par76",
+        "soussection": "Examen des amendements en nouvelle lecture",
+        "tags": [],
+        "timestamp": "40",
+        "type": "commission",
+        "url_nossenateurs": "http://www.nossenateurs.fr/seance/3086#inter_ea4f1a5104c4b5debff1568e91586ea6",
+        "url_nossenateurs_api": "http://www.nossenateurs.fr/api/document/Intervention/854892/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Avant l'article 1er, après les interventions de MM.  Ivan Renar et Serge Lagauche et suivant l'avis de son rapporteur, la commission a donné un avis défavorable aux amendements n°s 2 et 3 présentés par M. Ivan Renar et les membres du groupe communiste républicain, citoyen et des sénateurs du parti de gauche, visant, respectivement, à reconnaître l'accès à internet et le droit d'auteur comme des droits fondamentaux, le groupe socialiste s'abstenant.</p>",
+        "date": "2009-05-13",
+        "heure": "1ère séance",
+        "id": "854893",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "",
+        "intervenant_nom": "Mm",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "20082009-395"
+          }
+        ],
+        "nbmots": "78",
+        "seance_id": "3086",
+        "seance_lieu": "Commission des affaires culturelles, familiales et sociales",
+        "seance_titre": "réunion du 13 mai 2009 : 1ère réunion",
+        "section": "Diffusion et protection de la création sur internet",
+        "source": "http://www.senat.fr/compte-rendu-commissions/20090511/cult.html#par77",
+        "soussection": "Examen des amendements en nouvelle lecture",
+        "tags": [],
+        "timestamp": "60",
+        "type": "commission",
+        "url_nossenateurs": "http://www.nossenateurs.fr/seance/3086#inter_028de25dbec65cc8c761ed06c4a70c7e",
+        "url_nossenateurs_api": "http://www.nossenateurs.fr/api/document/Intervention/854893/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [
+          {
+            "amendement": "5"
+          }
+        ],
+        "contenu": "<p>A l'article 10 bis A (Droit d'auteur des journalistes), la commission a donné un avis défavorable à l'amendement n° 5 présenté par M. Ivan Renar et les membres du groupe communiste républicain, citoyen et des sénateurs du parti de gauche, visant à rétablir l'obligation de rémunération complémentaire due aux journalistes. Puis elle a donné un avis défavorable aux amendements identiques n°s 1 et 4 présentés respectivement par Mme Marie-Christine Blandin et par M. Ivan Renar et les membres du groupe communiste républicain, citoyen et des sénateurs du parti de gauche, visant à supprimer la disposition consacrant le principe d'une collaboration sur l'ensemble des supports du titre de presse, à l'occasion de la conclusion d'un contrat de travail. M. Serge Lagauche a indiqué que l'ensemble du groupe socialiste soutenait l'amendement présenté par Mme Marie-Christine Blandin.</p>",
+        "date": "2009-05-13",
+        "heure": "1ère séance",
+        "id": "854894",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SOCV",
+        "intervenant_nom": "Serge Lagauche",
+        "intervenant_slug": "serge-lagauche",
+        "lois": [
+          {
+            "loi": "20082009-395"
+          }
+        ],
+        "nbmots": "143",
+        "seance_id": "3086",
+        "seance_lieu": "Commission des affaires culturelles, familiales et sociales",
+        "seance_titre": "réunion du 13 mai 2009 : 1ère réunion",
+        "section": "Diffusion et protection de la création sur internet",
+        "source": "http://www.senat.fr/compte-rendu-commissions/20090511/cult.html#par78",
+        "soussection": "Examen des amendements en nouvelle lecture",
+        "tags": [
+          {
+            "tag": "respectivement"
+          },
+          {
+            "tag": "collaboration"
+          },
+          {
+            "tag": "journalistes"
+          },
+          {
+            "tag": "consacrant"
+          },
+          {
+            "tag": "soutenait"
+          },
+          {
+            "tag": "rétablir"
+          },
+          {
+            "tag": "supports"
+          }
+        ],
+        "timestamp": "80",
+        "type": "commission",
+        "url_nossenateurs": "http://www.nossenateurs.fr/seance/3086#inter_b43745d83f733c4867a44aca69b65878",
+        "url_nossenateurs_api": "http://www.nossenateurs.fr/api/document/Intervention/854894/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [
+          {
+            "amendement": "6"
+          }
+        ],
+        "contenu": "<p>Après l'article 13, après les interventions de MM. Ivan Renar et Serge Lagauche, et suivant l'avis de son rapporteur, la commission a donné un avis défavorable à l'amendement n° 6 présenté par M. Ivan Renar et les membres du groupe communiste républicain, citoyen et des sénateurs du parti de gauche, visant à créer un conseil pluraliste chargé de définir les conditions de rémunération des auteurs à l'heure numérique, le groupe socialiste s'abstenant.</p>",
+        "date": "2009-05-13",
+        "heure": "1ère séance",
+        "id": "854895",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "CRC-SPG",
+        "intervenant_nom": "Ivan Renar",
+        "intervenant_slug": "ivan-renar",
+        "lois": [
+          {
+            "loi": "20082009-395"
+          }
+        ],
+        "nbmots": "80",
+        "seance_id": "3086",
+        "seance_lieu": "Commission des affaires culturelles, familiales et sociales",
+        "seance_titre": "réunion du 13 mai 2009 : 1ère réunion",
+        "section": "Diffusion et protection de la création sur internet",
+        "source": "http://www.senat.fr/compte-rendu-commissions/20090511/cult.html#par78",
+        "soussection": "Examen des amendements en nouvelle lecture",
+        "tags": [
+          {
+            "tag": "interventions"
+          },
+          {
+            "tag": "numérique"
+          },
+          {
+            "tag": "pluraliste"
+          },
+          {
+            "tag": "abstenant"
+          },
+          {
+            "tag": "définir"
+          }
+        ],
+        "timestamp": "100",
+        "type": "commission",
+        "url_nossenateurs": "http://www.nossenateurs.fr/seance/3086#inter_27fc416be29820e3d881365921da72b3",
+        "url_nossenateurs_api": "http://www.nossenateurs.fr/api/document/Intervention/854895/json"
+      }
+    }
+  ]
+}

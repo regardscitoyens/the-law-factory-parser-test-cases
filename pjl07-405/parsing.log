@@ -1,0 +1,217 @@
+ -= DOSLEG URL: http://www.senat.fr/dossier-legislatif/pjl07-405.html =-
+  [] download SENAT version
+  [] parse SENAT version
+  [] download AN version
+  [] parse AN version
+        title: projet de loi favorisant la diffusion et la protection de la création sur Internet
+0 anomalies ( 1 doslegs)
+  [] parse the texts
+** parsing texts of pjl07-405
+    ^ text:  https://www.senat.fr/leg/pjl07-405.html
+    ^ text:  https://www.senat.fr/rap/l08-053/l08-053.html
+    ^ text:  https://www.senat.fr/leg/tas08-008.html
+    ^ text:  http://www.assemblee-nationale.fr/13/projets/pl1240.asp
+    ^ text:  http://www.assemblee-nationale.fr/13/rapports/r1486.asp
+    ^ text:  http://www.assemblee-nationale.fr/13/ta/ta0249.asp
+    ^ text:  https://www.senat.fr/rap/l08-327/l08-327.html
+        ^ text url fixed: https://www.senat.fr/rap/l08-327/l08-3272.html
+    ^ text:  http://www.assemblee-nationale.fr/13/ta/ta0266.asp
+    ^ text:  https://www.senat.fr/leg/tas08-075.html
+    ^ text:  http://www.assemblee-nationale.fr/13/projets/pl1618.asp
+    ^ text:  http://www.assemblee-nationale.fr/13/ta-commission/r1626-a0.asp
+    ^ text:  http://www.assemblee-nationale.fr/13/ta/ta0275.asp
+    ^ text:  https://www.senat.fr/leg/pjl08-395.html
+    ^ text:  https://www.senat.fr/leg/pjl08-397.html
+    ^ text:  https://www.senat.fr/leg/tas08-081.html
+    ^ text:  http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2009/2009-580-dc/decision-n-2009-580-dc-du-10-juin-2009.42666.html
+    ^ text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000020735432&categorieLien=id
+    ^ complete text:  https://www.senat.fr/leg/pjl07-405.html
+    ^ complete text:  https://www.senat.fr/rap/l08-053/l08-053.html
+    ^ complete text:  https://www.senat.fr/leg/tas08-008.html
+    ^ complete text:  http://www.assemblee-nationale.fr/13/projets/pl1240.asp
+    ^ complete text:  http://www.assemblee-nationale.fr/13/rapports/r1486.asp
+    ^ complete text:  http://www.assemblee-nationale.fr/13/ta/ta0249.asp
+    ^ complete text:  https://www.senat.fr/rap/l08-327/l08-3272.html
+    ^ complete text:  http://www.assemblee-nationale.fr/13/ta/ta0266.asp
+    ^ complete text:  https://www.senat.fr/leg/tas08-075.html
+    ^ complete text:  http://www.assemblee-nationale.fr/13/projets/pl1618.asp
+    ^ complete text:  http://www.assemblee-nationale.fr/13/ta-commission/r1626-a0.asp
+    ^ complete text:  http://www.assemblee-nationale.fr/13/ta/ta0275.asp
+    ^ complete text:  https://www.senat.fr/leg/pjl08-395.html
+    ^ complete text:  https://www.senat.fr/leg/pjl08-397.html
+    ^ complete text:  https://www.senat.fr/leg/tas08-081.html
+WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 4 <-> 7 78 Vs 55 chars, similarity; 0.65
+    ^ complete text:  http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2009/2009-580-dc/decision-n-2009-580-dc-du-10-juin-2009.42666.html
+WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 2 <-> 5 25413 Vs 15996 chars, similarity; 0.63
+WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 6 <-> 11 1260 Vs 901 chars, similarity; 0.72
+WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 10 <-> 19 1681 Vs 912 chars, similarity; 0.54
+    ^ complete text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000020735432&categorieLien=id
+  [] format data for the frontend
+     writing to: pjl07-405_tmp
+ - process article versions
+      * preparing articles for step 00_1erelecture_senat_depot
+      * preparing articles for step 02_1erelecture_senat_hemicycle
+      * preparing articles for step 05_1erelecture_assemblee_hemicycle
+      * preparing articles for step 06_cmp_cmp_commission
+      * preparing articles for step 07_cmp_assemblee_hemicycle
+      * preparing articles for step 08_cmp_senat_hemicycle
+      * preparing articles for step 10_nouv.lect._assemblee_commission
+      * preparing articles for step 11_nouv.lect._assemblee_hemicycle
+      * preparing articles for step 13_nouv.lect._senat_commission
+      * preparing articles for step 14_nouv.lect._senat_hemicycle
+      * preparing articles for step 15_constitutionnalité_conseilconstitutionnel_
+ - process amendements & interventions
+    * step - 1ère lecture depot https://www.senat.fr/leg/pjl07-405.html
+    * step - 1ère lecture commission https://www.senat.fr/rap/l08-053/l08-053.html
+      * downloading amendments: https://nossenateurs.fr/amendements/20072008-405/json?cache=5feb2018 for https://www.senat.fr/leg/pjl07-405.html
+        parsing amendments: 177
+WARNING: amendments ignored (not the right step) 177
+      * downloading interventions
+        * downloading seances -  https://www.nossenateurs.fr/seances/20072008-405/json?commission=1
+           downloading seance -  https://www.nossenateurs.fr/seance/2661/20072008-405/json
+           downloading seance -  https://www.nossenateurs.fr/seance/2664/20072008-405/json
+           downloading seance -  https://www.nossenateurs.fr/seance/2931/20072008-405/json
+           downloading seance -  https://www.nossenateurs.fr/seance/3091/20072008-405/json
+           downloading seance -  https://www.nossenateurs.fr/seance/3664/20072008-405/json
+            dumping seance - 2008-10-29T2ème séance_3664
+           downloading seance -  https://www.nossenateurs.fr/seance/3822/20072008-405/json
+            dumping seance - 2008-10-28T1ère séance_3822
+    * step - 1ère lecture hemicycle https://www.senat.fr/leg/tas08-008.html
+      * downloading amendments: https://nossenateurs.fr/amendements/20072008-405/json?cache=5feb2018 for https://www.senat.fr/leg/pjl07-405.html
+        parsing amendments: 177
+      * downloading interventions
+        * downloading seances -  https://www.nossenateurs.fr/seances/20072008-405/json?hemicycle=1
+           downloading seance -  https://www.nossenateurs.fr/seance/1289/20072008-405/json
+           downloading seance -  https://www.nossenateurs.fr/seance/1509/20072008-405/json
+           downloading seance -  https://www.nossenateurs.fr/seance/235/20072008-405/json
+           downloading seance -  https://www.nossenateurs.fr/seance/481/20072008-405/json
+            dumping seance - 2008-10-30T10:00_481
+           downloading seance -  https://www.nossenateurs.fr/seance/941/20072008-405/json
+            dumping seance - 2008-10-29T22:00_941
+           downloading seance -  https://www.nossenateurs.fr/seance/983/20072008-405/json
+    * step - 1ère lecture depot http://www.assemblee-nationale.fr/13/projets/pl1240.asp
+    * step - 1ère lecture commission http://www.assemblee-nationale.fr/13/rapports/r1486.asp
+      * downloading amendments: https://nosdeputes.fr/13/amendements/1240/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/projets/pl1240.asp
+        parsing amendments: 499
+WARNING: amendments ignored (not the right step) 499
+      * downloading interventions
+        * downloading seances -  https://2007-2012.nosdeputes.fr/seances/1240/json?commission=1
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/625/1240/json
+            dumping seance - 2009-03-11T11:30_625
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/807/1240/json
+            dumping seance - 2009-02-17T16:15_807
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/808/1240/json
+            dumping seance - 2009-02-18T10:30_808
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/814/1240/json
+            dumping seance - 2009-02-17T16:15_814
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/815/1240/json
+            dumping seance - 2009-02-18T09:45_815
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/841/1240/json
+            dumping seance - 2009-02-10T14:30_841
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/845/1240/json
+            dumping seance - 2009-03-04T16:15_845
+    * step - 1ère lecture hemicycle http://www.assemblee-nationale.fr/13/ta/ta0249.asp
+      * downloading amendments: https://nosdeputes.fr/13/amendements/1240/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/projets/pl1240.asp
+        parsing amendments: 499
+      * downloading interventions
+        * downloading seances -  https://2007-2012.nosdeputes.fr/seances/1240/json?hemicycle=1
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/157/1240/json
+            dumping seance - 2009-03-11T15:00_157
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/162/1240/json
+            dumping seance - 2009-03-30T17:30_162
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/204/1240/json
+            dumping seance - 2009-03-31T21:30_204
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/234/1240/json
+            dumping seance - 2009-03-30T21:30_234
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/307/1240/json
+            dumping seance - 2009-03-11T21:30_307
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/319/1240/json
+            dumping seance - 2009-03-12T15:00_319
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/362/1240/json
+            dumping seance - 2009-03-12T10:00_362
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/385/1240/json
+            dumping seance - 2009-04-02T15:00_385
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/411/1240/json
+            dumping seance - 2009-04-02T09:30_411
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/493/1240/json
+            dumping seance - 2009-03-12T21:30_493
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/494/1240/json
+            dumping seance - 2009-04-01T21:30_494
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/548/1240/json
+            dumping seance - 2009-03-31T15:00_548
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/95/1240/json
+            dumping seance - 2009-04-01T15:00_95
+    * step - CMP commission https://www.senat.fr/rap/l08-327/l08-3272.html
+    * step - CMP hemicycle http://www.assemblee-nationale.fr/13/ta/ta0266.asp
+      * downloading amendments: https://nosdeputes.fr/13/amendements/1589/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/rapports/r1589.asp
+        parsing amendments: 0
+      * downloading interventions
+        * downloading seances -  https://2007-2012.nosdeputes.fr/seances/1589/json?hemicycle=1
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/514/1589/json
+            dumping seance - 2009-04-09T09:30_514
+    * step - CMP hemicycle https://www.senat.fr/leg/tas08-075.html
+      * downloading amendments: https://nossenateurs.fr/amendements/20082009-327/json?cache=5feb2018 for https://www.senat.fr/rap/l08-327/l08-3272.html
+        parsing amendments: 0
+      * downloading interventions
+        * downloading seances -  https://www.nossenateurs.fr/seances/20082009-327/json?hemicycle=1
+           downloading seance -  https://www.nossenateurs.fr/seance/662/20082009-327/json
+            dumping seance - 2009-04-09T09:30_662
+    * step - nouv. lect. depot http://www.assemblee-nationale.fr/13/projets/pl1618.asp
+    * step - nouv. lect. commission http://www.assemblee-nationale.fr/13/ta-commission/r1626-a0.asp
+      * downloading amendments: https://nosdeputes.fr/13/amendements/1618/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/projets/pl1618.asp
+        parsing amendments: 0
+      * downloading interventions
+        * downloading seances -  https://2007-2012.nosdeputes.fr/seances/1618/json?commission=1
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/874/1618/json
+            dumping seance - 2009-04-29T20:15_874
+    * step - nouv. lect. hemicycle http://www.assemblee-nationale.fr/13/ta/ta0275.asp
+      * downloading amendments: https://nosdeputes.fr/13/amendements/1626/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/ta-commission/r1626-a0.asp
+        parsing amendments: 214
+      * downloading interventions
+        * downloading seances -  https://2007-2012.nosdeputes.fr/seances/1626/json?hemicycle=1
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/123/1626/json
+            dumping seance - 2009-05-04T21:35_123
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/148/1626/json
+            dumping seance - 2009-05-05T21:30_148
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/16/1626/json
+            dumping seance - 2009-05-07T15:00_16
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/207/1626/json
+            dumping seance - 2009-05-04T16:00_207
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/222/1626/json
+            dumping seance - 2009-05-12T15:00_222
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/303/1626/json
+            dumping seance - 2009-05-06T21:30_303
+           downloading seance -  https://2007-2012.nosdeputes.fr/seance/369/1626/json
+            dumping seance - 2009-04-29T21:45_369
+    * step - nouv. lect. depot https://www.senat.fr/leg/pjl08-395.html
+    * step - nouv. lect. commission https://www.senat.fr/leg/pjl08-397.html
+      * downloading amendments: https://nossenateurs.fr/amendements/20082009-395/json?cache=5feb2018 for https://www.senat.fr/leg/pjl08-395.html
+        parsing amendments: 0
+      * downloading interventions
+        * downloading seances -  https://www.nossenateurs.fr/seances/20082009-395/json?commission=1
+           downloading seance -  https://www.nossenateurs.fr/seance/3086/20082009-395/json
+            dumping seance - 2009-05-13T1ère séance_3086
+           downloading seance -  https://www.nossenateurs.fr/seance/8267/20082009-395/json
+            dumping seance - 2009-05-12T3ème réunion_8267
+    * step - nouv. lect. hemicycle https://www.senat.fr/leg/tas08-081.html
+      * downloading amendments: https://nossenateurs.fr/amendements/20082009-397/json?cache=5feb2018 for https://www.senat.fr/leg/pjl08-397.html
+        parsing amendments: 8
+      * downloading interventions
+        * downloading seances -  https://www.nossenateurs.fr/seances/20082009-397/json?hemicycle=1
+           downloading seance -  https://www.nossenateurs.fr/seance/1317/20082009-397/json
+            dumping seance - 2009-05-13T09:45_1317
+    * step - constitutionnalité None http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2009/2009-580-dc/decision-n-2009-580-dc-du-10-juin-2009.42666.html
+    * step - promulgation None https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000020735432&categorieLien=id
+ - re-order interventions and correct procedure dates
+INFO: change end date of 1 thanks to 2008-10-29T2ème séance_3664
+INFO: change beginning date of 2 thanks to 2008-10-29T22:00_941
+INFO: change end date of 4 thanks to 2009-03-11T11:30_625
+INFO: change beginning date of 4 thanks to 2009-02-17T16:15_807
+INFO: change beginning date of 4 thanks to 2009-02-10T14:30_841
+INFO: change beginning date of 5 thanks to 2009-03-11T15:00_157
+INFO: change end date of 10 thanks to 2009-04-29T20:15_874
+INFO: change beginning date of 11 thanks to 2009-05-04T21:35_123
+INFO: change beginning date of 11 thanks to 2009-04-29T21:45_369
+INFO: change end date of 13 thanks to 2009-05-13T1ère séance_3086
+ - prepare interventions.json
+  FINISHED - pjl07-405

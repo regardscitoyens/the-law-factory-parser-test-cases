@@ -1,0 +1,384 @@
+{
+  "api_root_url": "https://2012-2017.nosdeputes.fr/api/document/Amendement/",
+  "groupes": {
+    "ECOLO": {
+      "color": "rgb(0,230,30)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/ECOLO",
+      "nom": "Écologiste",
+      "order": 13
+    },
+    "Gouvernement": {
+      "color": "#cccbb3",
+      "link": "",
+      "nom": "Gouvernement",
+      "order": 60
+    },
+    "LR": {
+      "color": "rgb(30,30,200)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/LR",
+      "nom": "Les républicains",
+      "order": 18
+    },
+    "SRC": {
+      "color": "rgb(255,50,190)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/SRC",
+      "nom": "Socialiste, républicain et citoyen",
+      "order": 11
+    },
+    "UDI": {
+      "color": "rgb(30,180,255)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/UDI",
+      "nom": "Union des démocrates et indépendants",
+      "order": 15
+    }
+  },
+  "id_step": "02_1erelecture_assemblee_hemicycle",
+  "sujets": {
+    "Après l'article 8": {
+      "amendements": [
+        {
+          "aut": "Mme Attard, …",
+          "date": "2015-10-06",
+          "groupe": "ECOLO",
+          "id_api": "110840",
+          "numero": "23",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 101,
+      "titre": "Après l'article 8"
+    },
+    "Article 1er B": {
+      "amendements": [
+        {
+          "aut": "M. Tardy",
+          "date": "2015-10-05",
+          "groupe": "LR",
+          "id_api": "110810",
+          "numero": "1",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Molac, …",
+          "date": "2015-10-06",
+          "groupe": "ECOLO",
+          "id_api": "110833",
+          "numero": "19",
+          "sort": "adopté"
+        },
+        {
+          "aut": "",
+          "date": "2015-10-06",
+          "groupe": "Gouvernement",
+          "id_api": "110902",
+          "numero": "32",
+          "sort": "adopté"
+        },
+        {
+          "aut": "",
+          "date": "2015-10-06",
+          "groupe": "Gouvernement",
+          "id_api": "110896",
+          "numero": "33",
+          "sort": "adopté"
+        },
+        {
+          "aut": "",
+          "date": "2015-10-06",
+          "groupe": "Gouvernement",
+          "id_api": "110897",
+          "numero": "34",
+          "sort": "adopté"
+        },
+        {
+          "aut": "",
+          "date": "2015-10-06",
+          "groupe": "Gouvernement",
+          "id_api": "110900",
+          "numero": "38",
+          "sort": "adopté"
+        }
+      ],
+      "order": 20,
+      "titre": "Article 1er B"
+    },
+    "Article 2": {
+      "amendements": [
+        {
+          "aut": "M. Tardy",
+          "date": "2015-10-05",
+          "groupe": "LR",
+          "id_api": "110804",
+          "numero": "3",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Pancher, …",
+          "date": "2015-10-06",
+          "groupe": "UDI",
+          "id_api": "110838",
+          "numero": "15",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Molac, …",
+          "date": "2015-10-06",
+          "groupe": "ECOLO",
+          "id_api": "110905",
+          "numero": "18",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Molac, …",
+          "date": "2015-10-06",
+          "groupe": "ECOLO",
+          "id_api": "111081",
+          "numero": "20",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2015-10-06",
+          "groupe": "LR",
+          "id_api": "110906",
+          "numero": "24",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2015-10-05",
+          "groupe": "LR",
+          "id_api": "110812",
+          "numero": "25",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2015-10-05",
+          "groupe": "LR",
+          "id_api": "110809",
+          "numero": "26",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Belot",
+          "date": "2015-10-06",
+          "groupe": "SRC",
+          "id_api": "110903",
+          "numero": "29",
+          "sort": "adopté"
+        },
+        {
+          "aut": "",
+          "date": "2015-10-06",
+          "groupe": "Gouvernement",
+          "id_api": "110899",
+          "numero": "35",
+          "sort": "adopté"
+        },
+        {
+          "aut": "",
+          "date": "2015-10-06",
+          "groupe": "Gouvernement",
+          "id_api": "110901",
+          "numero": "36",
+          "sort": "adopté"
+        },
+        {
+          "aut": "",
+          "date": "2015-10-06",
+          "groupe": "Gouvernement",
+          "id_api": "110898",
+          "numero": "37",
+          "sort": "adopté"
+        }
+      ],
+      "order": 40,
+      "titre": "Article 2"
+    },
+    "Article 3": {
+      "amendements": [
+        {
+          "aut": "M. Tardy",
+          "date": "2015-10-06",
+          "groupe": "LR",
+          "id_api": "110835",
+          "numero": "4",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2015-10-06",
+          "groupe": "LR",
+          "id_api": "110832",
+          "numero": "5",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2015-10-06",
+          "groupe": "LR",
+          "id_api": "110834",
+          "numero": "6",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2015-10-06",
+          "groupe": "LR",
+          "id_api": "110836",
+          "numero": "7",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2015-10-05",
+          "groupe": "LR",
+          "id_api": "110808",
+          "numero": "8",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2015-10-05",
+          "groupe": "LR",
+          "id_api": "110811",
+          "numero": "9",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2015-10-05",
+          "groupe": "LR",
+          "id_api": "110807",
+          "numero": "10",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Molac, …",
+          "date": "2015-10-06",
+          "groupe": "ECOLO",
+          "id_api": "110837",
+          "numero": "21",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Molac, …",
+          "date": "2015-10-06",
+          "groupe": "ECOLO",
+          "id_api": "110841",
+          "numero": "22",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2015-10-06",
+          "groupe": "LR",
+          "id_api": "110842",
+          "numero": "27",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Belot",
+          "date": "2015-10-06",
+          "groupe": "SRC",
+          "id_api": "110907",
+          "numero": "31",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2015-10-06",
+          "groupe": "LR",
+          "id_api": "111083",
+          "numero": "39",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Belot",
+          "date": "2015-10-06",
+          "groupe": "SRC",
+          "id_api": "111085",
+          "numero": "41",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 50,
+      "titre": "Article 3"
+    },
+    "Article 4": {
+      "amendements": [
+        {
+          "aut": "M. Tardy",
+          "date": "2015-10-05",
+          "groupe": "LR",
+          "id_api": "110803",
+          "numero": "11",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 60,
+      "titre": "Article 4"
+    },
+    "Article 5": {
+      "amendements": [
+        {
+          "aut": "M. Tardy",
+          "date": "2015-10-05",
+          "groupe": "LR",
+          "id_api": "110802",
+          "numero": "12",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Pancher, …",
+          "date": "2015-10-05",
+          "groupe": "UDI",
+          "id_api": "110806",
+          "numero": "16",
+          "sort": "adopté"
+        }
+      ],
+      "order": 70,
+      "titre": "Article 5"
+    },
+    "Article 8": {
+      "amendements": [
+        {
+          "aut": "M. Tardy",
+          "date": "2015-10-05",
+          "groupe": "LR",
+          "id_api": "110805",
+          "numero": "13",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2015-10-06",
+          "groupe": "LR",
+          "id_api": "110839",
+          "numero": "14",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Belot",
+          "date": "2015-10-06",
+          "groupe": "SRC",
+          "id_api": "110908",
+          "numero": "28",
+          "sort": "adopté"
+        },
+        {
+          "aut": "",
+          "date": "2015-10-06",
+          "groupe": "Gouvernement",
+          "id_api": "111082",
+          "numero": "40",
+          "sort": "adopté"
+        }
+      ],
+      "order": 100,
+      "titre": "Article 8"
+    }
+  }
+}

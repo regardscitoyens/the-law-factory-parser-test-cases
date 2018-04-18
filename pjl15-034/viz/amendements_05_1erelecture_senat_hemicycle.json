@@ -1,0 +1,268 @@
+{
+  "api_root_url": "https://www.nossenateurs.fr/api/document/Amendement/",
+  "groupes": {
+    "CRCE": {
+      "color": "rgb(255,30,30)",
+      "link": "https://www.nossenateurs.fr/groupe/CRCE",
+      "nom": "Communiste républicain citoyen et Écologiste",
+      "order": 10
+    },
+    "Gouvernement": {
+      "color": "#cccbb3",
+      "link": "",
+      "nom": "Gouvernement",
+      "order": 60
+    },
+    "NI": {
+      "color": "rgb(165,165,165)",
+      "link": "https://www.nossenateurs.fr/groupe/NI",
+      "nom": "Réunion administrative des Sénateurs ne figurant sur la liste d'aucun groupe politique",
+      "order": 25
+    },
+    "RDSE": {
+      "color": "rgb(250,195,132)",
+      "link": "https://www.nossenateurs.fr/groupe/RDSE",
+      "nom": "Rassemblement Démocratique et Social européen",
+      "order": 17
+    },
+    "SOC": {
+      "color": "rgb(255,50,190)",
+      "link": "https://www.nossenateurs.fr/groupe/SOC",
+      "nom": "Socialiste et républicain",
+      "order": 14
+    }
+  },
+  "id_step": "05_1erelecture_senat_hemicycle",
+  "sujets": {
+    "Après l'article 1er B": {
+      "amendements": [
+        {
+          "aut": "Mme Gonthier-Maurin, …",
+          "date": "2015-10-23",
+          "groupe": "CRCE",
+          "id_api": "106372",
+          "numero": "11",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 21,
+      "titre": "Après l'article 1er B"
+    },
+    "Après l'article 9": {
+      "amendements": [
+        {
+          "aut": "MM. Mézard, …",
+          "date": "2015-10-26",
+          "groupe": "RDSE",
+          "id_api": "106511",
+          "numero": "1",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 111,
+      "titre": "Après l'article 9"
+    },
+    "Article 1er": {
+      "amendements": [
+        {
+          "aut": "MM. Sueur, …",
+          "date": "2015-10-26",
+          "groupe": "SOC",
+          "id_api": "106507",
+          "numero": "21",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 30,
+      "titre": "Article 1er"
+    },
+    "Article 1er B": {
+      "amendements": [
+        {
+          "aut": "Mme Bouchoux, …",
+          "date": "2015-10-26",
+          "groupe": "NI",
+          "id_api": "106503",
+          "numero": "17",
+          "sort": "adopté"
+        }
+      ],
+      "order": 20,
+      "titre": "Article 1er B"
+    },
+    "Article 2": {
+      "amendements": [
+        {
+          "aut": "Mme Gonthier-Maurin, …",
+          "date": "2015-10-23",
+          "groupe": "CRCE",
+          "id_api": "106369",
+          "numero": "8",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Gonthier-Maurin, …",
+          "date": "2015-10-23",
+          "groupe": "CRCE",
+          "id_api": "106370",
+          "numero": "9",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Gonthier-Maurin, …",
+          "date": "2015-10-23",
+          "groupe": "CRCE",
+          "id_api": "106373",
+          "numero": "12",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Sueur, …",
+          "date": "2015-10-26",
+          "groupe": "SOC",
+          "id_api": "106508",
+          "numero": "22",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Bouchoux, …",
+          "date": "2015-10-26",
+          "groupe": "NI",
+          "id_api": "106510",
+          "numero": "24",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 40,
+      "titre": "Article 2"
+    },
+    "Article 3": {
+      "amendements": [
+        {
+          "aut": "MM. Mézard, …",
+          "date": "2015-10-26",
+          "groupe": "RDSE",
+          "id_api": "106512",
+          "numero": "2",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Mézard, …",
+          "date": "2015-10-26",
+          "groupe": "RDSE",
+          "id_api": "106513",
+          "numero": "4",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Mézard, …",
+          "date": "2015-10-26",
+          "groupe": "RDSE",
+          "id_api": "106514",
+          "numero": "5",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Mézard, …",
+          "date": "2015-10-26",
+          "groupe": "RDSE",
+          "id_api": "106515",
+          "numero": "7",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Gonthier-Maurin, …",
+          "date": "2015-10-23",
+          "groupe": "CRCE",
+          "id_api": "106371",
+          "numero": "10",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "",
+          "date": "2015-10-26",
+          "groupe": "Gouvernement",
+          "id_api": "106499",
+          "numero": "13",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "",
+          "date": "2015-10-26",
+          "groupe": "Gouvernement",
+          "id_api": "106500",
+          "numero": "14",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Bouchoux, …",
+          "date": "2015-10-26",
+          "groupe": "NI",
+          "id_api": "106504",
+          "numero": "18",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Bouchoux, …",
+          "date": "2015-10-26",
+          "groupe": "NI",
+          "id_api": "106505",
+          "numero": "19",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Bouchoux, …",
+          "date": "2015-10-26",
+          "groupe": "NI",
+          "id_api": "106506",
+          "numero": "20",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 50,
+      "titre": "Article 3"
+    },
+    "Article 4": {
+      "amendements": [
+        {
+          "aut": "MM. Sueur, …",
+          "date": "2015-10-26",
+          "groupe": "SOC",
+          "id_api": "106509",
+          "numero": "23",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 60,
+      "titre": "Article 4"
+    },
+    "Article 7": {
+      "amendements": [
+        {
+          "aut": "",
+          "date": "2015-10-26",
+          "groupe": "Gouvernement",
+          "id_api": "106502",
+          "numero": "16",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 90,
+      "titre": "Article 7"
+    },
+    "Article 9": {
+      "amendements": [
+        {
+          "aut": "",
+          "date": "2015-10-26",
+          "groupe": "Gouvernement",
+          "id_api": "106501",
+          "numero": "15",
+          "sort": "adopté"
+        }
+      ],
+      "order": 110,
+      "titre": "Article 9"
+    }
+  }
+}

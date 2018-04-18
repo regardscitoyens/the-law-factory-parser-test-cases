@@ -1,0 +1,37 @@
+{
+  "seance": [
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>COMMISSION DES AFFAIRES CULTURELLES, FAMILIALES ET SOCIALES</p><p>Mardi 10 février 2009</p><p>La séance est ouverte à quatorze heures trente.</p><p>(Présidence de M. Pierre Méhaignerie, président de la Commission)</p><p>Informations relatives à la Commission</p>",
+        "date": "2009-02-10",
+        "heure": "14:30",
+        "id": "299144",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1210"
+          },
+          {
+            "loi": "1240"
+          }
+        ],
+        "nbmots": "44",
+        "seance_id": "841",
+        "seance_lieu": "Commission des affaires culturelles, familiales et sociales",
+        "seance_titre": "réunion du 10 février 2009 à 14h30",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/13/cr-cafc/08-09/c0809040.asp#P8_79",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "40000010",
+        "type": "commission",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/841#inter_7e7b02d42426ae17058b0a42f65508df",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/299144/json"
+      }
+    }
+  ]
+}

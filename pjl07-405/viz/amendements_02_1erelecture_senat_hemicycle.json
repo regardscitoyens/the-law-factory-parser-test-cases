@@ -1,0 +1,1556 @@
+{
+  "api_root_url": "https://www.nossenateurs.fr/api/document/Amendement/",
+  "groupes": {
+    "CRC": {
+      "color": "rgb(255,30,30)",
+      "link": "https://www.nossenateurs.fr/groupe/CRC",
+      "nom": "Communiste, Républicain, Citoyen et des Sénateurs du Parti de Gauche",
+      "order": 11
+    },
+    "Gouvernement": {
+      "color": "#cccbb3",
+      "link": "",
+      "nom": "Gouvernement",
+      "order": 60
+    },
+    "LR": {
+      "color": "rgb(30,30,200)",
+      "link": "https://www.nossenateurs.fr/groupe/LR",
+      "nom": "Les Républicains",
+      "order": 24
+    },
+    "LREM": {
+      "color": "rgb(232,197,5)",
+      "link": "https://www.nossenateurs.fr/groupe/LREM",
+      "nom": "La République en Marche",
+      "order": 18
+    },
+    "SOC": {
+      "color": "rgb(255,50,190)",
+      "link": "https://www.nossenateurs.fr/groupe/SOC",
+      "nom": "Socialiste et républicain",
+      "order": 14
+    },
+    "UC": {
+      "color": "rgb(130,140,255)",
+      "link": "https://www.nossenateurs.fr/groupe/UC",
+      "nom": "Union Centriste",
+      "order": 20
+    },
+    "UMP": {
+      "color": "rgb(30,30,200)",
+      "link": "https://www.nossenateurs.fr/groupe/UMP",
+      "nom": "Union pour un Mouvement Populaire",
+      "order": 23
+    }
+  },
+  "id_step": "02_1erelecture_senat_hemicycle",
+  "sujets": {
+    "Après l'article 10": {
+      "amendements": [
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-30",
+          "groupe": "LR",
+          "id_api": "39647",
+          "numero": "91",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "",
+          "date": "2008-10-29",
+          "groupe": "Gouvernement",
+          "id_api": "39654",
+          "numero": "98",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Renar, …",
+          "date": "2008-10-29",
+          "groupe": "CRC",
+          "id_api": "39715",
+          "numero": "159",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 101,
+      "titre": "Après l'article 10"
+    },
+    "Après l'article 11": {
+      "amendements": [
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-28",
+          "groupe": "LR",
+          "id_api": "39649",
+          "numero": "93",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Renar, …",
+          "date": "2008-10-29",
+          "groupe": "CRC",
+          "id_api": "39712",
+          "numero": "156",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 111,
+      "titre": "Après l'article 11"
+    },
+    "Après l'article 2": {
+      "amendements": [
+        {
+          "aut": "MM. Renar, …",
+          "date": "2008-10-29",
+          "groupe": "CRC",
+          "id_api": "39717",
+          "numero": "161",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 21,
+      "titre": "Après l'article 2"
+    },
+    "Après l'article 7": {
+      "amendements": [
+        {
+          "aut": "MM. Lagauche, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39692",
+          "numero": "136",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Lagauche, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39693",
+          "numero": "137",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Lagauche, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39694",
+          "numero": "138",
+          "sort": "adopté"
+        }
+      ],
+      "order": 71,
+      "titre": "Après l'article 7"
+    },
+    "Après l'article 9": {
+      "amendements": [
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39604",
+          "numero": "47",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39605",
+          "numero": "48",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39606",
+          "numero": "49",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39607",
+          "numero": "50",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Morin-Desailly, …",
+          "date": "2008-10-28",
+          "groupe": "UC",
+          "id_api": "39616",
+          "numero": "60",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Morin-Desailly, …",
+          "date": "2008-10-28",
+          "groupe": "UC",
+          "id_api": "39618",
+          "numero": "62",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mlle Joissains, …",
+          "date": "2008-10-30",
+          "groupe": "UC",
+          "id_api": "39652",
+          "numero": "96",
+          "sort": "adopté"
+        },
+        {
+          "aut": "",
+          "date": "2008-10-29",
+          "groupe": "Gouvernement",
+          "id_api": "39655",
+          "numero": "99",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Morin-Desailly, …",
+          "date": "2008-10-29",
+          "groupe": "UC",
+          "id_api": "39657",
+          "numero": "101",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Morin-Desailly, …",
+          "date": "2008-10-29",
+          "groupe": "UC",
+          "id_api": "39658",
+          "numero": "102",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Morin-Desailly, …",
+          "date": "2008-10-29",
+          "groupe": "UC",
+          "id_api": "39659",
+          "numero": "103",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Lagauche, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39691",
+          "numero": "135",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Renar, …",
+          "date": "2008-10-29",
+          "groupe": "CRC",
+          "id_api": "39700",
+          "numero": "144",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Renar, …",
+          "date": "2008-10-29",
+          "groupe": "CRC",
+          "id_api": "39714",
+          "numero": "158",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Renar, …",
+          "date": "2008-10-29",
+          "groupe": "CRC",
+          "id_api": "39716",
+          "numero": "160",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 91,
+      "titre": "Après l'article 9"
+    },
+    "Article 1er": {
+      "amendements": [
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39558",
+          "numero": "1",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39559",
+          "numero": "2",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Morin-Desailly, …",
+          "date": "2008-10-29",
+          "groupe": "UC",
+          "id_api": "39718",
+          "numero": "162",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 10,
+      "titre": "Article 1er"
+    },
+    "Article 2": {
+      "amendements": [
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39561",
+          "numero": "4",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39562",
+          "numero": "5",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39563",
+          "numero": "6",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39564",
+          "numero": "7",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39565",
+          "numero": "8",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-28",
+          "groupe": "UMP",
+          "id_api": "39566",
+          "numero": "9",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39567",
+          "numero": "10",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-28",
+          "groupe": "UMP",
+          "id_api": "39568",
+          "numero": "11",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-29",
+          "groupe": "UMP",
+          "id_api": "39569",
+          "numero": "12",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39570",
+          "numero": "13",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39571",
+          "numero": "14",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39572",
+          "numero": "15",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39573",
+          "numero": "16",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39574",
+          "numero": "17",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39575",
+          "numero": "18",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39576",
+          "numero": "19",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39577",
+          "numero": "20",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39578",
+          "numero": "21",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39579",
+          "numero": "22",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39580",
+          "numero": "23",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39581",
+          "numero": "24",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39582",
+          "numero": "25",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39583",
+          "numero": "26",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39584",
+          "numero": "27",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39585",
+          "numero": "28",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39586",
+          "numero": "29",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39587",
+          "numero": "30",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39588",
+          "numero": "31",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39589",
+          "numero": "32",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39590",
+          "numero": "33",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39591",
+          "numero": "34",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39592",
+          "numero": "35",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-30",
+          "groupe": "UMP",
+          "id_api": "39593",
+          "numero": "36",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39594",
+          "numero": "37",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39595",
+          "numero": "38",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39596",
+          "numero": "39",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-29",
+          "groupe": "UMP",
+          "id_api": "39597",
+          "numero": "40",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Morin-Desailly, …",
+          "date": "2008-10-28",
+          "groupe": "UC",
+          "id_api": "39608",
+          "numero": "51",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Morin-Desailly, …",
+          "date": "2008-10-28",
+          "groupe": "UC",
+          "id_api": "39609",
+          "numero": "52",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Morin-Desailly, …",
+          "date": "2008-10-29",
+          "groupe": "UC",
+          "id_api": "39610",
+          "numero": "53",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Morin-Desailly, …",
+          "date": "2008-10-30",
+          "groupe": "UC",
+          "id_api": "39611",
+          "numero": "54",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Morin-Desailly, …",
+          "date": "2008-10-28",
+          "groupe": "UC",
+          "id_api": "39612",
+          "numero": "55",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Morin-Desailly, …",
+          "date": "2008-10-28",
+          "groupe": "UC",
+          "id_api": "39613",
+          "numero": "56",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Morin-Desailly, …",
+          "date": "2008-10-28",
+          "groupe": "UC",
+          "id_api": "39614",
+          "numero": "57",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Morin-Desailly, …",
+          "date": "2008-10-28",
+          "groupe": "UC",
+          "id_api": "39615",
+          "numero": "58",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Morin-Desailly, …",
+          "date": "2008-10-29",
+          "groupe": "UC",
+          "id_api": "39617",
+          "numero": "61",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Morin-Desailly, …",
+          "date": "2008-10-28",
+          "groupe": "UC",
+          "id_api": "39619",
+          "numero": "63",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Morin-Desailly, …",
+          "date": "2008-10-28",
+          "groupe": "UC",
+          "id_api": "39620",
+          "numero": "64",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Morin-Desailly, …",
+          "date": "2008-10-28",
+          "groupe": "UC",
+          "id_api": "39621",
+          "numero": "65",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Morin-Desailly, …",
+          "date": "2008-10-28",
+          "groupe": "UC",
+          "id_api": "39622",
+          "numero": "66",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-28",
+          "groupe": "LR",
+          "id_api": "39623",
+          "numero": "67",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-28",
+          "groupe": "LR",
+          "id_api": "39624",
+          "numero": "68",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-28",
+          "groupe": "LR",
+          "id_api": "39625",
+          "numero": "69",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-29",
+          "groupe": "LR",
+          "id_api": "39626",
+          "numero": "70",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-28",
+          "groupe": "LR",
+          "id_api": "39627",
+          "numero": "71",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-28",
+          "groupe": "LR",
+          "id_api": "39628",
+          "numero": "72",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-28",
+          "groupe": "LR",
+          "id_api": "39629",
+          "numero": "73",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-28",
+          "groupe": "LR",
+          "id_api": "39630",
+          "numero": "74",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-29",
+          "groupe": "LR",
+          "id_api": "39631",
+          "numero": "75",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-28",
+          "groupe": "LR",
+          "id_api": "39632",
+          "numero": "76",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-28",
+          "groupe": "LR",
+          "id_api": "39633",
+          "numero": "77",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-28",
+          "groupe": "LR",
+          "id_api": "39634",
+          "numero": "78",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-28",
+          "groupe": "LR",
+          "id_api": "39635",
+          "numero": "79",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-29",
+          "groupe": "LR",
+          "id_api": "39636",
+          "numero": "80",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-30",
+          "groupe": "LR",
+          "id_api": "39637",
+          "numero": "81",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-29",
+          "groupe": "LR",
+          "id_api": "39638",
+          "numero": "82",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-29",
+          "groupe": "LR",
+          "id_api": "39639",
+          "numero": "83",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-28",
+          "groupe": "LR",
+          "id_api": "39640",
+          "numero": "84",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-28",
+          "groupe": "LR",
+          "id_api": "39641",
+          "numero": "85",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-28",
+          "groupe": "LR",
+          "id_api": "39642",
+          "numero": "86",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mlle Joissains, …",
+          "date": "2008-10-29",
+          "groupe": "UC",
+          "id_api": "39650",
+          "numero": "94",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mlle Joissains, …",
+          "date": "2008-10-30",
+          "groupe": "UC",
+          "id_api": "39651",
+          "numero": "95",
+          "sort": "adopté"
+        },
+        {
+          "aut": "",
+          "date": "2008-10-29",
+          "groupe": "Gouvernement",
+          "id_api": "39653",
+          "numero": "97",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Morin-Desailly, …",
+          "date": "2008-10-29",
+          "groupe": "UC",
+          "id_api": "39656",
+          "numero": "100",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39660",
+          "numero": "104",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39661",
+          "numero": "105",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39662",
+          "numero": "106",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39663",
+          "numero": "107",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39664",
+          "numero": "108",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39665",
+          "numero": "109",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Yung",
+          "date": "2008-10-30",
+          "groupe": "LREM",
+          "id_api": "39666",
+          "numero": "110",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Pozzo di Borgo, …",
+          "date": "2008-10-30",
+          "groupe": "UC",
+          "id_api": "39667",
+          "numero": "111",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mmes Procaccia, …",
+          "date": "2008-10-29",
+          "groupe": "UMP",
+          "id_api": "39669",
+          "numero": "113",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Procaccia",
+          "date": "2008-10-29",
+          "groupe": "LR",
+          "id_api": "39670",
+          "numero": "114",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Blandin, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39671",
+          "numero": "115",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Blandin, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39672",
+          "numero": "116",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Blandin, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39673",
+          "numero": "117",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Blandin, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39674",
+          "numero": "118",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Blandin, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39675",
+          "numero": "119",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Blandin, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39676",
+          "numero": "120",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Blandin, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39677",
+          "numero": "121",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Blandin, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39678",
+          "numero": "122",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39679",
+          "numero": "123",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Lagauche, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39681",
+          "numero": "125",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Lagauche, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39682",
+          "numero": "126",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Lagauche, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39683",
+          "numero": "127",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Lagauche, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39684",
+          "numero": "128",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Lagauche, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39685",
+          "numero": "129",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Blandin, …",
+          "date": "2008-10-30",
+          "groupe": "SOC",
+          "id_api": "39686",
+          "numero": "130",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Blandin, …",
+          "date": "2008-10-30",
+          "groupe": "SOC",
+          "id_api": "39687",
+          "numero": "131",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Lagauche, …",
+          "date": "2008-10-30",
+          "groupe": "SOC",
+          "id_api": "39688",
+          "numero": "132",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Lagauche, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39689",
+          "numero": "133",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Domeizel, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39690",
+          "numero": "134",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Renar, …",
+          "date": "2008-10-29",
+          "groupe": "CRC",
+          "id_api": "39695",
+          "numero": "139",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Renar, …",
+          "date": "2008-10-29",
+          "groupe": "CRC",
+          "id_api": "39696",
+          "numero": "140",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Renar, …",
+          "date": "2008-10-29",
+          "groupe": "CRC",
+          "id_api": "39697",
+          "numero": "141",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Renar, …",
+          "date": "2008-10-29",
+          "groupe": "CRC",
+          "id_api": "39698",
+          "numero": "142",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Renar, …",
+          "date": "2008-10-29",
+          "groupe": "CRC",
+          "id_api": "39699",
+          "numero": "143",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Renar, …",
+          "date": "2008-10-29",
+          "groupe": "CRC",
+          "id_api": "39702",
+          "numero": "146",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Renar, …",
+          "date": "2008-10-29",
+          "groupe": "CRC",
+          "id_api": "39703",
+          "numero": "147",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Renar, …",
+          "date": "2008-10-29",
+          "groupe": "CRC",
+          "id_api": "39704",
+          "numero": "148",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Renar, …",
+          "date": "2008-10-29",
+          "groupe": "CRC",
+          "id_api": "39705",
+          "numero": "149",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Renar, …",
+          "date": "2008-10-29",
+          "groupe": "CRC",
+          "id_api": "39706",
+          "numero": "150",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Renar, …",
+          "date": "2008-10-29",
+          "groupe": "CRC",
+          "id_api": "39707",
+          "numero": "151",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Renar, …",
+          "date": "2008-10-29",
+          "groupe": "CRC",
+          "id_api": "39708",
+          "numero": "152",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Renar, …",
+          "date": "2008-10-30",
+          "groupe": "CRC",
+          "id_api": "39709",
+          "numero": "153",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Renar, …",
+          "date": "2008-10-29",
+          "groupe": "CRC",
+          "id_api": "39710",
+          "numero": "154",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Renar, …",
+          "date": "2008-10-29",
+          "groupe": "CRC",
+          "id_api": "39711",
+          "numero": "155",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Renar, …",
+          "date": "2008-10-29",
+          "groupe": "CRC",
+          "id_api": "39713",
+          "numero": "157",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Morin-Desailly, …",
+          "date": "2008-10-29",
+          "groupe": "UC",
+          "id_api": "39719",
+          "numero": "163",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Houel, …",
+          "date": "2008-10-29",
+          "groupe": "LR",
+          "id_api": "39720",
+          "numero": "165",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-29",
+          "groupe": "LR",
+          "id_api": "39721",
+          "numero": "166",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-29",
+          "groupe": "LR",
+          "id_api": "39722",
+          "numero": "167",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-29",
+          "groupe": "LR",
+          "id_api": "39723",
+          "numero": "168",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-29",
+          "groupe": "LR",
+          "id_api": "39724",
+          "numero": "169",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-29",
+          "groupe": "LR",
+          "id_api": "39725",
+          "numero": "170",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-29",
+          "groupe": "LR",
+          "id_api": "39726",
+          "numero": "171",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Houel, …",
+          "date": "2008-10-29",
+          "groupe": "LR",
+          "id_api": "39727",
+          "numero": "172",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Houel, …",
+          "date": "2008-10-29",
+          "groupe": "LR",
+          "id_api": "39728",
+          "numero": "173",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Houel, …",
+          "date": "2008-10-29",
+          "groupe": "LR",
+          "id_api": "39729",
+          "numero": "174",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Houel, …",
+          "date": "2008-10-29",
+          "groupe": "LR",
+          "id_api": "39730",
+          "numero": "175",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Houel, …",
+          "date": "2008-10-29",
+          "groupe": "LR",
+          "id_api": "39731",
+          "numero": "176",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Houel, …",
+          "date": "2008-10-29",
+          "groupe": "LR",
+          "id_api": "39732",
+          "numero": "177",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Procaccia",
+          "date": "2008-10-30",
+          "groupe": "LR",
+          "id_api": "39733",
+          "numero": "178",
+          "sort": "adopté"
+        }
+      ],
+      "order": 20,
+      "titre": "Article 2"
+    },
+    "Article 5": {
+      "amendements": [
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39599",
+          "numero": "42",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-28",
+          "groupe": "LR",
+          "id_api": "39643",
+          "numero": "87",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-30",
+          "groupe": "UMP",
+          "id_api": "39734",
+          "numero": "179",
+          "sort": "adopté"
+        }
+      ],
+      "order": 50,
+      "titre": "Article 5"
+    },
+    "Article 6": {
+      "amendements": [
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39600",
+          "numero": "43",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39601",
+          "numero": "44",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39602",
+          "numero": "45",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-28",
+          "groupe": "LR",
+          "id_api": "39644",
+          "numero": "88",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-28",
+          "groupe": "LR",
+          "id_api": "39645",
+          "numero": "89",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-28",
+          "groupe": "LR",
+          "id_api": "39646",
+          "numero": "90",
+          "sort": "adopté"
+        }
+      ],
+      "order": 60,
+      "titre": "Article 6"
+    },
+    "Article 8": {
+      "amendements": [
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-29",
+          "groupe": "UMP",
+          "id_api": "39603",
+          "numero": "46",
+          "sort": "adopté"
+        }
+      ],
+      "order": 80,
+      "titre": "Article 8"
+    },
+    "Avant l'article 10": {
+      "amendements": [
+        {
+          "aut": "M. Retailleau, …",
+          "date": "2008-10-28",
+          "groupe": "LR",
+          "id_api": "39648",
+          "numero": "92",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 99,
+      "titre": "Avant l'article 10"
+    },
+    "Avant l'article 1er": {
+      "amendements": [
+        {
+          "aut": "MM. Renar, …",
+          "date": "2008-10-29",
+          "groupe": "CRC",
+          "id_api": "39701",
+          "numero": "145",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 9,
+      "titre": "Avant l'article 1er"
+    },
+    "Avant l'article 2": {
+      "amendements": [
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-23",
+          "groupe": "UMP",
+          "id_api": "39560",
+          "numero": "3",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Lagauche, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39680",
+          "numero": "124",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 19,
+      "titre": "Avant l'article 2"
+    },
+    "Avant l'article 5": {
+      "amendements": [
+        {
+          "aut": "M. Thiollière, …",
+          "date": "2008-10-28",
+          "groupe": "UMP",
+          "id_api": "39598",
+          "numero": "41",
+          "sort": "adopté"
+        }
+      ],
+      "order": 49,
+      "titre": "Avant l'article 5"
+    },
+    "Avant l'article 8": {
+      "amendements": [
+        {
+          "aut": "Mmes Boumediene-Thiery, …",
+          "date": "2008-10-29",
+          "groupe": "SOC",
+          "id_api": "39668",
+          "numero": "112",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 79,
+      "titre": "Avant l'article 8"
+    }
+  }
+}

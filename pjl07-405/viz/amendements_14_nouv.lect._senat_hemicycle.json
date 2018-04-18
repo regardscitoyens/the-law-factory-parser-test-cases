@@ -1,0 +1,102 @@
+{
+  "api_root_url": "https://www.nossenateurs.fr/api/document/Amendement/",
+  "groupes": {
+    "CRC": {
+      "color": "rgb(255,30,30)",
+      "link": "https://www.nossenateurs.fr/groupe/CRC",
+      "nom": "Communiste, Républicain, Citoyen et des Sénateurs du Parti de Gauche",
+      "order": 11
+    },
+    "SOC": {
+      "color": "rgb(255,50,190)",
+      "link": "https://www.nossenateurs.fr/groupe/SOC",
+      "nom": "Socialiste et républicain",
+      "order": 14
+    }
+  },
+  "id_step": "14_nouv.lect._senat_hemicycle",
+  "sujets": {
+    "Après l'article 13": {
+      "amendements": [
+        {
+          "aut": "MM. Renar, …",
+          "date": "2009-05-12",
+          "groupe": "CRC",
+          "id_api": "22902",
+          "numero": "6",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Renar, …",
+          "date": "2009-05-12",
+          "groupe": "CRC",
+          "id_api": "22903",
+          "numero": "7",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Renar, …",
+          "date": "2009-05-13",
+          "groupe": "CRC",
+          "id_api": "22904",
+          "numero": "8",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 281,
+      "titre": "Après l'article 13"
+    },
+    "Article 10 bis A": {
+      "amendements": [
+        {
+          "aut": "Mmes Blandin, …",
+          "date": "2009-05-12",
+          "groupe": "SOC",
+          "id_api": "22897",
+          "numero": "1",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Renar, …",
+          "date": "2009-05-12",
+          "groupe": "CRC",
+          "id_api": "22900",
+          "numero": "4",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Renar, …",
+          "date": "2009-05-12",
+          "groupe": "CRC",
+          "id_api": "22901",
+          "numero": "5",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 200,
+      "titre": "Article 10 bis A"
+    },
+    "Avant l'article 1er": {
+      "amendements": [
+        {
+          "aut": "MM. Renar, …",
+          "date": "2009-05-12",
+          "groupe": "CRC",
+          "id_api": "22898",
+          "numero": "2",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Renar, …",
+          "date": "2009-05-12",
+          "groupe": "CRC",
+          "id_api": "22899",
+          "numero": "3",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 19,
+      "titre": "Avant l'article 1er"
+    }
+  }
+}

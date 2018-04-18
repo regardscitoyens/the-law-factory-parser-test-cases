@@ -1,0 +1,89 @@
+ -= DOSLEG URL: http://www.senat.fr/dossier-legislatif/pjl15-034.html =-
+  [] download SENAT version
+  [] parse SENAT version
+  [] download AN version
+  [] parse AN version
+        title: projet de loi relatif à la gratuité et aux modalités de la réutilisation des informations du secteur public
+0 anomalies ( 1 doslegs)
+  [] parse the texts
+** parsing texts of pjl15-034
+    ^ text:  http://www.assemblee-nationale.fr/14/projets/pl3037.asp
+    ^ text:  http://www.assemblee-nationale.fr/14/ta-commission/r3090-a0.asp
+    ^ text:  http://www.assemblee-nationale.fr/14/ta/ta0593.asp
+    ^ text:  https://www.senat.fr/leg/pjl15-034.html
+    ^ text:  https://www.senat.fr/leg/pjl15-094.html
+    ^ text:  https://www.senat.fr/leg/tas15-023.html
+    ^ text:  https://www.senat.fr/leg/pjl15-189.html
+    ^ text:  http://www.assemblee-nationale.fr/14/ta/ta0628.asp
+    ^ text:  https://www.senat.fr/leg/tas15-063.html
+    ^ text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000031701525&categorieLien=id
+    ^ complete text:  http://www.assemblee-nationale.fr/14/projets/pl3037.asp
+    ^ complete text:  http://www.assemblee-nationale.fr/14/ta-commission/r3090-a0.asp
+    ^ complete text:  http://www.assemblee-nationale.fr/14/ta/ta0593.asp
+    ^ complete text:  https://www.senat.fr/leg/pjl15-034.html
+    ^ complete text:  https://www.senat.fr/leg/pjl15-094.html
+    ^ complete text:  https://www.senat.fr/leg/tas15-023.html
+    ^ complete text:  https://www.senat.fr/leg/pjl15-189.html
+    ^ complete text:  http://www.assemblee-nationale.fr/14/ta/ta0628.asp
+    ^ complete text:  https://www.senat.fr/leg/tas15-063.html
+WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 1er B <-> 2 377 Vs 228 chars, similarity; 0.59
+    ^ complete text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000031701525&categorieLien=id
+  [] format data for the frontend
+     writing to: pjl15-034_tmp
+ - process article versions
+      * preparing articles for step 00_1erelecture_assemblee_depot
+      * preparing articles for step 01_1erelecture_assemblee_commission
+      * preparing articles for step 02_1erelecture_assemblee_hemicycle
+      * preparing articles for step 04_1erelecture_senat_commission
+      * preparing articles for step 05_1erelecture_senat_hemicycle
+      * preparing articles for step 06_cmp_cmp_commission
+      * preparing articles for step 07_cmp_assemblee_hemicycle
+      * preparing articles for step 08_cmp_senat_hemicycle
+ - process amendements & interventions
+    * step - 1ère lecture depot http://www.assemblee-nationale.fr/14/projets/pl3037.asp
+    * step - 1ère lecture commission http://www.assemblee-nationale.fr/14/ta-commission/r3090-a0.asp
+      * downloading amendments: https://nosdeputes.fr/14/amendements/3037/json?cache=5feb2018 for http://www.assemblee-nationale.fr/14/projets/pl3037.asp
+        parsing amendments: 44
+      * downloading interventions
+        * downloading seances -  https://2012-2017.nosdeputes.fr/seances/3037/json?commission=1
+    * step - 1ère lecture hemicycle http://www.assemblee-nationale.fr/14/ta/ta0593.asp
+      * downloading amendments: https://nosdeputes.fr/14/amendements/3090/json?cache=5feb2018 for http://www.assemblee-nationale.fr/14/ta-commission/r3090-a0.asp
+        parsing amendments: 39
+WARNING: amendments ignored (not the right step) 1
+      * downloading interventions
+        * downloading seances -  https://2012-2017.nosdeputes.fr/seances/3090/json?hemicycle=1
+        * downloading seances -  https://2012-2017.nosdeputes.fr/seances/3037/json?hemicycle=1
+    * step - 1ère lecture depot https://www.senat.fr/leg/pjl15-034.html
+    * step - 1ère lecture commission https://www.senat.fr/leg/pjl15-094.html
+      * downloading amendments: https://nossenateurs.fr/amendements/20152016-034/json?cache=5feb2018 for https://www.senat.fr/leg/pjl15-034.html
+        parsing amendments: 13
+      * downloading interventions
+        * downloading seances -  https://www.nossenateurs.fr/seances/20152016-034/json?commission=1
+           downloading seance -  https://www.nossenateurs.fr/seance/11969/20152016-034/json
+           downloading seance -  https://www.nossenateurs.fr/seance/13500/20152016-034/json
+           downloading seance -  https://www.nossenateurs.fr/seance/13503/20152016-034/json
+           downloading seance -  https://www.nossenateurs.fr/seance/13570/20152016-034/json
+    * step - 1ère lecture hemicycle https://www.senat.fr/leg/tas15-023.html
+      * downloading amendments: https://nossenateurs.fr/amendements/20152016-094/json?cache=5feb2018 for https://www.senat.fr/leg/pjl15-094.html
+        parsing amendments: 22
+      * downloading interventions
+        * downloading seances -  https://www.nossenateurs.fr/seances/20152016-094/json?hemicycle=1
+           downloading seance -  https://www.nossenateurs.fr/seance/13559/20152016-094/json
+            dumping seance - 2015-10-26T16:00_13559
+    * step - CMP commission https://www.senat.fr/leg/pjl15-189.html
+    * step - CMP hemicycle http://www.assemblee-nationale.fr/14/ta/ta0628.asp
+      * downloading amendments: https://nosdeputes.fr/14/amendements/3243/json?cache=5feb2018 for http://www.assemblee-nationale.fr/14/ta-commission/r3243-a0.asp
+        parsing amendments: 0
+      * downloading interventions
+        * downloading seances -  https://2012-2017.nosdeputes.fr/seances/3243/json?hemicycle=1
+    * step - CMP hemicycle https://www.senat.fr/leg/tas15-063.html
+      * downloading amendments: https://nossenateurs.fr/amendements/20152016-189/json?cache=5feb2018 for https://www.senat.fr/leg/pjl15-189.html
+        parsing amendments: 0
+      * downloading interventions
+        * downloading seances -  https://www.nossenateurs.fr/seances/20152016-189/json?hemicycle=1
+           downloading seance -  https://www.nossenateurs.fr/seance/13966/20152016-189/json
+            dumping seance - 2015-12-17T10:30_13966
+    * step - promulgation None https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000031701525&categorieLien=id
+ - re-order interventions and correct procedure dates
+ - prepare interventions.json
+  FINISHED - pjl15-034

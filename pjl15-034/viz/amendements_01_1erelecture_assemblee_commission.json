@@ -1,0 +1,456 @@
+{
+  "api_root_url": "https://2012-2017.nosdeputes.fr/api/document/Amendement/",
+  "groupes": {
+    "ECOLO": {
+      "color": "rgb(0,230,30)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/ECOLO",
+      "nom": "Écologiste",
+      "order": 13
+    },
+    "Gouvernement": {
+      "color": "#cccbb3",
+      "link": "",
+      "nom": "Gouvernement",
+      "order": 60
+    },
+    "LR": {
+      "color": "rgb(30,30,200)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/LR",
+      "nom": "Les républicains",
+      "order": 18
+    },
+    "SRC": {
+      "color": "rgb(255,50,190)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/SRC",
+      "nom": "Socialiste, républicain et citoyen",
+      "order": 11
+    },
+    "UDI": {
+      "color": "rgb(30,180,255)",
+      "link": "https://2012-2017.nosdeputes.fr/groupe/UDI",
+      "nom": "Union des démocrates et indépendants",
+      "order": 15
+    }
+  },
+  "id_step": "01_1erelecture_assemblee_commission",
+  "sujets": {
+    "Après l'article 4": {
+      "amendements": [
+        {
+          "aut": "M. Tardy",
+          "date": "2015-09-28",
+          "groupe": "LR",
+          "id_api": "109940",
+          "numero": "CL6",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 41,
+      "titre": "Après l'article 4"
+    },
+    "Après l'article 5": {
+      "amendements": [
+        {
+          "aut": "M. Dosière",
+          "date": "2015-09-28",
+          "groupe": "SRC",
+          "id_api": "109895",
+          "numero": "CL20",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 51,
+      "titre": "Après l'article 5"
+    },
+    "Article 2": {
+      "amendements": [
+        {
+          "aut": "M. Molac, …",
+          "date": "2015-09-28",
+          "groupe": "ECOLO",
+          "id_api": "109719",
+          "numero": "CL14",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Pancher, …",
+          "date": "2015-09-28",
+          "groupe": "UDI",
+          "id_api": "109781",
+          "numero": "CL10",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2015-09-28",
+          "groupe": "LR",
+          "id_api": "109934",
+          "numero": "CL1",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Belot",
+          "date": "2015-09-28",
+          "groupe": "SRC",
+          "id_api": "110064",
+          "numero": "CL36",
+          "sort": "adopté"
+        }
+      ],
+      "order": 20,
+      "titre": "Article 2"
+    },
+    "Article 3": {
+      "amendements": [
+        {
+          "aut": "M. Pancher, …",
+          "date": "2015-09-28",
+          "groupe": "UDI",
+          "id_api": "109741",
+          "numero": "CL12",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Molac, …",
+          "date": "2015-09-28",
+          "groupe": "ECOLO",
+          "id_api": "109778",
+          "numero": "CL15",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Molac, …",
+          "date": "2015-09-28",
+          "groupe": "ECOLO",
+          "id_api": "109784",
+          "numero": "CL16",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Dosière",
+          "date": "2015-09-28",
+          "groupe": "SRC",
+          "id_api": "109835",
+          "numero": "CL18",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Belot",
+          "date": "2015-09-28",
+          "groupe": "SRC",
+          "id_api": "110046",
+          "numero": "CL33",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2015-09-28",
+          "groupe": "LR",
+          "id_api": "109935",
+          "numero": "CL3",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2015-09-28",
+          "groupe": "LR",
+          "id_api": "109936",
+          "numero": "CL5",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2015-09-28",
+          "groupe": "LR",
+          "id_api": "109937",
+          "numero": "CL2",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2015-09-28",
+          "groupe": "LR",
+          "id_api": "109938",
+          "numero": "CL4",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Belot",
+          "date": "2015-09-28",
+          "groupe": "SRC",
+          "id_api": "109945",
+          "numero": "CL40",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Belot",
+          "date": "2015-09-28",
+          "groupe": "SRC",
+          "id_api": "109946",
+          "numero": "CL34",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Belot",
+          "date": "2015-09-28",
+          "groupe": "SRC",
+          "id_api": "109952",
+          "numero": "CL38",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Belot",
+          "date": "2015-09-28",
+          "groupe": "SRC",
+          "id_api": "109979",
+          "numero": "CL30",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Belot",
+          "date": "2015-09-28",
+          "groupe": "SRC",
+          "id_api": "109980",
+          "numero": "CL31",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Belot",
+          "date": "2015-09-28",
+          "groupe": "SRC",
+          "id_api": "110025",
+          "numero": "CL32",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Belot",
+          "date": "2015-09-28",
+          "groupe": "SRC",
+          "id_api": "110056",
+          "numero": "CL37",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Belot",
+          "date": "2015-09-28",
+          "groupe": "SRC",
+          "id_api": "110058",
+          "numero": "CL35",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Belot",
+          "date": "2015-09-28",
+          "groupe": "SRC",
+          "id_api": "110081",
+          "numero": "CL26",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2015-10-04",
+          "groupe": "LR",
+          "id_api": "110793",
+          "numero": "CL9",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 30,
+      "titre": "Article 3"
+    },
+    "Article 4": {
+      "amendements": [
+        {
+          "aut": "M. Dosière",
+          "date": "2015-09-28",
+          "groupe": "SRC",
+          "id_api": "109751",
+          "numero": "CL19",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Belot",
+          "date": "2015-09-28",
+          "groupe": "SRC",
+          "id_api": "110073",
+          "numero": "CL39",
+          "sort": "adopté"
+        }
+      ],
+      "order": 40,
+      "titre": "Article 4"
+    },
+    "Article 5": {
+      "amendements": [
+        {
+          "aut": "M. Molac, …",
+          "date": "2015-09-28",
+          "groupe": "ECOLO",
+          "id_api": "109924",
+          "numero": "CL23",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2015-09-28",
+          "groupe": "LR",
+          "id_api": "109933",
+          "numero": "CL7",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Belot",
+          "date": "2015-09-28",
+          "groupe": "SRC",
+          "id_api": "110044",
+          "numero": "CL28",
+          "sort": "adopté"
+        }
+      ],
+      "order": 50,
+      "titre": "Article 5"
+    },
+    "Article 6": {
+      "amendements": [
+        {
+          "aut": "M. Belot",
+          "date": "2015-09-28",
+          "groupe": "SRC",
+          "id_api": "109970",
+          "numero": "CL29",
+          "sort": "adopté"
+        }
+      ],
+      "order": 60,
+      "titre": "Article 6"
+    },
+    "Article 7": {
+      "amendements": [
+        {
+          "aut": "M. Belot",
+          "date": "2015-09-28",
+          "groupe": "SRC",
+          "id_api": "110005",
+          "numero": "CL41",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Belot",
+          "date": "2015-09-28",
+          "groupe": "SRC",
+          "id_api": "110007",
+          "numero": "CL42",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Belot",
+          "date": "2015-09-28",
+          "groupe": "SRC",
+          "id_api": "110066",
+          "numero": "CL43",
+          "sort": "adopté"
+        }
+      ],
+      "order": 70,
+      "titre": "Article 7"
+    },
+    "Article 8": {
+      "amendements": [
+        {
+          "aut": "M. Molac, …",
+          "date": "2015-09-28",
+          "groupe": "ECOLO",
+          "id_api": "109921",
+          "numero": "CL17",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Tardy",
+          "date": "2015-09-28",
+          "groupe": "LR",
+          "id_api": "109939",
+          "numero": "CL8",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Belot",
+          "date": "2015-09-28",
+          "groupe": "SRC",
+          "id_api": "110024",
+          "numero": "CL44",
+          "sort": "adopté"
+        }
+      ],
+      "order": 80,
+      "titre": "Article 8"
+    },
+    "Article 9": {
+      "amendements": [
+        {
+          "aut": "M. Belot",
+          "date": "2015-09-28",
+          "groupe": "SRC",
+          "id_api": "110021",
+          "numero": "CL45",
+          "sort": "adopté"
+        }
+      ],
+      "order": 90,
+      "titre": "Article 9"
+    },
+    "Avant l'article 1er": {
+      "amendements": [
+        {
+          "aut": "M. Molac, …",
+          "date": "2015-09-28",
+          "groupe": "ECOLO",
+          "id_api": "109776",
+          "numero": "CL21",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Molac, …",
+          "date": "2015-09-28",
+          "groupe": "ECOLO",
+          "id_api": "109846",
+          "numero": "CL22",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Molac, …",
+          "date": "2015-09-28",
+          "groupe": "ECOLO",
+          "id_api": "109860",
+          "numero": "CL13",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Belot",
+          "date": "2015-09-28",
+          "groupe": "SRC",
+          "id_api": "110048",
+          "numero": "CL25",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Belot",
+          "date": "2015-09-28",
+          "groupe": "SRC",
+          "id_api": "109958",
+          "numero": "CL27",
+          "sort": "adopté"
+        },
+        {
+          "aut": "",
+          "date": "2015-09-29",
+          "groupe": "Gouvernement",
+          "id_api": "110169",
+          "numero": "CL46",
+          "sort": "adopté"
+        }
+      ],
+      "order": 9,
+      "titre": "Avant l'article 1er"
+    }
+  }
+}
