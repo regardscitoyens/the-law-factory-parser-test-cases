@@ -132,23 +132,7 @@
     {
       "date": "2009-04-09",
       "debats_order": 7,
-      "directory": "07_cmp_assemblee_hemicycle",
-      "echec": "echec",
-      "enddate": "2009-04-09",
-      "has_interventions": true,
-      "institution": "assemblee",
-      "intervention_files": [
-        "2009-04-09T09:30_514"
-      ],
-      "nb_amendements": 0,
-      "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0266.asp",
-      "stage": "CMP",
-      "step": "hemicycle"
-    },
-    {
-      "date": "2009-04-09",
-      "debats_order": 8,
-      "directory": "08_cmp_senat_hemicycle",
+      "directory": "07_cmp_senat_hemicycle",
       "echec": null,
       "enddate": "2009-04-09",
       "has_interventions": true,
@@ -158,6 +142,22 @@
       ],
       "nb_amendements": 0,
       "source_url": "https://www.senat.fr/leg/tas08-075.html",
+      "stage": "CMP",
+      "step": "hemicycle"
+    },
+    {
+      "date": "2009-04-09",
+      "debats_order": 8,
+      "directory": "08_cmp_assemblee_hemicycle",
+      "echec": "echec",
+      "enddate": "2009-04-09",
+      "has_interventions": true,
+      "institution": "assemblee",
+      "intervention_files": [
+        "2009-04-09T09:30_514"
+      ],
+      "nb_amendements": 0,
+      "source_url": "http://www.assemblee-nationale.fr/13/ta/ta0266.asp",
       "stage": "CMP",
       "step": "hemicycle"
     },

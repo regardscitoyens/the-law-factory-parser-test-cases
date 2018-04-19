@@ -6588,7 +6588,366 @@
       }
     }
   },
-  "07_cmp_assemblee_hemicycle": {
+  "07_cmp_senat_hemicycle": {
+    "divisions": {
+      "Adoption des conclusions d'une commission mixte paritaire": {
+        "first_date": "2009-04-09",
+        "groupes": {
+          "CRC": {
+            "nb_intervs": 1,
+            "nb_mots": 2606,
+            "orateurs": {
+              "ivan renar": {
+                "link": "http://www.nossenateurs.fr/seance/662#inter_f97d479c6e42230098434e354db18925",
+                "nb_intervs": 1,
+                "nb_mots": 2606
+              }
+            }
+          },
+          "Gouvernement": {
+            "nb_intervs": 1,
+            "nb_mots": 1302,
+            "orateurs": {
+              "christine albanel": {
+                "link": "http://www.nossenateurs.fr/seance/662#inter_c2f57e8a0706f04f6367ff6b5d0ec6be",
+                "nb_intervs": 1,
+                "nb_mots": 1302
+              }
+            }
+          },
+          "LR": {
+            "nb_intervs": 3,
+            "nb_mots": 795,
+            "orateurs": {
+              "jacques legendre": {
+                "link": "http://www.nossenateurs.fr/seance/662#inter_88704d38a02c02888597439a412aaa6d",
+                "nb_intervs": 2,
+                "nb_mots": 790
+              },
+              "ladislas poniatowski": {
+                "link": "http://www.nossenateurs.fr/seance/662#inter_0a01008285217c6c935fd2635cab88c7",
+                "nb_intervs": 1,
+                "nb_mots": 5
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 8,
+            "nb_mots": 215,
+            "orateurs": {
+              "bernard frimat": {
+                "link": "http://www.nossenateurs.fr/seance/662#inter_e7f84c3c19e6a12e08c2660d5441a75a",
+                "nb_intervs": 8,
+                "nb_mots": 215
+              }
+            }
+          },
+          "RDSE": {
+            "nb_intervs": 2,
+            "nb_mots": 1392,
+            "orateurs": {
+              "françoise laborde": {
+                "link": "http://www.nossenateurs.fr/seance/662#inter_b4e646a620800796f206bfa44d9a556b",
+                "nb_intervs": 2,
+                "nb_mots": 1392
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 1,
+            "nb_mots": 2367,
+            "orateurs": {
+              "michel thiollière": {
+                "link": "http://www.nossenateurs.fr/seance/662#inter_aa77d7a55a9f00f4bc24c2337b38fb4f",
+                "nb_intervs": 1,
+                "nb_mots": 2367
+              }
+            }
+          },
+          "SOC": {
+            "nb_intervs": 2,
+            "nb_mots": 1491,
+            "orateurs": {
+              "serge lagauche": {
+                "link": "http://www.nossenateurs.fr/seance/662#inter_5ffc19d897e609dc6c6ea7f414168f64",
+                "nb_intervs": 2,
+                "nb_mots": 1491
+              }
+            }
+          },
+          "UC": {
+            "nb_intervs": 1,
+            "nb_mots": 1849,
+            "orateurs": {
+              "catherine morin-desailly": {
+                "link": "http://www.nossenateurs.fr/seance/662#inter_685eccfe5f0725071ef85518e3130e01",
+                "nb_intervs": 1,
+                "nb_mots": 1849
+              }
+            }
+          }
+        },
+        "last_date": "2009-04-09",
+        "link": "http://www.nossenateurs.fr/seance/662#inter_0edc8ad779625342878d77f801d057d5",
+        "order": 2,
+        "source": "http://www.senat.fr/seances/s200904/s20090409/s20090409_mono.html#Niv2_Adoption_des_conclusions_d_une_cT",
+        "total_intervs": 19,
+        "total_mots": 12017
+      },
+      "Article 10 bis A": {
+        "first_date": "2009-04-09",
+        "groupes": {
+          "LR": {
+            "nb_intervs": 1,
+            "nb_mots": 233,
+            "orateurs": {
+              "jacques legendre": {
+                "link": "http://www.nossenateurs.fr/seance/662#inter_9dc04398c0e37d93f5219233dac2673c",
+                "nb_intervs": 1,
+                "nb_mots": 233
+              }
+            }
+          },
+          "NI": {
+            "nb_intervs": 1,
+            "nb_mots": 614,
+            "orateurs": {
+              "marie-christine blandin": {
+                "link": "http://www.nossenateurs.fr/seance/662#inter_ec7650bf84f1526cd86cf6e6903661ac",
+                "nb_intervs": 1,
+                "nb_mots": 614
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 3,
+            "nb_mots": 44,
+            "orateurs": {
+              "bernard frimat": {
+                "link": "http://www.nossenateurs.fr/seance/662#inter_789bb136693631d9bdde8e16a0a64a33",
+                "nb_intervs": 3,
+                "nb_mots": 44
+              }
+            }
+          }
+        },
+        "last_date": "2009-04-09",
+        "link": "http://www.nossenateurs.fr/seance/662#inter_a5e398ae59d62939a367f403cfb8471f",
+        "order": 20,
+        "source": "http://www.senat.fr/seances/s200904/s20090409/s20090409_mono.html#section491",
+        "total_intervs": 5,
+        "total_mots": 891
+      },
+      "Vote sur l'ensemble": {
+        "first_date": "2009-04-09",
+        "groupes": {
+          "CRC": {
+            "nb_intervs": 1,
+            "nb_mots": 9,
+            "orateurs": {
+              "ivan renar": {
+                "link": "http://www.nossenateurs.fr/seance/662#inter_ded907de940f3fd26234c4d608cd2ccf",
+                "nb_intervs": 1,
+                "nb_mots": 9
+              }
+            }
+          },
+          "NI": {
+            "nb_intervs": 1,
+            "nb_mots": 486,
+            "orateurs": {
+              "marie-christine blandin": {
+                "link": "http://www.nossenateurs.fr/seance/662#inter_6a50f76661b24890a4ae9406b18e686b",
+                "nb_intervs": 1,
+                "nb_mots": 486
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 5,
+            "nb_mots": 122,
+            "orateurs": {
+              "bernard frimat": {
+                "link": "http://www.nossenateurs.fr/seance/662#inter_b8e7bf7ff3027de3a7f6c667a20faaf4",
+                "nb_intervs": 5,
+                "nb_mots": 122
+              }
+            }
+          },
+          "RTLI": {
+            "nb_intervs": 1,
+            "nb_mots": 596,
+            "orateurs": {
+              "colette mélot": {
+                "link": "http://www.nossenateurs.fr/seance/662#inter_5f19baf55ccda76af0b4f9471cd474c3",
+                "nb_intervs": 1,
+                "nb_mots": 596
+              }
+            }
+          }
+        },
+        "last_date": "2009-04-09",
+        "link": "http://www.nossenateurs.fr/seance/662#inter_9d749558dda8ee4046f2b3133ac8185f",
+        "order": 31,
+        "source": "http://www.senat.fr/seances/s200904/s20090409/s20090409_mono.html#Niv3_titS2_Vote_sur_l_ensemble",
+        "total_intervs": 8,
+        "total_mots": 1213
+      }
+    },
+    "groupes": {
+      "CRC": {
+        "color": "rgb(255,30,30)",
+        "link": "https://www.nossenateurs.fr/groupe/CRC",
+        "nom": "Communiste, Républicain, Citoyen et des Sénateurs du Parti de Gauche",
+        "order": 11
+      },
+      "Gouvernement": {
+        "color": "#cccbb3",
+        "link": "",
+        "nom": "Gouvernement",
+        "order": 60
+      },
+      "LR": {
+        "color": "rgb(30,30,200)",
+        "link": "https://www.nossenateurs.fr/groupe/LR",
+        "nom": "Les Républicains",
+        "order": 24
+      },
+      "NI": {
+        "color": "rgb(165,165,165)",
+        "link": "https://www.nossenateurs.fr/groupe/NI",
+        "nom": "Réunion administrative des Sénateurs ne figurant sur la liste d'aucun groupe politique",
+        "order": 25
+      },
+      "Présidence": {
+        "color": "#bfbbcc",
+        "link": "",
+        "nom": "Présidence",
+        "order": 0
+      },
+      "RDSE": {
+        "color": "rgb(250,195,132)",
+        "link": "https://www.nossenateurs.fr/groupe/RDSE",
+        "nom": "Rassemblement Démocratique et Social européen",
+        "order": 17
+      },
+      "RTLI": {
+        "color": "rgb(30,180,255)",
+        "link": "https://www.nossenateurs.fr/groupe/RTLI",
+        "nom": "Les Indépendants - République et Territoires",
+        "order": 19
+      },
+      "Rapporteurs": {
+        "color": "#b9ccc0",
+        "link": "",
+        "nom": "Rapporteurs",
+        "order": 50
+      },
+      "SOC": {
+        "color": "rgb(255,50,190)",
+        "link": "https://www.nossenateurs.fr/groupe/SOC",
+        "nom": "Socialiste et républicain",
+        "order": 14
+      },
+      "UC": {
+        "color": "rgb(130,140,255)",
+        "link": "https://www.nossenateurs.fr/groupe/UC",
+        "nom": "Union Centriste",
+        "order": 20
+      }
+    },
+    "orateurs": {
+      "bernard frimat": {
+        "color": "#888888",
+        "fonction": "président",
+        "groupe": "SOCV",
+        "link": "https://www.nossenateurs.fr/bernard-frimat",
+        "nom": "Bernard Frimat",
+        "photo": "https://www.nossenateurs.fr/senateur/photo/bernard-frimat"
+      },
+      "catherine morin-desailly": {
+        "color": "rgb(130,140,255)",
+        "fonction": "",
+        "groupe": "UC",
+        "link": "https://www.nossenateurs.fr/catherine-morin-desailly",
+        "nom": "Catherine Morin-Desailly",
+        "photo": "https://www.nossenateurs.fr/senateur/photo/catherine-morin-desailly"
+      },
+      "christine albanel": {
+        "color": "#888888",
+        "fonction": "ministre de la culture et de la communication",
+        "groupe": "",
+        "link": "",
+        "nom": "Christine Albanel",
+        "photo": ""
+      },
+      "colette mélot": {
+        "color": "rgb(30,180,255)",
+        "fonction": "",
+        "groupe": "RTLI",
+        "link": "https://www.nossenateurs.fr/colette-melot",
+        "nom": "Colette Mélot",
+        "photo": "https://www.nossenateurs.fr/senateur/photo/colette-melot"
+      },
+      "françoise laborde": {
+        "color": "rgb(250,195,132)",
+        "fonction": "",
+        "groupe": "RDSE",
+        "link": "https://www.nossenateurs.fr/francoise-laborde",
+        "nom": "Françoise Laborde",
+        "photo": "https://www.nossenateurs.fr/senateur/photo/francoise-laborde"
+      },
+      "ivan renar": {
+        "color": "#888888",
+        "fonction": "",
+        "groupe": "CRC-SPG",
+        "link": "https://www.nossenateurs.fr/ivan-renar",
+        "nom": "Ivan Renar",
+        "photo": "https://www.nossenateurs.fr/senateur/photo/ivan-renar"
+      },
+      "jacques legendre": {
+        "color": "rgb(30,30,200)",
+        "fonction": "président de la commission des affaires culturelles",
+        "groupe": "LR",
+        "link": "https://www.nossenateurs.fr/jacques-legendre",
+        "nom": "Jacques Legendre",
+        "photo": "https://www.nossenateurs.fr/senateur/photo/jacques-legendre"
+      },
+      "ladislas poniatowski": {
+        "color": "rgb(30,30,200)",
+        "fonction": "",
+        "groupe": "LR",
+        "link": "https://www.nossenateurs.fr/ladislas-poniatowski",
+        "nom": "Ladislas Poniatowski",
+        "photo": "https://www.nossenateurs.fr/senateur/photo/ladislas-poniatowski"
+      },
+      "marie-christine blandin": {
+        "color": "rgb(165,165,165)",
+        "fonction": "",
+        "groupe": "NI",
+        "link": "https://www.nossenateurs.fr/marie-christine-blandin",
+        "nom": "Marie-Christine Blandin",
+        "photo": "https://www.nossenateurs.fr/senateur/photo/marie-christine-blandin"
+      },
+      "michel thiollière": {
+        "color": "rgb(30,30,200)",
+        "fonction": "rapporteur pour le Sénat de la commission mixte paritaire",
+        "groupe": "UMP",
+        "link": "https://www.nossenateurs.fr/michel-thiolliere",
+        "nom": "Michel Thiollière",
+        "photo": "https://www.nossenateurs.fr/senateur/photo/michel-thiolliere"
+      },
+      "serge lagauche": {
+        "color": "#888888",
+        "fonction": "",
+        "groupe": "SOCV",
+        "link": "https://www.nossenateurs.fr/serge-lagauche",
+        "nom": "Serge Lagauche",
+        "photo": "https://www.nossenateurs.fr/senateur/photo/serge-lagauche"
+      }
+    }
+  },
+  "08_cmp_assemblee_hemicycle": {
     "divisions": {
       "Discussion du texte de la commission mixte paritaire": {
         "first_date": "2009-04-09",
@@ -7219,365 +7578,6 @@
         "link": "https://2007-2012.nosdeputes.fr/yves-albarello",
         "nom": "Yves Albarello",
         "photo": "https://2007-2012.nosdeputes.fr/depute/photo/yves-albarello"
-      }
-    }
-  },
-  "08_cmp_senat_hemicycle": {
-    "divisions": {
-      "Adoption des conclusions d'une commission mixte paritaire": {
-        "first_date": "2009-04-09",
-        "groupes": {
-          "CRC": {
-            "nb_intervs": 1,
-            "nb_mots": 2606,
-            "orateurs": {
-              "ivan renar": {
-                "link": "http://www.nossenateurs.fr/seance/662#inter_f97d479c6e42230098434e354db18925",
-                "nb_intervs": 1,
-                "nb_mots": 2606
-              }
-            }
-          },
-          "Gouvernement": {
-            "nb_intervs": 1,
-            "nb_mots": 1302,
-            "orateurs": {
-              "christine albanel": {
-                "link": "http://www.nossenateurs.fr/seance/662#inter_c2f57e8a0706f04f6367ff6b5d0ec6be",
-                "nb_intervs": 1,
-                "nb_mots": 1302
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 3,
-            "nb_mots": 795,
-            "orateurs": {
-              "jacques legendre": {
-                "link": "http://www.nossenateurs.fr/seance/662#inter_88704d38a02c02888597439a412aaa6d",
-                "nb_intervs": 2,
-                "nb_mots": 790
-              },
-              "ladislas poniatowski": {
-                "link": "http://www.nossenateurs.fr/seance/662#inter_0a01008285217c6c935fd2635cab88c7",
-                "nb_intervs": 1,
-                "nb_mots": 5
-              }
-            }
-          },
-          "Présidence": {
-            "nb_intervs": 8,
-            "nb_mots": 215,
-            "orateurs": {
-              "bernard frimat": {
-                "link": "http://www.nossenateurs.fr/seance/662#inter_e7f84c3c19e6a12e08c2660d5441a75a",
-                "nb_intervs": 8,
-                "nb_mots": 215
-              }
-            }
-          },
-          "RDSE": {
-            "nb_intervs": 2,
-            "nb_mots": 1392,
-            "orateurs": {
-              "françoise laborde": {
-                "link": "http://www.nossenateurs.fr/seance/662#inter_b4e646a620800796f206bfa44d9a556b",
-                "nb_intervs": 2,
-                "nb_mots": 1392
-              }
-            }
-          },
-          "Rapporteurs": {
-            "nb_intervs": 1,
-            "nb_mots": 2367,
-            "orateurs": {
-              "michel thiollière": {
-                "link": "http://www.nossenateurs.fr/seance/662#inter_aa77d7a55a9f00f4bc24c2337b38fb4f",
-                "nb_intervs": 1,
-                "nb_mots": 2367
-              }
-            }
-          },
-          "SOC": {
-            "nb_intervs": 2,
-            "nb_mots": 1491,
-            "orateurs": {
-              "serge lagauche": {
-                "link": "http://www.nossenateurs.fr/seance/662#inter_5ffc19d897e609dc6c6ea7f414168f64",
-                "nb_intervs": 2,
-                "nb_mots": 1491
-              }
-            }
-          },
-          "UC": {
-            "nb_intervs": 1,
-            "nb_mots": 1849,
-            "orateurs": {
-              "catherine morin-desailly": {
-                "link": "http://www.nossenateurs.fr/seance/662#inter_685eccfe5f0725071ef85518e3130e01",
-                "nb_intervs": 1,
-                "nb_mots": 1849
-              }
-            }
-          }
-        },
-        "last_date": "2009-04-09",
-        "link": "http://www.nossenateurs.fr/seance/662#inter_0edc8ad779625342878d77f801d057d5",
-        "order": 2,
-        "source": "http://www.senat.fr/seances/s200904/s20090409/s20090409_mono.html#Niv2_Adoption_des_conclusions_d_une_cT",
-        "total_intervs": 19,
-        "total_mots": 12017
-      },
-      "Article 10 bis A": {
-        "first_date": "2009-04-09",
-        "groupes": {
-          "LR": {
-            "nb_intervs": 1,
-            "nb_mots": 233,
-            "orateurs": {
-              "jacques legendre": {
-                "link": "http://www.nossenateurs.fr/seance/662#inter_9dc04398c0e37d93f5219233dac2673c",
-                "nb_intervs": 1,
-                "nb_mots": 233
-              }
-            }
-          },
-          "NI": {
-            "nb_intervs": 1,
-            "nb_mots": 614,
-            "orateurs": {
-              "marie-christine blandin": {
-                "link": "http://www.nossenateurs.fr/seance/662#inter_ec7650bf84f1526cd86cf6e6903661ac",
-                "nb_intervs": 1,
-                "nb_mots": 614
-              }
-            }
-          },
-          "Présidence": {
-            "nb_intervs": 3,
-            "nb_mots": 44,
-            "orateurs": {
-              "bernard frimat": {
-                "link": "http://www.nossenateurs.fr/seance/662#inter_789bb136693631d9bdde8e16a0a64a33",
-                "nb_intervs": 3,
-                "nb_mots": 44
-              }
-            }
-          }
-        },
-        "last_date": "2009-04-09",
-        "link": "http://www.nossenateurs.fr/seance/662#inter_a5e398ae59d62939a367f403cfb8471f",
-        "order": 20,
-        "source": "http://www.senat.fr/seances/s200904/s20090409/s20090409_mono.html#section491",
-        "total_intervs": 5,
-        "total_mots": 891
-      },
-      "Vote sur l'ensemble": {
-        "first_date": "2009-04-09",
-        "groupes": {
-          "CRC": {
-            "nb_intervs": 1,
-            "nb_mots": 9,
-            "orateurs": {
-              "ivan renar": {
-                "link": "http://www.nossenateurs.fr/seance/662#inter_ded907de940f3fd26234c4d608cd2ccf",
-                "nb_intervs": 1,
-                "nb_mots": 9
-              }
-            }
-          },
-          "NI": {
-            "nb_intervs": 1,
-            "nb_mots": 486,
-            "orateurs": {
-              "marie-christine blandin": {
-                "link": "http://www.nossenateurs.fr/seance/662#inter_6a50f76661b24890a4ae9406b18e686b",
-                "nb_intervs": 1,
-                "nb_mots": 486
-              }
-            }
-          },
-          "Présidence": {
-            "nb_intervs": 5,
-            "nb_mots": 122,
-            "orateurs": {
-              "bernard frimat": {
-                "link": "http://www.nossenateurs.fr/seance/662#inter_b8e7bf7ff3027de3a7f6c667a20faaf4",
-                "nb_intervs": 5,
-                "nb_mots": 122
-              }
-            }
-          },
-          "RTLI": {
-            "nb_intervs": 1,
-            "nb_mots": 596,
-            "orateurs": {
-              "colette mélot": {
-                "link": "http://www.nossenateurs.fr/seance/662#inter_5f19baf55ccda76af0b4f9471cd474c3",
-                "nb_intervs": 1,
-                "nb_mots": 596
-              }
-            }
-          }
-        },
-        "last_date": "2009-04-09",
-        "link": "http://www.nossenateurs.fr/seance/662#inter_9d749558dda8ee4046f2b3133ac8185f",
-        "order": 31,
-        "source": "http://www.senat.fr/seances/s200904/s20090409/s20090409_mono.html#Niv3_titS2_Vote_sur_l_ensemble",
-        "total_intervs": 8,
-        "total_mots": 1213
-      }
-    },
-    "groupes": {
-      "CRC": {
-        "color": "rgb(255,30,30)",
-        "link": "https://www.nossenateurs.fr/groupe/CRC",
-        "nom": "Communiste, Républicain, Citoyen et des Sénateurs du Parti de Gauche",
-        "order": 11
-      },
-      "Gouvernement": {
-        "color": "#cccbb3",
-        "link": "",
-        "nom": "Gouvernement",
-        "order": 60
-      },
-      "LR": {
-        "color": "rgb(30,30,200)",
-        "link": "https://www.nossenateurs.fr/groupe/LR",
-        "nom": "Les Républicains",
-        "order": 24
-      },
-      "NI": {
-        "color": "rgb(165,165,165)",
-        "link": "https://www.nossenateurs.fr/groupe/NI",
-        "nom": "Réunion administrative des Sénateurs ne figurant sur la liste d'aucun groupe politique",
-        "order": 25
-      },
-      "Présidence": {
-        "color": "#bfbbcc",
-        "link": "",
-        "nom": "Présidence",
-        "order": 0
-      },
-      "RDSE": {
-        "color": "rgb(250,195,132)",
-        "link": "https://www.nossenateurs.fr/groupe/RDSE",
-        "nom": "Rassemblement Démocratique et Social européen",
-        "order": 17
-      },
-      "RTLI": {
-        "color": "rgb(30,180,255)",
-        "link": "https://www.nossenateurs.fr/groupe/RTLI",
-        "nom": "Les Indépendants - République et Territoires",
-        "order": 19
-      },
-      "Rapporteurs": {
-        "color": "#b9ccc0",
-        "link": "",
-        "nom": "Rapporteurs",
-        "order": 50
-      },
-      "SOC": {
-        "color": "rgb(255,50,190)",
-        "link": "https://www.nossenateurs.fr/groupe/SOC",
-        "nom": "Socialiste et républicain",
-        "order": 14
-      },
-      "UC": {
-        "color": "rgb(130,140,255)",
-        "link": "https://www.nossenateurs.fr/groupe/UC",
-        "nom": "Union Centriste",
-        "order": 20
-      }
-    },
-    "orateurs": {
-      "bernard frimat": {
-        "color": "#888888",
-        "fonction": "président",
-        "groupe": "SOCV",
-        "link": "https://www.nossenateurs.fr/bernard-frimat",
-        "nom": "Bernard Frimat",
-        "photo": "https://www.nossenateurs.fr/senateur/photo/bernard-frimat"
-      },
-      "catherine morin-desailly": {
-        "color": "rgb(130,140,255)",
-        "fonction": "",
-        "groupe": "UC",
-        "link": "https://www.nossenateurs.fr/catherine-morin-desailly",
-        "nom": "Catherine Morin-Desailly",
-        "photo": "https://www.nossenateurs.fr/senateur/photo/catherine-morin-desailly"
-      },
-      "christine albanel": {
-        "color": "#888888",
-        "fonction": "ministre de la culture et de la communication",
-        "groupe": "",
-        "link": "",
-        "nom": "Christine Albanel",
-        "photo": ""
-      },
-      "colette mélot": {
-        "color": "rgb(30,180,255)",
-        "fonction": "",
-        "groupe": "RTLI",
-        "link": "https://www.nossenateurs.fr/colette-melot",
-        "nom": "Colette Mélot",
-        "photo": "https://www.nossenateurs.fr/senateur/photo/colette-melot"
-      },
-      "françoise laborde": {
-        "color": "rgb(250,195,132)",
-        "fonction": "",
-        "groupe": "RDSE",
-        "link": "https://www.nossenateurs.fr/francoise-laborde",
-        "nom": "Françoise Laborde",
-        "photo": "https://www.nossenateurs.fr/senateur/photo/francoise-laborde"
-      },
-      "ivan renar": {
-        "color": "#888888",
-        "fonction": "",
-        "groupe": "CRC-SPG",
-        "link": "https://www.nossenateurs.fr/ivan-renar",
-        "nom": "Ivan Renar",
-        "photo": "https://www.nossenateurs.fr/senateur/photo/ivan-renar"
-      },
-      "jacques legendre": {
-        "color": "rgb(30,30,200)",
-        "fonction": "président de la commission des affaires culturelles",
-        "groupe": "LR",
-        "link": "https://www.nossenateurs.fr/jacques-legendre",
-        "nom": "Jacques Legendre",
-        "photo": "https://www.nossenateurs.fr/senateur/photo/jacques-legendre"
-      },
-      "ladislas poniatowski": {
-        "color": "rgb(30,30,200)",
-        "fonction": "",
-        "groupe": "LR",
-        "link": "https://www.nossenateurs.fr/ladislas-poniatowski",
-        "nom": "Ladislas Poniatowski",
-        "photo": "https://www.nossenateurs.fr/senateur/photo/ladislas-poniatowski"
-      },
-      "marie-christine blandin": {
-        "color": "rgb(165,165,165)",
-        "fonction": "",
-        "groupe": "NI",
-        "link": "https://www.nossenateurs.fr/marie-christine-blandin",
-        "nom": "Marie-Christine Blandin",
-        "photo": "https://www.nossenateurs.fr/senateur/photo/marie-christine-blandin"
-      },
-      "michel thiollière": {
-        "color": "rgb(30,30,200)",
-        "fonction": "rapporteur pour le Sénat de la commission mixte paritaire",
-        "groupe": "UMP",
-        "link": "https://www.nossenateurs.fr/michel-thiolliere",
-        "nom": "Michel Thiollière",
-        "photo": "https://www.nossenateurs.fr/senateur/photo/michel-thiolliere"
-      },
-      "serge lagauche": {
-        "color": "#888888",
-        "fonction": "",
-        "groupe": "SOCV",
-        "link": "https://www.nossenateurs.fr/serge-lagauche",
-        "nom": "Serge Lagauche",
-        "photo": "https://www.nossenateurs.fr/senateur/photo/serge-lagauche"
       }
     }
   },
