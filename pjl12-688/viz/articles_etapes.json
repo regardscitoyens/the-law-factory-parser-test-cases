@@ -39,14 +39,6 @@
         },
         {
           "diff": "rem",
-          "directory": "05_1erelecture_senat_hemicycle",
-          "id_step": "05_1erelecture_senat_hemicycle",
-          "length": 15160,
-          "n_diff": 0.5998663436638543,
-          "status": "none"
-        },
-        {
-          "diff": "rem",
           "directory": "07_1erelecture_senat_hemicycle",
           "id_step": "07_1erelecture_senat_hemicycle",
           "length": 0,
@@ -110,20 +102,12 @@
           "status": "new"
         },
         {
-          "diff": "rem",
-          "directory": "05_1erelecture_senat_hemicycle",
-          "id_step": "05_1erelecture_senat_hemicycle",
-          "length": 0,
-          "n_diff": 0,
-          "status": "sup"
-        },
-        {
           "diff": "add",
           "directory": "07_1erelecture_senat_hemicycle",
           "id_step": "07_1erelecture_senat_hemicycle",
           "length": 493,
-          "n_diff": 1,
-          "status": "new"
+          "n_diff": 0.8848039215686274,
+          "status": "none"
         },
         {
           "diff": "rem",
@@ -190,19 +174,11 @@
           "status": "none"
         },
         {
-          "diff": "add",
-          "directory": "05_1erelecture_senat_hemicycle",
-          "id_step": "05_1erelecture_senat_hemicycle",
-          "length": 3619,
-          "n_diff": 0.41494591937069814,
-          "status": "none"
-        },
-        {
           "diff": "rem",
           "directory": "07_1erelecture_senat_hemicycle",
           "id_step": "07_1erelecture_senat_hemicycle",
           "length": 5769,
-          "n_diff": 0.44796484736355224,
+          "n_diff": 0.066836262719704,
           "status": "none"
         },
         {
@@ -273,14 +249,6 @@
           "diff": "none",
           "directory": "04_1erelecture_senat_commission",
           "id_step": "04_1erelecture_senat_commission",
-          "length": 155,
-          "n_diff": 0,
-          "status": "none"
-        },
-        {
-          "diff": "none",
-          "directory": "05_1erelecture_senat_hemicycle",
-          "id_step": "05_1erelecture_senat_hemicycle",
           "length": 155,
           "n_diff": 0,
           "status": "none"
@@ -360,14 +328,6 @@
           "status": "none"
         },
         {
-          "diff": "both",
-          "directory": "05_1erelecture_senat_hemicycle",
-          "id_step": "05_1erelecture_senat_hemicycle",
-          "length": 340,
-          "n_diff": 0.25230769230769234,
-          "status": "none"
-        },
-        {
           "diff": "rem",
           "directory": "07_1erelecture_senat_hemicycle",
           "id_step": "07_1erelecture_senat_hemicycle",
@@ -443,19 +403,11 @@
         },
         {
           "diff": "add",
-          "directory": "05_1erelecture_senat_hemicycle",
-          "id_step": "05_1erelecture_senat_hemicycle",
-          "length": 291,
-          "n_diff": 1,
-          "status": "new"
-        },
-        {
-          "diff": "none",
           "directory": "07_1erelecture_senat_hemicycle",
           "id_step": "07_1erelecture_senat_hemicycle",
           "length": 291,
-          "n_diff": 0,
-          "status": "none"
+          "n_diff": 1,
+          "status": "new"
         },
         {
           "diff": "none",
@@ -527,14 +479,6 @@
           "diff": "none",
           "directory": "04_1erelecture_senat_commission",
           "id_step": "04_1erelecture_senat_commission",
-          "length": 87,
-          "n_diff": 0,
-          "status": "none"
-        },
-        {
-          "diff": "none",
-          "directory": "05_1erelecture_senat_hemicycle",
-          "id_step": "05_1erelecture_senat_hemicycle",
           "length": 87,
           "n_diff": 0,
           "status": "none"
@@ -630,19 +574,11 @@
           "status": "none"
         },
         {
-          "diff": "add",
-          "directory": "05_1erelecture_senat_hemicycle",
-          "id_step": "05_1erelecture_senat_hemicycle",
-          "length": 1146,
-          "n_diff": 0.04449388209121241,
-          "status": "none"
-        },
-        {
-          "diff": "rem",
+          "diff": "none",
           "directory": "07_1erelecture_senat_hemicycle",
           "id_step": "07_1erelecture_senat_hemicycle",
           "length": 1204,
-          "n_diff": 0.04449388209121241,
+          "n_diff": 0,
           "status": "none"
         },
         {
@@ -728,14 +664,6 @@
           "status": "none"
         },
         {
-          "diff": "both",
-          "directory": "05_1erelecture_senat_hemicycle",
-          "id_step": "05_1erelecture_senat_hemicycle",
-          "length": 339,
-          "n_diff": 0.017391304347826098,
-          "status": "none"
-        },
-        {
           "diff": "rem",
           "directory": "07_1erelecture_senat_hemicycle",
           "id_step": "07_1erelecture_senat_hemicycle",
@@ -811,18 +739,10 @@
         },
         {
           "diff": "add",
-          "directory": "05_1erelecture_senat_hemicycle",
-          "id_step": "05_1erelecture_senat_hemicycle",
-          "length": 251,
-          "n_diff": 0.43125,
-          "status": "none"
-        },
-        {
-          "diff": "none",
           "directory": "07_1erelecture_senat_hemicycle",
           "id_step": "07_1erelecture_senat_hemicycle",
           "length": 251,
-          "n_diff": 0,
+          "n_diff": 0.43125,
           "status": "none"
         },
         {
@@ -892,14 +812,6 @@
           "status": "sup"
         },
         {
-          "diff": "add",
-          "directory": "05_1erelecture_senat_hemicycle",
-          "id_step": "05_1erelecture_senat_hemicycle",
-          "length": 1485,
-          "n_diff": 1,
-          "status": "new"
-        },
-        {
           "diff": "rem",
           "directory": "07_1erelecture_senat_hemicycle",
           "id_step": "07_1erelecture_senat_hemicycle",
@@ -958,20 +870,12 @@
           "status": "new"
         },
         {
-          "diff": "rem",
-          "directory": "05_1erelecture_senat_hemicycle",
-          "id_step": "05_1erelecture_senat_hemicycle",
-          "length": 0,
-          "n_diff": 0,
-          "status": "sup"
-        },
-        {
-          "diff": "add",
+          "diff": "both",
           "directory": "07_1erelecture_senat_hemicycle",
           "id_step": "07_1erelecture_senat_hemicycle",
           "length": 872,
-          "n_diff": 1,
-          "status": "new"
+          "n_diff": 0.00727802037845704,
+          "status": "none"
         },
         {
           "diff": "both",
@@ -1057,27 +961,19 @@
         },
         {
           "diff": "none",
-          "directory": "05_1erelecture_senat_hemicycle",
-          "id_step": "05_1erelecture_senat_hemicycle",
+          "directory": "07_1erelecture_senat_hemicycle",
+          "id_step": "07_1erelecture_senat_hemicycle",
           "length": 138,
           "n_diff": 0,
           "status": "none"
         },
         {
-          "diff": "rem",
-          "directory": "07_1erelecture_senat_hemicycle",
-          "id_step": "07_1erelecture_senat_hemicycle",
-          "length": 0,
-          "n_diff": 0,
-          "status": "sup"
-        },
-        {
-          "diff": "add",
+          "diff": "none",
           "directory": "10_nouv.lect._assemblee_commission",
           "id_step": "10_nouv.lect._assemblee_commission",
           "length": 138,
-          "n_diff": 1,
-          "status": "new"
+          "n_diff": 0,
+          "status": "none"
         },
         {
           "diff": "none",
@@ -1141,14 +1037,6 @@
           "diff": "none",
           "directory": "04_1erelecture_senat_commission",
           "id_step": "04_1erelecture_senat_commission",
-          "length": 530,
-          "n_diff": 0,
-          "status": "none"
-        },
-        {
-          "diff": "none",
-          "directory": "05_1erelecture_senat_hemicycle",
-          "id_step": "05_1erelecture_senat_hemicycle",
           "length": 530,
           "n_diff": 0,
           "status": "none"
@@ -1236,14 +1124,6 @@
           "status": "none"
         },
         {
-          "diff": "none",
-          "directory": "05_1erelecture_senat_hemicycle",
-          "id_step": "05_1erelecture_senat_hemicycle",
-          "length": 577,
-          "n_diff": 0,
-          "status": "none"
-        },
-        {
           "diff": "rem",
           "directory": "07_1erelecture_senat_hemicycle",
           "id_step": "07_1erelecture_senat_hemicycle",
@@ -1313,14 +1193,6 @@
           "diff": "none",
           "directory": "04_1erelecture_senat_commission",
           "id_step": "04_1erelecture_senat_commission",
-          "length": 682,
-          "n_diff": 0,
-          "status": "none"
-        },
-        {
-          "diff": "none",
-          "directory": "05_1erelecture_senat_hemicycle",
-          "id_step": "05_1erelecture_senat_hemicycle",
           "length": 682,
           "n_diff": 0,
           "status": "none"
@@ -1408,19 +1280,11 @@
           "status": "none"
         },
         {
-          "diff": "add",
-          "directory": "05_1erelecture_senat_hemicycle",
-          "id_step": "05_1erelecture_senat_hemicycle",
-          "length": 532,
-          "n_diff": 0.4864253393665159,
-          "status": "none"
-        },
-        {
-          "diff": "rem",
+          "diff": "none",
           "directory": "07_1erelecture_senat_hemicycle",
           "id_step": "07_1erelecture_senat_hemicycle",
           "length": 525,
-          "n_diff": 0.49321266968325794,
+          "n_diff": 0,
           "status": "none"
         },
         {
@@ -1474,6 +1338,13 @@
       "section": "echec",
       "steps": [
         {
+          "directory": "05_1erelecture_senat_hemicycle",
+          "id_step": "05_1erelecture_senat_hemicycle",
+          "length": 0,
+          "n_diff": 0,
+          "status": "RENVOI EN COMMISSION"
+        },
+        {
           "directory": "06_1erelecture_senat_commission",
           "id_step": "06_1erelecture_senat_commission",
           "length": 0,
@@ -1495,12 +1366,16 @@
           "status": "REJET"
         }
       ],
-      "titre": "rejet"
+      "titre": "renvoi en commission"
     }
   },
   "law_title": "Projet de loi organique relatif \u00e0 la Transparence de la vie publique",
   "sections": {
     "echec": {
+      "05_1erelecture_senat_hemicycle": {
+        "title": "",
+        "type": "RENVOI EN COMMISSION"
+      },
       "06_1erelecture_senat_commission": {
         "title": "R\u00e9unie le mardi 9 juillet 2013, \u00e0 la suite de l'adoption par le S\u00e9nat d'une motion de renvoi en commission, la commission a rejet\u00e9 le texte du projet de loi organique n\u00b0 723 (2012-2013) relatif \u00e0 la transparence de la vie publique adopt\u00e9 lors de sa r\u00e9union du mercredi 3 juillet 2013.",
         "type": "REJET"
