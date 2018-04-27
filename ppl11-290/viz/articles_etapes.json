@@ -71,16 +71,16 @@
         },
         {
           "diff": "add",
-          "directory": "14_l.d\u00e9finitive_assemblee_hemicycle",
-          "id_step": "14_l.d\u00e9finitive_assemblee_hemicycle",
+          "directory": "14_l.définitive_assemblee_hemicycle",
+          "id_step": "14_l.définitive_assemblee_hemicycle",
           "length": 8084,
           "n_diff": 0.0012169151201704143,
           "status": "none"
         },
         {
           "diff": "none",
-          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
-          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "directory": "15_constitutionnalité_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalité_conseilconstitutionnel_",
           "length": 8084,
           "n_diff": 0,
           "status": "none"
@@ -119,8 +119,8 @@
         },
         {
           "diff": "none",
-          "directory": "14_l.d\u00e9finitive_assemblee_hemicycle",
-          "id_step": "14_l.d\u00e9finitive_assemblee_hemicycle",
+          "directory": "14_l.définitive_assemblee_hemicycle",
+          "id_step": "14_l.définitive_assemblee_hemicycle",
           "length": 215,
           "n_diff": 0,
           "newnum": "1er",
@@ -128,8 +128,8 @@
         },
         {
           "diff": "none",
-          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
-          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "directory": "15_constitutionnalité_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalité_conseilconstitutionnel_",
           "length": 215,
           "n_diff": 0,
           "newnum": "1er",
@@ -169,8 +169,8 @@
         },
         {
           "diff": "none",
-          "directory": "14_l.d\u00e9finitive_assemblee_hemicycle",
-          "id_step": "14_l.d\u00e9finitive_assemblee_hemicycle",
+          "directory": "14_l.définitive_assemblee_hemicycle",
+          "id_step": "14_l.définitive_assemblee_hemicycle",
           "length": 341,
           "n_diff": 0,
           "newnum": "3",
@@ -178,8 +178,8 @@
         },
         {
           "diff": "none",
-          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
-          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "directory": "15_constitutionnalité_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalité_conseilconstitutionnel_",
           "length": 341,
           "n_diff": 0,
           "newnum": "3",
@@ -219,8 +219,8 @@
         },
         {
           "diff": "none",
-          "directory": "14_l.d\u00e9finitive_assemblee_hemicycle",
-          "id_step": "14_l.d\u00e9finitive_assemblee_hemicycle",
+          "directory": "14_l.définitive_assemblee_hemicycle",
+          "id_step": "14_l.définitive_assemblee_hemicycle",
           "length": 1330,
           "n_diff": 0,
           "newnum": "5",
@@ -228,8 +228,8 @@
         },
         {
           "diff": "none",
-          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
-          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "directory": "15_constitutionnalité_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalité_conseilconstitutionnel_",
           "length": 1330,
           "n_diff": 0,
           "newnum": "5",
@@ -269,8 +269,8 @@
         },
         {
           "diff": "both",
-          "directory": "14_l.d\u00e9finitive_assemblee_hemicycle",
-          "id_step": "14_l.d\u00e9finitive_assemblee_hemicycle",
+          "directory": "14_l.définitive_assemblee_hemicycle",
+          "id_step": "14_l.définitive_assemblee_hemicycle",
           "length": 282,
           "n_diff": 0.06986899563318782,
           "newnum": "4",
@@ -278,8 +278,8 @@
         },
         {
           "diff": "none",
-          "directory": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
-          "id_step": "15_constitutionnalit\u00e9_conseilconstitutionnel_",
+          "directory": "15_constitutionnalité_conseilconstitutionnel_",
+          "id_step": "15_constitutionnalité_conseilconstitutionnel_",
           "length": 282,
           "n_diff": 0,
           "newnum": "4",
@@ -360,7 +360,7 @@
           "id_step": "06_cmp_cmp_commission",
           "length": 0,
           "n_diff": 0,
-          "status": "\u00c9CHEC"
+          "status": "ÉCHEC"
         },
         {
           "directory": "11_nouv.lect._senat_commission",
@@ -380,30 +380,30 @@
       "titre": "rejet"
     }
   },
-  "law_title": "Proposition de loi relative \u00e0 l'organisation du service et \u00e0 l'information des passagers dans les entreprises de Transport a\u00e9rien de passagers et \u00e0 diverses dispositions dans le domaine des transports",
+  "law_title": "Proposition de loi relative à l'organisation du service et à l'information des passagers dans les entreprises de Transport aérien de passagers et à diverses dispositions dans le domaine des transports",
   "sections": {
     "echec": {
       "04_1erelecture_senat_commission": {
-        "title": "R\u00e9unie le mercredi 8 f\u00e9vrier 2012, sous la pr\u00e9sidence d'Annie David, pr\u00e9sidente, la commission a d\u00e9cid\u00e9 de ne pas adopter de texte pour cette proposition de loi, afin qu'elle soit d\u00e9battue, en s\u00e9ance publique, dans la r\u00e9daction initiale voulue par ses auteurs, conform\u00e9ment \u00e0 l'accord politique pass\u00e9 entre les pr\u00e9sidents de groupes pour ce qui concerne l'examen des textes inscrits \u00e0 l'ordre du jour du S\u00e9nat sur proposition d'un groupe d'opposition ou minoritaire.",
+        "title": "Réunie le mercredi 8 février 2012, sous la présidence d'Annie David, présidente, la commission a décidé de ne pas adopter de texte pour cette proposition de loi, afin qu'elle soit débattue, en séance publique, dans la rédaction initiale voulue par ses auteurs, conformément à l'accord politique passé entre les présidents de groupes pour ce qui concerne l'examen des textes inscrits à l'ordre du jour du Sénat sur proposition d'un groupe d'opposition ou minoritaire.",
         "type": "REJET"
       },
       "05_1erelecture_senat_hemicycle": {
-        "title": "En application de l'article 44, alin\u00e9a 3, du R\u00e8glement, le S\u00e9nat d\u00e9cide qu'il n'y a pas lieu de poursuivre la d\u00e9lib\u00e9ration sur la proposition de loi, adopt\u00e9e par l'Assembl\u00e9e nationale apr\u00e8s engagement de la proc\u00e9dure acc\u00e9l\u00e9r\u00e9e, relative \u00e0 l'organisation du service et \u00e0 l'information des passagers dans les entreprises de transport a\u00e9rien de passagers et \u00e0 diverses dispositions dans le domaine des transports (n\u00b0 290, 2011-2012).",
+        "title": "En application de l'article 44, alinéa 3, du Règlement, le Sénat décide qu'il n'y a pas lieu de poursuivre la délibération sur la proposition de loi, adoptée par l'Assemblée nationale après engagement de la procédure accélérée, relative à l'organisation du service et à l'information des passagers dans les entreprises de transport aérien de passagers et à diverses dispositions dans le domaine des transports (n° 290, 2011-2012).",
         "type": "REJET"
       },
       "06_cmp_cmp_commission": {
-        "title": "La commission mixte paritaire a constat\u00e9 qu'elle ne pouvait parvenir \u00e0 \u00e9laborer un texte commun.",
-        "type": "\u00c9CHEC"
+        "title": "La commission mixte paritaire a constaté qu'elle ne pouvait parvenir à élaborer un texte commun.",
+        "type": "ÉCHEC"
       },
       "11_nouv.lect._senat_commission": {
-        "title": "La motion n\u00b0 1 tendant \u00e0 opposer la question pr\u00e9alable est adopt\u00e9e.",
+        "title": "La motion n° 1 tendant à opposer la question préalable est adoptée.",
         "type": "REJET"
       },
       "12_nouv.lect._senat_hemicycle": {
-        "title": "En cons\u00e9quence, conform\u00e9ment \u00e0 l'article 44, alin\u00e9a 3 du R\u00e8glement, la proposition de loi a \u00e9t\u00e9 rejet\u00e9e par le S\u00e9nat.",
+        "title": "En conséquence, conformément à l'article 44, alinéa 3 du Règlement, la proposition de loi a été rejetée par le Sénat.",
         "type": "REJET"
       }
     }
   },
-  "short_title": "Transport a\u00e9rien de passagers"
+  "short_title": "Transport aérien de passagers"
 }
