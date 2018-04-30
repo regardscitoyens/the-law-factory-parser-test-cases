@@ -1192,7 +1192,7 @@
           "directory": "02_1erelecture_senat_hemicycle",
           "id_step": "02_1erelecture_senat_hemicycle",
           "length": 26017,
-          "n_diff": 1.0,
+          "n_diff": 0.3702005730659026,
           "status": "none"
         },
         {
@@ -1200,7 +1200,7 @@
           "directory": "05_1erelecture_assemblee_hemicycle",
           "id_step": "05_1erelecture_assemblee_hemicycle",
           "length": 31232,
-          "n_diff": 0.9986484874985093,
+          "n_diff": 0.3754422228405613,
           "status": "none"
         },
         {
@@ -1257,7 +1257,7 @@
           "directory": "15_constitutionnalité_conseilconstitutionnel_",
           "id_step": "15_constitutionnalité_conseilconstitutionnel_",
           "length": 19891,
-          "n_diff": 0.8697910518238696,
+          "n_diff": 0.376067367095581,
           "newnum": "5",
           "status": "none"
         }
