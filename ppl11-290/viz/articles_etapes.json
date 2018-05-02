@@ -2,7 +2,7 @@
   "articles": {
     "1er": {
       "id": "1er",
-      "order": 1,
+      "order": 0,
       "section": "A1er",
       "steps": [
         {
@@ -26,7 +26,7 @@
     },
     "2": {
       "id": "2",
-      "order": 3,
+      "order": 2,
       "section": "A2",
       "steps": [
         {
@@ -90,7 +90,7 @@
     },
     "2_A": {
       "id": "2_A",
-      "order": 2,
+      "order": 1,
       "section": "A2 A",
       "steps": [
         {
@@ -140,7 +140,7 @@
     },
     "2_bis": {
       "id": "2_bis",
-      "order": 4,
+      "order": 3,
       "section": "A2 bis",
       "steps": [
         {
@@ -190,7 +190,7 @@
     },
     "2_quater": {
       "id": "2_quater",
-      "order": 6,
+      "order": 5,
       "section": "A2 quater",
       "steps": [
         {
@@ -240,7 +240,7 @@
     },
     "2_ter": {
       "id": "2_ter",
-      "order": 5,
+      "order": 4,
       "section": "A2 ter",
       "steps": [
         {
@@ -290,7 +290,7 @@
     },
     "3": {
       "id": "3",
-      "order": 7,
+      "order": 6,
       "section": "A3",
       "steps": [
         {
@@ -314,7 +314,7 @@
     },
     "4": {
       "id": "4",
-      "order": 8,
+      "order": 7,
       "section": "A4",
       "steps": [
         {
@@ -338,7 +338,7 @@
     },
     "echec": {
       "id": "echec",
-      "order": 0,
+      "order": -1,
       "section": "echec",
       "steps": [
         {
