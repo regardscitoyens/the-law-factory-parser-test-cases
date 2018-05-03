@@ -1,10 +1,12 @@
+======
+ppl11-290
  -= DOSLEG URL: http://www.senat.fr/dossier-legislatif/ppl11-290.html =-
   [] download SENAT version
   [] parse SENAT version
+## ERROR ### WARNING: NO DECISION FOR CC
   [] download AN version
   [] parse AN version
         title: proposition de loi relative à l'organisation du service et à l'information des passagers dans les entreprises de transport aérien de passagers et à diverses dispositions dans le domaine des transports
-0 anomalies ( 1 doslegs)
   [] parse the texts
 ** parsing texts
     ^ text:  http://www.assemblee-nationale.fr/13/propositions/pion3991.asp

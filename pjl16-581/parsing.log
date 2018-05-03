@@ -1,3 +1,5 @@
+======
+pjl16-581
  -= DOSLEG URL: http://www.senat.fr/dossier-legislatif/pjl16-581.html =-
   [] download SENAT version
   [] parse SENAT version
@@ -5,7 +7,6 @@
   [] parse AN version
 ## WARNING ### FOUND ANOTHER DOSLEG INSIDE THE DOSLEG
         title: projet de loi pour la confiance dans la vie politique
-0 anomalies ( 1 doslegs)
   [] parse the texts
 ** parsing texts
     ^ text:  https://www.senat.fr/leg/pjl16-581.html

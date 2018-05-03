@@ -1,3 +1,5 @@
+======
+pjl12-689
  -= DOSLEG URL: http://www.senat.fr/dossier-legislatif/pjl12-689.html =-
   [] download SENAT version
   [] parse SENAT version
@@ -5,7 +7,6 @@
   [] parse AN version
 ## WARNING ### FOUND ANOTHER DOSLEG INSIDE THE DOSLEG
         title: projet de loi relatif à la transparence de la vie publique
-0 anomalies ( 1 doslegs)
   [] parse the texts
 ** parsing texts
     ^ text:  http://www.assemblee-nationale.fr/14/projets/pl1005.asp

@@ -1,10 +1,12 @@
+======
+pjl09-200
  -= DOSLEG URL: http://www.senat.fr/dossier-legislatif/pjl09-200.html =-
   [] download SENAT version
   [] parse SENAT version
+## ERROR ### CMP.hemicycle WITHOUT BOTH SENAT AND ASSEMBLEE
   [] download AN version
   [] parse AN version
         title: projet de loi de modernisation de l'agriculture et de la pêche
-0 anomalies ( 1 doslegs)
   [] parse the texts
 ** parsing texts
     ^ text:  https://www.senat.fr/leg/pjl09-200.html
