@@ -10,6 +10,11 @@
   "proposal_type": "PPL",
   "senat_id": "ppl11-290",
   "short_title": "Transport aérien de passagers",
+  "stats": {
+    "input_text_length2": 7547,
+    "output_text_length2": 20421,
+    "ratio_texte_modif": 0.6333365977867006
+  },
   "steps": [
     {
       "auteur_depot": "Députés",

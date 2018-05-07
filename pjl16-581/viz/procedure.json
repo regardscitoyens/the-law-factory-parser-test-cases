@@ -11,6 +11,11 @@
   "proposal_type": "PJL",
   "senat_id": "pjl16-581",
   "short_title": "Confiance dans la vie politique",
+  "stats": {
+    "input_text_length2": 71555,
+    "output_text_length2": 141957,
+    "ratio_texte_modif": 0.5511630200481832
+  },
   "steps": [
     {
       "auteur_depot": "Gouvernement",

@@ -12,6 +12,11 @@
   "proposal_type": "PJL",
   "senat_id": "pjl07-405",
   "short_title": "Internet",
+  "stats": {
+    "input_text_length2": 58561,
+    "output_text_length2": 119137,
+    "ratio_texte_modif": 0.6223706961674697
+  },
   "steps": [
     {
       "auteur_depot": "Gouvernement",

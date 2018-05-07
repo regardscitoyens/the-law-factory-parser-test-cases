@@ -11,6 +11,11 @@
   "proposal_type": "PJL",
   "senat_id": "pjl12-688",
   "short_title": "Transparence de la vie publique (texte organique)",
+  "stats": {
+    "input_text_length2": 19793,
+    "output_text_length2": 55519,
+    "ratio_texte_modif": 0.6748198847262248
+  },
   "steps": [
     {
       "auteur_depot": "Gouvernement",

@@ -12,6 +12,11 @@
   "proposal_type": "PJL",
   "senat_id": "pjl15-034",
   "short_title": "Réutilisation des informations du secteur public",
+  "stats": {
+    "input_text_length2": 13039,
+    "output_text_length2": 16101,
+    "ratio_texte_modif": 0.3544901254502546
+  },
   "steps": [
     {
       "auteur_depot": "Gouvernement",

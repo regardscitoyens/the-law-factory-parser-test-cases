@@ -10,6 +10,11 @@
   "proposal_type": "PJL",
   "senat_id": "pjl11-350",
   "short_title": "Monténégro : mobilité des jeunes",
+  "stats": {
+    "input_text_length2": 531,
+    "output_text_length2": 533,
+    "ratio_texte_modif": 0.0037453183520599342
+  },
   "steps": [
     {
       "auteur_depot": "Gouvernement",

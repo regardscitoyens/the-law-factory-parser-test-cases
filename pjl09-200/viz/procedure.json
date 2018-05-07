@@ -11,6 +11,11 @@
   "proposal_type": "PJL",
   "senat_id": "pjl09-200",
   "short_title": "Agriculture et pêche",
+  "stats": {
+    "input_text_length2": 188383,
+    "output_text_length2": 417803,
+    "ratio_texte_modif": 0.6065475677590448
+  },
   "steps": [
     {
       "auteur_depot": "Gouvernement",
