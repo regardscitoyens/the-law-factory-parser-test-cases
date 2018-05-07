@@ -3,6 +3,7 @@
   "assemblee_legislature": 13,
   "beginning": "2008-04-23",
   "end": "2008-07-24",
+  "id": "pjl07-365",
   "law_name": "Loi n° 2008-724 du 23 juillet 2008",
   "legifrance_cidTexte": "JORFTEXT000019237256",
   "long_title": "projet de loi constitutionnelle de modernisation des institutions de la Ve République",
@@ -11,9 +12,22 @@
   "senat_id": "pjl07-365",
   "short_title": "Cinquième République",
   "stats": {
-    "input_text_length2": 37155,
-    "output_text_length2": 59297,
-    "ratio_texte_modif": 0.49186256781193494
+    "echecs_procedure": 0,
+    "input_text_length": 37155,
+    "output_text_length": 59297,
+    "ratio_article_modif": 0.6808510638297872,
+    "ratio_texte_modif": 0.49186256781193494,
+    "total_amendements": 1586,
+    "total_amendements_adoptes": 262,
+    "total_amendements_gouvernement": 5,
+    "total_amendements_gouvernement_adoptes": 5,
+    "total_amendements_parlementaire": 1581,
+    "total_amendements_parlementaire_adoptes": 257,
+    "total_articles": 47,
+    "total_articles_modified": 32,
+    "total_days": 93,
+    "total_intervenants": 322,
+    "total_mots": 919745
   },
   "steps": [
     {

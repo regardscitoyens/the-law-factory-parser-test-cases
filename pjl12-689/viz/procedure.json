@@ -3,6 +3,7 @@
   "assemblee_legislature": 14,
   "beginning": "2013-04-24",
   "end": "2013-12-03",
+  "id": "pjl12-689",
   "law_name": "Loi n° 2013-907 du 11 octobre 2013",
   "legifrance_cidTexte": "JORFTEXT000028056315",
   "long_title": "projet de loi relatif à la transparence de la vie publique",
@@ -12,9 +13,22 @@
   "senat_id": "pjl12-689",
   "short_title": "Transparence de la vie publique",
   "stats": {
-    "input_text_length2": 61151,
-    "output_text_length2": 111427,
-    "ratio_texte_modif": 0.5336835599505563
+    "echecs_procedure": 2,
+    "input_text_length": 61151,
+    "output_text_length": 111427,
+    "ratio_article_modif": 0.6571428571428571,
+    "ratio_texte_modif": 0.5336835599505563,
+    "total_amendements": 1117,
+    "total_amendements_adoptes": 375,
+    "total_amendements_gouvernement": 17,
+    "total_amendements_gouvernement_adoptes": 7,
+    "total_amendements_parlementaire": 1100,
+    "total_amendements_parlementaire_adoptes": 368,
+    "total_articles": 35,
+    "total_articles_modified": 23,
+    "total_days": 224,
+    "total_intervenants": 70,
+    "total_mots": 164632
   },
   "steps": [
     {

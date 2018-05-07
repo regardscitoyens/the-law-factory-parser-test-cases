@@ -3,6 +3,7 @@
   "assemblee_legislature": 13,
   "beginning": "2011-11-22",
   "end": "2012-03-20",
+  "id": "ppl11-290",
   "law_name": "Loi n° 2012-375 du 19 mars 2012",
   "legifrance_cidTexte": "JORFTEXT000025540947",
   "long_title": "proposition de loi relative à l'organisation du service et à l'information des passagers dans les entreprises de transport aérien de passagers et à diverses dispositions dans le domaine des transports",
@@ -11,9 +12,22 @@
   "senat_id": "ppl11-290",
   "short_title": "Transport aérien de passagers",
   "stats": {
-    "input_text_length2": 7547,
-    "output_text_length2": 20421,
-    "ratio_texte_modif": 0.802163183870629
+    "echecs_procedure": 5,
+    "input_text_length": 7547,
+    "output_text_length": 20421,
+    "ratio_article_modif": 0.2,
+    "ratio_texte_modif": 0.802163183870629,
+    "total_amendements": 92,
+    "total_amendements_adoptes": 20,
+    "total_amendements_gouvernement": 0,
+    "total_amendements_gouvernement_adoptes": 0,
+    "total_amendements_parlementaire": 92,
+    "total_amendements_parlementaire_adoptes": 20,
+    "total_articles": 5,
+    "total_articles_modified": 1,
+    "total_days": 120,
+    "total_intervenants": 106,
+    "total_mots": 142887
   },
   "steps": [
     {

@@ -3,6 +3,7 @@
   "assemblee_legislature": 15,
   "beginning": "2017-06-14",
   "end": "2017-09-16",
+  "id": "pjl16-581",
   "law_name": "Loi n° 2017-1339 du 15 septembre 2017",
   "legifrance_cidTexte": "JORFTEXT000035567974",
   "long_title": "projet de loi pour la confiance dans la vie politique",
@@ -12,9 +13,22 @@
   "senat_id": "pjl16-581",
   "short_title": "Confiance dans la vie politique",
   "stats": {
-    "input_text_length2": 71555,
-    "output_text_length2": 141957,
-    "ratio_texte_modif": 0.5608489060671608
+    "echecs_procedure": 0,
+    "input_text_length": 71555,
+    "output_text_length": 141957,
+    "ratio_article_modif": 0.4117647058823529,
+    "ratio_texte_modif": 0.5608489060671608,
+    "total_amendements": 1198,
+    "total_amendements_adoptes": 218,
+    "total_amendements_gouvernement": 67,
+    "total_amendements_gouvernement_adoptes": 42,
+    "total_amendements_parlementaire": 1131,
+    "total_amendements_parlementaire_adoptes": 176,
+    "total_articles": 34,
+    "total_articles_modified": 14,
+    "total_days": 95,
+    "total_intervenants": 93,
+    "total_mots": 121821
   },
   "steps": [
     {

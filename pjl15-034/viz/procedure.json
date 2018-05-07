@@ -3,6 +3,7 @@
   "assemblee_legislature": 14,
   "beginning": "2015-07-31",
   "end": "2015-12-29",
+  "id": "pjl15-034",
   "law_name": "Loi n° 2015-1779 du 28 décembre 2015",
   "legifrance_cidTexte": "JORFTEXT000031701525",
   "loi_dite": "loi Valter",
@@ -13,9 +14,22 @@
   "senat_id": "pjl15-034",
   "short_title": "Réutilisation des informations du secteur public",
   "stats": {
-    "input_text_length2": 13039,
-    "output_text_length2": 16101,
-    "ratio_texte_modif": 0.4493833852825586
+    "echecs_procedure": 0,
+    "input_text_length": 13039,
+    "output_text_length": 16101,
+    "ratio_article_modif": 0.8181818181818182,
+    "ratio_texte_modif": 0.4493833852825586,
+    "total_amendements": 117,
+    "total_amendements_adoptes": 53,
+    "total_amendements_gouvernement": 15,
+    "total_amendements_gouvernement_adoptes": 11,
+    "total_amendements_parlementaire": 102,
+    "total_amendements_parlementaire_adoptes": 42,
+    "total_articles": 11,
+    "total_articles_modified": 9,
+    "total_days": 152,
+    "total_intervenants": 23,
+    "total_mots": 31140
   },
   "steps": [
     {
