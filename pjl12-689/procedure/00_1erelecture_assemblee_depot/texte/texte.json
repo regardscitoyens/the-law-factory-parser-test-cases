@@ -4,6 +4,7 @@
       "alineas": {
         "001": "Les personnes titulaires de fonctions gouvernementales ou investies d'un mandat électif local, ainsi que celles chargées d'une mission de service public exercent leurs fonctions avec dignité, probité et impartialité. Elles veillent à prévenir ou à faire cesser immédiatement les situations de conflit d'intérêts."
       },
+      "liens": [],
       "order": 1,
       "section": "C1",
       "statut": "none",
@@ -20,6 +21,9 @@
         "006": "4° Les personnes qui ont reçu délégation de signature s'abstiennent d'en user ;",
         "007": "5° Les personnes placées sous l'autorité d'un supérieur hiérarchique le saisissent ; ce dernier apprécie s'il y a lieu de confier le dossier ou la décision à une autre personne."
       },
+      "liens": [
+        "le deuxième alinéa de l'article 432-12 du code pénal"
+      ],
       "order": 2,
       "section": "C1S1",
       "statut": "none",
@@ -37,6 +41,10 @@
         "007": "IV. - Lorsqu'elle n'a pas reçu les déclarations de situation patrimoniale ou d'intérêts dans les délais prévus au I, la Haute autorité pour la transparence de la vie publique adresse à l'intéressé une injonction tendant à ce qu'elles lui soient transmises sans délai.",
         "008": "La même procédure est applicable en cas de déclaration incomplète ou lorsqu'il n'a pas été donné suite à une demande d'explications adressée par la Haute autorité en application du II de l'article 13."
       },
+      "liens": [
+        "article 12 de la présente loi",
+        "article 1538 du code civil"
+      ],
       "order": 3,
       "section": "C1S2",
       "statut": "none",
@@ -58,6 +66,9 @@
         "011": "IV. - Au 1° du I de l'article 6 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal, après les mots : \"les documents élaborés ou détenus par l'Autorité de la concurrence dans le cadre de l'exercice de ses pouvoirs d'enquête, d'instruction et de décision,\" sont insérés les mots : \"les documents élaborés ou détenus par la Haute autorité de la transparence de la vie publique\".",
         "012": "V. - Un décret en Conseil d'État précise les modalités d'application du présent article."
       },
+      "liens": [
+        "Au 1° du I de l'article 6 de la loi n° 78-753 du 17 juillet 1978"
+      ],
       "order": 4,
       "section": "C1S2",
       "statut": "none",
@@ -72,6 +83,12 @@
         "004": "La Haute autorité peut demander à l'administration fiscale d'exercer le droit de communication prévu par l'article L. 96 I du livre des procédures fiscales. Elle peut, en outre, lui demander d'exercer un droit de communication, dans les conditions prévues à la section 1 du chapitre II de même livre, auprès des établissements financiers en vue de recueillir toutes informations utiles à l'accomplissement de sa mission de contrôle.",
         "005": "Les agents de l'administration fiscale sont déliés du secret professionnel à l'égard des membres de la Haute autorité, au titre des vérifications et contrôles qu'ils mettent en oeuvre pour l'application de la présente loi."
       },
+      "liens": [
+        "article 3 de la présente loi",
+        "articles 170 à 175 A du code général des impôts",
+        "article 885 W du même code",
+        "article L. 96 I du livre des procédures fiscales"
+      ],
       "order": 5,
       "section": "C1S2",
       "statut": "none",
@@ -82,6 +99,7 @@
       "alineas": {
         "001": "La Haute autorité de la transparence de la vie publique apprécie la variation des situations patrimoniales des membres du Gouvernement telle qu'elle résulte de leurs déclarations, des observations qu'ils ont pu lui adresser ou des autres éléments dont elle dispose."
       },
+      "liens": [],
       "order": 6,
       "section": "C1S2",
       "statut": "none",
@@ -93,6 +111,7 @@
         "001": "Les instruments financiers détenus par les membres du Gouvernement et les présidents et membres des autorités administratives indépendantes et des autorités publiques indépendantes intervenant dans le domaine économique sont gérés dans des conditions excluant tout droit de regard de leur part, pendant la durée de leurs fonctions.",
         "002": "Les conditions d'application du présent article sont fixées par décret en Conseil d'État."
       },
+      "liens": [],
       "order": 7,
       "section": "C1S2",
       "statut": "none",
@@ -103,6 +122,7 @@
       "alineas": {
         "001": "Tout membre du Gouvernement, dès après sa nomination, fait l'objet d'une procédure de vérification de sa situation fiscale au titre de l'impôt sur le revenu et, le cas échéant, de l'impôt de solidarité sur la fortune, placée sous le contrôle de la Haute autorité de la transparence de la vie publique."
       },
+      "liens": [],
       "order": 8,
       "section": "C1S2",
       "statut": "none",
@@ -115,6 +135,7 @@
         "002": "II. - Lorsqu'elle constate qu'une personne soumise aux obligations de déclaration prévues à l'article 3 se trouve en situation de conflit d'intérêts, la Haute autorité lui enjoint de faire cesser cette situation.",
         "003": "Elle peut décider de rendre publique cette injonction, après avoir mis à même l'intéressé de faire valoir ses observations."
       },
+      "liens": [],
       "order": 9,
       "section": "C1S2",
       "statut": "none",
@@ -143,6 +164,10 @@
         "018": "III. - Le modèle, le contenu et les conditions de mise à jour et de conservation des déclarations prévues au présent article sont fixés par décret en Conseil d'État.",
         "019": "IV. - Les dispositions des articles 5 et 6 et du II de l'article 9 sont applicables aux personnes mentionnées au présent article."
       },
+      "liens": [
+        "article L. 421-1 du code de la construction et de l'habitation",
+        "au 1° de l'article L. 1525-1 du code général des collectivités territoriales"
+      ],
       "order": 10,
       "section": "C1S2",
       "statut": "none",
@@ -154,6 +179,7 @@
         "001": "Les déclarations d'intérêts déposées en application de l'article 10 sont rendues publiques par la Haute autorité pour la transparence de la vie publique selon des modalités et dans des limites fixées par décret en Conseil d'État.",
         "002": "Les déclarations de situation patrimoniale déposées par les titulaires des fonctions exécutives locales mentionnées au 1° du I de l'article 10 sont rendues publiques par la Haute autorité dans les conditions prévues au III de l'article 4."
       },
+      "liens": [],
       "order": 11,
       "section": "C1S2",
       "statut": "none",
@@ -180,6 +206,7 @@
         "016": "La Haute autorité est assistée de rapporteurs désignés par le vice-président du Conseil d'État parmi les membres, en activité ou honoraires, du Conseil d'État et du corps des conseillers de tribunaux administratifs et cours administratives d'appel, par le premier président de la Cour de cassation parmi les magistrats, en activité ou honoraires, de la Cour de cassation et des cours et tribunaux, par le premier président de la Cour des comptes parmi les magistrats, en activité ou honoraires, de la Cour des comptes et des chambres régionales des comptes. Elle peut également bénéficier pour l'accomplissement de ses tâches de la mise à disposition de fonctionnaires.",
         "017": "Un décret en Conseil d'État fixe les modalités d'application du présent article, notamment l'organisation et le fonctionnement de la Haute autorité, ainsi que les procédures applicables devant elle."
       },
+      "liens": [],
       "order": 12,
       "section": "C1S3",
       "statut": "none",
@@ -198,6 +225,9 @@
         "008": "Elle peut également être saisie par une association de lutte contre la corruption mentionnée à l'article 2-22 du code de procédure pénale.",
         "009": "La Haute autorité de la transparence de la vie publique peut demander des explications à toute personne soumise à son contrôle. Elle peut entendre toute personne dont le concours lui paraît utile."
       },
+      "liens": [
+        "article 2-22 du code de procédure pénale"
+      ],
       "order": 13,
       "section": "C1S3",
       "statut": "none",
@@ -210,6 +240,9 @@
         "002": "Elle peut également décider de publier un rapport spécial au Journal officiel de la République française en cas de manquement à ces obligations ou au cas où elle relève des évolutions de patrimoine pour lesquelles elle ne dispose pas d'explication, après que la personne concernée a été mise en mesure de produire ses observations.",
         "003": "Elle avise le procureur de la République des évolutions de patrimoine mentionnées à l'alinéa précédent ainsi que de tout crime ou délit dont elle acquiert connaissance en application de l'article 40 du code de procédure pénale."
       },
+      "liens": [
+        "article 40 du code de procédure pénale"
+      ],
       "order": 14,
       "section": "C1S3",
       "statut": "none",
@@ -228,6 +261,7 @@
         "008": "En cas de saisine en application du b du I du présent article, la Haute autorité peut rendre un avis d'incompatibilité si elle estime ne pas avoir obtenu de la personne concernée les éléments nécessaires à son appréciation.",
         "009": "III. - Le président de la Haute autorité peut rendre un avis de compatibilité dans le cas où l'activité envisagée est manifestement compatible avec les fonctions antérieures de l'intéressé, ou un avis d'incompétence, d'irrecevabilité ou constatant qu'il n'y a pas lieu à statuer."
       },
+      "liens": [],
       "order": 15,
       "section": "C1S3",
       "statut": "none",
@@ -244,6 +278,14 @@
         "006": "3° Le deuxième alinéa de l'article 53 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière.",
         "007": "III. - Le présent article entre en vigueur le 1er janvier 2014."
       },
+      "liens": [
+        "article 51 de la loi n° 84-16 du 11 janvier 1984",
+        "article 72 de la loi n° 84-53 du 26 janvier 1984",
+        "article 62 de la loi n° 86-33 du 9 janvier 1986",
+        "Le deuxième alinéa de l'article 46 de la loi n° 84-16 du 11 janvier 1984",
+        "Le deuxième alinéa de l'article 65 de la loi n° 84-53 du 26 janvier 1984",
+        "Le deuxième alinéa de l'article 53 de la loi n° 86-33 du 9 janvier 1986"
+      ],
       "order": 16,
       "section": "C1S4",
       "statut": "none",
@@ -257,6 +299,10 @@
         "003": "En cas de litige relatif à l'application des deux premiers alinéas, dès lors que la personne établit des faits qui permettent de présumer qu'elle a relaté ou témoigné, de bonne foi, de faits relatifs à une situation de conflit d'intérêts, il incombe à la partie défenderesse, au vu des éléments, de prouver que sa décision est justifiée par des éléments objectifs étrangers à la déclaration ou au témoignage de l'intéressé. Le juge forme sa conviction après avoir ordonné, en cas de besoin, toutes les mesures d'instruction qu'il estime utiles.",
         "004": "II. - Toute personne physique ou morale qui lance une alerte, au sens du I du présent article, de mauvaise foi ou avec l'intention de nuire ou avec la connaissance au moins partielle de l'inexactitude des faits rendus publics ou diffusés est punie des peines prévues au premier alinéa de l'article 226-10 du code pénal."
       },
+      "liens": [
+        "article 1er de la présente loi",
+        "au premier alinéa de l'article 226-10 du code pénal"
+      ],
       "order": 17,
       "section": "C1S5",
       "statut": "none",
@@ -271,6 +317,16 @@
         "004": "III. - Le fait de ne pas déférer aux injonctions de la Haute autorité de la transparence de la vie publique ou de ne pas lui communiquer les informations et pièces utiles à l'exercice de sa mission est puni d'un an d'emprisonnement et de 15 000 € d'amende.",
         "005": "IV. - Le fait de publier, hors les cas prévus par la présente loi, ou de divulguer, de quelque manière que ce soit, tout ou partie des déclarations ou des observations mentionnées à l'article L. O. 135-1 du code électoral et aux articles 3, 5 et 10 de la présente loi est puni des peines de l'article 226-1 du code pénal."
       },
+      "liens": [
+        "du III de l'article 3 de la présente loi",
+        "articles 131-26 et 131-26-1 du code pénal",
+        "article 131-27 du même code",
+        "articles 3 et 10 de la présente loi",
+        "articles 131-26 et 131-26-1 du code pénal",
+        "article 131-27 du même code",
+        "articles 3, 5 et 10 de la présente loi",
+        "article 226-1 du code pénal"
+      ],
       "order": 18,
       "section": "C2",
       "statut": "none",
@@ -287,6 +343,15 @@
         "006": "1° Au troisième alinéa de l'article 1741 et à l'article 1774, les mots : \"par l'article 131-26 du code pénal\" sont remplacés par les mots : \"par les articles 131-26 et 131-26-1 du code pénal\" ;",
         "007": "2° À l'article 1837, les mots : \"prévue par l'article 131-26 du code pénal pour une durée de cinq ans au plus\" sont remplacés par les mots : \"prévue par les articles 131-26 et 131-26-1 du code pénal\"."
       },
+      "liens": [
+        "article 131-26 du code pénal",
+        "Au 1° de l'article 432-17 du code pénal",
+        "Au premier alinéa de l'article L. 117 du code électoral",
+        "article 131-26 du code pénal",
+        "articles 131-26 et 131-26-1 du code pénal",
+        "article 131-26 du code pénal",
+        "articles 131-26 et 131-26-1 du code pénal"
+      ],
       "order": 19,
       "section": "C2",
       "statut": "none",
@@ -299,6 +364,9 @@
         "002": "1° Les mots : \"deux ans d'emprisonnement et 30 000 euros d'amende\" sont remplacés par les mots : \"trois ans d'emprisonnement et 45 000 euros d'amende\" ;",
         "003": "2° Après les mots : \"en tant que\" sont insérés les mots : \"membre du Gouvernement, titulaire de fonctions exécutives locales\"."
       },
+      "liens": [
+        "Le premier alinéa de l'article 432-13 du code pénal"
+      ],
       "order": 20,
       "section": "C2",
       "statut": "none",
@@ -309,6 +377,10 @@
       "alineas": {
         "001": "Le tableau annexé à la loi n° 2010-838 du 23 juillet 2010 relative à l'application du cinquième alinéa de l'article 13 de la Constitution mentionne que la nomination du président de la Haute autorité de la transparence de la vie publique est soumise, au sein de chaque assemblée parlementaire, à l'avis de la commission chargée des lois constitutionnelles."
       },
+      "liens": [
+        "la loi n° 2010-838 du 23 juillet 2010",
+        "du cinquième alinéa de l'article 13 de la Constitution"
+      ],
       "order": 21,
       "section": "C3",
       "statut": "none",
@@ -319,6 +391,9 @@
       "alineas": {
         "001": "Les articles 1er à 5-1 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique sont abrogés."
       },
+      "liens": [
+        "articles 1er à 5-1 de la loi n° 88-227 du 11 mars 1988"
+      ],
       "order": 22,
       "section": "C3",
       "statut": "none",
@@ -332,6 +407,7 @@
         "003": "- chacun des membres du Gouvernement établit une déclaration de situation patrimoniale et une déclaration d'intérêts suivant les modalités prévues à l'article 3 ;",
         "004": "- chacune des personnes mentionnées à l'article 10 établit une déclaration de situation patrimoniale et une déclaration d'intérêts suivant les modalités prévues par cet article."
       },
+      "liens": [],
       "order": 23,
       "section": "C3",
       "statut": "none",
@@ -343,6 +419,9 @@
         "001": "I. - Les dispositions de la présente loi sont applicables sur l'ensemble du territoire de la République.",
         "002": "II. - À l'article L. 388 du code électoral, les mots : \"loi n° 2011-412 du 14 avril 2011 portant simplification de dispositions du code électoral et relative à la transparence financière de la vie politique\" sont remplacés par les mots : \"loi n° du relative à la transparence de la vie publique\"."
       },
+      "liens": [
+        "article L. 388 du code électoral"
+      ],
       "order": 24,
       "section": "C3",
       "statut": "none",

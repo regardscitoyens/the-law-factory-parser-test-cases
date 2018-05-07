@@ -4,6 +4,7 @@
       "alineas": {
         "001": "Les membres du Gouvernement, les personnes titulaires d'un mandat électif local ainsi que celles chargées d'une mission de service public exercent leurs fonctions avec dignité, probité et intégrité et veillent à prévenir ou à faire cesser immédiatement tout conflit d'intérêts."
       },
+      "liens": [],
       "order": 1,
       "section": "C1",
       "statut": "none",
@@ -21,6 +22,9 @@
         "007": "5° Les personnes chargées d'une mission de service public placées sous l'autorité d'un supérieur hiérarchique le saisissent ; ce dernier, à la suite de la saisine ou d'initiative, confie, le cas échéant, la préparation ou l'élaboration de la décision à une autre personne placée sous son autorité hiérarchique.",
         "008": "Un décret en Conseil d'État fixe les modalités d'application du présent article."
       },
+      "liens": [
+        "au deuxième alinéa de l'article 432-12 du code pénal"
+      ],
       "order": 2,
       "section": "C1S1",
       "statut": "none",
@@ -32,6 +36,9 @@
         "001": "Après l'article 4 ter de l'ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires, il est inséré un article 4 quater ainsi rédigé :",
         "002": "\"Art. 4 quater. - Le Bureau de chaque assemblée, après avis de l'organe en charge de la déontologie parlementaire, détermine des règles en matière de prévention et de traitement des conflits d'intérêts.\""
       },
+      "liens": [
+        "article 4 ter de l'ordonnance n° 58-1100 du 17 novembre 1958"
+      ],
       "order": 3,
       "section": "C1S1",
       "statut": "none",
@@ -78,6 +85,11 @@
         "036": "III bis. - La Haute Autorité pour la transparence de la vie publique peut demander à un membre du Gouvernement des explications sur ses déclarations de situation patrimoniale ou ses déclarations d'intérêts. Il y est répondu dans les trente jours.",
         "037": "IV. - Lorsqu'une déclaration de situation patrimoniale ou une déclaration d'intérêts n'a pas été transmise dans les délais prévus aux I et I bis A ou est incomplète ou lorsqu'il n'a pas été répondu à une demande d'explications dans le délai prévu au III bis du présent article, la Haute Autorité pour la transparence de la vie publique adresse au membre du Gouvernement une injonction tendant à ce que la déclaration, la déclaration complétée ou les explications demandées lui soient transmises sans délai."
       },
+      "liens": [
+        "article 10 de la présente loi",
+        "articles 170 à 175 A du code général des impôts",
+        "article 885 W du même code"
+      ],
       "order": 4,
       "section": "C1S2",
       "statut": "none",
@@ -110,6 +122,7 @@
         "022": "IV. - (Supprimé)",
         "023": "V. - Un décret en Conseil d'État, pris après avis de la Commission nationale de l'informatique et des libertés, précise les modalités d'application du présent article."
       },
+      "liens": [],
       "order": 5,
       "section": "C1S2",
       "statut": "none",
@@ -123,6 +136,10 @@
         "003": "Elle peut, aux mêmes fins, demander à l'administration fiscale de mettre en oeuvre les procédures d'assistance administrative internationale.",
         "004": "Pour l'accomplissement des missions confiées par la Haute Autorité, les agents de l'administration fiscale sont déliés du secret professionnel à l'égard des membres et rapporteurs de la Haute Autorité."
       },
+      "liens": [
+        "articles 170 à 175 A du code général des impôts",
+        "article 885 W du même code"
+      ],
       "order": 6,
       "section": "C1S2",
       "statut": "none",
@@ -134,6 +151,7 @@
         "001": "La Haute Autorité pour la transparence de la vie publique contrôle la variation de la situation patrimoniale des membres du Gouvernement telle qu'elle résulte de leurs déclarations, des éventuelles observations et explications qu'ils ont pu formuler et des autres éléments dont elle dispose.",
         "002": "Lorsqu'elle constate une évolution de la situation patrimoniale pour laquelle elle ne dispose pas d'explications suffisantes, après que le membre du Gouvernement a été mis en mesure de présenter ses observations, la Haute Autorité pour la transparence de la vie publique publie au Journal officiel un rapport spécial, assorti des observations de l'intéressé, transmet le dossier au parquet et informe le Premier ministre."
       },
+      "liens": [],
       "order": 7,
       "section": "C1S2",
       "statut": "none",
@@ -145,6 +163,7 @@
         "001": "Les instruments financiers détenus par les membres du Gouvernement et les présidents et membres des autorités administratives indépendantes et des autorités publiques indépendantes intervenant dans le domaine économique sont gérés dans des conditions excluant tout droit de regard de leur part, pendant la durée de leurs fonctions.",
         "002": "Les conditions d'application du présent article sont fixées par décret en Conseil d'État."
       },
+      "liens": [],
       "order": 8,
       "section": "C1S2",
       "statut": "non modifié",
@@ -156,6 +175,7 @@
         "001": "Tout membre du Gouvernement, à compter de sa nomination, fait l'objet d'une procédure de vérification de sa situation fiscale, dans les conditions prévues au titre II de la première partie du livre des procédures fiscales, au titre de l'impôt sur le revenu et, le cas échéant, de l'impôt de solidarité sur la fortune. Cette procédure est placée sous le contrôle de la Haute Autorité pour la transparence de la vie publique.",
         "002": "Les conditions d'applications du présent article sont fixées par décret en Conseil d'État."
       },
+      "liens": [],
       "order": 9,
       "section": "C1S2",
       "statut": "none",
@@ -168,6 +188,7 @@
         "002": "II. - Lorsqu'elle constate qu'un membre du Gouvernement se trouve en situation de conflit d'intérêts, la Haute Autorité pour la transparence de la vie publique lui enjoint de faire cesser cette situation.",
         "003": "Après avoir mis à même l'intéressé de faire valoir ses observations dans un délai d'un mois, elle peut décider de rendre publique cette injonction."
       },
+      "liens": [],
       "order": 10,
       "section": "C1S2",
       "statut": "none",
@@ -200,6 +221,12 @@
         "022": "III. - Un décret en Conseil d'État, pris après avis de la Commission nationale de l'informatique et des libertés, précise le modèle et le contenu des déclarations prévues au présent article et fixe leurs conditions de mise à jour et de conservation.",
         "023": "IV. - Le IV de l'article 3 et les articles 5 et 6 sont applicables aux personnes mentionnées au présent article. L'article 9 est applicable aux personnes mentionnées au présent article, à l'exclusion des personnes mentionnées au 1° A du I."
       },
+      "liens": [
+        "article 3 de la présente loi",
+        "article L. 421-1 du code de la construction et de l'habitation",
+        "titres XII et XIII de la Constitution",
+        "au 1° de l'article L. 1525-1 du code général des collectivités territoriales"
+      ],
       "order": 11,
       "section": "C1S2",
       "statut": "none",
@@ -215,6 +242,7 @@
         "005": "Un décret en Conseil d'État, pris après avis de la Commission nationale de l'informatique et des libertés, précise les modalités d'application du présent article, notamment les modalités de publicité des déclarations.",
         "006": "Le fait de publier ou de diffuser des informations mensongères ou délibérément inexactes relatives au contenu des déclarations de situation patrimoniale mentionnées au présent article, ainsi qu'aux éventuelles observations qui les accompagnent, est puni de 7 500 € d'amende."
       },
+      "liens": [],
       "order": 12,
       "section": "C1S2",
       "statut": "none",
@@ -226,6 +254,9 @@
         "001": "Après l'article L. 52-8 du code électoral, il est inséré un article L. 52-8-1 ainsi rédigé :",
         "002": "\"Art. L. 52-8-1. - Aucun candidat ne peut utiliser, directement ou indirectement, les indemnités et les avantages en nature mis à disposition de leurs membres par les assemblées parlementaires pour couvrir les dépenses liées à l'exercice de leur mandat, à l'exclusion de l'indemnité de parlementaire et de l'indemnité de fonction par les assemblées parlementaires à leurs membres.\""
       },
+      "liens": [
+        "article L. 52-8 du code électoral"
+      ],
       "order": 13,
       "section": "C1S2",
       "statut": "none",
@@ -243,6 +274,12 @@
         "007": "2° L'avant-dernier alinéa est complété par une phrase ainsi rédigée :",
         "008": "\"Ces déclarations sont publiées au Journal officiel.\""
       },
+      "liens": [
+        "article 9 de la loi n° 88-227 du 11 mars 1988",
+        "article 74 de la Constitution",
+        "article 74 de la Constitution",
+        "article 74 de la Constitution"
+      ],
       "order": 14,
       "section": "C1S2",
       "statut": "none",
@@ -259,6 +296,9 @@
         "006": "3° Le troisième alinéa est complété par une phrase ainsi rédigée :",
         "007": "\"Les associations de financement et les mandataires financiers communiquent chaque année à la Commission nationale des comptes de campagne et des financements politiques la liste des personnes ayant consenti annuellement un ou plusieurs dons d'une valeur totale supérieure à 3 000 €.\""
       },
+      "liens": [
+        "article 11-4 de la même loi"
+      ],
       "order": 15,
       "section": "C1S2",
       "statut": "none",
@@ -273,6 +313,11 @@
         "004": "2° Il est complété par un alinéa ainsi rédigé :",
         "005": "\"La Commission demande, le cas échéant, communication de toutes les pièces comptables ou justificatifs nécessaires au bon accomplissement de sa mission de contrôle.\""
       },
+      "liens": [
+        "article 8 de la loi n° 88-227 du 11 mars 1988",
+        "article 11-7 de la loi n°88-227 du 11 mars 1988",
+        "article 200 du Code général des impôts"
+      ],
       "order": 16,
       "section": "C1S2",
       "statut": "nouveau",
@@ -317,6 +362,10 @@
         "034": "V. - Un décret en Conseil d'État fixe les modalités d'application du présent article.",
         "035": "La Haute Autorité adopte un règlement général déterminant les autres règles d'organisation et de fonctionnement ainsi que les règles de procédure applicables devant elle."
       },
+      "liens": [
+        "articles 3 et 10 de la présente loi",
+        "La loi du 10 août 1922"
+      ],
       "order": 17,
       "section": "C1S3",
       "statut": "none",
@@ -337,6 +386,9 @@
         "010": "La Haute Autorité pour la transparence de la vie publique peut demander aux personnes mentionnées aux articles 3, 10 et 15 toute explication ou tout document nécessaire à l'exercice de ses missions prévues au I du présent article. Elle peut entendre ou consulter toute personne dont le concours lui paraît utile.",
         "011": "Elle peut charger un ou plusieurs de ses membres ou rapporteurs de procéder ou de faire procéder par les agents de ses services à des vérifications portant sur le contenu des déclarations prévues à l'article L. O. 135-1 du code électoral et aux articles 3 et 10 de la présente loi et sur les informations dont elle dispose."
       },
+      "liens": [
+        "articles 3 et 10 de la présente loi"
+      ],
       "order": 18,
       "section": "C1S3",
       "statut": "none",
@@ -354,6 +406,7 @@
         "007": "5° Le président de l'autorité administrative indépendante ou de l'autorité publique indépendante, ainsi que l'autorité de nomination, lorsqu'il s'agit d'une personne mentionnée au 4° dudit I ;",
         "008": "6° Le ministre qui a autorité ou qui exerce la tutelle sur l'organisme concerné, lorsqu'il s'agit d'une personne mentionnée au 5° dudit I ou au II de l'article 10."
       },
+      "liens": [],
       "order": 19,
       "section": "C1S3",
       "statut": "none",
@@ -379,6 +432,7 @@
         "015": "IV. - Lorsqu'elle a connaissance de l'exercice, par une personne mentionnée au I, d'une activité exercée en violation d'un avis d'incompatibilité ou d'une activité exercée en violation des réserves prévues par un avis de compatibilité, et après que la personne concernée a été mise en mesure de produire des explications, la Haute Autorité publie au Journal officiel un rapport spécial comprenant l'avis rendu et les observations écrites de la personne concernée.",
         "016": "Elle transmet au procureur de la République le rapport spécial mentionné au premier alinéa du présent IV et les pièces en sa possession relatives à cette violation de son avis."
       },
+      "liens": [],
       "order": 20,
       "section": "C1S3",
       "statut": "none",
@@ -395,6 +449,12 @@
         "006": "II. - Le deuxième alinéa de l'article 46 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'État, de l'article 65 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale et de l'article 53 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière est supprimé.",
         "007": "III. - Le présent article entre en vigueur le 1er janvier 2014."
       },
+      "liens": [
+        "article 6 de la loi n° 77-729 du 7 juillet 1977",
+        "Le deuxième alinéa de l'article 46 de la loi n° 84-16 du 11 janvier 1984",
+        "article 65 de la loi n° 84-53 du 26 janvier 1984",
+        "article 53 de la loi n° 86-33 du 9 janvier 1986"
+      ],
       "order": 21,
       "section": "C1S4",
       "statut": "non modifié",
@@ -403,6 +463,7 @@
     },
     {
       "alineas": {},
+      "liens": [],
       "order": 22,
       "section": "C1S5",
       "statut": "supprimé",
@@ -417,6 +478,13 @@
         "004": "III. - Le fait, pour un membre du Gouvernement ou une personne mentionnée aux articles 10 ou 15, de ne pas déférer aux injonctions de la Haute Autorité pour la transparence de la vie publique ou de ne pas lui communiquer les informations et pièces utiles à l'exercice de sa mission dans un délai d'un mois à compter de la notification de l'injonction ou de la demande de communication est puni d'un an d'emprisonnement et de 15 000 € d'amende.",
         "005": "IV. - Le fait de publier, hors les cas prévus par les articles L. O. 136-9 à L. O. 136-12 du code électoral et par la présente loi, ou de divulguer, de quelque manière que ce soit, tout ou partie des déclarations, des informations ou des observations mentionnées aux articles L. O. 136-4 à L. O. 136-7 du code électoral et aux articles 3, 5 et 10 de la présente loi est puni des peines mentionnées à l'article 226-1 du code pénal."
       },
+      "liens": [
+        "article 10 de la présente loi",
+        "articles 131-26 et 131-26-1 du code pénal",
+        "article 131-27 du même code",
+        "articles 3, 5 et 10 de la présente loi",
+        "article 226-1 du code pénal"
+      ],
       "order": 23,
       "section": "C2",
       "statut": "none",
@@ -435,6 +503,14 @@
         "008": "2° À la seconde phrase du premier alinéa du I de l'article 1837, les mots : \"l'article 131-26 du code pénal pour une durée de cinq ans au plus\" sont remplacés par les références : \"les articles 131-26 et 131-26-1 du code pénal\".",
         "009": "V. - (Supprimé)"
       },
+      "liens": [
+        "article 131-26 du code pénal",
+        "du 1° de l'article 432-17 du code pénal",
+        "du premier alinéa de l'article L. 117 du code électoral",
+        "article 131-26-1 du même code",
+        "article 131-26 du code pénal",
+        "articles 131-26 et 131-26-1 du code pénal"
+      ],
       "order": 24,
       "section": "C2",
       "statut": "none",
@@ -447,6 +523,9 @@
         "002": "1° Les mots : \"deux ans d'emprisonnement et de 30 000 € d'amende\" sont remplacés par les mots : \"trois ans d'emprisonnement et d'une amende de 200 000 €, dont le montant peut être porté au double du produit tiré de l'infraction,\" ;",
         "003": "2° Après les mots : \"en tant que\", sont insérés les mots : \"membre du Gouvernement, titulaire d'une fonction exécutive locale,\"."
       },
+      "liens": [
+        "Le premier alinéa de l'article 432-13 du code pénal"
+      ],
       "order": 25,
       "section": "C2",
       "statut": "none",
@@ -458,6 +537,10 @@
         "001": "Après la trente-deuxième ligne du tableau annexé à la loi n° 2010-838 du 23 juillet 2010 relative à l'application du cinquième alinéa de l'article 13 de la Constitution, est insérée une ligne ainsi rédigée :",
         "002": "\"<table><tbody><tr><td>Président de la Haute Autorité pour la transparence de la vie publique</td><td>Commission permanente compétente en matière de lois constitutionnelles</td></tr></tbody></table>\""
       },
+      "liens": [
+        "la loi n° 2010-838 du 23 juillet 2010",
+        "du cinquième alinéa de l'article 13 de la Constitution"
+      ],
       "order": 26,
       "section": "C3",
       "statut": "none",
@@ -472,6 +555,15 @@
         "004": "Les procédures se rapportant à des mandats ou fonctions qui emportaient l'obligation de dépôt de déclarations en application des articles 1er et 2 de la loi n° 88-227 du 11 mars 1988, et qui se poursuivent à la date d'entrée en vigueur de la présente loi, sont conduites par la Haute autorité. Elle dispose, en ce qui les concerne, des prérogatives prévues par la présente loi.",
         "005": "III. - Le dernier alinéa des articles L. 195 et L. 367 du code électoral est supprimé et le 4° de l'article L. 230 et le 3° des articles L. 340 et L. 558-11 du même code sont abrogés."
       },
+      "liens": [
+        "articles 1er à 5-1 de la loi n° 88-227 du 11 mars 1988",
+        "articles 1er et 2 de la loi n° 88-227 du 11 mars 1988",
+        "du II de l'article 21 de la loi n° 2011-412 du 14 avril 2011",
+        "articles 1er à 3 de la loi n° 88-227 du 11 mars 1988",
+        "articles 1er et 2 de la loi n° 88-227 du 11 mars 1988",
+        "articles L. 195 et L. 367 du code électoral",
+        "articles L. 340 et L. 558-11 du même code"
+      ],
       "order": 27,
       "section": "C3",
       "statut": "none",
@@ -482,6 +574,7 @@
       "alineas": {
         "001": "Dans l'année suivant la publication de la présente loi, le Gouvernement remet au Parlement un rapport sur les perspectives de rapprochement et de regroupement entre la Commission nationale des comptes de campagne et des financements politiques et la Haute Autorité pour la transparence de la vie publique."
       },
+      "liens": [],
       "order": 28,
       "section": "C3",
       "statut": "nouveau",
@@ -495,6 +588,10 @@
         "003": "2° Les mots : \", conformément au deuxième alinéa de l'article L. O. 135-3\" sont remplacés par les mots : \"ou par son conjoint séparé de biens, son partenaire lié par un pacte civil de solidarité ou son concubin, en application de l'article L. O. 136-16\" ;",
         "004": "3° Après le mot : \"mentionnées\", la fin de l'article est ainsi rédigée : \"aux articles 3 et 10 de la loi n° du relative à la transparence de la vie publique, en application de l'article 5 de cette même loi.\""
       },
+      "liens": [
+        "article L. 139 B du livre des procédures fiscales",
+        "articles 3 et 10 de la loi"
+      ],
       "order": 29,
       "section": "C3",
       "statut": "none",
@@ -505,6 +602,9 @@
       "alineas": {
         "001": "Au onzième alinéa du I de l'article 13 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, les mots : \"tout mandat électif national,\" sont supprimés."
       },
+      "liens": [
+        "Au onzième alinéa du I de l'article 13 de la loi n° 78-17 du 6 janvier 1978"
+      ],
       "order": 30,
       "section": "C3",
       "statut": "nouveau",
@@ -518,6 +618,7 @@
         "003": "1° Chacun des membres du Gouvernement établit une déclaration de situation patrimoniale et une déclaration d'intérêts, suivant les modalités prévues à l'article 3 ;",
         "004": "2° Chacune des personnes mentionnées à l'article 10 établit une déclaration de situation patrimoniale et une déclaration d'intérêts, suivant les modalités prévues à ce même article."
       },
+      "liens": [],
       "order": 31,
       "section": "C3",
       "statut": "none",
@@ -541,6 +642,7 @@
         "013": "\"Tout autre avantage en nature fait l'objet d'une délibération nominative, qui en précise les modalités d'usage.\"",
         "014": "II. - (Supprimé)"
       },
+      "liens": [],
       "order": 32,
       "section": "C3",
       "statut": "none",
@@ -554,6 +656,11 @@
         "003": "III. - Les articles L. 2123-18-1-1 et L. 5211-13-1 du code général des collectivités territoriales sont applicables en Polynésie française.",
         "004": "IV. - Pour l'application de la présente loi, les références à la législation et à la règlementation fiscales s'entendent, dans les collectivités d'outre-mer et en Nouvelle-Calédonie, comme visant la législation et la règlementation applicables localement."
       },
+      "liens": [
+        "le deuxième alinéa de l'article 65 de la loi n° 84-53 du 26 janvier 1984",
+        "article 53 de la loi n° 86-33 du 9 janvier 1986",
+        "articles L. 2123-18-1-1 et L. 5211-13-1 du code général des collectivités territoriales"
+      ],
       "order": 33,
       "section": "C3",
       "statut": "none",

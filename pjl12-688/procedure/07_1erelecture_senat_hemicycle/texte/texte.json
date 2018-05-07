@@ -4,6 +4,7 @@
       "alineas": {
         "001": "Un conflit d'intérêts naît d'une situation dans laquelle un parlementaire détient des intérêts privés qui peuvent indûment influer sur la façon dont il s'acquitte des missions liées à son mandat, et le conduire ainsi à privilégier son intérêt particulier face à l'intérêt général. Ne peuvent être regardés comme de nature à susciter des conflits d'intérêts les intérêts en cause dans les décisions de portée générale ainsi que les intérêts qui se rattachent à une vaste catégorie de personnes."
       },
+      "liens": [],
       "order": 1,
       "statut": "nouveau",
       "titre": "1er A",
@@ -11,6 +12,7 @@
     },
     {
       "alineas": {},
+      "liens": [],
       "order": 2,
       "statut": "supprimé",
       "titre": "1er",
@@ -64,6 +66,10 @@
         "044": "VIII. - Le IV bis du présent article entre en vigueur le 1er janvier 2014.",
         "045": "IX. - Le V du présent article entre en vigueur dans les conditions prévues au VI de l'article 1er de la présente loi."
       },
+      "liens": [
+        "l'ordonnance n° 58-1270 du 22 décembre 1958",
+        "au VI de l'article 1er de la présente loi"
+      ],
       "order": 3,
       "statut": "none",
       "titre": "2",
@@ -71,6 +77,7 @@
     },
     {
       "alineas": {},
+      "liens": [],
       "order": 4,
       "statut": "supprimé",
       "titre": "2 bis A",
@@ -80,6 +87,7 @@
       "alineas": {
         "001": "La deuxième phrase de l'article L. O. 153 du code électoral est complétée par les mots : \"et ne peut percevoir aucune indemnité en tant que parlementaire\"."
       },
+      "liens": [],
       "order": 5,
       "statut": "conformes",
       "titre": "2 bis",
@@ -89,6 +97,7 @@
       "alineas": {
         "001": "Le 1° du I des articles L. O. 489, L. O. 516 et L. O. 544 du code électoral est abrogé."
       },
+      "liens": [],
       "order": 6,
       "statut": "conformes",
       "titre": "2 ter",
@@ -100,6 +109,9 @@
         "002": "\"Les fonctions de membre du Conseil constitutionnel sont incompatibles avec l'exercice de la profession d'avocat.\"",
         "003": "II. - Le présent article entre en vigueur le 1er janvier 2014."
       },
+      "liens": [
+        "article 4 de l'ordonnance n° 58-1067 du 7 novembre 1958"
+      ],
       "order": 7,
       "statut": "conformes",
       "titre": "2 quater",
@@ -118,6 +130,13 @@
         "009": "II bis. - L'article 7 de la même ordonnance est abrogé.",
         "010": "III. - Le 2° du I A du présent article entre en vigueur le 1er janvier 2014."
       },
+      "liens": [
+        "L'ordonnance n° 58-1099 du 17 novembre 1958",
+        "article 23 de la Constitution",
+        "article 5 de la même ordonnance",
+        "article 6 de la même ordonnance",
+        "article 7 de la même ordonnance"
+      ],
       "order": 8,
       "statut": "none",
       "titre": "3",
@@ -125,6 +144,7 @@
     },
     {
       "alineas": {},
+      "liens": [],
       "order": 9,
       "statut": "supprimés",
       "titre": "4",
@@ -132,6 +152,7 @@
     },
     {
       "alineas": {},
+      "liens": [],
       "order": 10,
       "statut": "supprimés",
       "titre": "4 bis A",
@@ -141,6 +162,9 @@
       "alineas": {
         "001": "À la fin de l'article 4 de la loi n° 62-1292 du 6 novembre 1962 précitée, la référence : \"loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012\" est remplacée par la référence : \"loi organique n° du relative à la transparence de la vie publique\"."
       },
+      "liens": [
+        "article 4 de la loi n° 62-1292 du 6 novembre 1962"
+      ],
       "order": 11,
       "statut": "conforme",
       "titre": "4 bis",
@@ -154,6 +178,9 @@
         "004": "\"b) L'ensemble des subventions accordées à des associations par les ministres compétents.",
         "005": "\"Elle indique, pour chaque subvention, le nom du bénéficiaire, le montant versé, la nature du projet financé, le programme budgétaire concerné et le nom du membre du Parlement qui a proposé la subvention ;\"."
       },
+      "liens": [
+        "le 6° de l'article 51 de la loi organique n° 2001-692 du 1er août 2001"
+      ],
       "order": 12,
       "statut": "nouveau",
       "titre": "4 ter",
@@ -163,6 +190,9 @@
       "alineas": {
         "001": "Les articles 1er et 2 de la présente loi sont applicables en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie."
       },
+      "liens": [
+        "articles 1er et 2 de la présente loi"
+      ],
       "order": 13,
       "statut": "conforme",
       "titre": "5",
@@ -174,6 +204,10 @@
         "002": "1° Après le mot : \"soumis\", la fin du second alinéa de l'article 64, de l'article 114 et du dernier alinéa de l'article 161 est ainsi rédigée : \", dans les mêmes conditions, aux obligations de déclaration applicables aux personnes mentionnées, respectivement, aux 1° et 2° du I de l'article 10 de la loi n° du relative à la transparence de la vie publique.\" ;",
         "003": "2° Le 1° du I de l'article 195 est abrogé."
       },
+      "liens": [
+        "La loi organique n° 99-209 du 19 mars 1999",
+        "aux 1° et 2° du I de l'article 10 de la loi"
+      ],
       "order": 14,
       "statut": "none",
       "titre": "6",
@@ -187,6 +221,11 @@
         "004": "\"Art. 160. - Le président et les autres membres du gouvernement de la Polynésie française sont soumis, dans les mêmes conditions, aux obligations de déclaration applicables aux personnes mentionnées, respectivement, aux 1° et 2° du I de l'article 10 de la loi n° du relative à la transparence de la vie publique.",
         "005": "\"Le président et les autres représentants à l'assemblée de la Polynésie française sont soumis, dans les mêmes conditions, aux obligations de déclaration applicables aux personnes mentionnées, respectivement, aux 1° et 2° du I de l'article 10 de la loi n° du relative à la transparence de la vie publique.\""
       },
+      "liens": [
+        "La loi organique n° 2004-192 du 27 février 2004",
+        "aux 1° et 2° du I de l'article 10 de la loi",
+        "aux 1° et 2° du I de l'article 10 de la loi"
+      ],
       "order": 15,
       "statut": "none",
       "titre": "7",
@@ -196,6 +235,9 @@
       "alineas": {
         "001": "Après le mot : \"sont\", la fin du dernier alinéa des articles L. O. 6221-1, L. O. 6321-1 et L. O. 6431-1 du code général des collectivités territoriales est ainsi rédigée : \"soumis, dans les mêmes conditions, aux obligations de déclaration applicables aux personnes mentionnées, respectivement, aux 1° et 2° du I de l'article 10 de la loi n° du relative à la transparence de la vie publique.\""
       },
+      "liens": [
+        "aux 1° et 2° du I de l'article 10 de la loi"
+      ],
       "order": 16,
       "statut": "none",
       "titre": "7 bis",
@@ -206,6 +248,7 @@
         "001": "Pour l'application de la présente loi, les références à la législation et à la réglementation fiscales s'entendent, dans les collectivités d'outre-mer et en Nouvelle-Calédonie, comme visant la législation et la réglementation applicables localement.",
         "002": "L'administration fiscale compétente localement dans les collectivités d'outre-mer et en Nouvelle-Calédonie peut être sollicitée par la Haute Autorité pour la transparence de la vie publique dans les mêmes conditions que l'administration fiscale compétente au niveau national."
       },
+      "liens": [],
       "order": 17,
       "statut": "none",
       "titre": "8",

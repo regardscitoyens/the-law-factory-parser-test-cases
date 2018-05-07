@@ -42,6 +42,7 @@
         "038": "\"15° L'article L. 331-22 devient l'article L. 331-11\".",
         "039": "XIII. - Les articles L. 331-18 à L. 331-21 sont abrogés."
       },
+      "liens": [],
       "order": 1,
       "section": "C1",
       "statut": "none",
@@ -153,6 +154,14 @@
         "101": "\"Mission d'observation de l'offre légale et de l'utilisation illicite \"d'oeuvres et d'objets protégés par un droit d'auteur ou par un droit voisin\"sur internet",
         "102": "\"Art. L. 331-36. - Au titre de sa mission d'observation de l'offre légale et de l'utilisation illicite des oeuvres et des objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communication au public en ligne, la Haute Autorité publie des indicateurs dont la liste est fixée par décret.\""
       },
+      "liens": [
+        "chapitre Ier du titre III du livre III du code de la propriété intellectuelle",
+        "article L. 233-16 du code de commerce",
+        "article L. 34-1 du code des postes et des communications électroniques",
+        "du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004",
+        "articles 226-13 et 413-10 du code pénal",
+        "article 17-1 de la loi n° 95-73 du 21 janvier 1995"
+      ],
       "order": 2,
       "section": "C1",
       "statut": "none",
@@ -163,6 +172,9 @@
       "alineas": {
         "001": "À la section 3 du chapitre Ier du titre III du livre III du code de la propriété intellectuelle, il est créé une sous-section 4 intitulée : \"Mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des oeuvres et des objets protégés\" qui comprend les articles L. 331-37 à L. 331-43."
       },
+      "liens": [
+        "section 3 du chapitre Ier du titre III du livre III du code de la propriété intellectuelle"
+      ],
       "order": 3,
       "section": "C1",
       "statut": "none",
@@ -173,6 +185,9 @@
       "alineas": {
         "001": "Le 4° de l'article L. 332-1 et l'article L. 335-12 du code de la propriété intellectuelle sont abrogés."
       },
+      "liens": [
+        "article L. 335-12 du code de la propriété intellectuelle"
+      ],
       "order": 4,
       "section": "C1",
       "statut": "none",
@@ -184,6 +199,9 @@
         "001": "Au chapitre VI du titre III du livre III du code de la propriété intellectuelle, l'article L. 336-2 est remplacé par les dispositions suivantes :",
         "002": "\"Art. L. 336-2. - En présence d'une atteinte à un droit d'auteur ou à un droit voisin occasionnée par le contenu d'un service de communication au public en ligne, le tribunal de grande instance, statuant le cas échéant en la forme des référés, peut ordonner à la demande des titulaires de droits sur les oeuvres et objets protégés, de leurs ayants droit, des sociétés de perception et de répartition des droits visées à l'article L. 321-1 ou des organismes de défense professionnelle visés à l'article L. 331-1, toute mesure de suspension ou de filtrage des contenus portant atteinte à un droit d'auteur ou un droit voisin, ainsi que toute mesure de restriction de l'accès à ces contenus, à l'encontre de toute personne en situation de contribuer à y remédier ou de contribuer à éviter son renouvellement.\""
       },
+      "liens": [
+        "chapitre VI du titre III du livre III du code de la propriété intellectuelle"
+      ],
       "order": 5,
       "section": "C1",
       "statut": "none",
@@ -200,6 +218,9 @@
         "006": "\"2° Si l'atteinte visée au premier alinéa est le fait d'une personne qui a frauduleusement utilisé l'accès au service de communication au public en ligne, à moins que cette personne ne soit placée sous l'autorité ou la surveillance du titulaire de l'accès ;",
         "007": "\"3° En cas de force majeure.\""
       },
+      "liens": [
+        "chapitre VI du titre III du livre III du code de la propriété intellectuelle"
+      ],
       "order": 6,
       "section": "C1",
       "statut": "none",
@@ -212,6 +233,9 @@
         "002": "I. - Au second alinéa, les mots : \"aux articles L. 331-8 et suivants\" sont remplacés par les mots : \"au 2° de l'article L. 331-37 et aux articles L. 331-7 à L. 331-10 et L. 331-39 à L. 331-41\".",
         "003": "II. - Au dernier alinéa, les mots : \"à l'Autorité de régulation des mesures techniques prévue à l'article L. 331-17\" sont remplacés par les mots : \"la Haute Autorité pour la diffusion des oeuvres et la protection des droits sur internet prévue à l'article L. 331-12\"."
       },
+      "liens": [
+        "article L. 342-3-1 du code de la propriété intellectuelle"
+      ],
       "order": 7,
       "section": "C1",
       "statut": "none",
@@ -223,6 +247,10 @@
         "001": "Le 1° du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique est complété par un alinéa ainsi rédigé :",
         "002": "\"Les personnes dont l'activité est d'offrir un accès à des services de communication au public en ligne informent également leurs abonnés de l'existence de moyens techniques permettant de prévenir l'utilisation de leur accès à des fins de reproduction, de représentation, de mise à disposition ou de communication au public d'oeuvres ou d'objets protégés sans l'autorisation des titulaires des droits prévus aux livres Ier et II du code de la propriété intellectuelle.\""
       },
+      "liens": [
+        "Le 1° du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004",
+        "livres Ier et II du code de la propriété intellectuelle"
+      ],
       "order": 8,
       "section": "C2",
       "statut": "none",
@@ -235,6 +263,11 @@
         "002": "I. - Après les mots : \"des infractions pénales\" sont insérés les mots : \"ou d'un manquement à l'obligation définie à l'article L. 336-3 du code de la propriété intellectuelle\".",
         "003": "II. - Après les mots : \"de l'autorité judiciaire\" sont insérés les mots : \"ou de la Haute Autorité mentionnée à l'article L. 331-12 du code de la propriété intellectuelle\"."
       },
+      "liens": [
+        "Le II de l'article L. 34-1 du code des postes et des communications électroniques",
+        "article L. 336-3 du code de la propriété intellectuelle",
+        "article L. 331-12 du code de la propriété intellectuelle"
+      ],
       "order": 9,
       "section": "C3",
       "statut": "none",
@@ -247,6 +280,9 @@
         "002": "II. - L'Autorité de régulation des mesures techniques exerce les attributions qui lui sont confiées par le code de la propriété intellectuelle dans sa rédaction antérieure à la publication de la présente loi jusqu'à la première réunion de la Haute Autorité pour la diffusion des oeuvres et la protection des droits sur internet.",
         "003": "III. - Les procédures en cours devant l'Autorité de régulation des mesures techniques à la date de la première réunion de la Haute Autorité pour la diffusion des oeuvres et la protection des droits sur internet sont poursuivies de plein droit devant le collège de la Haute Autorité."
       },
+      "liens": [
+        "articles L. 331-29, L. 331-31 et L. 331-32 du code de la propriété intellectuelle"
+      ],
       "order": 10,
       "section": "C4",
       "statut": "none",
@@ -262,6 +298,9 @@
         "005": "\"Ne sont pas applicables à Mayotte les articles L. 133-1 à L. 133-4, ainsi que le quatrième alinéa de l'article L. 335-4.",
         "006": "\"Ne sont pas applicables dans les Terres australes et antarctiques françaises les articles L. 133-1 à L. 133-4, L. 421-1 à L. 422-13 et L. 423-2, ainsi que le quatrième alinéa de l'article L. 335-4.\""
       },
+      "liens": [
+        "article L. 811-1 du code de la propriété intellectuelle"
+      ],
       "order": 11,
       "section": "C4",
       "statut": "none",

@@ -4,6 +4,7 @@
       "alineas": {
         "001": "La présente loi est applicable aux entreprises, établissements ou parties d'établissement qui concourent directement à l'activité de transport aérien de passagers."
       },
+      "liens": [],
       "order": 1,
       "statut": "none",
       "titre": "1er",
@@ -21,6 +22,7 @@
         "008": "6° Les modalités d'élaboration du relevé de conclusions de la négociation préalable ainsi que les informations qui doivent y figurer ;",
         "009": "7° Les conditions dans lesquelles les salariés sont informés des motifs du conflit, de la position de l'employeur, de la position des organisations syndicales représentatives qui ont procédé à la notification ainsi que les conditions dans lesquelles ils reçoivent communication du relevé de conclusions de la négociation préalable."
       },
+      "liens": [],
       "order": 2,
       "statut": "none",
       "titre": "2",
@@ -32,6 +34,9 @@
         "002": "Les informations issues de ces déclarations individuelles ne peuvent être utilisées que pour l'organisation de l'activité durant la grève en vue d'en informer les passagers. Elles sont couvertes par le secret professionnel. Leur utilisation à d'autres fins ou leur communication à toute personne autre que celles désignées par l'employeur comme étant chargées de l'organisation du service est passible des peines prévues à l'article 226-13 du code pénal.",
         "003": "Est passible d'une sanction disciplinaire le salarié qui n'a pas informé son employeur de son intention de participer à la grève dans les conditions prévues au présent article."
       },
+      "liens": [
+        "article 226-13 du code pénal"
+      ],
       "order": 3,
       "statut": "none",
       "titre": "3",
@@ -41,6 +46,7 @@
       "alineas": {
         "001": "En cas de perturbation du trafic aérien liée à une grève dans une entreprise mentionnée à l'article 1, tout passager a le droit de disposer d'une information gratuite, précise et fiable sur l'activité assurée. Cette information doit être délivrée aux passagers par l'entreprise de transport aérien dans la mesure du possible au plus tard vingt-quatre heures avant le début de la perturbation."
       },
+      "liens": [],
       "order": 4,
       "statut": "none",
       "titre": "4",

@@ -81,6 +81,14 @@
         "077": "VI. - Le présent article entre en vigueur à compter de la date de publication au Journal officiel du décret nommant le président de la Haute Autorité de la transparence de la vie publique.",
         "078": "Dans les deux mois suivant cette date, tout député ou sénateur établit une déclaration de situation patrimoniale et une déclaration d'intérêts et d'activités suivant les modalités prévues aux articles L. O. 135-1 et L. O. 135-2 du code électoral."
       },
+      "liens": [
+        "articles 1er et 2 de la loi n° 88-227 du 11 mars 1988",
+        "articles 3 et 10 de la loi",
+        "articles 131-26 et 131-26-1 du code pénal",
+        "article 131-27 du même code",
+        "article 74 de la Constitution",
+        "article 226-1 du code pénal"
+      ],
       "order": 1,
       "statut": "none",
       "titre": "1er",
@@ -111,6 +119,7 @@
         "021": "VII. - Le parlementaire exerçant la fonction mentionnée à l'article L. O. 146-1 du code électoral à la date de publication de la présente loi dispose d'un délai de six mois pour mettre fin à cet exercice.",
         "022": "VIII. - Le IV bis du présent article entre en vigueur le 1er janvier 2014."
       },
+      "liens": [],
       "order": 2,
       "statut": "none",
       "titre": "2",
@@ -120,6 +129,7 @@
       "alineas": {
         "001": "La deuxième phrase de l'article L. O. 153 du code électoral est complétée par les mots : \"et ne peut percevoir aucune indemnité en tant que parlementaire\"."
       },
+      "liens": [],
       "order": 3,
       "statut": "nouveau",
       "titre": "2 bis",
@@ -129,6 +139,7 @@
       "alineas": {
         "001": "Le 1° du I des articles L. O. 489, L. O. 516 et L. O. 544 du code électoral est abrogé."
       },
+      "liens": [],
       "order": 4,
       "statut": "nouveau",
       "titre": "2 ter",
@@ -140,6 +151,9 @@
         "002": "\"Les fonctions de membre du Conseil constitutionnel sont incompatibles avec l'exercice de la profession d'avocat.\"",
         "003": "II. - Le présent article entre en vigueur le 1er janvier 2014."
       },
+      "liens": [
+        "article 4 de l'ordonnance n° 58-1067 du 7 novembre 1958"
+      ],
       "order": 5,
       "statut": "nouveau",
       "titre": "2 quater",
@@ -157,6 +171,12 @@
         "008": "II. - L'article 6 de la même ordonnance est abrogé.",
         "009": "III. - Le 2° du I A du présent article entre en vigueur le 1er janvier 2014."
       },
+      "liens": [
+        "L'ordonnance n° 58-1099 du 17 novembre 1958",
+        "article 23 de la Constitution",
+        "article 5 de la même ordonnance",
+        "article 6 de la même ordonnance"
+      ],
       "order": 6,
       "statut": "none",
       "titre": "3",
@@ -167,6 +187,10 @@
         "001": "Après la trente et unième ligne du tableau annexé à la loi organique n° 2010-837 relative à l'application du cinquième alinéa de l'article 13 de la Constitution, est insérée une ligne ainsi rédigée :",
         "002": "\"<table><tbody><tr><td>Haute Autorité de la transparence de la vie publique</td><td>Président</td></tr></tbody></table>\"."
       },
+      "liens": [
+        "la loi organique n° 2010-837",
+        "du cinquième alinéa de l'article 13 de la Constitution"
+      ],
       "order": 7,
       "statut": "none",
       "titre": "4",
@@ -176,6 +200,9 @@
       "alineas": {
         "001": "À la fin de l'article 4 de la loi n° 62-1292 du 6 novembre 1962 relative à l'élection du président de la République au suffrage universel, la référence : \"loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012\" est remplacée par la référence : \"loi organique n° du relative à la transparence de la vie publique\"."
       },
+      "liens": [
+        "article 4 de la loi n° 62-1292 du 6 novembre 1962"
+      ],
       "order": 8,
       "statut": "nouveau",
       "titre": "4 bis",
@@ -185,6 +212,9 @@
       "alineas": {
         "001": "Les articles 1er et 2 de la présente loi sont applicables en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie."
       },
+      "liens": [
+        "articles 1er et 2 de la présente loi"
+      ],
       "order": 9,
       "statut": "none",
       "titre": "5",
@@ -196,6 +226,10 @@
         "002": "1° Après le mot : \"soumis\", la fin du second alinéa de l'article 64, de l'article 114 et du dernier alinéa de l'article 161 est ainsi rédigée : \"à l'obligation de dépôt d'une déclaration de situation patrimoniale et d'une déclaration d'intérêts dans les conditions prévues, respectivement, aux 1° et 2° du I de l'article 10 de la loi n° du relative à la transparence de la vie publique.\" ;",
         "003": "2° Le 1° du I de l'article 195 est abrogé."
       },
+      "liens": [
+        "La loi organique n° 99-209 du 19 mars 1999",
+        "aux 1° et 2° du I de l'article 10 de la loi"
+      ],
       "order": 10,
       "statut": "nouveau",
       "titre": "6",
@@ -207,6 +241,10 @@
         "002": "1° Le 1° du I de l'article 109 est abrogé ;",
         "003": "2° Après le mot : \"patrimoniale\", la fin de l'article 160 est ainsi rédigée : \"et une déclaration d'intérêts, dans les conditions prévues au 1° du I de l'article 10 de la loi n° du relative à la transparence de la vie publique pour le président de la Polynésie française et le président de l'assemblée et dans les conditions prévues au 2° du même I pour les autres membres du gouvernement et de l'assemblée.\""
       },
+      "liens": [
+        "La loi organique n° 2004-192 du 27 février 2004",
+        "au 1° du I de l'article 10 de la loi"
+      ],
       "order": 11,
       "statut": "nouveau",
       "titre": "7",
@@ -216,6 +254,7 @@
       "alineas": {
         "001": "Pour l'application de l'article 1er, les références à l'administration fiscale s'entendent, dans les collectivités d'outre-mer et en Nouvelle-Calédonie, comme visant l'administration fiscale de ces collectivités d'outre-mer et l'administration fiscale de la Nouvelle-Calédonie."
       },
+      "liens": [],
       "order": 12,
       "statut": "nouveau",
       "titre": "8",

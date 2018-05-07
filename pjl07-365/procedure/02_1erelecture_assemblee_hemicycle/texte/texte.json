@@ -5,6 +5,9 @@
         "001": "L'article 1er de la Constitution est complété par une phrase ainsi rédigée :",
         "002": "\"Les langues régionales appartiennent à son patrimoine.\""
       },
+      "liens": [
+        "article 1er de la Constitution"
+      ],
       "order": 1,
       "statut": "nouveau",
       "titre": "1er A",
@@ -15,6 +18,9 @@
         "001": "L'article 4 de la Constitution est complété par un alinéa ainsi rédigé :",
         "002": "\"La loi garantit la participation des partis et groupements politiques à la vie démocratique de la Nation.\""
       },
+      "liens": [
+        "article 4 de la Constitution"
+      ],
       "order": 2,
       "statut": "none",
       "titre": "1er",
@@ -25,6 +31,9 @@
         "001": "Après le premier alinéa de l'article 6 de la Constitution, il est inséré un alinéa ainsi rédigé :",
         "002": "\"Nul ne peut être élu plus de deux fois consécutivement.\""
       },
+      "liens": [
+        "le premier alinéa de l'article 6 de la Constitution"
+      ],
       "order": 3,
       "statut": "none",
       "titre": "2",
@@ -34,6 +43,7 @@
       "alineas": {
         "001": ""
       },
+      "liens": [],
       "order": 4,
       "statut": "supprimé",
       "titre": "3",
@@ -44,6 +54,9 @@
         "001": "Après le deuxième alinéa de l'article 11 de la Constitution, il est inséré un alinéa ainsi rédigé :",
         "002": "\"Un référendum portant sur un objet mentionné au premier alinéa peut être organisé à l'initiative d'un cinquième des membres du Parlement soutenue par un dixième des électeurs inscrits sur les listes électorales. La régularité de l'initiative, qui prend la forme d'une proposition de loi et qui ne peut avoir pour objet l'abrogation d'une disposition législative promulguée depuis moins d'un an, est contrôlée par le Conseil constitutionnel dans des conditions fixées par une loi organique. Si la proposition n'a pas été examinée par les deux assemblées parlementaires dans un délai fixé par la loi organique, le Président de la République soumet la proposition au référendum.\""
       },
+      "liens": [
+        "le deuxième alinéa de l'article 11 de la Constitution"
+      ],
       "order": 5,
       "statut": "nouveau",
       "titre": "3 bis",
@@ -53,6 +66,9 @@
       "alineas": {
         "001": "Dans le premier alinéa de l'article 11 de la Constitution, les mots : \"ou sociale\" sont remplacés par les mots : \", sociale ou environnementale\"."
       },
+      "liens": [
+        "le premier alinéa de l'article 11 de la Constitution"
+      ],
       "order": 6,
       "statut": "nouveau",
       "titre": "3 ter",
@@ -62,6 +78,9 @@
       "alineas": {
         "001": "Dans le dernier alinéa de l'article 11 de la Constitution, après le mot : \"projet\", sont insérés les mots : \"ou de la proposition\"."
       },
+      "liens": [
+        "le dernier alinéa de l'article 11 de la Constitution"
+      ],
       "order": 7,
       "statut": "nouveau",
       "titre": "3 quater",
@@ -72,6 +91,9 @@
         "001": "L'article 13 de la Constitution est complété par un alinéa ainsi rédigé :",
         "002": "\"Une loi organique détermine les emplois ou fonctions, autres que ceux mentionnés au troisième alinéa, pour lesquels, en raison de leur importance pour la garantie des droits et libertés ou la vie économique et sociale de la Nation, le pouvoir de nomination du Président de la République s'exerce après avis public de la réunion des deux commissions permanentes compétentes de chaque assemblée. Le Président de la République ne peut procéder à une nomination lorsque la réunion des commissions permanentes compétentes a émis un avis négatif à la majorité des trois cinquièmes des suffrages exprimés. La loi détermine les commissions permanentes compétentes selon les emplois ou fonctions concernés ainsi que les modalités selon lesquelles les avis sont rendus.\""
       },
+      "liens": [
+        "article 13 de la Constitution"
+      ],
       "order": 8,
       "statut": "none",
       "titre": "4",
@@ -82,6 +104,9 @@
         "001": "L'article 16 de la Constitution est complété par un alinéa ainsi rédigé :",
         "002": "\"Après trente jours d'exercice des pouvoirs exceptionnels, le Conseil constitutionnel peut être saisi par le Président de l'Assemblée nationale, le Président du Sénat, soixante députés ou soixante sénateurs, aux fins d'examiner si les conditions énoncées au premier alinéa demeurent réunies. Il se prononce dans les délais les plus brefs par un avis public. Il procède de plein droit à cet examen et se prononce dans les mêmes conditions au terme de soixante jours d'exercice des pouvoirs exceptionnels et à tout moment au-delà de cette durée.\""
       },
+      "liens": [
+        "article 16 de la Constitution"
+      ],
       "order": 9,
       "statut": "none",
       "titre": "5",
@@ -92,6 +117,9 @@
         "001": "L'article 17 de la Constitution est ainsi rédigé :",
         "002": "\"Art. 17. - Le Président de la République a le droit de faire grâce à titre individuel. Il exerce ce droit après avis d'une commission dont la composition est fixée par la loi.\""
       },
+      "liens": [
+        "article 17 de la Constitution"
+      ],
       "order": 10,
       "statut": "none",
       "titre": "6",
@@ -104,6 +132,9 @@
         "003": "\"Il peut prendre la parole devant le Parlement réuni à cet effet en Congrès. Sa déclaration peut donner lieu, hors sa présence, à un débat qui ne fait l'objet d'aucun vote.\" ;",
         "004": "2° Dans le dernier alinéa, les mots : \"le Parlement est réuni\" sont remplacés par les mots : \"les assemblées parlementaires sont réunies\"."
       },
+      "liens": [
+        "article 18 de la Constitution"
+      ],
       "order": 11,
       "statut": "none",
       "titre": "7",
@@ -113,6 +144,7 @@
       "alineas": {
         "001": ""
       },
+      "liens": [],
       "order": 12,
       "statut": "supprimé",
       "titre": "8",
@@ -127,6 +159,9 @@
         "005": "\"Le Sénat est élu au suffrage indirect. Il assure la représentation des collectivités territoriales de la République en tenant compte de leur population.",
         "006": "\"Les Français établis hors de France sont représentés à l'Assemblée nationale et au Sénat.\""
       },
+      "liens": [
+        "article 24 de la Constitution"
+      ],
       "order": 13,
       "statut": "none",
       "titre": "9",
@@ -139,6 +174,9 @@
         "003": "2° Il est ajouté un alinéa ainsi rédigé :",
         "004": "\"Une commission indépendante, dont la loi fixe la composition et les règles d'organisation et de fonctionnement, se prononce par un avis public sur les projets de texte et propositions de loi délimitant les circonscriptions pour l'élection des députés ou des sénateurs ou répartissant les sièges entre elles.\""
       },
+      "liens": [
+        "article 25 de la Constitution"
+      ],
       "order": 14,
       "statut": "none",
       "titre": "10",
@@ -149,6 +187,9 @@
         "001": "L'article 33 de la Constitution est complété par un alinéa ainsi rédigé :",
         "002": "\"Les auditions auxquelles procèdent les commissions instituées au sein de chaque assemblée sont publiques, sauf si celles-ci en décident autrement.\""
       },
+      "liens": [
+        "article 33 de la Constitution"
+      ],
       "order": 15,
       "statut": "nouveau",
       "titre": "10 bis",
@@ -167,6 +208,9 @@
         "009": "\"Des lois de programmation déterminent les objectifs de l'action de l'État.",
         "010": "\"Des lois de programmation définissent les orientations pluriannuelles des finances publiques. Elles s'inscrivent dans l'objectif d'équilibre des comptes des administrations publiques.\""
       },
+      "liens": [
+        "article 34 de la Constitution"
+      ],
       "order": 16,
       "statut": "none",
       "titre": "11",
@@ -176,6 +220,7 @@
       "alineas": {
         "001": ""
       },
+      "liens": [],
       "order": 17,
       "statut": "supprimé",
       "titre": "12",
@@ -188,6 +233,9 @@
         "003": "\"Lorsque la durée de l'intervention excède quatre mois, le Gouvernement soumet sa prolongation à l'autorisation du Parlement. En cas de refus du Sénat, le Gouvernement peut demander à l'Assemblée nationale de statuer définitivement sur la prolongation de l'intervention.",
         "004": "\"Si le Parlement n'est pas en session à l'expiration du délai de quatre mois, il se prononce à l'ouverture de la session suivante.\""
       },
+      "liens": [
+        "article 35 de la Constitution"
+      ],
       "order": 18,
       "statut": "none",
       "titre": "13",
@@ -198,6 +246,9 @@
         "001": "Le deuxième alinéa de l'article 38 de la Constitution est complété par une phrase ainsi rédigée :",
         "002": "\"Elles ne peuvent être ratifiées que de manière expresse.\""
       },
+      "liens": [
+        "Le deuxième alinéa de l'article 38 de la Constitution"
+      ],
       "order": 19,
       "statut": "nouveau",
       "titre": "13 bis",
@@ -212,6 +263,9 @@
         "005": "\"Ils ne peuvent être inscrits à l'ordre du jour tant que les Conférences des Présidents constatent conjointement que les règles fixées par la loi organique sont méconnues.",
         "006": "\"Dans les conditions prévues par la loi, le président d'une assemblée peut soumettre pour avis au Conseil d'État, avant son examen en commission, une proposition de loi déposée par l'un des membres de cette assemblée.\""
       },
+      "liens": [
+        "article 39 de la Constitution"
+      ],
       "order": 20,
       "statut": "none",
       "titre": "14",
@@ -221,6 +275,9 @@
       "alineas": {
         "001": "Dans le premier alinéa de l'article 41 de la Constitution, après les mots : \"le Gouvernement\", sont insérés les mots : \"ou le président de l'assemblée saisie\"."
       },
+      "liens": [
+        "le premier alinéa de l'article 41 de la Constitution"
+      ],
       "order": 21,
       "statut": "none",
       "titre": "15",
@@ -234,6 +291,9 @@
         "004": "\"La discussion en séance, en première lecture, d'un projet ou d'une proposition de loi ne peut intervenir, devant la première assemblée saisie, qu'à l'expiration d'un délai de six semaines après son dépôt. Elle ne peut intervenir, devant la seconde assemblée saisie, qu'à l'expiration d'un délai de trois semaines à compter de sa transmission.",
         "005": "\"Les dispositions de l'alinéa précédent ne s'appliquent pas si la procédure accélérée a été déclarée dans les conditions prévues à l'article 45. Elles ne s'appliquent pas non plus aux projets de loi de finances, aux projets de loi de financement de la sécurité sociale et aux projets relatifs aux états de crise.\""
       },
+      "liens": [
+        "article 42 de la Constitution"
+      ],
       "order": 22,
       "statut": "none",
       "titre": "16",
@@ -243,6 +303,9 @@
       "alineas": {
         "001": "Dans le second alinéa de l'article 43 de la Constitution, le mot : \"six\" est remplacé par le mot : \"huit\"."
       },
+      "liens": [
+        "le second alinéa de l'article 43 de la Constitution"
+      ],
       "order": 23,
       "statut": "none",
       "titre": "17",
@@ -253,6 +316,9 @@
         "001": "Le premier alinéa de l'article 44 de la Constitution est complété par une phrase ainsi rédigée :",
         "002": "\"Ce droit s'exerce en séance ou en commission selon les conditions et limites fixées par les règlements des assemblées, dans le cadre déterminé par une loi organique.\""
       },
+      "liens": [
+        "Le premier alinéa de l'article 44 de la Constitution"
+      ],
       "order": 24,
       "statut": "none",
       "titre": "18",
@@ -267,6 +333,9 @@
         "005": "a) Après les mots : \"ou, si le Gouvernement a déclaré l'urgence\", sont insérés les mots : \"sans que les Conférences des Présidents des deux assemblées s'y soient conjointement opposées\" ;",
         "006": "b) Après le mot : \"ministre\", sont insérés les mots : \"ou, pour une proposition de loi, le Président de l'assemblée dont elle émane,\"."
       },
+      "liens": [
+        "article 45 de la Constitution"
+      ],
       "order": 25,
       "statut": "none",
       "titre": "19",
@@ -277,6 +346,9 @@
         "001": "Le deuxième alinéa de l'article 46 de la Constitution est ainsi rédigé :",
         "002": "\"Le projet ou la proposition ne peut, en première lecture, être soumis à la délibération et au vote des assemblées qu'à l'expiration des délais fixés au troisième alinéa de l'article 42. Toutefois, si la procédure accélérée a été déclarée dans les conditions prévues à l'article 45, le projet ou la proposition peut être soumis à la délibération de la première assemblée saisie à l'expiration d'un délai de quinze jours après son dépôt.\""
       },
+      "liens": [
+        "Le deuxième alinéa de l'article 46 de la Constitution"
+      ],
       "order": 26,
       "statut": "none",
       "titre": "20",
@@ -288,6 +360,10 @@
         "002": "II. - Après l'article 47-1 de la Constitution, il est inséré un article 47-2 ainsi rédigé :",
         "003": "\"Art. 47-2. - La Cour des comptes assiste le Parlement dans le contrôle de l'action du Gouvernement. Elle assiste le Parlement et le Gouvernement dans le contrôle de l'exécution des lois de finances et de l'application des lois de financement de la sécurité sociale ainsi que dans l'évaluation des politiques publiques. Par ses rapports publics, elle contribue à l'information des citoyens.\""
       },
+      "liens": [
+        "articles 47 et 47-1 de la Constitution",
+        "article 47-1 de la Constitution"
+      ],
       "order": 27,
       "statut": "none",
       "titre": "21",
@@ -303,6 +379,9 @@
         "006": "\"Un jour de séance par mois est réservé à un ordre du jour arrêté par la Conférence des Présidents à l'initiative des groupes parlementaires qui ne disposent pas de la majorité au sein de cette dernière.",
         "007": "\"Une séance par semaine au moins, y compris pendant les sessions extraordinaires prévues à l'article 29, est réservée par priorité aux questions des membres du Parlement et aux réponses du Gouvernement.\""
       },
+      "liens": [
+        "article 48 de la Constitution"
+      ],
       "order": 28,
       "statut": "none",
       "titre": "22",
@@ -316,6 +395,9 @@
         "004": "2° Il est ajouté une phrase ainsi rédigée :",
         "005": "\"Le Premier ministre peut, en outre, recourir à cette procédure pour un autre projet ou une proposition de loi par session.\""
       },
+      "liens": [
+        "Le troisième alinéa de l'article 49 de la Constitution"
+      ],
       "order": 29,
       "statut": "none",
       "titre": "23",
@@ -326,6 +408,9 @@
         "001": "Après l'article 50 de la Constitution, il est inséré un article 50-1 ainsi rédigé :",
         "002": "\"Art. 50-1. - Devant l'une ou l'autre des assemblées, le Gouvernement peut, de sa propre initiative ou à la demande d'un groupe parlementaire au sens de l'article 51-1, faire une déclaration à caractère thématique qui donne lieu à débat et peut faire l'objet d'un vote sans engager sa responsabilité.\""
       },
+      "liens": [
+        "article 50 de la Constitution"
+      ],
       "order": 30,
       "statut": "nouveau",
       "titre": "23 bis",
@@ -336,6 +421,9 @@
         "001": "Après l'article 51 de la Constitution, il est inséré un article 51-1 ainsi rédigé :",
         "002": "\"Art. 51-1. - Le règlement de chaque assemblée détermine les droits des groupes parlementaires constitués en son sein. Il reconnaît à ceux d'entre eux qui n'ont pas déclaré participer de la majorité de l'assemblée concernée, des droits spécifiques.\""
       },
+      "liens": [
+        "article 51 de la Constitution"
+      ],
       "order": 31,
       "statut": "none",
       "titre": "24",
@@ -346,6 +434,9 @@
         "001": "Le premier alinéa de l'article 56 de la Constitution est complété par deux phrases ainsi rédigées :",
         "002": "\"La procédure prévue au dernier alinéa de l'article 13 est applicable à ces nominations. Les nominations effectuées par le président de chaque assemblée sont soumises au seul avis de la commission permanente compétente de l'assemblée concernée.\""
       },
+      "liens": [
+        "Le premier alinéa de l'article 56 de la Constitution"
+      ],
       "order": 32,
       "statut": "none",
       "titre": "25",
@@ -357,6 +448,9 @@
         "002": "\"Art. 61-1. - Lorsque, à l'occasion d'une instance en cours devant une juridiction, il est soutenu qu'une disposition législative porte atteinte aux droits et libertés que la Constitution garantit, le Conseil constitutionnel peut être saisi de cette question sur renvoi du Conseil d'État ou de la Cour de cassation qui se prononce dans un délai déterminé.",
         "003": "\"Une loi organique détermine les conditions et réserves d'application du présent article.\""
       },
+      "liens": [
+        "article 61 de la Constitution"
+      ],
       "order": 33,
       "statut": "none",
       "titre": "26",
@@ -368,6 +462,9 @@
         "002": "\"Une disposition déclarée inconstitutionnelle sur le fondement de l'article 61 ne peut être promulguée ni mise en application.",
         "003": "\"Une disposition déclarée inconstitutionnelle sur le fondement de l'article 61-1 est abrogée à compter de la publication de la décision du Conseil constitutionnel ou d'une date ultérieure fixée par cette décision. Le Conseil constitutionnel détermine les conditions et limites dans lesquelles les effets que la disposition a produits sont susceptibles d'être remis en cause.\""
       },
+      "liens": [
+        "Le premier alinéa de l'article 62 de la Constitution"
+      ],
       "order": 34,
       "statut": "none",
       "titre": "27",
@@ -385,6 +482,9 @@
         "008": "\"Sauf en matière disciplinaire, le ministre de la justice peut assister aux séances des formations du Conseil supérieur de la magistrature.",
         "009": "\"Une loi organique détermine les conditions d'application du présent article. Elle définit également les conditions dans lesquelles le Conseil supérieur de la magistrature peut être saisi par un justiciable.\""
       },
+      "liens": [
+        "article 65 de la Constitution"
+      ],
       "order": 35,
       "statut": "none",
       "titre": "28",
@@ -394,6 +494,9 @@
       "alineas": {
         "001": "L'intitulé du titre XI de la Constitution est ainsi rédigé : \"Le Conseil économique, social et environnemental\"."
       },
+      "liens": [
+        "titre XI de la Constitution"
+      ],
       "order": 36,
       "statut": "nouveau",
       "titre": "28 bis",
@@ -406,6 +509,9 @@
         "003": "2° Il est ajouté un alinéa ainsi rédigé :",
         "004": "\"Le Conseil économique, social et environnemental peut être saisi par voie de pétition dans les conditions fixées par une loi organique. Après examen de la pétition, il fait connaître au Gouvernement et au Parlement les suites qu'il propose d'y donner.\""
       },
+      "liens": [
+        "article 69 de la Constitution"
+      ],
       "order": 37,
       "statut": "none",
       "titre": "29",
@@ -416,6 +522,9 @@
         "001": "L'article 70 de la Constitution est ainsi rédigé :",
         "002": "\"Art. 70. - Le Conseil économique, social et environnemental peut être consulté par le Gouvernement sur tout problème de caractère économique ou social ou relatif à l'environnement. Tout plan ou tout projet de loi de programmation à caractère économique ou social lui est soumis pour avis.\""
       },
+      "liens": [
+        "article 70 de la Constitution"
+      ],
       "order": 38,
       "statut": "none",
       "titre": "30",
@@ -425,6 +534,9 @@
       "alineas": {
         "001": "Dans l'article 71 de la Constitution, les mots : \"Conseil économique et social\" sont remplacés par les mots : \"Conseil économique, social et environnemental\"."
       },
+      "liens": [
+        "article 71 de la Constitution"
+      ],
       "order": 39,
       "statut": "nouveau",
       "titre": "30 bis",
@@ -434,6 +546,9 @@
       "alineas": {
         "001": "Dans l'article 71 de la Constitution, après le mot : \"social\", sont insérés les mots : \", dont le nombre de membres ne peut excéder deux cent trente-trois,\"."
       },
+      "liens": [
+        "article 71 de la Constitution"
+      ],
       "order": 40,
       "statut": "nouveau",
       "titre": "30 ter",
@@ -443,6 +558,9 @@
       "alineas": {
         "001": "Dans le deuxième alinéa de l'article 72-3 de la Constitution, après le mot : \"Mayotte,\", sont insérés les mots : \"Saint-Barthélemy, Saint-Martin,\"."
       },
+      "liens": [
+        "le deuxième alinéa de l'article 72-3 de la Constitution"
+      ],
       "order": 41,
       "statut": "nouveau",
       "titre": "30 quater",
@@ -457,6 +575,9 @@
         "005": "\"Une loi organique définit les modalités d'intervention du Défenseur des droits des citoyens, ainsi que les autres attributions dont il est investi. Elle détermine les conditions dans lesquelles il peut être assisté pour l'exercice de certaines de ses attributions.",
         "006": "\"Le Défenseur des droits des citoyens est nommé par le Président de la République pour un mandat de six ans non renouvelable après application de la procédure prévue au dernier alinéa de l'article 13. Ses fonctions sont incompatibles avec celles de membre du Gouvernement et de membre du Parlement. Les autres incompatibilités sont fixées par la loi organique.\""
       },
+      "liens": [
+        "titre XI de la Constitution"
+      ],
       "order": 42,
       "statut": "none",
       "titre": "31",
@@ -469,6 +590,9 @@
         "003": "\"Selon des modalités fixées par le règlement de chaque assemblée, des résolutions peuvent être adoptées, le cas échéant en dehors des sessions, sur les projets ou propositions mentionnés à l'alinéa précédent, ainsi que sur tout document émanant d'une institution de l'Union européenne.",
         "004": "\"Au sein de chaque assemblée parlementaire est instituée une commission chargée des affaires européennes.\""
       },
+      "liens": [
+        "article 88-4 de la Constitution"
+      ],
       "order": 43,
       "statut": "none",
       "titre": "32",
@@ -478,6 +602,9 @@
       "alineas": {
         "001": "Dans l'article 88-5 de la Constitution, après les mots : \"Communautés européennes\", sont insérés les mots : \", lorsque la population de cet État représente plus de cinq pour cent de la population de l'Union,\"."
       },
+      "liens": [
+        "article 88-5 de la Constitution"
+      ],
       "order": 44,
       "statut": "none",
       "titre": "33",
@@ -491,6 +618,13 @@
         "004": "III. - Les dispositions de l'article 24 de la Constitution relatives à l'élection des sénateurs, dans leur rédaction résultant de la présente loi constitutionnelle, s'appliquent à compter du deuxième renouvellement partiel du Sénat suivant sa publication.",
         "005": "IV. - Les dispositions de l'article 25 de la Constitution relatives au caractère temporaire du remplacement des députés et sénateurs acceptant des fonctions gouvernementales, dans leur rédaction résultant de la présente loi constitutionnelle, s'appliquent aux députés et sénateurs ayant accepté de telles fonctions antérieurement à la date d'entrée en vigueur de la loi organique prévue à cet article si, à cette même date, ils exercent encore ces fonctions et que le mandat parlementaire pour lequel ils avaient été élus n'est pas encore expiré."
       },
+      "liens": [
+        "articles 39, 44, 56, 61-1, 65, 69 et 71-1 de la Constitution",
+        "articles 41, 42, 43, 45, 46, 48, 49 et 50-1 de la Constitution",
+        "articles 42, 45 et 46 de la Constitution",
+        "article 24 de la Constitution",
+        "article 25 de la Constitution"
+      ],
       "order": 45,
       "statut": "none",
       "titre": "34",
@@ -507,6 +641,13 @@
         "007": "II. - Sont abrogés l'article 4 de la loi constitutionnelle n° 2005-204 du 1er mars 2005 modifiant le titre XV de la Constitution ainsi que les 3° et 4° de l'article 2 de la loi constitutionnelle n° 2008-103 du 4 février 2008 modifiant le titre XV de la Constitution.",
         "008": "III. - Supprimé"
       },
+      "liens": [
+        "titre XV de la Constitution",
+        "article 4 de la loi constitutionnelle n° 2005-204 du 1er mars 2005",
+        "titre XV de la Constitution",
+        "les 3° et 4° de l'article 2 de la loi constitutionnelle n° 2008-103 du 4 février 2008",
+        "titre XV de la Constitution"
+      ],
       "order": 46,
       "statut": "none",
       "titre": "35",

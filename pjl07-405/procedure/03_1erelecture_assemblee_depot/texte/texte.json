@@ -48,6 +48,7 @@
         "044": "- l'article L. 331-22 devient l'article L. 331-11.",
         "045": "M. - Supprimé"
       },
+      "liens": [],
       "order": 1,
       "section": "C1",
       "statut": "none",
@@ -58,6 +59,9 @@
       "alineas": {
         "001": "L'intitulé du titre III du livre III du code de la propriété intellectuelle est ainsi rédigé : \"Prévention, procédures et sanctions\"."
       },
+      "liens": [
+        "titre III du livre III du code de la propriété intellectuelle"
+      ],
       "order": 2,
       "section": "C1",
       "statut": "nouveau",
@@ -188,6 +192,18 @@
         "120": "\"Dans des conditions fixées par décret en Conseil d'État, la Haute Autorité attribue aux offres commerciales proposées par des personnes dont l'activité est d'offrir un service de communication au public en ligne un label permettant aux usagers de ce service d'identifier clairement le caractère légal de ces offres.",
         "121": "\"Elle évalue, en outre, les expérimentations conduites par les professionnels concernés dans le domaine des technologies de reconnaissance des contenus et de filtrage et rend compte des principales évolutions constatées dans ce domaine, dans le cadre du rapport prévu à l'article L. 331-13-1.\""
       },
+      "liens": [
+        "article 432-13 du code pénal",
+        "article L. 233-16 du code de commerce",
+        "article L. 34-1 du code des postes et des communications électroniques",
+        "du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004",
+        "article 413-10 du code pénal",
+        "article 226-13 du même code",
+        "article 17-1 de la loi n° 95-73 du 21 janvier 1995",
+        "article L. 331-20 du présent code",
+        "article L. 121-84 du code de la consommation",
+        "la loi n° 78-17 du 6 janvier 1978"
+      ],
       "order": 3,
       "section": "C1",
       "statut": "none",
@@ -198,6 +214,7 @@
       "alineas": {
         "001": "La section 3 du chapitre Ier du titre III du livre III de la première partie du code de la propriété intellectuelle, dans sa rédaction résultant de l'article 2, est complétée par une sous-section 4 intitulée : \"Mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des oeuvres et des objets protégés\" qui comprend les articles L. 331-37 à L. 331-43."
       },
+      "liens": [],
       "order": 4,
       "section": "C1",
       "statut": "none",
@@ -208,6 +225,9 @@
       "alineas": {
         "001": "Le 4° de l'article L. 332-1 et l'article L. 335-12 du code de la propriété intellectuelle sont abrogés."
       },
+      "liens": [
+        "article L. 335-12 du code de la propriété intellectuelle"
+      ],
       "order": 5,
       "section": "C1",
       "statut": "none",
@@ -218,6 +238,7 @@
       "alineas": {
         "001": "L'intitulé du chapitre VI du titre III du livre III de la première partie du code de la propriété intellectuelle est ainsi rédigé : \"Prévention du téléchargement et de la mise à disposition illicites d'oeuvres et d'objets protégés\"."
       },
+      "liens": [],
       "order": 6,
       "section": "C1",
       "statut": "nouveau",
@@ -229,6 +250,9 @@
         "001": "L'article L. 336-2 du code de la propriété intellectuelle est ainsi rédigé :",
         "002": "\"Art. L. 336-2. - En présence d'une atteinte à un droit d'auteur ou à un droit voisin occasionnée par le contenu d'un service de communication au public en ligne, le tribunal de grande instance, statuant le cas échéant en la forme des référés, peut ordonner à la demande des titulaires de droits sur les oeuvres et objets protégés, de leurs ayants droit, des sociétés de perception et de répartition des droits visées à l'article L. 321-1 ou des organismes de défense professionnelle visés à l'article L. 331-1, toutes mesures propres à prévenir ou à faire cesser une telle atteinte à un droit d'auteur ou un droit voisin, à l'encontre de toute personne susceptible de contribuer à y remédier.\""
       },
+      "liens": [
+        "article L. 336-2 du code de la propriété intellectuelle"
+      ],
       "order": 7,
       "section": "C1",
       "statut": "none",
@@ -247,6 +271,10 @@
         "008": "\"Art. L. 336-4. - Le titulaire de droits visés aux livres Ier et II du présent code met à la disposition des consommateurs souhaitant accéder à une oeuvre protégée dont il autorise l'utilisation sur les réseaux de communications électroniques les caractéristiques essentielles de l'utilisation de cette oeuvre conformément aux articles L. 111-1 et L. 121-1 du code de la consommation, par un moyen immédiatement accessible et associé à cette oeuvre.",
         "009": "\"Un décret détermine lesdites caractéristiques essentielles de l'utilisation de l'oeuvre.\""
       },
+      "liens": [
+        "livres Ier et II du présent code",
+        "articles L. 111-1 et L. 121-1 du code de la consommation"
+      ],
       "order": 8,
       "section": "C1",
       "statut": "none",
@@ -259,6 +287,9 @@
         "002": "1° À la fin du second alinéa, les mots : \"aux articles L. 331-8 et suivants\" sont remplacés par les mots : \"au 2° de l'article L. 331-37 et aux articles L. 331-7 à L. 331-10 et L. 331-39 à L. 331-41\" ;",
         "003": "2° Au dernier alinéa, les mots : \"l'Autorité de régulation des mesures techniques prévue à l'article L. 331-17\" sont remplacés par les mots : \"la Haute Autorité pour la diffusion des oeuvres et la protection des droits sur internet prévue à l'article L. 331-12\"."
       },
+      "liens": [
+        "article L. 342-3-1 du code de la propriété intellectuelle"
+      ],
       "order": 9,
       "section": "C1",
       "statut": "none",
@@ -269,6 +300,7 @@
       "alineas": {
         "001": "Le Centre national de la cinématographie est chargé d'élaborer, avant le 30 juin 2009, un système de référencement, par les logiciels permettant de trouver des ressources sur les réseaux de communication électronique, favorable au développement des offres légales d'oeuvres et d'objets protégés par un droit d'auteur ou des droits voisins."
       },
+      "liens": [],
       "order": 10,
       "section": "C1",
       "statut": "nouveau",
@@ -280,6 +312,11 @@
         "001": "Le 1 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique est complété par un alinéa ainsi rédigé :",
         "002": "\"Les personnes visées à l'alinéa précédent les informent également de l'existence de moyens de sécurisation permettant de prévenir les manquements à l'obligation définie à l'article L. 336-3 du code de la propriété intellectuelle et leur proposent au moins un de ces moyens figurant sur la liste mentionnée à l'article L. 331-30 du même code.\""
       },
+      "liens": [
+        "du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004",
+        "article L. 336-3 du code de la propriété intellectuelle",
+        "article L. 331-30 du même code"
+      ],
       "order": 11,
       "section": "C2",
       "statut": "none",
@@ -290,6 +327,11 @@
       "alineas": {
         "001": "À la première phrase du II de l'article L. 34-1 du code des postes et des communications électroniques, après les mots : \"infractions pénales\", sont insérés les mots : \"ou d'un manquement à l'obligation définie à l'article L. 336-3 du code de la propriété intellectuelle\" et après les mots : \"l'autorité judiciaire\", sont insérés les mots : \"ou de la Haute Autorité mentionnée à l'article L. 331-12 du code de la propriété intellectuelle\"."
       },
+      "liens": [
+        "du II de l'article L. 34-1 du code des postes et des communications électroniques",
+        "article L. 336-3 du code de la propriété intellectuelle",
+        "article L. 331-12 du code de la propriété intellectuelle"
+      ],
       "order": 12,
       "section": "C3",
       "statut": "none",
@@ -301,6 +343,10 @@
         "001": "L'article L. 312-9 du code de l'éducation est complété par un alinéa ainsi rédigé :",
         "002": "\"Dans ce cadre, ils reçoivent une information, notamment dans le cadre du brevet informatique et internet des collégiens, sur les risques liés aux usages des services de communication au public en ligne, sur les dangers du téléchargement et de la mise à disposition illicites d'oeuvres culturelles pour la création artistique, ainsi que sur les sanctions encourues en cas de manquement à l'obligation définie à l'article L. 336-3 du code de la propriété intellectuelle et de délit de contrefaçon. Les enseignants sont également sensibilisés.\""
       },
+      "liens": [
+        "article L. 312-9 du code de l'éducation",
+        "article L. 336-3 du code de la propriété intellectuelle"
+      ],
       "order": 13,
       "section": "C3 bis",
       "statut": "nouveau",
@@ -328,6 +374,9 @@
         "017": "\"1° Le non-respect, lorsqu'il est applicable de plein droit, du délai prévu par le décret mentionné au second alinéa de l'article 30-4 et au troisième alinéa de l'article 30-5 ;",
         "018": "\"2° Le non-respect du délai prévu par un accord professionnel rendu obligatoire dans les conditions prévues à l'article 30-7.\""
       },
+      "liens": [
+        "titre II du code de l'industrie cinématographique"
+      ],
       "order": 14,
       "section": "C3 ter",
       "statut": "nouveau",
@@ -338,6 +387,7 @@
       "alineas": {
         "001": "Dans un délai de six mois à compter de l'entrée en vigueur de la présente loi, les organisations professionnelles du secteur du phonogramme s'accordent par voie d'accord professionnel sur la mise en place d'un standard de mesures techniques assurant l'interopérabilité des fichiers musicaux et sur la mise à disposition de catalogues d'oeuvres musicales en ligne sans mesures techniques de protection."
       },
+      "liens": [],
       "order": 15,
       "section": "C3 ter",
       "statut": "nouveau",
@@ -350,6 +400,9 @@
         "002": "II. - L'Autorité de régulation des mesures techniques exerce les attributions qui lui sont confiées par le code de la propriété intellectuelle dans sa rédaction antérieure à la publication de la présente loi jusqu'à la première réunion de la Haute Autorité pour la diffusion des oeuvres et la protection des droits sur internet.",
         "003": "III. - Les procédures en cours devant l'Autorité de régulation des mesures techniques à la date de la première réunion de la Haute Autorité pour la diffusion des oeuvres et la protection des droits sur internet sont poursuivies de plein droit devant le collège de la Haute Autorité."
       },
+      "liens": [
+        "articles L. 331-29, L. 331-31 et L. 331-32 du code de la propriété intellectuelle"
+      ],
       "order": 16,
       "section": "C4",
       "statut": "none",
@@ -363,6 +416,14 @@
         "003": "2° L'article 70-1 ainsi que les troisième et quatrième alinéas de l'article 79 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.",
         "004": "II. - Par dérogation au 1° du I et jusqu'à la date d'entrée en vigueur du décret mentionné au second alinéa de l'article 30-4 du code de l'industrie cinématographique dans sa rédaction issue de la présente loi ou la date d'entrée en vigueur d'un arrêté du ministre chargé de la culture pris en application du premier alinéa de l'article 30-7 du même code dans sa rédaction issue de la présente loi, les dispositions de l'article 89 de la loi n° 82-652 du 29 juillet 1982 précitée reste applicable. Le non-respect de ces dispositions est passible de la sanction prévue à l'article 30-8 du même code dans sa rédaction issue de la présente loi."
       },
+      "liens": [
+        "article 89 de la loi n° 82-652 du 29 juillet 1982",
+        "article 79 de la loi n° 86-1067 du 30 septembre 1986",
+        "au second alinéa de l'article 30-4 du code de l'industrie cinématographique",
+        "du premier alinéa de l'article 30-7 du même code",
+        "article 89 de la loi n° 82-652 du 29 juillet 1982",
+        "article 30-8 du même code"
+      ],
       "order": 17,
       "section": "C4",
       "statut": "nouveau",
@@ -378,6 +439,9 @@
         "005": "\"Ne sont pas applicables à Mayotte les articles L. 133-1 à L. 133-4, ainsi que le quatrième alinéa de l'article L. 335-4.",
         "006": "\"Ne sont pas applicables dans les Terres australes et antarctiques françaises les articles L. 133-1 à L. 133-4, L. 421-1 à L. 422-13 et L. 423-2, ainsi que le quatrième alinéa de l'article L. 335-4.\""
       },
+      "liens": [
+        "article L. 811-1 du code de la propriété intellectuelle"
+      ],
       "order": 18,
       "section": "C4",
       "statut": "none",
