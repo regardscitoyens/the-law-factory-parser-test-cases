@@ -16,7 +16,7 @@
     "echecs_procedure": 0,
     "input_text_length": 188383,
     "output_text_length": 417803,
-    "ratio_article_modif": 0.23958333333333334,
+    "ratio_articles_growth": 4.0,
     "ratio_texte_modif": 0.6282262395901577,
     "total_amendements": 1926,
     "total_amendements_adoptes": 312,
@@ -24,11 +24,12 @@
     "total_amendements_gouvernement_adoptes": 49,
     "total_amendements_parlementaire": 1868,
     "total_amendements_parlementaire_adoptes": 263,
-    "total_articles": 96,
-    "total_articles_modified": 23,
     "total_days": 197,
-    "total_intervenants": 263,
-    "total_mots": 809885
+    "total_input_articles": 24,
+    "total_intervenants": 275,
+    "total_interventions": 8811,
+    "total_mots": 809885,
+    "total_output_articles": 96
   },
   "steps": [
     {
