@@ -170,7 +170,10 @@
     "8": "10",
     "9": "11"
   },
-  "themes": [],
+  "themes": [
+    "Société",
+    "Pouvoirs publics et Constitution"
+  ],
   "urgence": true,
   "url_dossier_assemblee": "http://www.assemblee-nationale.fr/14/dossiers/reutilisation_informations_secteur_public.asp",
   "url_dossier_senat": "https://www.senat.fr/dossier-legislatif/pjl15-034.html",
