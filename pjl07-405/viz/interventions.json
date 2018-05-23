@@ -11315,9 +11315,14 @@
             }
           },
           "RDSE": {
-            "nb_intervs": 4,
-            "nb_mots": 734,
+            "nb_intervs": 6,
+            "nb_mots": 747,
             "orateurs": {
+              "didier guillaume": {
+                "link": "http://www.nossenateurs.fr/seance/1317#inter_32e59a900a15cdfa26b7fa0cbfbbdfcf",
+                "nb_intervs": 2,
+                "nb_mots": 13
+              },
               "françoise laborde": {
                 "link": "http://www.nossenateurs.fr/seance/1317#inter_377fb89bb1c92a160bab4cf3127d53ea",
                 "nb_intervs": 1,
@@ -11342,18 +11347,13 @@
             }
           },
           "SOC": {
-            "nb_intervs": 6,
-            "nb_mots": 1724,
+            "nb_intervs": 4,
+            "nb_mots": 1711,
             "orateurs": {
               "daniel raoul": {
                 "link": "http://www.nossenateurs.fr/seance/1317#inter_8b6c8d66b1f38bf2787a76ebfaf4c608",
                 "nb_intervs": 1,
                 "nb_mots": 12
-              },
-              "didier guillaume": {
-                "link": "http://www.nossenateurs.fr/seance/1317#inter_32e59a900a15cdfa26b7fa0cbfbbdfcf",
-                "nb_intervs": 2,
-                "nb_mots": 13
               },
               "serge lagauche": {
                 "link": "http://www.nossenateurs.fr/seance/1317#inter_251aa04f04c889410fa7dbd067bd8dcc",
@@ -11893,9 +11893,9 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/daniel-raoul"
       },
       "didier guillaume": {
-        "color": "rgb(255,50,190)",
+        "color": "rgb(250,195,132)",
         "fonction": "",
-        "groupe": "SOC",
+        "groupe": "RDSE",
         "link": "https://www.nossenateurs.fr/didier-guillaume",
         "nom": "Didier Guillaume",
         "photo": "https://www.nossenateurs.fr/senateur/photo/didier-guillaume"
