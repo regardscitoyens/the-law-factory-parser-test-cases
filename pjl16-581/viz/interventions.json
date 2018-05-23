@@ -2465,6 +2465,17 @@
               }
             }
           },
+          "RDSE": {
+            "nb_intervs": 3,
+            "nb_mots": 657,
+            "orateurs": {
+              "didier guillaume": {
+                "link": "http://www.nossenateurs.fr/seance/16433#inter_4afeacfd341ccc03d1508e99e151daa2",
+                "nb_intervs": 3,
+                "nb_mots": 657
+              }
+            }
+          },
           "Rapporteurs": {
             "nb_intervs": 6,
             "nb_mots": 1923,
@@ -2477,14 +2488,9 @@
             }
           },
           "SOC": {
-            "nb_intervs": 4,
-            "nb_mots": 884,
+            "nb_intervs": 1,
+            "nb_mots": 227,
             "orateurs": {
-              "didier guillaume": {
-                "link": "http://www.nossenateurs.fr/seance/16433#inter_4afeacfd341ccc03d1508e99e151daa2",
-                "nb_intervs": 3,
-                "nb_mots": 657
-              },
               "henri cabanel": {
                 "link": "http://www.nossenateurs.fr/seance/16433#inter_27547d2bb753c7265b61b54cbf41936b",
                 "nb_intervs": 1,
@@ -2699,6 +2705,17 @@
               }
             }
           },
+          "RDSE": {
+            "nb_intervs": 1,
+            "nb_mots": 5,
+            "orateurs": {
+              "didier guillaume": {
+                "link": "http://www.nossenateurs.fr/seance/16415#inter_037f7bcbaf83628c4fa5af317ca1f2f0",
+                "nb_intervs": 1,
+                "nb_mots": 5
+              }
+            }
+          },
           "RTLI": {
             "nb_intervs": 9,
             "nb_mots": 1046,
@@ -2722,14 +2739,9 @@
             }
           },
           "SOC": {
-            "nb_intervs": 10,
-            "nb_mots": 3043,
+            "nb_intervs": 9,
+            "nb_mots": 3038,
             "orateurs": {
-              "didier guillaume": {
-                "link": "http://www.nossenateurs.fr/seance/16415#inter_037f7bcbaf83628c4fa5af317ca1f2f0",
-                "nb_intervs": 1,
-                "nb_mots": 5
-              },
               "jean-pierre sueur": {
                 "link": "http://www.nossenateurs.fr/seance/16415#inter_59845d44554cf24b1fa11aa54d1478ad",
                 "nb_intervs": 8,
@@ -3093,9 +3105,9 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/delphine-bataille"
       },
       "didier guillaume": {
-        "color": "rgb(255,50,190)",
+        "color": "rgb(250,195,132)",
         "fonction": "",
-        "groupe": "SOC",
+        "groupe": "RDSE",
         "link": "https://www.nossenateurs.fr/didier-guillaume",
         "nom": "Didier Guillaume",
         "photo": "https://www.nossenateurs.fr/senateur/photo/didier-guillaume"
@@ -3666,9 +3678,14 @@
             }
           },
           "RDSE": {
-            "nb_intervs": 2,
-            "nb_mots": 2039,
+            "nb_intervs": 3,
+            "nb_mots": 2042,
             "orateurs": {
+              "didier guillaume": {
+                "link": "http://www.nossenateurs.fr/seance/16546#inter_eb29e60c94f29bfb03c37f2a7f0c9dbc",
+                "nb_intervs": 1,
+                "nb_mots": 3
+              },
               "françoise laborde": {
                 "link": "http://www.nossenateurs.fr/seance/16546#inter_fc746586f760b77b90625fda49b70c55",
                 "nb_intervs": 1,
@@ -3693,14 +3710,9 @@
             }
           },
           "SOC": {
-            "nb_intervs": 5,
-            "nb_mots": 2206,
+            "nb_intervs": 4,
+            "nb_mots": 2203,
             "orateurs": {
-              "didier guillaume": {
-                "link": "http://www.nossenateurs.fr/seance/16546#inter_eb29e60c94f29bfb03c37f2a7f0c9dbc",
-                "nb_intervs": 1,
-                "nb_mots": 3
-              },
               "jean-louis tourenne": {
                 "link": "http://www.nossenateurs.fr/seance/16546#inter_cc60435ab154e06797a493c7d7e0a909",
                 "nb_intervs": 1,
@@ -3796,9 +3808,9 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/bruno-retailleau"
       },
       "didier guillaume": {
-        "color": "rgb(255,50,190)",
+        "color": "rgb(250,195,132)",
         "fonction": "",
-        "groupe": "SOC",
+        "groupe": "RDSE",
         "link": "https://www.nossenateurs.fr/didier-guillaume",
         "nom": "Didier Guillaume",
         "photo": "https://www.nossenateurs.fr/senateur/photo/didier-guillaume"

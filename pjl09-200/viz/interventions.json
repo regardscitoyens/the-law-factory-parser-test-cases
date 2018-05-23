@@ -436,6 +436,17 @@
               }
             }
           },
+          "RDSE": {
+            "nb_intervs": 1,
+            "nb_mots": 8,
+            "orateurs": {
+              "didier guillaume": {
+                "link": "http://www.nossenateurs.fr/seance/417#inter_6ee5e74eae4c156408ee2c31f7aa10cc",
+                "nb_intervs": 1,
+                "nb_mots": 8
+              }
+            }
+          },
           "Rapporteurs": {
             "nb_intervs": 24,
             "nb_mots": 1868,
@@ -453,14 +464,9 @@
             }
           },
           "SOC": {
-            "nb_intervs": 11,
-            "nb_mots": 1659,
+            "nb_intervs": 10,
+            "nb_mots": 1651,
             "orateurs": {
-              "didier guillaume": {
-                "link": "http://www.nossenateurs.fr/seance/417#inter_6ee5e74eae4c156408ee2c31f7aa10cc",
-                "nb_intervs": 1,
-                "nb_mots": 8
-              },
               "jacques muller": {
                 "link": "http://www.nossenateurs.fr/seance/417#inter_9e068ac85c7764f3ddf8989841ac2376",
                 "nb_intervs": 8,
@@ -659,9 +665,14 @@
             }
           },
           "RDSE": {
-            "nb_intervs": 2,
-            "nb_mots": 8,
+            "nb_intervs": 3,
+            "nb_mots": 323,
             "orateurs": {
+              "didier guillaume": {
+                "link": "http://www.nossenateurs.fr/seance/417#inter_85bde848e7b18cd37c9694e569ead2fd",
+                "nb_intervs": 1,
+                "nb_mots": 315
+              },
               "jean-pierre plancade": {
                 "link": "http://www.nossenateurs.fr/seance/417#inter_e5e9495605e7114b93a706babe086361",
                 "nb_intervs": 1,
@@ -682,17 +693,6 @@
                 "link": "http://www.nossenateurs.fr/seance/417#inter_0786ac270514196c4334758fc9ef6637",
                 "nb_intervs": 10,
                 "nb_mots": 1267
-              }
-            }
-          },
-          "SOC": {
-            "nb_intervs": 1,
-            "nb_mots": 315,
-            "orateurs": {
-              "didier guillaume": {
-                "link": "http://www.nossenateurs.fr/seance/417#inter_85bde848e7b18cd37c9694e569ead2fd",
-                "nb_intervs": 1,
-                "nb_mots": 315
               }
             }
           },
@@ -1039,13 +1039,18 @@
             }
           },
           "RDSE": {
-            "nb_intervs": 12,
-            "nb_mots": 1095,
+            "nb_intervs": 18,
+            "nb_mots": 2575,
             "orateurs": {
               "anne-marie escoffier": {
                 "link": "http://www.nossenateurs.fr/seance/1772#inter_94a6eee66c805e22d06036e67927b031",
                 "nb_intervs": 1,
                 "nb_mots": 5
+              },
+              "didier guillaume": {
+                "link": "http://www.nossenateurs.fr/seance/1772#inter_99b3bc31ec480c99f6793577619533ba",
+                "nb_intervs": 6,
+                "nb_mots": 1480
               },
               "françois fortassin": {
                 "link": "http://www.nossenateurs.fr/seance/1772#inter_16ebf6bdc46feb3ec4439df2a27b262e",
@@ -1076,18 +1081,13 @@
             }
           },
           "SOC": {
-            "nb_intervs": 34,
-            "nb_mots": 7320,
+            "nb_intervs": 28,
+            "nb_mots": 5840,
             "orateurs": {
               "claude bérit-débat": {
                 "link": "http://www.nossenateurs.fr/seance/1772#inter_d05a70ea0a4721e4bd24b2b767fb45a3",
                 "nb_intervs": 5,
                 "nb_mots": 1388
-              },
-              "didier guillaume": {
-                "link": "http://www.nossenateurs.fr/seance/1772#inter_99b3bc31ec480c99f6793577619533ba",
-                "nb_intervs": 6,
-                "nb_mots": 1480
               },
               "jacques muller": {
                 "link": "http://www.nossenateurs.fr/seance/1772#inter_401bacf746bcf4e3d8de70e508c779ed",
@@ -1457,13 +1457,18 @@
             }
           },
           "RDSE": {
-            "nb_intervs": 4,
-            "nb_mots": 368,
+            "nb_intervs": 12,
+            "nb_mots": 2441,
             "orateurs": {
               "daniel marsin": {
                 "link": "http://www.nossenateurs.fr/seance/1453#inter_9ab6548f1e164ccbcabd116e50afc157",
                 "nb_intervs": 2,
                 "nb_mots": 148
+              },
+              "didier guillaume": {
+                "link": "http://www.nossenateurs.fr/seance/1453#inter_305bec63992e75fe5afd2b50b272fb40",
+                "nb_intervs": 8,
+                "nb_mots": 2073
               },
               "françoise laborde": {
                 "link": "http://www.nossenateurs.fr/seance/1453#inter_0d013d8892ede8cfc00152bc58555d08",
@@ -1489,18 +1494,13 @@
             }
           },
           "SOC": {
-            "nb_intervs": 44,
-            "nb_mots": 7268,
+            "nb_intervs": 36,
+            "nb_mots": 5195,
             "orateurs": {
               "claude bérit-débat": {
                 "link": "http://www.nossenateurs.fr/seance/1453#inter_91564c923683c0c76487ae13e4006b1a",
                 "nb_intervs": 3,
                 "nb_mots": 699
-              },
-              "didier guillaume": {
-                "link": "http://www.nossenateurs.fr/seance/1453#inter_305bec63992e75fe5afd2b50b272fb40",
-                "nb_intervs": 8,
-                "nb_mots": 2073
               },
               "jacques muller": {
                 "link": "http://www.nossenateurs.fr/seance/1453#inter_d8040efb8feae9619be77793f158bbd9",
@@ -1672,13 +1672,18 @@
             }
           },
           "RDSE": {
-            "nb_intervs": 2,
-            "nb_mots": 201,
+            "nb_intervs": 3,
+            "nb_mots": 213,
             "orateurs": {
               "daniel marsin": {
                 "link": "http://www.nossenateurs.fr/seance/1453#inter_d48e2094e8c93a0c694157f9430bfad1",
                 "nb_intervs": 2,
                 "nb_mots": 201
+              },
+              "didier guillaume": {
+                "link": "http://www.nossenateurs.fr/seance/1453#inter_93844cdb9ff058eb3e3ff3bacd7363c1",
+                "nb_intervs": 1,
+                "nb_mots": 12
               }
             }
           },
@@ -1694,14 +1699,9 @@
             }
           },
           "SOC": {
-            "nb_intervs": 6,
-            "nb_mots": 2076,
+            "nb_intervs": 5,
+            "nb_mots": 2064,
             "orateurs": {
-              "didier guillaume": {
-                "link": "http://www.nossenateurs.fr/seance/1453#inter_93844cdb9ff058eb3e3ff3bacd7363c1",
-                "nb_intervs": 1,
-                "nb_mots": 12
-              },
               "yannick botrel": {
                 "link": "http://www.nossenateurs.fr/seance/1453#inter_d71d8760225949edc5bbeef6909fd739",
                 "nb_intervs": 5,
@@ -2258,9 +2258,14 @@
             }
           },
           "RDSE": {
-            "nb_intervs": 3,
-            "nb_mots": 106,
+            "nb_intervs": 12,
+            "nb_mots": 1826,
             "orateurs": {
+              "didier guillaume": {
+                "link": "http://www.nossenateurs.fr/seance/1184#inter_7b3eed5e0d078b2c3fd2a5fb1ff8ab76",
+                "nb_intervs": 9,
+                "nb_mots": 1720
+              },
               "jean milhau": {
                 "link": "http://www.nossenateurs.fr/seance/1184#inter_fbb9b507750f92e16a5445a3d6047dbf",
                 "nb_intervs": 3,
@@ -2296,18 +2301,13 @@
             }
           },
           "SOC": {
-            "nb_intervs": 46,
-            "nb_mots": 10229,
+            "nb_intervs": 37,
+            "nb_mots": 8509,
             "orateurs": {
               "claude bérit-débat": {
                 "link": "http://www.nossenateurs.fr/seance/1184#inter_a9c4d53938dffed7e61045704f161f0e",
                 "nb_intervs": 12,
                 "nb_mots": 1944
-              },
-              "didier guillaume": {
-                "link": "http://www.nossenateurs.fr/seance/1184#inter_7b3eed5e0d078b2c3fd2a5fb1ff8ab76",
-                "nb_intervs": 9,
-                "nb_mots": 1720
               },
               "françois marc": {
                 "link": "http://www.nossenateurs.fr/seance/1184#inter_f5c0264b169041337eaeb5fe267e2ca5",
@@ -2469,6 +2469,17 @@
               }
             }
           },
+          "RDSE": {
+            "nb_intervs": 1,
+            "nb_mots": 349,
+            "orateurs": {
+              "didier guillaume": {
+                "link": "http://www.nossenateurs.fr/seance/645#inter_c2af23a431e8ba38b2a2d529dff03aa5",
+                "nb_intervs": 1,
+                "nb_mots": 349
+              }
+            }
+          },
           "Rapporteurs": {
             "nb_intervs": 2,
             "nb_mots": 375,
@@ -2481,14 +2492,9 @@
             }
           },
           "SOC": {
-            "nb_intervs": 3,
-            "nb_mots": 1050,
+            "nb_intervs": 2,
+            "nb_mots": 701,
             "orateurs": {
-              "didier guillaume": {
-                "link": "http://www.nossenateurs.fr/seance/645#inter_c2af23a431e8ba38b2a2d529dff03aa5",
-                "nb_intervs": 1,
-                "nb_mots": 349
-              },
               "odette herviaux": {
                 "link": "http://www.nossenateurs.fr/seance/645#inter_48c2ec6f3dbb1dd505c85f0b76ac5b98",
                 "nb_intervs": 2,
@@ -2657,9 +2663,14 @@
             }
           },
           "RDSE": {
-            "nb_intervs": 16,
-            "nb_mots": 954,
+            "nb_intervs": 17,
+            "nb_mots": 1287,
             "orateurs": {
+              "didier guillaume": {
+                "link": "http://www.nossenateurs.fr/seance/645#inter_15d717f250e45bbb32f1abc7d3647bc8",
+                "nb_intervs": 1,
+                "nb_mots": 333
+              },
               "françois fortassin": {
                 "link": "http://www.nossenateurs.fr/seance/645#inter_ed6ed76cd0d296aa05d6a76c4cca24d7",
                 "nb_intervs": 16,
@@ -2679,18 +2690,13 @@
             }
           },
           "SOC": {
-            "nb_intervs": 14,
-            "nb_mots": 2763,
+            "nb_intervs": 13,
+            "nb_mots": 2430,
             "orateurs": {
               "charles gautier": {
                 "link": "http://www.nossenateurs.fr/seance/645#inter_d23eae14b4eb4a928146720b5da82a72",
                 "nb_intervs": 1,
                 "nb_mots": 7
-              },
-              "didier guillaume": {
-                "link": "http://www.nossenateurs.fr/seance/645#inter_15d717f250e45bbb32f1abc7d3647bc8",
-                "nb_intervs": 1,
-                "nb_mots": 333
               },
               "martial bourquin": {
                 "link": "http://www.nossenateurs.fr/seance/645#inter_70d3a61f46d5ad34674d643bd8748396",
@@ -3040,6 +3046,17 @@
               }
             }
           },
+          "RDSE": {
+            "nb_intervs": 2,
+            "nb_mots": 195,
+            "orateurs": {
+              "didier guillaume": {
+                "link": "http://www.nossenateurs.fr/seance/417#inter_da7d6f4020143aac6380c355d3576d19",
+                "nb_intervs": 2,
+                "nb_mots": 195
+              }
+            }
+          },
           "Rapporteurs": {
             "nb_intervs": 1,
             "nb_mots": 39,
@@ -3052,14 +3069,9 @@
             }
           },
           "SOC": {
-            "nb_intervs": 3,
-            "nb_mots": 228,
+            "nb_intervs": 1,
+            "nb_mots": 33,
             "orateurs": {
-              "didier guillaume": {
-                "link": "http://www.nossenateurs.fr/seance/417#inter_da7d6f4020143aac6380c355d3576d19",
-                "nb_intervs": 2,
-                "nb_mots": 195
-              },
               "odette herviaux": {
                 "link": "http://www.nossenateurs.fr/seance/417#inter_a49e60b83d7df605a5edcc195c402d48",
                 "nb_intervs": 1,
@@ -4023,9 +4035,14 @@
             }
           },
           "RDSE": {
-            "nb_intervs": 3,
-            "nb_mots": 165,
+            "nb_intervs": 10,
+            "nb_mots": 1213,
             "orateurs": {
+              "didier guillaume": {
+                "link": "http://www.nossenateurs.fr/seance/1129#inter_b42ab7c8deea1061099836b3fe0de859",
+                "nb_intervs": 7,
+                "nb_mots": 1048
+              },
               "yvon collin": {
                 "link": "http://www.nossenateurs.fr/seance/1129#inter_ec988d668ba2351b665ea97daa0e0a18",
                 "nb_intervs": 3,
@@ -4050,14 +4067,9 @@
             }
           },
           "SOC": {
-            "nb_intervs": 11,
-            "nb_mots": 2920,
+            "nb_intervs": 4,
+            "nb_mots": 1872,
             "orateurs": {
-              "didier guillaume": {
-                "link": "http://www.nossenateurs.fr/seance/1129#inter_b42ab7c8deea1061099836b3fe0de859",
-                "nb_intervs": 7,
-                "nb_mots": 1048
-              },
               "jacques muller": {
                 "link": "http://www.nossenateurs.fr/seance/1129#inter_eef252f784a5734c8406f40ac681f2c8",
                 "nb_intervs": 3,
@@ -4141,6 +4153,17 @@
               }
             }
           },
+          "RDSE": {
+            "nb_intervs": 2,
+            "nb_mots": 655,
+            "orateurs": {
+              "didier guillaume": {
+                "link": "http://www.nossenateurs.fr/seance/1129#inter_a281a0feb77ae433eb2a091f0fd5b883",
+                "nb_intervs": 2,
+                "nb_mots": 655
+              }
+            }
+          },
           "Rapporteurs": {
             "nb_intervs": 3,
             "nb_mots": 237,
@@ -4153,14 +4176,9 @@
             }
           },
           "SOC": {
-            "nb_intervs": 4,
-            "nb_mots": 1503,
+            "nb_intervs": 2,
+            "nb_mots": 848,
             "orateurs": {
-              "didier guillaume": {
-                "link": "http://www.nossenateurs.fr/seance/1129#inter_a281a0feb77ae433eb2a091f0fd5b883",
-                "nb_intervs": 2,
-                "nb_mots": 655
-              },
               "jean-pierre sueur": {
                 "link": "http://www.nossenateurs.fr/seance/1129#inter_b99a7b408d92039c5932c61e1845d6d9",
                 "nb_intervs": 1,
@@ -4228,6 +4246,17 @@
               }
             }
           },
+          "RDSE": {
+            "nb_intervs": 1,
+            "nb_mots": 132,
+            "orateurs": {
+              "didier guillaume": {
+                "link": "http://www.nossenateurs.fr/seance/417#inter_a9818c6e35c11d5fc8fbf11285bfe18e",
+                "nb_intervs": 1,
+                "nb_mots": 132
+              }
+            }
+          },
           "Rapporteurs": {
             "nb_intervs": 5,
             "nb_mots": 221,
@@ -4245,14 +4274,9 @@
             }
           },
           "SOC": {
-            "nb_intervs": 2,
-            "nb_mots": 571,
+            "nb_intervs": 1,
+            "nb_mots": 439,
             "orateurs": {
-              "didier guillaume": {
-                "link": "http://www.nossenateurs.fr/seance/417#inter_a9818c6e35c11d5fc8fbf11285bfe18e",
-                "nb_intervs": 1,
-                "nb_mots": 132
-              },
               "odette herviaux": {
                 "link": "http://www.nossenateurs.fr/seance/417#inter_55d8bc4b187dee4bbabc6f6b2f122430",
                 "nb_intervs": 1,
@@ -4450,13 +4474,18 @@
             }
           },
           "RDSE": {
-            "nb_intervs": 4,
-            "nb_mots": 400,
+            "nb_intervs": 20,
+            "nb_mots": 2505,
             "orateurs": {
               "daniel marsin": {
                 "link": "http://www.nossenateurs.fr/seance/1453#inter_26834ace8cc6e1309aa8134da327a3c2",
                 "nb_intervs": 4,
                 "nb_mots": 400
+              },
+              "didier guillaume": {
+                "link": "http://www.nossenateurs.fr/seance/1453#inter_2c8a46f19b4e4077e4efc3ef2e35dee7",
+                "nb_intervs": 16,
+                "nb_mots": 2105
               }
             }
           },
@@ -4472,14 +4501,9 @@
             }
           },
           "SOC": {
-            "nb_intervs": 38,
-            "nb_mots": 4056,
+            "nb_intervs": 22,
+            "nb_mots": 1951,
             "orateurs": {
-              "didier guillaume": {
-                "link": "http://www.nossenateurs.fr/seance/1453#inter_2c8a46f19b4e4077e4efc3ef2e35dee7",
-                "nb_intervs": 16,
-                "nb_mots": 2105
-              },
               "jacques muller": {
                 "link": "http://www.nossenateurs.fr/seance/1453#inter_9a7b418d8512fe56679ae28308dacfef",
                 "nb_intervs": 3,
@@ -4780,6 +4804,17 @@
               }
             }
           },
+          "RDSE": {
+            "nb_intervs": 5,
+            "nb_mots": 605,
+            "orateurs": {
+              "didier guillaume": {
+                "link": "http://www.nossenateurs.fr/seance/645#inter_852b59d637914b1ec7a322faaa5aae3f",
+                "nb_intervs": 5,
+                "nb_mots": 605
+              }
+            }
+          },
           "Rapporteurs": {
             "nb_intervs": 7,
             "nb_mots": 935,
@@ -4792,14 +4827,9 @@
             }
           },
           "SOC": {
-            "nb_intervs": 6,
-            "nb_mots": 810,
+            "nb_intervs": 1,
+            "nb_mots": 205,
             "orateurs": {
-              "didier guillaume": {
-                "link": "http://www.nossenateurs.fr/seance/645#inter_852b59d637914b1ec7a322faaa5aae3f",
-                "nb_intervs": 5,
-                "nb_mots": 605
-              },
               "martial bourquin": {
                 "link": "http://www.nossenateurs.fr/seance/645#inter_da9bf620b48bc2d8835631d0a9ee1fdb",
                 "nb_intervs": 1,
@@ -5106,9 +5136,14 @@
             }
           },
           "RDSE": {
-            "nb_intervs": 6,
-            "nb_mots": 2106,
+            "nb_intervs": 18,
+            "nb_mots": 3999,
             "orateurs": {
+              "didier guillaume": {
+                "link": "http://www.nossenateurs.fr/seance/1771#inter_0cc255cd0550c1f44a909578523b3168",
+                "nb_intervs": 12,
+                "nb_mots": 1893
+              },
               "jean-michel baylet": {
                 "link": "http://www.nossenateurs.fr/seance/1771#inter_bdb800207281d59fbc133e6e421bd78d",
                 "nb_intervs": 1,
@@ -5143,14 +5178,9 @@
             }
           },
           "SOC": {
-            "nb_intervs": 29,
-            "nb_mots": 6352,
+            "nb_intervs": 17,
+            "nb_mots": 4459,
             "orateurs": {
-              "didier guillaume": {
-                "link": "http://www.nossenateurs.fr/seance/1771#inter_0cc255cd0550c1f44a909578523b3168",
-                "nb_intervs": 12,
-                "nb_mots": 1893
-              },
               "jacques muller": {
                 "link": "http://www.nossenateurs.fr/seance/1771#inter_06e294c7918783a9eb7336e3a4843c65",
                 "nb_intervs": 1,
@@ -5471,6 +5501,17 @@
               }
             }
           },
+          "RDSE": {
+            "nb_intervs": 3,
+            "nb_mots": 26,
+            "orateurs": {
+              "didier guillaume": {
+                "link": "http://www.nossenateurs.fr/seance/1772#inter_45f9d56e2044caf4be8b5d7a60cb4030",
+                "nb_intervs": 3,
+                "nb_mots": 26
+              }
+            }
+          },
           "Rapporteurs": {
             "nb_intervs": 1,
             "nb_mots": 149,
@@ -5483,14 +5524,9 @@
             }
           },
           "SOC": {
-            "nb_intervs": 6,
-            "nb_mots": 659,
+            "nb_intervs": 3,
+            "nb_mots": 633,
             "orateurs": {
-              "didier guillaume": {
-                "link": "http://www.nossenateurs.fr/seance/1772#inter_45f9d56e2044caf4be8b5d7a60cb4030",
-                "nb_intervs": 3,
-                "nb_mots": 26
-              },
               "martial bourquin": {
                 "link": "http://www.nossenateurs.fr/seance/1772#inter_e72b736c40af4f51aaaf6d898b470b4d",
                 "nb_intervs": 1,
@@ -5979,9 +6015,9 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/daniel-soulage"
       },
       "didier guillaume": {
-        "color": "rgb(255,50,190)",
+        "color": "rgb(250,195,132)",
         "fonction": "",
-        "groupe": "SOC",
+        "groupe": "RDSE",
         "link": "https://www.nossenateurs.fr/didier-guillaume",
         "nom": "Didier Guillaume",
         "photo": "https://www.nossenateurs.fr/senateur/photo/didier-guillaume"
