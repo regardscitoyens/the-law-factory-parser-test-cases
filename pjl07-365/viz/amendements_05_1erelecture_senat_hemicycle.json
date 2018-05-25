@@ -31,6 +31,12 @@
       "nom": "Les Républicains",
       "order": 24
     },
+    "LREM": {
+      "color": "rgb(232,197,5)",
+      "link": "https://www.nossenateurs.fr/groupe/LREM",
+      "nom": "La République en Marche",
+      "order": 18
+    },
     "RDSE": {
       "color": "rgb(250,195,132)",
       "link": "https://www.nossenateurs.fr/groupe/RDSE",
@@ -175,7 +181,7 @@
         {
           "aut": "M. Cointat, …",
           "date": "2008-06-16",
-          "groupe": "UMP",
+          "groupe": "LR",
           "id_api": "14934",
           "numero": "47",
           "sort": "non-voté"
@@ -1129,7 +1135,7 @@
         {
           "aut": "MM. Lambert, …",
           "date": "2008-06-18",
-          "groupe": "UMP",
+          "groupe": "RDSE",
           "id_api": "15185",
           "numero": "312",
           "sort": "non-voté"
@@ -1217,7 +1223,7 @@
         {
           "aut": "Mme Cerisier-ben Guiga, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "15321",
           "numero": "452",
           "sort": "non-voté"
@@ -1475,7 +1481,7 @@
         {
           "aut": "MM. Gélard, …",
           "date": "2008-06-11",
-          "groupe": "UMP",
+          "groupe": "LR",
           "id_api": "14972",
           "numero": "86",
           "sort": "non-voté"
@@ -2561,7 +2567,7 @@
         {
           "aut": "M. Cointat, …",
           "date": "2008-06-16",
-          "groupe": "UMP",
+          "groupe": "LR",
           "id_api": "15033",
           "numero": "150",
           "sort": "non-voté"
@@ -2943,7 +2949,7 @@
         {
           "aut": "M. Cointat, …",
           "date": "2008-06-16",
-          "groupe": "UMP",
+          "groupe": "LR",
           "id_api": "15032",
           "numero": "149",
           "sort": "non-voté"
@@ -3143,7 +3149,7 @@
         {
           "aut": "MM. Gélard, …",
           "date": "2008-06-18",
-          "groupe": "UMP",
+          "groupe": "LR",
           "id_api": "14965",
           "numero": "79",
           "sort": "non-voté"
@@ -3167,7 +3173,7 @@
         {
           "aut": "MM. Gouteyron, …",
           "date": "2008-06-17",
-          "groupe": "UMP",
+          "groupe": "LR",
           "id_api": "15130",
           "numero": "255",
           "sort": "non-voté"
@@ -3283,7 +3289,7 @@
         {
           "aut": "M. Cointat, …",
           "date": "2008-06-16",
-          "groupe": "UMP",
+          "groupe": "LR",
           "id_api": "14943",
           "numero": "56",
           "sort": "non-voté"
@@ -3639,7 +3645,7 @@
         {
           "aut": "M. Cointat, …",
           "date": "2008-06-16",
-          "groupe": "UMP",
+          "groupe": "LR",
           "id_api": "15031",
           "numero": "147",
           "sort": "non-voté"
@@ -3895,7 +3901,7 @@
         {
           "aut": "M. Cointat, …",
           "date": "2008-06-16",
-          "groupe": "UMP",
+          "groupe": "LR",
           "id_api": "14926",
           "numero": "39",
           "sort": "non-voté"
@@ -3903,7 +3909,7 @@
         {
           "aut": "M. Cointat, …",
           "date": "2008-06-17",
-          "groupe": "UMP",
+          "groupe": "LR",
           "id_api": "14927",
           "numero": "40",
           "sort": "non-voté"

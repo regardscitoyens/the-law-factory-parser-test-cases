@@ -7,6 +7,12 @@
       "nom": "Communiste républicain citoyen et Écologiste",
       "order": 10
     },
+    "ECOLO": {
+      "color": "rgb(0,230,30)",
+      "link": "https://www.nossenateurs.fr/groupe/ECOLO",
+      "nom": "Écologiste",
+      "order": 16
+    },
     "Gouvernement": {
       "color": "#cccbb3",
       "link": "",
@@ -353,7 +359,7 @@
         {
           "aut": "Mmes Lipietz, …",
           "date": "2013-07-11",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "67489",
           "numero": "36",
           "sort": "non-voté"
@@ -977,7 +983,7 @@
         {
           "aut": "MM. Mézard, …",
           "date": "2013-07-12",
-          "groupe": "RDSE",
+          "groupe": "CRCE",
           "id_api": "67675",
           "numero": "172",
           "sort": "rejeté"
@@ -985,7 +991,7 @@
         {
           "aut": "MM. Mézard, …",
           "date": "2013-07-12",
-          "groupe": "RDSE",
+          "groupe": "CRCE",
           "id_api": "67676",
           "numero": "174",
           "sort": "non-voté"
