@@ -31,12 +31,6 @@
       "nom": "Les Républicains",
       "order": 24
     },
-    "LREM": {
-      "color": "rgb(232,197,5)",
-      "link": "https://www.nossenateurs.fr/groupe/LREM",
-      "nom": "La République en Marche",
-      "order": 18
-    },
     "RDSE": {
       "color": "rgb(250,195,132)",
       "link": "https://www.nossenateurs.fr/groupe/RDSE",
@@ -91,7 +85,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15203",
           "numero": "331",
           "sort": "rejeté"
@@ -99,7 +93,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15245",
           "numero": "374",
           "sort": "rejeté"
@@ -107,7 +101,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15246",
           "numero": "375",
           "sort": "rejeté"
@@ -115,7 +109,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15307",
           "numero": "438",
           "sort": "non-voté"
@@ -123,7 +117,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15310",
           "numero": "441",
           "sort": "non-voté"
@@ -159,7 +153,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15330",
           "numero": "461",
           "sort": "rejeté"
@@ -173,7 +167,7 @@
         {
           "aut": "M. Cointat, …",
           "date": "2008-06-16",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14933",
           "numero": "46",
           "sort": "non-voté"
@@ -181,7 +175,7 @@
         {
           "aut": "M. Cointat, …",
           "date": "2008-06-16",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14934",
           "numero": "47",
           "sort": "non-voté"
@@ -221,7 +215,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15207",
           "numero": "335",
           "sort": "non-voté"
@@ -229,7 +223,7 @@
         {
           "aut": "M. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15336",
           "numero": "467",
           "sort": "rejeté"
@@ -257,7 +251,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15208",
           "numero": "336",
           "sort": "rejeté"
@@ -265,7 +259,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15209",
           "numero": "337",
           "sort": "rejeté"
@@ -279,7 +273,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15292",
           "numero": "423",
           "sort": "rejeté"
@@ -287,7 +281,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15293",
           "numero": "424",
           "sort": "rejeté"
@@ -317,7 +311,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15289",
           "numero": "420",
           "sort": "rejeté"
@@ -361,7 +355,7 @@
         {
           "aut": "MM. Cointat, …",
           "date": "2008-06-16",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14937",
           "numero": "50",
           "sort": "non-voté"
@@ -397,7 +391,7 @@
         {
           "aut": "MM. Portelli, …",
           "date": "2008-06-17",
-          "groupe": "UMP",
+          "groupe": "LR",
           "id_api": "14957",
           "numero": "71",
           "sort": "non-voté"
@@ -429,7 +423,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15205",
           "numero": "333",
           "sort": "rejeté"
@@ -437,7 +431,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15222",
           "numero": "351",
           "sort": "rejeté"
@@ -465,7 +459,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15228",
           "numero": "357",
           "sort": "rejeté"
@@ -575,7 +569,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15240",
           "numero": "369",
           "sort": "rejeté"
@@ -583,7 +577,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15241",
           "numero": "370",
           "sort": "rejeté"
@@ -591,7 +585,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15243",
           "numero": "372",
           "sort": "rejeté"
@@ -599,7 +593,7 @@
         {
           "aut": "MM. Legendre, …",
           "date": "2008-06-17",
-          "groupe": "UMP",
+          "groupe": "LR",
           "id_api": "15248",
           "numero": "377",
           "sort": "adopté"
@@ -615,7 +609,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15290",
           "numero": "421",
           "sort": "non-voté"
@@ -637,7 +631,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15362",
           "numero": "494",
           "sort": "rejeté"
@@ -681,7 +675,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15298",
           "numero": "429",
           "sort": "rejeté"
@@ -695,7 +689,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15235",
           "numero": "364",
           "sort": "rejeté"
@@ -703,7 +697,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15299",
           "numero": "430",
           "sort": "rejeté"
@@ -711,7 +705,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15300",
           "numero": "431",
           "sort": "rejeté"
@@ -725,7 +719,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15199",
           "numero": "327",
           "sort": "rejeté"
@@ -733,7 +727,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15200",
           "numero": "328",
           "sort": "rejeté"
@@ -741,7 +735,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15308",
           "numero": "439",
           "sort": "rejeté"
@@ -749,7 +743,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15309",
           "numero": "440",
           "sort": "rejeté"
@@ -811,7 +805,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15215",
           "numero": "343",
           "sort": "rejeté"
@@ -819,7 +813,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15218",
           "numero": "347",
           "sort": "rejeté"
@@ -827,7 +821,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15232",
           "numero": "361",
           "sort": "rejeté"
@@ -835,7 +829,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15311",
           "numero": "442",
           "sort": "rejeté"
@@ -843,7 +837,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15312",
           "numero": "443",
           "sort": "non-voté"
@@ -851,7 +845,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15313",
           "numero": "444",
           "sort": "rejeté"
@@ -859,7 +853,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15314",
           "numero": "445",
           "sort": "rejeté"
@@ -935,7 +929,7 @@
         {
           "aut": "MM. Cointat, …",
           "date": "2008-06-16",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14928",
           "numero": "41",
           "sort": "non-voté"
@@ -943,7 +937,7 @@
         {
           "aut": "M. Cointat, …",
           "date": "2008-06-17",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14929",
           "numero": "42",
           "sort": "non-voté"
@@ -951,7 +945,7 @@
         {
           "aut": "M. Cointat, …",
           "date": "2008-06-17",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14930",
           "numero": "43",
           "sort": "non-voté"
@@ -975,7 +969,7 @@
         {
           "aut": "MM. Portelli, …",
           "date": "2008-06-17",
-          "groupe": "UMP",
+          "groupe": "LR",
           "id_api": "14955",
           "numero": "69",
           "sort": "non-voté"
@@ -1039,7 +1033,7 @@
         {
           "aut": "MM. Cointat, …",
           "date": "2008-06-17",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15038",
           "numero": "155",
           "sort": "non-voté"
@@ -1111,7 +1105,7 @@
         {
           "aut": "MM. Arthuis, …",
           "date": "2008-06-20",
-          "groupe": "UMP",
+          "groupe": "UDI",
           "id_api": "15174",
           "numero": "301",
           "sort": "adopté"
@@ -1119,7 +1113,7 @@
         {
           "aut": "MM. Arthuis, …",
           "date": "2008-06-17",
-          "groupe": "UMP",
+          "groupe": "UDI",
           "id_api": "15175",
           "numero": "302",
           "sort": "non-voté"
@@ -1135,7 +1129,7 @@
         {
           "aut": "MM. Lambert, …",
           "date": "2008-06-18",
-          "groupe": "RDSE",
+          "groupe": "UMP",
           "id_api": "15185",
           "numero": "312",
           "sort": "non-voté"
@@ -1143,7 +1137,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15236",
           "numero": "365",
           "sort": "non-voté"
@@ -1175,7 +1169,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15315",
           "numero": "446",
           "sort": "adopté"
@@ -1183,7 +1177,7 @@
         {
           "aut": "M. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15316",
           "numero": "447",
           "sort": "non-voté"
@@ -1191,7 +1185,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15317",
           "numero": "448",
           "sort": "non-voté"
@@ -1199,7 +1193,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15318",
           "numero": "449",
           "sort": "non-voté"
@@ -1207,7 +1201,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15319",
           "numero": "450",
           "sort": "rejeté"
@@ -1215,7 +1209,7 @@
         {
           "aut": "M. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15320",
           "numero": "451",
           "sort": "non-voté"
@@ -1223,7 +1217,7 @@
         {
           "aut": "Mme Cerisier-ben Guiga, …",
           "date": "2008-06-16",
-          "groupe": "LREM",
+          "groupe": "SOCV",
           "id_api": "15321",
           "numero": "452",
           "sort": "non-voté"
@@ -1231,7 +1225,7 @@
         {
           "aut": "Mme Cerisier-ben Guiga, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15322",
           "numero": "453",
           "sort": "non-voté"
@@ -1239,7 +1233,7 @@
         {
           "aut": "Mme Cerisier-ben Guiga, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15323",
           "numero": "454",
           "sort": "non-voté"
@@ -1247,7 +1241,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-21",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15324",
           "numero": "455",
           "sort": "adopté"
@@ -1263,7 +1257,7 @@
         {
           "aut": "M. Cointat, …",
           "date": "2008-06-17",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15372",
           "numero": "504",
           "sort": "adopté"
@@ -1309,7 +1303,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15224",
           "numero": "353",
           "sort": "non-voté"
@@ -1317,7 +1311,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15325",
           "numero": "456",
           "sort": "non-voté"
@@ -1411,7 +1405,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15213",
           "numero": "341",
           "sort": "rejeté"
@@ -1419,7 +1413,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15233",
           "numero": "362",
           "sort": "rejeté"
@@ -1427,7 +1421,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15326",
           "numero": "457",
           "sort": "rejeté"
@@ -1435,7 +1429,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15327",
           "numero": "458",
           "sort": "rejeté"
@@ -1443,7 +1437,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15328",
           "numero": "459",
           "sort": "non-voté"
@@ -1451,7 +1445,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15329",
           "numero": "460",
           "sort": "rejeté"
@@ -1473,7 +1467,7 @@
         {
           "aut": "MM. Portelli, …",
           "date": "2008-06-17",
-          "groupe": "UMP",
+          "groupe": "LR",
           "id_api": "14956",
           "numero": "70",
           "sort": "non-voté"
@@ -1481,7 +1475,7 @@
         {
           "aut": "MM. Gélard, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14972",
           "numero": "86",
           "sort": "non-voté"
@@ -1521,7 +1515,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-20",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15331",
           "numero": "462",
           "sort": "rejeté"
@@ -1543,7 +1537,7 @@
         {
           "aut": "M. Cointat, …",
           "date": "2008-06-17",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14932",
           "numero": "45",
           "sort": "non-voté"
@@ -1615,7 +1609,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15332",
           "numero": "463",
           "sort": "rejeté"
@@ -1623,7 +1617,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15333",
           "numero": "464",
           "sort": "rejeté"
@@ -1631,7 +1625,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15334",
           "numero": "465",
           "sort": "non-voté"
@@ -1639,7 +1633,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15335",
           "numero": "466",
           "sort": "rejeté"
@@ -1669,7 +1663,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15244",
           "numero": "373",
           "sort": "non-voté"
@@ -1677,7 +1671,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15337",
           "numero": "468",
           "sort": "adopté"
@@ -1771,7 +1765,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15338",
           "numero": "469",
           "sort": "rejeté"
@@ -1779,7 +1773,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-23",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15339",
           "numero": "470",
           "sort": "adopté"
@@ -1787,7 +1781,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15340",
           "numero": "471",
           "sort": "non-voté"
@@ -1795,7 +1789,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15341",
           "numero": "472",
           "sort": "non-voté"
@@ -1817,7 +1811,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15238",
           "numero": "367",
           "sort": "non-voté"
@@ -1831,7 +1825,7 @@
         {
           "aut": "MM. Cointat, …",
           "date": "2008-06-16",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14936",
           "numero": "49",
           "sort": "non-voté"
@@ -1879,7 +1873,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15210",
           "numero": "338",
           "sort": "rejeté"
@@ -1895,7 +1889,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15342",
           "numero": "473",
           "sort": "rejeté"
@@ -1903,7 +1897,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15343",
           "numero": "474",
           "sort": "rejeté"
@@ -2005,7 +1999,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15198",
           "numero": "326",
           "sort": "rejeté"
@@ -2013,7 +2007,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-20",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15202",
           "numero": "330",
           "sort": "rejeté"
@@ -2021,7 +2015,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15230",
           "numero": "359",
           "sort": "non-voté"
@@ -2037,7 +2031,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15344",
           "numero": "475",
           "sort": "non-voté"
@@ -2045,7 +2039,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15345",
           "numero": "476",
           "sort": "rejeté"
@@ -2053,7 +2047,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15346",
           "numero": "477",
           "sort": "rejeté"
@@ -2061,7 +2055,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15347",
           "numero": "478",
           "sort": "rejeté"
@@ -2099,7 +2093,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15291",
           "numero": "422",
           "sort": "non-voté"
@@ -2129,7 +2123,7 @@
         {
           "aut": "M. Cointat, …",
           "date": "2008-06-16",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14925",
           "numero": "38",
           "sort": "non-voté"
@@ -2161,7 +2155,7 @@
         {
           "aut": "M. Mélenchon",
           "date": "2008-06-11",
-          "groupe": "CRC",
+          "groupe": "CRC-SPG",
           "id_api": "15029",
           "numero": "145",
           "sort": "adopté"
@@ -2225,7 +2219,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15220",
           "numero": "349",
           "sort": "non-voté"
@@ -2233,7 +2227,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15227",
           "numero": "356",
           "sort": "non-voté"
@@ -2241,7 +2235,7 @@
         {
           "aut": "MM. Legendre, …",
           "date": "2008-06-17",
-          "groupe": "UMP",
+          "groupe": "LR",
           "id_api": "15247",
           "numero": "376",
           "sort": "non-voté"
@@ -2287,7 +2281,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15221",
           "numero": "350",
           "sort": "rejeté"
@@ -2325,7 +2319,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15348",
           "numero": "479",
           "sort": "rejeté"
@@ -2379,7 +2373,7 @@
         {
           "aut": "MM. Arthuis, …",
           "date": "2008-06-17",
-          "groupe": "UMP",
+          "groupe": "UDI",
           "id_api": "15176",
           "numero": "303",
           "sort": "adopté"
@@ -2387,7 +2381,7 @@
         {
           "aut": "M. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15349",
           "numero": "480",
           "sort": "adopté"
@@ -2401,7 +2395,7 @@
         {
           "aut": "MM. Cointat, …",
           "date": "2008-06-16",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14938",
           "numero": "51",
           "sort": "non-voté"
@@ -2497,7 +2491,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15350",
           "numero": "481",
           "sort": "non-voté"
@@ -2505,7 +2499,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15351",
           "numero": "482",
           "sort": "non-voté"
@@ -2567,7 +2561,7 @@
         {
           "aut": "M. Cointat, …",
           "date": "2008-06-16",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15033",
           "numero": "150",
           "sort": "non-voté"
@@ -2631,7 +2625,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15226",
           "numero": "355",
           "sort": "non-voté"
@@ -2655,7 +2649,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15352",
           "numero": "483",
           "sort": "non-voté"
@@ -2701,7 +2695,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15353",
           "numero": "484",
           "sort": "adopté"
@@ -2763,7 +2757,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15354",
           "numero": "485",
           "sort": "non-voté"
@@ -2785,7 +2779,7 @@
         {
           "aut": "MM. Portelli, …",
           "date": "2008-06-17",
-          "groupe": "UMP",
+          "groupe": "LR",
           "id_api": "14958",
           "numero": "72",
           "sort": "non-voté"
@@ -2793,7 +2787,7 @@
         {
           "aut": "MM. Portelli, …",
           "date": "2008-06-24",
-          "groupe": "UMP",
+          "groupe": "LR",
           "id_api": "14959",
           "numero": "73",
           "sort": "adopté"
@@ -2817,7 +2811,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15237",
           "numero": "366",
           "sort": "adopté"
@@ -2833,7 +2827,7 @@
         {
           "aut": "MM. Badinter, …",
           "date": "2008-06-24",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15355",
           "numero": "487",
           "sort": "rejeté"
@@ -2841,7 +2835,7 @@
         {
           "aut": "MM. Badinter, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15356",
           "numero": "488",
           "sort": "adopté"
@@ -2879,7 +2873,7 @@
         {
           "aut": "MM. Portelli, …",
           "date": "2008-06-11",
-          "groupe": "UMP",
+          "groupe": "LR",
           "id_api": "14961",
           "numero": "75",
           "sort": "non-voté"
@@ -2903,7 +2897,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15223",
           "numero": "352",
           "sort": "rejeté"
@@ -2949,7 +2943,7 @@
         {
           "aut": "M. Cointat, …",
           "date": "2008-06-16",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15032",
           "numero": "149",
           "sort": "non-voté"
@@ -3005,7 +2999,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15214",
           "numero": "342",
           "sort": "rejeté"
@@ -3061,7 +3055,7 @@
         {
           "aut": "MM. Badinter, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15357",
           "numero": "489",
           "sort": "rejeté"
@@ -3083,7 +3077,7 @@
         {
           "aut": "MM. Cointat, …",
           "date": "2008-06-16",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14939",
           "numero": "52",
           "sort": "non-voté"
@@ -3097,7 +3091,7 @@
         {
           "aut": "MM. Cointat, …",
           "date": "2008-06-16",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14940",
           "numero": "53",
           "sort": "non-voté"
@@ -3105,7 +3099,7 @@
         {
           "aut": "MM. Cointat, …",
           "date": "2008-06-16",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14941",
           "numero": "54",
           "sort": "non-voté"
@@ -3141,7 +3135,7 @@
         {
           "aut": "MM. Portelli, …",
           "date": "2008-06-17",
-          "groupe": "UMP",
+          "groupe": "LR",
           "id_api": "14954",
           "numero": "68",
           "sort": "non-voté"
@@ -3149,7 +3143,7 @@
         {
           "aut": "MM. Gélard, …",
           "date": "2008-06-18",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14965",
           "numero": "79",
           "sort": "non-voté"
@@ -3173,7 +3167,7 @@
         {
           "aut": "MM. Gouteyron, …",
           "date": "2008-06-17",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15130",
           "numero": "255",
           "sort": "non-voté"
@@ -3261,7 +3255,7 @@
         {
           "aut": "MM. Cointat, …",
           "date": "2008-06-16",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14942",
           "numero": "55",
           "sort": "non-voté"
@@ -3289,7 +3283,7 @@
         {
           "aut": "M. Cointat, …",
           "date": "2008-06-16",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14943",
           "numero": "56",
           "sort": "non-voté"
@@ -3297,7 +3291,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15358",
           "numero": "490",
           "sort": "rejeté"
@@ -3343,7 +3337,7 @@
         {
           "aut": "MM. Amoudry, …",
           "date": "2008-06-17",
-          "groupe": "UC",
+          "groupe": "UDI",
           "id_api": "15163",
           "numero": "290",
           "sort": "non-voté"
@@ -3351,7 +3345,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15359",
           "numero": "491",
           "sort": "rejeté"
@@ -3397,7 +3391,7 @@
         {
           "aut": "MM. Amoudry, …",
           "date": "2008-06-17",
-          "groupe": "UC",
+          "groupe": "UDI",
           "id_api": "15164",
           "numero": "291",
           "sort": "non-voté"
@@ -3413,7 +3407,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15231",
           "numero": "360",
           "sort": "non-voté"
@@ -3421,7 +3415,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15360",
           "numero": "492",
           "sort": "non-voté"
@@ -3499,7 +3493,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15361",
           "numero": "493",
           "sort": "adopté"
@@ -3513,7 +3507,7 @@
         {
           "aut": "MM. Portelli, …",
           "date": "2008-06-18",
-          "groupe": "UMP",
+          "groupe": "LR",
           "id_api": "14962",
           "numero": "76",
           "sort": "non-voté"
@@ -3545,7 +3539,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15212",
           "numero": "340",
           "sort": "rejeté"
@@ -3553,7 +3547,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-24",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15229",
           "numero": "358",
           "sort": "rejeté"
@@ -3561,7 +3555,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15363",
           "numero": "495",
           "sort": "rejeté"
@@ -3569,7 +3563,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15364",
           "numero": "496",
           "sort": "non-voté"
@@ -3577,7 +3571,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15365",
           "numero": "497",
           "sort": "rejeté"
@@ -3645,7 +3639,7 @@
         {
           "aut": "M. Cointat, …",
           "date": "2008-06-16",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15031",
           "numero": "147",
           "sort": "non-voté"
@@ -3677,7 +3671,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15216",
           "numero": "344",
           "sort": "rejeté"
@@ -3685,7 +3679,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15217",
           "numero": "346",
           "sort": "rejeté"
@@ -3717,7 +3711,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15294",
           "numero": "425",
           "sort": "non-voté"
@@ -3755,7 +3749,7 @@
         {
           "aut": "MM. Amoudry, …",
           "date": "2008-06-17",
-          "groupe": "UC",
+          "groupe": "UDI",
           "id_api": "15141",
           "numero": "267",
           "sort": "non-voté"
@@ -3763,7 +3757,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15234",
           "numero": "363",
           "sort": "rejeté"
@@ -3771,7 +3765,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15295",
           "numero": "426",
           "sort": "rejeté"
@@ -3801,7 +3795,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15211",
           "numero": "339",
           "sort": "non-voté"
@@ -3817,7 +3811,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15296",
           "numero": "427",
           "sort": "non-voté"
@@ -3839,7 +3833,7 @@
         {
           "aut": "MM. Amoudry, …",
           "date": "2008-06-20",
-          "groupe": "UC",
+          "groupe": "UDI",
           "id_api": "15142",
           "numero": "268",
           "sort": "non-voté"
@@ -3847,7 +3841,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15201",
           "numero": "329",
           "sort": "rejeté"
@@ -3855,7 +3849,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15297",
           "numero": "428",
           "sort": "rejeté"
@@ -3901,7 +3895,7 @@
         {
           "aut": "M. Cointat, …",
           "date": "2008-06-16",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14926",
           "numero": "39",
           "sort": "non-voté"
@@ -3909,7 +3903,7 @@
         {
           "aut": "M. Cointat, …",
           "date": "2008-06-17",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14927",
           "numero": "40",
           "sort": "non-voté"
@@ -4021,7 +4015,7 @@
         {
           "aut": "MM. Arthuis, …",
           "date": "2008-06-17",
-          "groupe": "UMP",
+          "groupe": "UDI",
           "id_api": "15173",
           "numero": "300",
           "sort": "non-voté"
@@ -4037,7 +4031,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15197",
           "numero": "325",
           "sort": "rejeté"
@@ -4045,7 +4039,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15204",
           "numero": "332",
           "sort": "rejeté"
@@ -4053,7 +4047,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15206",
           "numero": "334",
           "sort": "non-voté"
@@ -4061,7 +4055,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15219",
           "numero": "348",
           "sort": "rejeté"
@@ -4093,7 +4087,7 @@
         {
           "aut": "M. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15301",
           "numero": "432",
           "sort": "non-voté"
@@ -4101,7 +4095,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15302",
           "numero": "433",
           "sort": "non-voté"
@@ -4109,7 +4103,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15303",
           "numero": "434",
           "sort": "non-voté"
@@ -4117,7 +4111,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15304",
           "numero": "435",
           "sort": "rejeté"
@@ -4125,7 +4119,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15305",
           "numero": "436",
           "sort": "rejeté"
@@ -4133,7 +4127,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15306",
           "numero": "437",
           "sort": "rejeté"
@@ -4231,7 +4225,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15239",
           "numero": "368",
           "sort": "rejeté"
@@ -4239,7 +4233,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15242",
           "numero": "371",
           "sort": "rejeté"
@@ -4271,7 +4265,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-18",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15379",
           "numero": "511",
           "sort": "rejeté"
@@ -4301,7 +4295,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15225",
           "numero": "354",
           "sort": "rejeté"
@@ -4309,7 +4303,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15288",
           "numero": "419",
           "sort": "rejeté"
@@ -4365,7 +4359,7 @@
         {
           "aut": "M. Badinter, …",
           "date": "2008-06-16",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "15193",
           "numero": "321",
           "sort": "adopté"
@@ -4395,7 +4389,7 @@
         {
           "aut": "MM. Portelli, …",
           "date": "2008-06-24",
-          "groupe": "UMP",
+          "groupe": "LR",
           "id_api": "14960",
           "numero": "74",
           "sort": "non-voté"

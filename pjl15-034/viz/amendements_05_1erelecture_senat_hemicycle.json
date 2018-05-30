@@ -1,11 +1,11 @@
 {
   "api_root_url": "https://www.nossenateurs.fr/api/document/Amendement/",
   "groupes": {
-    "CRCE": {
+    "CRC": {
       "color": "rgb(255,30,30)",
-      "link": "https://www.nossenateurs.fr/groupe/CRCE",
-      "nom": "Communiste républicain citoyen et Écologiste",
-      "order": 10
+      "link": "https://www.nossenateurs.fr/groupe/CRC",
+      "nom": "Communiste, Républicain, Citoyen et des Sénateurs du Parti de Gauche",
+      "order": 11
     },
     "Gouvernement": {
       "color": "#cccbb3",
@@ -39,7 +39,7 @@
         {
           "aut": "Mme Gonthier-Maurin, …",
           "date": "2015-10-23",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "106372",
           "numero": "11",
           "sort": "rejeté"
@@ -95,7 +95,7 @@
         {
           "aut": "Mme Gonthier-Maurin, …",
           "date": "2015-10-23",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "106369",
           "numero": "8",
           "sort": "rejeté"
@@ -103,7 +103,7 @@
         {
           "aut": "Mme Gonthier-Maurin, …",
           "date": "2015-10-23",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "106370",
           "numero": "9",
           "sort": "rejeté"
@@ -111,7 +111,7 @@
         {
           "aut": "Mme Gonthier-Maurin, …",
           "date": "2015-10-23",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "106373",
           "numero": "12",
           "sort": "rejeté"
@@ -173,7 +173,7 @@
         {
           "aut": "Mme Gonthier-Maurin, …",
           "date": "2015-10-23",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "106371",
           "numero": "10",
           "sort": "rejeté"

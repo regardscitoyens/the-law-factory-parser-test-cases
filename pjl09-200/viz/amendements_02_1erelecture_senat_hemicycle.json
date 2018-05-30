@@ -31,6 +31,12 @@
       "nom": "Les Républicains",
       "order": 24
     },
+    "LREM": {
+      "color": "rgb(232,197,5)",
+      "link": "https://www.nossenateurs.fr/groupe/LREM",
+      "nom": "La République en Marche",
+      "order": 18
+    },
     "NI": {
       "color": "rgb(165,165,165)",
       "link": "https://www.nossenateurs.fr/groupe/NI",
@@ -91,7 +97,7 @@
         {
           "aut": "M. Guillaume, …",
           "date": "2010-05-15",
-          "groupe": "SOC",
+          "groupe": "RDSE",
           "id_api": "17306",
           "numero": "170",
           "sort": "rejeté"
@@ -197,7 +203,7 @@
         {
           "aut": "MM. Chatillon, …",
           "date": "2010-05-18",
-          "groupe": "UMP",
+          "groupe": "LR",
           "id_api": "17260",
           "numero": "123",
           "sort": "non-voté"
@@ -205,7 +211,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17722",
           "numero": "608",
           "sort": "non-voté"
@@ -213,7 +219,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17723",
           "numero": "609",
           "sort": "non-voté"
@@ -221,7 +227,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17724",
           "numero": "610",
           "sort": "rejeté"
@@ -229,7 +235,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17725",
           "numero": "611",
           "sort": "rejeté"
@@ -237,7 +243,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17726",
           "numero": "612",
           "sort": "rejeté"
@@ -259,7 +265,7 @@
         {
           "aut": "MM. Beaumont, …",
           "date": "2010-05-18",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "17166",
           "numero": "24",
           "sort": "adopté"
@@ -363,7 +369,7 @@
         {
           "aut": "M. Muller",
           "date": "2010-05-28",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17798",
           "numero": "685",
           "sort": "non-voté"
@@ -371,7 +377,7 @@
         {
           "aut": "M. Muller",
           "date": "2010-05-28",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17799",
           "numero": "686",
           "sort": "non-voté"
@@ -401,7 +407,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-20",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17731",
           "numero": "617",
           "sort": "non-voté"
@@ -447,7 +453,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17727",
           "numero": "613",
           "sort": "non-voté"
@@ -455,7 +461,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17728",
           "numero": "614",
           "sort": "rejeté"
@@ -463,7 +469,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-20",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17743",
           "numero": "629",
           "sort": "rejeté"
@@ -541,7 +547,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17414",
           "numero": "281",
           "sort": "rejeté"
@@ -549,7 +555,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17415",
           "numero": "282",
           "sort": "rejeté"
@@ -557,7 +563,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-18",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17425",
           "numero": "292",
           "sort": "rejeté"
@@ -565,7 +571,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-18",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17426",
           "numero": "293",
           "sort": "rejeté"
@@ -573,7 +579,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-18",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17447",
           "numero": "314",
           "sort": "rejeté"
@@ -581,7 +587,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-18",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17448",
           "numero": "315",
           "sort": "rejeté"
@@ -765,7 +771,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-18",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17721",
           "numero": "607",
           "sort": "rejeté"
@@ -773,7 +779,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-18",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17729",
           "numero": "615",
           "sort": "rejeté"
@@ -781,7 +787,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17730",
           "numero": "616",
           "sort": "rejeté"
@@ -811,7 +817,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-20",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17424",
           "numero": "291",
           "sort": "rejeté"
@@ -881,7 +887,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-18",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17421",
           "numero": "288",
           "sort": "non-voté"
@@ -985,7 +991,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-20",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17744",
           "numero": "630",
           "sort": "rejeté"
@@ -1015,7 +1021,7 @@
         {
           "aut": "MM. Jarlier, …",
           "date": "2010-05-18",
-          "groupe": "UMP",
+          "groupe": "UDI",
           "id_api": "17616",
           "numero": "494",
           "sort": "non-voté"
@@ -1023,7 +1029,7 @@
         {
           "aut": "MM. Jarlier, …",
           "date": "2010-05-18",
-          "groupe": "UMP",
+          "groupe": "UDI",
           "id_api": "17617",
           "numero": "495",
           "sort": "non-voté"
@@ -1031,7 +1037,7 @@
         {
           "aut": "MM. Jarlier, …",
           "date": "2010-05-18",
-          "groupe": "UMP",
+          "groupe": "UDI",
           "id_api": "17618",
           "numero": "496",
           "sort": "non-voté"
@@ -1039,7 +1045,7 @@
         {
           "aut": "MM. Jarlier, …",
           "date": "2010-05-18",
-          "groupe": "UMP",
+          "groupe": "UDI",
           "id_api": "17619",
           "numero": "497",
           "sort": "non-voté"
@@ -1047,7 +1053,7 @@
         {
           "aut": "MM. Jarlier, …",
           "date": "2010-05-18",
-          "groupe": "UMP",
+          "groupe": "UDI",
           "id_api": "17620",
           "numero": "498",
           "sort": "non-voté"
@@ -1055,7 +1061,7 @@
         {
           "aut": "MM. Jarlier, …",
           "date": "2010-05-18",
-          "groupe": "UMP",
+          "groupe": "UDI",
           "id_api": "17621",
           "numero": "499",
           "sort": "non-voté"
@@ -1063,7 +1069,7 @@
         {
           "aut": "MM. Jarlier, …",
           "date": "2010-05-18",
-          "groupe": "UMP",
+          "groupe": "UDI",
           "id_api": "17622",
           "numero": "500",
           "sort": "non-voté"
@@ -1091,7 +1097,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-18",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17748",
           "numero": "635",
           "sort": "non-voté"
@@ -1119,7 +1125,7 @@
         {
           "aut": "MM. Bailly, …",
           "date": "2010-05-25",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "17214",
           "numero": "75",
           "sort": "adopté"
@@ -1133,7 +1139,7 @@
         {
           "aut": "M. Repentin, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "17546",
           "numero": "420",
           "sort": "rejeté"
@@ -1265,7 +1271,7 @@
         {
           "aut": "Mme Panis, …",
           "date": "2010-05-12",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "17175",
           "numero": "33",
           "sort": "non-voté"
@@ -1273,7 +1279,7 @@
         {
           "aut": "Mme Panis, …",
           "date": "2010-05-12",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "17176",
           "numero": "34",
           "sort": "non-voté"
@@ -1337,7 +1343,7 @@
         {
           "aut": "Mme Panis, …",
           "date": "2010-05-20",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "17224",
           "numero": "85",
           "sort": "non-voté"
@@ -1345,7 +1351,7 @@
         {
           "aut": "MM. Bernard-Reymond, …",
           "date": "2010-05-14",
-          "groupe": "UMP",
+          "groupe": "NI",
           "id_api": "17254",
           "numero": "117",
           "sort": "rejeté"
@@ -1353,7 +1359,7 @@
         {
           "aut": "MM. Leroy, …",
           "date": "2010-05-18",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "17267",
           "numero": "131",
           "sort": "non-voté"
@@ -1485,7 +1491,7 @@
         {
           "aut": "M. Guillaume, …",
           "date": "2010-05-14",
-          "groupe": "SOC",
+          "groupe": "RDSE",
           "id_api": "17244",
           "numero": "105",
           "sort": "rejeté"
@@ -1493,7 +1499,7 @@
         {
           "aut": "M. Guillaume, …",
           "date": "2010-05-14",
-          "groupe": "SOC",
+          "groupe": "RDSE",
           "id_api": "17245",
           "numero": "106",
           "sort": "rejeté"
@@ -1501,7 +1507,7 @@
         {
           "aut": "M. Guillaume, …",
           "date": "2010-05-14",
-          "groupe": "SOC",
+          "groupe": "RDSE",
           "id_api": "17246",
           "numero": "108",
           "sort": "rejeté"
@@ -1509,7 +1515,7 @@
         {
           "aut": "M. Guillaume, …",
           "date": "2010-05-14",
-          "groupe": "SOC",
+          "groupe": "RDSE",
           "id_api": "17247",
           "numero": "109",
           "sort": "rejeté"
@@ -1517,7 +1523,7 @@
         {
           "aut": "M. Guillaume, …",
           "date": "2010-05-14",
-          "groupe": "SOC",
+          "groupe": "RDSE",
           "id_api": "17248",
           "numero": "110",
           "sort": "rejeté"
@@ -1525,7 +1531,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17373",
           "numero": "240",
           "sort": "rejeté"
@@ -1557,7 +1563,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17708",
           "numero": "594",
           "sort": "rejeté"
@@ -1631,7 +1637,7 @@
         {
           "aut": "M. Patriat, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "17568",
           "numero": "442",
           "sort": "non-voté"
@@ -1647,7 +1653,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17710",
           "numero": "596",
           "sort": "rejeté"
@@ -1655,7 +1661,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17711",
           "numero": "597",
           "sort": "non-voté"
@@ -1663,7 +1669,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17712",
           "numero": "598",
           "sort": "non-voté"
@@ -1671,7 +1677,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17713",
           "numero": "599",
           "sort": "rejeté"
@@ -1679,7 +1685,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17714",
           "numero": "600",
           "sort": "rejeté"
@@ -1687,7 +1693,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17715",
           "numero": "601",
           "sort": "rejeté"
@@ -1763,7 +1769,7 @@
         {
           "aut": "MM. Patient, …",
           "date": "2010-05-18",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "17603",
           "numero": "477",
           "sort": "adopté"
@@ -1847,7 +1853,7 @@
         {
           "aut": "M. Guillaume, …",
           "date": "2010-05-18",
-          "groupe": "SOC",
+          "groupe": "RDSE",
           "id_api": "17287",
           "numero": "151",
           "sort": "rejeté"
@@ -1855,7 +1861,7 @@
         {
           "aut": "M. Guillaume, …",
           "date": "2010-05-18",
-          "groupe": "SOC",
+          "groupe": "RDSE",
           "id_api": "17288",
           "numero": "152",
           "sort": "rejeté"
@@ -1863,7 +1869,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-18",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17402",
           "numero": "269",
           "sort": "rejeté"
@@ -1917,7 +1923,7 @@
         {
           "aut": "M. Guillaume, …",
           "date": "2010-05-15",
-          "groupe": "SOC",
+          "groupe": "RDSE",
           "id_api": "17285",
           "numero": "149",
           "sort": "rejeté"
@@ -1925,7 +1931,7 @@
         {
           "aut": "M. Guillaume, …",
           "date": "2010-05-15",
-          "groupe": "SOC",
+          "groupe": "RDSE",
           "id_api": "17286",
           "numero": "150",
           "sort": "rejeté"
@@ -1933,7 +1939,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17405",
           "numero": "272",
           "sort": "rejeté"
@@ -1941,7 +1947,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17406",
           "numero": "273",
           "sort": "rejeté"
@@ -1949,7 +1955,7 @@
         {
           "aut": "MM. Ferrand, …",
           "date": "2010-05-18",
-          "groupe": "UDI",
+          "groupe": "UMP",
           "id_api": "17518",
           "numero": "390",
           "sort": "non-voté"
@@ -2067,7 +2073,7 @@
         {
           "aut": "M. Guillaume, …",
           "date": "2010-05-18",
-          "groupe": "SOC",
+          "groupe": "RDSE",
           "id_api": "17299",
           "numero": "163",
           "sort": "non-voté"
@@ -2075,7 +2081,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17412",
           "numero": "279",
           "sort": "non-voté"
@@ -2099,7 +2105,7 @@
         {
           "aut": "M. Guillaume, …",
           "date": "2010-05-18",
-          "groupe": "SOC",
+          "groupe": "RDSE",
           "id_api": "17557",
           "numero": "431",
           "sort": "non-voté"
@@ -2147,7 +2153,7 @@
         {
           "aut": "M. Guillaume, …",
           "date": "2010-05-26",
-          "groupe": "SOC",
+          "groupe": "RDSE",
           "id_api": "17793",
           "numero": "680",
           "sort": "adopté"
@@ -2155,7 +2161,7 @@
         {
           "aut": "M. Guillaume, …",
           "date": "2010-05-26",
-          "groupe": "SOC",
+          "groupe": "RDSE",
           "id_api": "17794",
           "numero": "681",
           "sort": "non-voté"
@@ -2445,7 +2451,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17416",
           "numero": "283",
           "sort": "non-voté"
@@ -2453,7 +2459,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-28",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17417",
           "numero": "284",
           "sort": "adopté"
@@ -2461,7 +2467,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17418",
           "numero": "285",
           "sort": "rejeté"
@@ -2469,7 +2475,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17419",
           "numero": "286",
           "sort": "non-voté"
@@ -2477,7 +2483,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-19",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17422",
           "numero": "289",
           "sort": "rejeté"
@@ -2637,7 +2643,7 @@
         {
           "aut": "MM. Patient, …",
           "date": "2010-05-18",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "17596",
           "numero": "470",
           "sort": "non-voté"
@@ -2645,7 +2651,7 @@
         {
           "aut": "MM. Patient, …",
           "date": "2010-05-20",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "17597",
           "numero": "471",
           "sort": "adopté"
@@ -2669,7 +2675,7 @@
         {
           "aut": "MM. Jarlier, …",
           "date": "2010-05-19",
-          "groupe": "UMP",
+          "groupe": "UDI",
           "id_api": "17629",
           "numero": "507",
           "sort": "non-voté"
@@ -2741,7 +2747,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17732",
           "numero": "618",
           "sort": "rejeté"
@@ -2749,7 +2755,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17733",
           "numero": "619",
           "sort": "rejeté"
@@ -2757,7 +2763,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-28",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17734",
           "numero": "620",
           "sort": "rejeté"
@@ -2765,7 +2771,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17735",
           "numero": "621",
           "sort": "rejeté"
@@ -2773,7 +2779,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17736",
           "numero": "622",
           "sort": "rejeté"
@@ -2781,7 +2787,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17737",
           "numero": "623",
           "sort": "non-voté"
@@ -2789,7 +2795,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17738",
           "numero": "624",
           "sort": "rejeté"
@@ -2797,7 +2803,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17739",
           "numero": "625",
           "sort": "rejeté"
@@ -2805,7 +2811,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17740",
           "numero": "626",
           "sort": "rejeté"
@@ -2835,7 +2841,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17413",
           "numero": "280",
           "sort": "rejeté"
@@ -2889,7 +2895,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-18",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17741",
           "numero": "627",
           "sort": "non-voté"
@@ -2897,7 +2903,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-18",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17742",
           "numero": "628",
           "sort": "non-voté"
@@ -2959,7 +2965,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17427",
           "numero": "294",
           "sort": "rejeté"
@@ -3015,7 +3021,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17745",
           "numero": "631",
           "sort": "rejeté"
@@ -3023,7 +3029,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-28",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17746",
           "numero": "632",
           "sort": "rejeté"
@@ -3031,7 +3037,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17747",
           "numero": "633",
           "sort": "rejeté"
@@ -3061,7 +3067,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17428",
           "numero": "295",
           "sort": "rejeté"
@@ -3083,7 +3089,7 @@
         {
           "aut": "MM. Leroy, …",
           "date": "2010-05-18",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "17261",
           "numero": "124",
           "sort": "adopté"
@@ -3091,7 +3097,7 @@
         {
           "aut": "MM. Leroy, …",
           "date": "2010-05-18",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "17262",
           "numero": "125",
           "sort": "non-voté"
@@ -3099,7 +3105,7 @@
         {
           "aut": "MM. Leroy, …",
           "date": "2010-05-18",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "17263",
           "numero": "126",
           "sort": "adopté"
@@ -3107,7 +3113,7 @@
         {
           "aut": "MM. Leroy, …",
           "date": "2010-05-28",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "17264",
           "numero": "127",
           "sort": "adopté"
@@ -3115,7 +3121,7 @@
         {
           "aut": "MM. Leroy, …",
           "date": "2010-05-28",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "17265",
           "numero": "128",
           "sort": "non-voté"
@@ -3123,7 +3129,7 @@
         {
           "aut": "MM. Leroy, …",
           "date": "2010-05-18",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "17266",
           "numero": "129",
           "sort": "non-voté"
@@ -3131,7 +3137,7 @@
         {
           "aut": "MM. Leroy, …",
           "date": "2010-05-18",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "17308",
           "numero": "172",
           "sort": "non-voté"
@@ -3171,7 +3177,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17429",
           "numero": "296",
           "sort": "rejeté"
@@ -3179,7 +3185,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17430",
           "numero": "297",
           "sort": "rejeté"
@@ -3187,7 +3193,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17431",
           "numero": "298",
           "sort": "rejeté"
@@ -3195,7 +3201,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17432",
           "numero": "299",
           "sort": "rejeté"
@@ -3203,7 +3209,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17433",
           "numero": "300",
           "sort": "rejeté"
@@ -3211,7 +3217,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17434",
           "numero": "301",
           "sort": "rejeté"
@@ -3219,7 +3225,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17435",
           "numero": "302",
           "sort": "non-voté"
@@ -3227,7 +3233,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17436",
           "numero": "303",
           "sort": "rejeté"
@@ -3235,7 +3241,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17437",
           "numero": "304",
           "sort": "rejeté"
@@ -3243,7 +3249,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17438",
           "numero": "305",
           "sort": "rejeté"
@@ -3251,7 +3257,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-19",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17439",
           "numero": "306",
           "sort": "rejeté"
@@ -3267,7 +3273,7 @@
         {
           "aut": "MM. Leroy, …",
           "date": "2010-05-28",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "17468",
           "numero": "335",
           "sort": "adopté"
@@ -3347,7 +3353,7 @@
         {
           "aut": "MM. Patient, …",
           "date": "2010-05-26",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "17604",
           "numero": "478",
           "sort": "adopté"
@@ -3371,7 +3377,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17749",
           "numero": "636",
           "sort": "rejeté"
@@ -3379,7 +3385,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17750",
           "numero": "637",
           "sort": "rejeté"
@@ -3387,7 +3393,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17751",
           "numero": "638",
           "sort": "rejeté"
@@ -3395,7 +3401,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17752",
           "numero": "639",
           "sort": "rejeté"
@@ -3403,7 +3409,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17753",
           "numero": "640",
           "sort": "rejeté"
@@ -3411,7 +3417,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17754",
           "numero": "641",
           "sort": "rejeté"
@@ -3441,7 +3447,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17440",
           "numero": "307",
           "sort": "rejeté"
@@ -3525,7 +3531,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17441",
           "numero": "308",
           "sort": "rejeté"
@@ -3571,7 +3577,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17442",
           "numero": "309",
           "sort": "rejeté"
@@ -3601,7 +3607,7 @@
         {
           "aut": "MM. Lise, …",
           "date": "2010-05-18",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17615",
           "numero": "490",
           "sort": "rejeté"
@@ -3623,7 +3629,7 @@
         {
           "aut": "MM. Patient, …",
           "date": "2010-05-27",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "17598",
           "numero": "472",
           "sort": "adopté"
@@ -3631,7 +3637,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17755",
           "numero": "642",
           "sort": "non-voté"
@@ -3639,7 +3645,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17756",
           "numero": "643",
           "sort": "non-voté"
@@ -3647,7 +3653,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17757",
           "numero": "644",
           "sort": "non-voté"
@@ -3805,7 +3811,7 @@
         {
           "aut": "M. Guillaume, …",
           "date": "2010-05-14",
-          "groupe": "SOC",
+          "groupe": "RDSE",
           "id_api": "17239",
           "numero": "100",
           "sort": "rejeté"
@@ -3845,7 +3851,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17358",
           "numero": "225",
           "sort": "rejeté"
@@ -3853,7 +3859,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17359",
           "numero": "226",
           "sort": "rejeté"
@@ -3861,7 +3867,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17360",
           "numero": "227",
           "sort": "rejeté"
@@ -3869,7 +3875,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17361",
           "numero": "228",
           "sort": "rejeté"
@@ -3877,7 +3883,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17362",
           "numero": "229",
           "sort": "adopté"
@@ -3885,7 +3891,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17363",
           "numero": "230",
           "sort": "rejeté"
@@ -3893,7 +3899,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17364",
           "numero": "231",
           "sort": "rejeté"
@@ -3901,7 +3907,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17365",
           "numero": "232",
           "sort": "non-voté"
@@ -3909,7 +3915,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17366",
           "numero": "233",
           "sort": "rejeté"
@@ -3917,7 +3923,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17367",
           "numero": "234",
           "sort": "rejeté"
@@ -3925,7 +3931,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17368",
           "numero": "235",
           "sort": "non-voté"
@@ -3933,7 +3939,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17369",
           "numero": "236",
           "sort": "rejeté"
@@ -3941,7 +3947,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17370",
           "numero": "237",
           "sort": "non-voté"
@@ -3949,7 +3955,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17371",
           "numero": "238",
           "sort": "adopté"
@@ -3957,7 +3963,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17372",
           "numero": "239",
           "sort": "non-voté"
@@ -4005,7 +4011,7 @@
         {
           "aut": "M. Lecerf, …",
           "date": "2010-05-17",
-          "groupe": "NI",
+          "groupe": "UMP",
           "id_api": "17567",
           "numero": "441",
           "sort": "non-voté"
@@ -4013,7 +4019,7 @@
         {
           "aut": "MM. Jarlier, …",
           "date": "2010-05-18",
-          "groupe": "UMP",
+          "groupe": "UDI",
           "id_api": "17633",
           "numero": "512",
           "sort": "non-voté"
@@ -4021,7 +4027,7 @@
         {
           "aut": "MM. Jarlier, …",
           "date": "2010-05-20",
-          "groupe": "UMP",
+          "groupe": "UDI",
           "id_api": "17634",
           "numero": "513",
           "sort": "rejeté"
@@ -4093,7 +4099,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17705",
           "numero": "591",
           "sort": "non-voté"
@@ -4101,7 +4107,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17706",
           "numero": "592",
           "sort": "rejeté"
@@ -4109,7 +4115,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-18",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17707",
           "numero": "593",
           "sort": "rejeté"
@@ -4163,7 +4169,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17374",
           "numero": "241",
           "sort": "rejeté"
@@ -4171,7 +4177,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17375",
           "numero": "242",
           "sort": "rejeté"
@@ -4249,7 +4255,7 @@
         {
           "aut": "M. Lecerf, …",
           "date": "2010-05-17",
-          "groupe": "NI",
+          "groupe": "UMP",
           "id_api": "17528",
           "numero": "402",
           "sort": "non-voté"
@@ -4257,7 +4263,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17709",
           "numero": "595",
           "sort": "rejeté"
@@ -4287,7 +4293,7 @@
         {
           "aut": "M. Lecerf, …",
           "date": "2010-05-17",
-          "groupe": "NI",
+          "groupe": "UMP",
           "id_api": "17526",
           "numero": "400",
           "sort": "non-voté"
@@ -4317,7 +4323,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17383",
           "numero": "250",
           "sort": "rejeté"
@@ -4325,7 +4331,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17384",
           "numero": "251",
           "sort": "rejeté"
@@ -4333,7 +4339,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17385",
           "numero": "252",
           "sort": "rejeté"
@@ -4341,7 +4347,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17386",
           "numero": "253",
           "sort": "rejeté"
@@ -4349,7 +4355,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17387",
           "numero": "254",
           "sort": "rejeté"
@@ -4371,7 +4377,7 @@
         {
           "aut": "MM. Antoinette, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "17325",
           "numero": "190",
           "sort": "adopté"
@@ -4419,7 +4425,7 @@
         {
           "aut": "MM. Patient, …",
           "date": "2010-05-18",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "17599",
           "numero": "473",
           "sort": "rejeté"
@@ -4457,7 +4463,7 @@
         {
           "aut": "MM. Antoinette, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "17326",
           "numero": "191",
           "sort": "adopté"
@@ -4609,7 +4615,7 @@
         {
           "aut": "MM. Patient, …",
           "date": "2010-05-18",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "17600",
           "numero": "474",
           "sort": "adopté"
@@ -4617,7 +4623,7 @@
         {
           "aut": "MM. Patient, …",
           "date": "2010-05-18",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "17601",
           "numero": "475",
           "sort": "rejeté"
@@ -4625,7 +4631,7 @@
         {
           "aut": "MM. Patient, …",
           "date": "2010-05-18",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "17602",
           "numero": "476",
           "sort": "rejeté"
@@ -4683,7 +4689,7 @@
         {
           "aut": "MM. Antoinette, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "17327",
           "numero": "192",
           "sort": "rejeté"
@@ -4691,7 +4697,7 @@
         {
           "aut": "MM. Antoinette, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "17328",
           "numero": "193",
           "sort": "rejeté"
@@ -4699,7 +4705,7 @@
         {
           "aut": "MM. Antoinette, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "17329",
           "numero": "194",
           "sort": "rejeté"
@@ -4707,7 +4713,7 @@
         {
           "aut": "MM. Antoinette, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "17330",
           "numero": "195",
           "sort": "non-voté"
@@ -4715,7 +4721,7 @@
         {
           "aut": "MM. Antoinette, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "17331",
           "numero": "196",
           "sort": "rejeté"
@@ -4723,7 +4729,7 @@
         {
           "aut": "MM. Antoinette, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "17332",
           "numero": "197",
           "sort": "non-voté"
@@ -4731,7 +4737,7 @@
         {
           "aut": "MM. Antoinette, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "17333",
           "numero": "198",
           "sort": "rejeté"
@@ -4739,7 +4745,7 @@
         {
           "aut": "MM. Antoinette, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "17334",
           "numero": "199",
           "sort": "rejeté"
@@ -4747,7 +4753,7 @@
         {
           "aut": "MM. Antoinette, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "17335",
           "numero": "200",
           "sort": "rejeté"
@@ -4755,7 +4761,7 @@
         {
           "aut": "MM. Lise, …",
           "date": "2010-05-25",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17356",
           "numero": "223",
           "sort": "rejeté"
@@ -4763,7 +4769,7 @@
         {
           "aut": "M. Lise, …",
           "date": "2010-05-20",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17357",
           "numero": "224",
           "sort": "rejeté"
@@ -4817,7 +4823,7 @@
         {
           "aut": "MM. Couderc, …",
           "date": "2010-05-18",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "17213",
           "numero": "74",
           "sort": "non-voté"
@@ -4857,7 +4863,7 @@
         {
           "aut": "MM. Cazeau, …",
           "date": "2010-05-15",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "17274",
           "numero": "138",
           "sort": "rejeté"
@@ -4865,7 +4871,7 @@
         {
           "aut": "MM. Cazeau, …",
           "date": "2010-05-15",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "17275",
           "numero": "139",
           "sort": "non-voté"
@@ -4889,7 +4895,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17393",
           "numero": "260",
           "sort": "rejeté"
@@ -4897,7 +4903,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17394",
           "numero": "261",
           "sort": "adopté"
@@ -4905,7 +4911,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17395",
           "numero": "262",
           "sort": "rejeté"
@@ -4913,7 +4919,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17396",
           "numero": "263",
           "sort": "rejeté"
@@ -4921,7 +4927,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17397",
           "numero": "264",
           "sort": "rejeté"
@@ -4961,7 +4967,7 @@
         {
           "aut": "MM. Jarlier, …",
           "date": "2010-05-18",
-          "groupe": "UMP",
+          "groupe": "UDI",
           "id_api": "17627",
           "numero": "505",
           "sort": "non-voté"
@@ -4969,7 +4975,7 @@
         {
           "aut": "MM. Jarlier, …",
           "date": "2010-05-18",
-          "groupe": "UMP",
+          "groupe": "UDI",
           "id_api": "17630",
           "numero": "508",
           "sort": "non-voté"
@@ -5025,7 +5031,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17716",
           "numero": "602",
           "sort": "rejeté"
@@ -5095,7 +5101,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17398",
           "numero": "265",
           "sort": "non-voté"
@@ -5103,7 +5109,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17399",
           "numero": "266",
           "sort": "rejeté"
@@ -5111,7 +5117,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17400",
           "numero": "267",
           "sort": "non-voté"
@@ -5119,7 +5125,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17401",
           "numero": "268",
           "sort": "rejeté"
@@ -5135,7 +5141,7 @@
         {
           "aut": "MM. Jarlier, …",
           "date": "2010-05-18",
-          "groupe": "UMP",
+          "groupe": "UDI",
           "id_api": "17631",
           "numero": "509",
           "sort": "non-voté"
@@ -5173,7 +5179,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17403",
           "numero": "270",
           "sort": "rejeté"
@@ -5211,7 +5217,7 @@
         {
           "aut": "M. Guillaume, …",
           "date": "2010-05-15",
-          "groupe": "SOC",
+          "groupe": "RDSE",
           "id_api": "17281",
           "numero": "145",
           "sort": "non-voté"
@@ -5219,7 +5225,7 @@
         {
           "aut": "MM. Guillaume, …",
           "date": "2010-05-15",
-          "groupe": "SOC",
+          "groupe": "RDSE",
           "id_api": "17282",
           "numero": "146",
           "sort": "adopté"
@@ -5227,7 +5233,7 @@
         {
           "aut": "M. Guillaume, …",
           "date": "2010-05-26",
-          "groupe": "SOC",
+          "groupe": "RDSE",
           "id_api": "17283",
           "numero": "147",
           "sort": "rejeté"
@@ -5235,7 +5241,7 @@
         {
           "aut": "M. Cazeau, …",
           "date": "2010-05-15",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "17284",
           "numero": "148",
           "sort": "rejeté"
@@ -5243,7 +5249,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17404",
           "numero": "271",
           "sort": "non-voté"
@@ -5283,7 +5289,7 @@
         {
           "aut": "MM. Jarlier, …",
           "date": "2010-05-18",
-          "groupe": "UMP",
+          "groupe": "UDI",
           "id_api": "17624",
           "numero": "502",
           "sort": "non-voté"
@@ -5291,7 +5297,7 @@
         {
           "aut": "MM. Jarlier, …",
           "date": "2010-05-18",
-          "groupe": "UMP",
+          "groupe": "UDI",
           "id_api": "17625",
           "numero": "503",
           "sort": "non-voté"
@@ -5331,7 +5337,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17717",
           "numero": "603",
           "sort": "rejeté"
@@ -5377,7 +5383,7 @@
         {
           "aut": "MM. Couderc, …",
           "date": "2010-05-18",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "17212",
           "numero": "73",
           "sort": "non-voté"
@@ -5409,7 +5415,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17407",
           "numero": "274",
           "sort": "rejeté"
@@ -5417,7 +5423,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17408",
           "numero": "275",
           "sort": "rejeté"
@@ -5489,7 +5495,7 @@
         {
           "aut": "MM. Jarlier, …",
           "date": "2010-05-18",
-          "groupe": "UMP",
+          "groupe": "UDI",
           "id_api": "17626",
           "numero": "504",
           "sort": "non-voté"
@@ -5575,7 +5581,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17409",
           "numero": "276",
           "sort": "rejeté"
@@ -5583,7 +5589,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17449",
           "numero": "316",
           "sort": "rejeté"
@@ -5607,7 +5613,7 @@
         {
           "aut": "MM. Dubois, …",
           "date": "2010-05-17",
-          "groupe": "UDI",
+          "groupe": "UC",
           "id_api": "17587",
           "numero": "461",
           "sort": "non-voté"
@@ -5615,7 +5621,7 @@
         {
           "aut": "MM. Dubois, …",
           "date": "2010-05-17",
-          "groupe": "UDI",
+          "groupe": "UC",
           "id_api": "17588",
           "numero": "462",
           "sort": "non-voté"
@@ -5685,7 +5691,7 @@
         {
           "aut": "M. Guillaume, …",
           "date": "2010-05-15",
-          "groupe": "SOC",
+          "groupe": "RDSE",
           "id_api": "17296",
           "numero": "160",
           "sort": "non-voté"
@@ -5701,7 +5707,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17410",
           "numero": "277",
           "sort": "rejeté"
@@ -5709,7 +5715,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17411",
           "numero": "278",
           "sort": "rejeté"
@@ -5741,7 +5747,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17718",
           "numero": "604",
           "sort": "non-voté"
@@ -5749,7 +5755,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17719",
           "numero": "605",
           "sort": "non-voté"
@@ -5757,7 +5763,7 @@
         {
           "aut": "MM. Muller, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17720",
           "numero": "606",
           "sort": "non-voté"
@@ -5765,7 +5771,7 @@
         {
           "aut": "M. Muller",
           "date": "2010-05-18",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "17771",
           "numero": "658",
           "sort": "non-voté"
@@ -5847,7 +5853,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17388",
           "numero": "255",
           "sort": "rejeté"
@@ -5855,7 +5861,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17389",
           "numero": "256",
           "sort": "non-voté"
@@ -5863,7 +5869,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17390",
           "numero": "257",
           "sort": "rejeté"
@@ -5871,7 +5877,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17391",
           "numero": "258",
           "sort": "rejeté"
@@ -5879,7 +5885,7 @@
         {
           "aut": "MM. Le Cam, …",
           "date": "2010-05-17",
-          "groupe": "CRC",
+          "groupe": "CRCE",
           "id_api": "17392",
           "numero": "259",
           "sort": "rejeté"
@@ -5887,7 +5893,7 @@
         {
           "aut": "M. Guillaume, …",
           "date": "2010-05-17",
-          "groupe": "SOC",
+          "groupe": "RDSE",
           "id_api": "17532",
           "numero": "406",
           "sort": "non-voté"
@@ -5915,7 +5921,7 @@
         {
           "aut": "Mme Labarre, …",
           "date": "2010-05-12",
-          "groupe": "CRC",
+          "groupe": "CRC-SPG",
           "id_api": "17181",
           "numero": "39",
           "sort": "rejeté"
@@ -5943,7 +5949,7 @@
         {
           "aut": "MM. Bailly, …",
           "date": "2010-05-12",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "17215",
           "numero": "76",
           "sort": "non-voté"

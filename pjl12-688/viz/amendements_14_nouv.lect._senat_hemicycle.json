@@ -25,12 +25,6 @@
       "nom": "Réunion administrative des Sénateurs ne figurant sur la liste d'aucun groupe politique",
       "order": 25
     },
-    "RDSE": {
-      "color": "rgb(250,195,132)",
-      "link": "https://www.nossenateurs.fr/groupe/RDSE",
-      "nom": "Rassemblement Démocratique et Social européen",
-      "order": 17
-    },
     "SOC": {
       "color": "rgb(255,50,190)",
       "link": "https://www.nossenateurs.fr/groupe/SOC",
@@ -299,7 +293,7 @@
         {
           "aut": "Mmes Ango Ela, …",
           "date": "2013-07-24",
-          "groupe": "ECOLO",
+          "groupe": "ECO",
           "id_api": "68416",
           "numero": "40",
           "sort": "non-voté"
@@ -323,7 +317,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2013-07-24",
-          "groupe": "RDSE",
+          "groupe": "CRCE",
           "id_api": "68422",
           "numero": "46",
           "sort": "non-voté"
@@ -331,7 +325,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2013-07-25",
-          "groupe": "RDSE",
+          "groupe": "CRCE",
           "id_api": "68427",
           "numero": "47",
           "sort": "non-voté"
@@ -353,7 +347,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2013-07-24",
-          "groupe": "RDSE",
+          "groupe": "CRCE",
           "id_api": "68421",
           "numero": "45",
           "sort": "adopté"

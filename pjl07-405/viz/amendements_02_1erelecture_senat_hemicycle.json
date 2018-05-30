@@ -25,6 +25,12 @@
       "nom": "La République en Marche",
       "order": 18
     },
+    "NI": {
+      "color": "rgb(165,165,165)",
+      "link": "https://www.nossenateurs.fr/groupe/NI",
+      "nom": "Réunion administrative des Sénateurs ne figurant sur la liste d'aucun groupe politique",
+      "order": 25
+    },
     "SOC": {
       "color": "rgb(255,50,190)",
       "link": "https://www.nossenateurs.fr/groupe/SOC",
@@ -67,7 +73,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2008-10-29",
-          "groupe": "CRC",
+          "groupe": "CRC-SPG",
           "id_api": "39715",
           "numero": "159",
           "sort": "rejeté"
@@ -89,7 +95,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2008-10-29",
-          "groupe": "CRC",
+          "groupe": "CRC-SPG",
           "id_api": "39712",
           "numero": "156",
           "sort": "non-voté"
@@ -103,7 +109,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2008-10-29",
-          "groupe": "CRC",
+          "groupe": "CRC-SPG",
           "id_api": "39717",
           "numero": "161",
           "sort": "rejeté"
@@ -117,7 +123,7 @@
         {
           "aut": "MM. Lagauche, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "39692",
           "numero": "136",
           "sort": "rejeté"
@@ -125,7 +131,7 @@
         {
           "aut": "MM. Lagauche, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "39693",
           "numero": "137",
           "sort": "non-voté"
@@ -133,7 +139,7 @@
         {
           "aut": "MM. Lagauche, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "39694",
           "numero": "138",
           "sort": "adopté"
@@ -235,7 +241,7 @@
         {
           "aut": "MM. Lagauche, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "39691",
           "numero": "135",
           "sort": "non-voté"
@@ -243,7 +249,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2008-10-29",
-          "groupe": "CRC",
+          "groupe": "CRC-SPG",
           "id_api": "39700",
           "numero": "144",
           "sort": "rejeté"
@@ -251,7 +257,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2008-10-29",
-          "groupe": "CRC",
+          "groupe": "CRC-SPG",
           "id_api": "39714",
           "numero": "158",
           "sort": "rejeté"
@@ -259,7 +265,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2008-10-29",
-          "groupe": "CRC",
+          "groupe": "CRC-SPG",
           "id_api": "39716",
           "numero": "160",
           "sort": "non-voté"
@@ -895,7 +901,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "39660",
           "numero": "104",
           "sort": "adopté"
@@ -903,7 +909,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "39661",
           "numero": "105",
           "sort": "rejeté"
@@ -911,7 +917,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "39662",
           "numero": "106",
           "sort": "non-voté"
@@ -919,7 +925,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "39663",
           "numero": "107",
           "sort": "rejeté"
@@ -927,7 +933,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "39664",
           "numero": "108",
           "sort": "non-voté"
@@ -935,7 +941,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "39665",
           "numero": "109",
           "sort": "rejeté"
@@ -959,7 +965,7 @@
         {
           "aut": "Mmes Procaccia, …",
           "date": "2008-10-29",
-          "groupe": "UMP",
+          "groupe": "LR",
           "id_api": "39669",
           "numero": "113",
           "sort": "non-voté"
@@ -975,7 +981,7 @@
         {
           "aut": "Mmes Blandin, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "NI",
           "id_api": "39671",
           "numero": "115",
           "sort": "non-voté"
@@ -983,7 +989,7 @@
         {
           "aut": "Mmes Blandin, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "NI",
           "id_api": "39672",
           "numero": "116",
           "sort": "non-voté"
@@ -991,7 +997,7 @@
         {
           "aut": "Mmes Blandin, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "NI",
           "id_api": "39673",
           "numero": "117",
           "sort": "non-voté"
@@ -999,7 +1005,7 @@
         {
           "aut": "Mmes Blandin, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "NI",
           "id_api": "39674",
           "numero": "118",
           "sort": "non-voté"
@@ -1007,7 +1013,7 @@
         {
           "aut": "Mmes Blandin, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "NI",
           "id_api": "39675",
           "numero": "119",
           "sort": "rejeté"
@@ -1015,7 +1021,7 @@
         {
           "aut": "Mmes Blandin, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "NI",
           "id_api": "39676",
           "numero": "120",
           "sort": "rejeté"
@@ -1023,7 +1029,7 @@
         {
           "aut": "Mmes Blandin, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "NI",
           "id_api": "39677",
           "numero": "121",
           "sort": "rejeté"
@@ -1031,7 +1037,7 @@
         {
           "aut": "Mmes Blandin, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "NI",
           "id_api": "39678",
           "numero": "122",
           "sort": "rejeté"
@@ -1039,7 +1045,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "39679",
           "numero": "123",
           "sort": "non-voté"
@@ -1047,7 +1053,7 @@
         {
           "aut": "MM. Lagauche, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "39681",
           "numero": "125",
           "sort": "rejeté"
@@ -1055,7 +1061,7 @@
         {
           "aut": "MM. Lagauche, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "39682",
           "numero": "126",
           "sort": "non-voté"
@@ -1063,7 +1069,7 @@
         {
           "aut": "MM. Lagauche, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "39683",
           "numero": "127",
           "sort": "non-voté"
@@ -1071,7 +1077,7 @@
         {
           "aut": "MM. Lagauche, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "39684",
           "numero": "128",
           "sort": "rejeté"
@@ -1079,7 +1085,7 @@
         {
           "aut": "MM. Lagauche, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "39685",
           "numero": "129",
           "sort": "non-voté"
@@ -1087,7 +1093,7 @@
         {
           "aut": "Mme Blandin, …",
           "date": "2008-10-30",
-          "groupe": "SOC",
+          "groupe": "NI",
           "id_api": "39686",
           "numero": "130",
           "sort": "adopté"
@@ -1095,7 +1101,7 @@
         {
           "aut": "Mme Blandin, …",
           "date": "2008-10-30",
-          "groupe": "SOC",
+          "groupe": "NI",
           "id_api": "39687",
           "numero": "131",
           "sort": "adopté"
@@ -1103,7 +1109,7 @@
         {
           "aut": "MM. Lagauche, …",
           "date": "2008-10-30",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "39688",
           "numero": "132",
           "sort": "adopté"
@@ -1111,7 +1117,7 @@
         {
           "aut": "MM. Lagauche, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "39689",
           "numero": "133",
           "sort": "adopté"
@@ -1119,7 +1125,7 @@
         {
           "aut": "MM. Domeizel, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "39690",
           "numero": "134",
           "sort": "rejeté"
@@ -1127,7 +1133,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2008-10-29",
-          "groupe": "CRC",
+          "groupe": "CRC-SPG",
           "id_api": "39695",
           "numero": "139",
           "sort": "rejeté"
@@ -1135,7 +1141,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2008-10-29",
-          "groupe": "CRC",
+          "groupe": "CRC-SPG",
           "id_api": "39696",
           "numero": "140",
           "sort": "rejeté"
@@ -1143,7 +1149,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2008-10-29",
-          "groupe": "CRC",
+          "groupe": "CRC-SPG",
           "id_api": "39697",
           "numero": "141",
           "sort": "non-voté"
@@ -1151,7 +1157,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2008-10-29",
-          "groupe": "CRC",
+          "groupe": "CRC-SPG",
           "id_api": "39698",
           "numero": "142",
           "sort": "adopté"
@@ -1159,7 +1165,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2008-10-29",
-          "groupe": "CRC",
+          "groupe": "CRC-SPG",
           "id_api": "39699",
           "numero": "143",
           "sort": "rejeté"
@@ -1167,7 +1173,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2008-10-29",
-          "groupe": "CRC",
+          "groupe": "CRC-SPG",
           "id_api": "39702",
           "numero": "146",
           "sort": "rejeté"
@@ -1175,7 +1181,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2008-10-29",
-          "groupe": "CRC",
+          "groupe": "CRC-SPG",
           "id_api": "39703",
           "numero": "147",
           "sort": "rejeté"
@@ -1183,7 +1189,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2008-10-29",
-          "groupe": "CRC",
+          "groupe": "CRC-SPG",
           "id_api": "39704",
           "numero": "148",
           "sort": "non-voté"
@@ -1191,7 +1197,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2008-10-29",
-          "groupe": "CRC",
+          "groupe": "CRC-SPG",
           "id_api": "39705",
           "numero": "149",
           "sort": "adopté"
@@ -1199,7 +1205,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2008-10-29",
-          "groupe": "CRC",
+          "groupe": "CRC-SPG",
           "id_api": "39706",
           "numero": "150",
           "sort": "non-voté"
@@ -1207,7 +1213,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2008-10-29",
-          "groupe": "CRC",
+          "groupe": "CRC-SPG",
           "id_api": "39707",
           "numero": "151",
           "sort": "non-voté"
@@ -1215,7 +1221,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2008-10-29",
-          "groupe": "CRC",
+          "groupe": "CRC-SPG",
           "id_api": "39708",
           "numero": "152",
           "sort": "non-voté"
@@ -1223,7 +1229,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2008-10-30",
-          "groupe": "CRC",
+          "groupe": "CRC-SPG",
           "id_api": "39709",
           "numero": "153",
           "sort": "adopté"
@@ -1231,7 +1237,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2008-10-29",
-          "groupe": "CRC",
+          "groupe": "CRC-SPG",
           "id_api": "39710",
           "numero": "154",
           "sort": "rejeté"
@@ -1239,7 +1245,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2008-10-29",
-          "groupe": "CRC",
+          "groupe": "CRC-SPG",
           "id_api": "39711",
           "numero": "155",
           "sort": "non-voté"
@@ -1247,7 +1253,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2008-10-29",
-          "groupe": "CRC",
+          "groupe": "CRC-SPG",
           "id_api": "39713",
           "numero": "157",
           "sort": "rejeté"
@@ -1493,7 +1499,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2008-10-29",
-          "groupe": "CRC",
+          "groupe": "CRC-SPG",
           "id_api": "39701",
           "numero": "145",
           "sort": "rejeté"
@@ -1515,7 +1521,7 @@
         {
           "aut": "MM. Lagauche, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "39680",
           "numero": "124",
           "sort": "non-voté"
@@ -1543,7 +1549,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-10-29",
-          "groupe": "SOC",
+          "groupe": "SOCV",
           "id_api": "39668",
           "numero": "112",
           "sort": "rejeté"

@@ -13,6 +13,12 @@
       "nom": "Les Républicains",
       "order": 24
     },
+    "LREM": {
+      "color": "rgb(232,197,5)",
+      "link": "https://www.nossenateurs.fr/groupe/LREM",
+      "nom": "La République en Marche",
+      "order": 18
+    },
     "SOC": {
       "color": "rgb(255,50,190)",
       "link": "https://www.nossenateurs.fr/groupe/SOC",
@@ -24,6 +30,12 @@
       "link": "https://www.nossenateurs.fr/groupe/UC",
       "nom": "Union Centriste",
       "order": 20
+    },
+    "UMP": {
+      "color": "rgb(30,30,200)",
+      "link": "https://www.nossenateurs.fr/groupe/UMP",
+      "nom": "Union pour un Mouvement Populaire",
+      "order": 23
     }
   },
   "id_step": "05_1erelecture_senat_hemicycle",
@@ -69,7 +81,7 @@
         {
           "aut": "Mme Schillinger, …",
           "date": "2012-02-10",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "53331",
           "numero": "3",
           "sort": "non-voté"
@@ -77,7 +89,7 @@
         {
           "aut": "Mme Schillinger, …",
           "date": "2012-02-10",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "53332",
           "numero": "4",
           "sort": "non-voté"
@@ -85,7 +97,7 @@
         {
           "aut": "Mme Schillinger, …",
           "date": "2012-02-10",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "53333",
           "numero": "5",
           "sort": "non-voté"
@@ -93,7 +105,7 @@
         {
           "aut": "Mme Schillinger, …",
           "date": "2012-02-10",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "53334",
           "numero": "6",
           "sort": "non-voté"
@@ -101,7 +113,7 @@
         {
           "aut": "Mme Schillinger, …",
           "date": "2012-02-10",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "53335",
           "numero": "7",
           "sort": "non-voté"
@@ -109,7 +121,7 @@
         {
           "aut": "Mme Schillinger, …",
           "date": "2012-02-10",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "53336",
           "numero": "8",
           "sort": "non-voté"
@@ -117,7 +129,7 @@
         {
           "aut": "Mme Schillinger, …",
           "date": "2012-02-10",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "53337",
           "numero": "9",
           "sort": "non-voté"
@@ -125,7 +137,7 @@
         {
           "aut": "Mme Schillinger, …",
           "date": "2012-02-10",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "53338",
           "numero": "10",
           "sort": "non-voté"
@@ -133,7 +145,7 @@
         {
           "aut": "Mme Schillinger, …",
           "date": "2012-02-10",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "53339",
           "numero": "11",
           "sort": "non-voté"
@@ -141,7 +153,7 @@
         {
           "aut": "Mme Schillinger, …",
           "date": "2012-02-10",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "53340",
           "numero": "12",
           "sort": "non-voté"
@@ -157,7 +169,7 @@
         {
           "aut": "MM. Grignon, …",
           "date": "2012-02-15",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "53346",
           "numero": "18",
           "sort": "non-voté"
@@ -165,7 +177,7 @@
         {
           "aut": "MM. Grignon, …",
           "date": "2012-02-15",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "53347",
           "numero": "19",
           "sort": "non-voté"
@@ -259,7 +271,7 @@
         {
           "aut": "Mme Schillinger, …",
           "date": "2012-02-10",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "53329",
           "numero": "1",
           "sort": "non-voté"
@@ -267,7 +279,7 @@
         {
           "aut": "Mme Schillinger, …",
           "date": "2012-02-10",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "53330",
           "numero": "2",
           "sort": "non-voté"
@@ -319,7 +331,7 @@
         {
           "aut": "Mme Schillinger, …",
           "date": "2012-02-10",
-          "groupe": "SOC",
+          "groupe": "LREM",
           "id_api": "53341",
           "numero": "13",
           "sort": "non-voté"
@@ -327,7 +339,7 @@
         {
           "aut": "MM. Grignon, …",
           "date": "2012-02-15",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "53348",
           "numero": "20",
           "sort": "non-voté"
@@ -335,7 +347,7 @@
         {
           "aut": "MM. Grignon, …",
           "date": "2012-02-15",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "53349",
           "numero": "21",
           "sort": "non-voté"

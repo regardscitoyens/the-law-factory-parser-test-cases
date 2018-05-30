@@ -7,12 +7,6 @@
       "nom": "Communiste républicain citoyen et Écologiste",
       "order": 10
     },
-    "ECOLO": {
-      "color": "rgb(0,230,30)",
-      "link": "https://www.nossenateurs.fr/groupe/ECOLO",
-      "nom": "Écologiste",
-      "order": 16
-    },
     "Gouvernement": {
       "color": "#cccbb3",
       "link": "",
@@ -87,7 +81,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2013-07-11",
-          "groupe": "RDSE",
+          "groupe": "CRCE",
           "id_api": "67556",
           "numero": "109",
           "sort": "rejeté"
@@ -359,7 +353,7 @@
         {
           "aut": "Mmes Lipietz, …",
           "date": "2013-07-11",
-          "groupe": "ECOLO",
+          "groupe": "NI",
           "id_api": "67489",
           "numero": "36",
           "sort": "non-voté"
@@ -639,7 +633,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2013-07-11",
-          "groupe": "RDSE",
+          "groupe": "CRCE",
           "id_api": "67547",
           "numero": "100",
           "sort": "non-voté"
@@ -647,7 +641,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2013-07-11",
-          "groupe": "RDSE",
+          "groupe": "CRCE",
           "id_api": "67548",
           "numero": "101",
           "sort": "non-voté"
@@ -655,7 +649,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2013-07-11",
-          "groupe": "RDSE",
+          "groupe": "CRCE",
           "id_api": "67549",
           "numero": "102",
           "sort": "non-voté"
@@ -671,7 +665,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2013-07-11",
-          "groupe": "RDSE",
+          "groupe": "CRCE",
           "id_api": "67551",
           "numero": "104",
           "sort": "non-voté"
@@ -679,7 +673,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2013-07-11",
-          "groupe": "RDSE",
+          "groupe": "CRCE",
           "id_api": "67552",
           "numero": "105",
           "sort": "non-voté"
@@ -687,7 +681,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2013-07-11",
-          "groupe": "RDSE",
+          "groupe": "CRCE",
           "id_api": "67553",
           "numero": "106",
           "sort": "non-voté"
@@ -695,7 +689,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2013-07-11",
-          "groupe": "RDSE",
+          "groupe": "CRCE",
           "id_api": "67562",
           "numero": "115",
           "sort": "non-voté"
@@ -975,7 +969,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2013-07-12",
-          "groupe": "RDSE",
+          "groupe": "CRCE",
           "id_api": "67674",
           "numero": "171",
           "sort": "rejeté"
@@ -983,7 +977,7 @@
         {
           "aut": "MM. Mézard, …",
           "date": "2013-07-12",
-          "groupe": "CRCE",
+          "groupe": "RDSE",
           "id_api": "67675",
           "numero": "172",
           "sort": "rejeté"
@@ -991,7 +985,7 @@
         {
           "aut": "MM. Mézard, …",
           "date": "2013-07-12",
-          "groupe": "CRCE",
+          "groupe": "RDSE",
           "id_api": "67676",
           "numero": "174",
           "sort": "non-voté"
@@ -999,7 +993,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2013-07-12",
-          "groupe": "RDSE",
+          "groupe": "CRCE",
           "id_api": "67677",
           "numero": "175",
           "sort": "rejeté"
@@ -1023,7 +1017,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2013-07-12",
-          "groupe": "RDSE",
+          "groupe": "CRCE",
           "id_api": "67680",
           "numero": "178",
           "sort": "non-voté"
@@ -1039,7 +1033,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2013-07-12",
-          "groupe": "RDSE",
+          "groupe": "CRCE",
           "id_api": "67682",
           "numero": "180",
           "sort": "non-voté"
@@ -1615,7 +1609,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2013-07-11",
-          "groupe": "RDSE",
+          "groupe": "CRCE",
           "id_api": "67561",
           "numero": "114",
           "sort": "adopté"
