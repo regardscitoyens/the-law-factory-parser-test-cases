@@ -1,23 +1,11 @@
 {
   "api_root_url": "https://www.nossenateurs.fr/api/document/Amendement/",
   "groupes": {
-    "CRCE": {
+    "CRC": {
       "color": "rgb(255,30,30)",
-      "link": "https://www.nossenateurs.fr/groupe/CRCE",
-      "nom": "Communiste républicain citoyen et Écologiste",
-      "order": 10
-    },
-    "LR": {
-      "color": "rgb(30,30,200)",
-      "link": "https://www.nossenateurs.fr/groupe/LR",
-      "nom": "Les Républicains",
-      "order": 24
-    },
-    "LREM": {
-      "color": "rgb(232,197,5)",
-      "link": "https://www.nossenateurs.fr/groupe/LREM",
-      "nom": "La République en Marche",
-      "order": 18
+      "link": "https://www.nossenateurs.fr/groupe/CRC",
+      "nom": "Communiste, Républicain, Citoyen et des Sénateurs du Parti de Gauche",
+      "order": 11
     },
     "SOC": {
       "color": "rgb(255,50,190)",
@@ -45,7 +33,7 @@
         {
           "aut": "Mmes Pasquet, …",
           "date": "2012-02-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "53352",
           "numero": "24",
           "sort": "non-voté"
@@ -59,7 +47,7 @@
         {
           "aut": "Mmes Procaccia, …",
           "date": "2012-02-15",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "53344",
           "numero": "16",
           "sort": "non-voté"
@@ -67,7 +55,7 @@
         {
           "aut": "Mmes Procaccia, …",
           "date": "2012-02-15",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "53345",
           "numero": "17",
           "sort": "non-voté"
@@ -81,7 +69,7 @@
         {
           "aut": "Mme Schillinger, …",
           "date": "2012-02-10",
-          "groupe": "LREM",
+          "groupe": "SOC",
           "id_api": "53331",
           "numero": "3",
           "sort": "non-voté"
@@ -89,7 +77,7 @@
         {
           "aut": "Mme Schillinger, …",
           "date": "2012-02-10",
-          "groupe": "LREM",
+          "groupe": "SOC",
           "id_api": "53332",
           "numero": "4",
           "sort": "non-voté"
@@ -97,7 +85,7 @@
         {
           "aut": "Mme Schillinger, …",
           "date": "2012-02-10",
-          "groupe": "LREM",
+          "groupe": "SOC",
           "id_api": "53333",
           "numero": "5",
           "sort": "non-voté"
@@ -105,7 +93,7 @@
         {
           "aut": "Mme Schillinger, …",
           "date": "2012-02-10",
-          "groupe": "LREM",
+          "groupe": "SOC",
           "id_api": "53334",
           "numero": "6",
           "sort": "non-voté"
@@ -113,7 +101,7 @@
         {
           "aut": "Mme Schillinger, …",
           "date": "2012-02-10",
-          "groupe": "LREM",
+          "groupe": "SOC",
           "id_api": "53335",
           "numero": "7",
           "sort": "non-voté"
@@ -121,7 +109,7 @@
         {
           "aut": "Mme Schillinger, …",
           "date": "2012-02-10",
-          "groupe": "LREM",
+          "groupe": "SOC",
           "id_api": "53336",
           "numero": "8",
           "sort": "non-voté"
@@ -129,7 +117,7 @@
         {
           "aut": "Mme Schillinger, …",
           "date": "2012-02-10",
-          "groupe": "LREM",
+          "groupe": "SOC",
           "id_api": "53337",
           "numero": "9",
           "sort": "non-voté"
@@ -137,7 +125,7 @@
         {
           "aut": "Mme Schillinger, …",
           "date": "2012-02-10",
-          "groupe": "LREM",
+          "groupe": "SOC",
           "id_api": "53338",
           "numero": "10",
           "sort": "non-voté"
@@ -145,7 +133,7 @@
         {
           "aut": "Mme Schillinger, …",
           "date": "2012-02-10",
-          "groupe": "LREM",
+          "groupe": "SOC",
           "id_api": "53339",
           "numero": "11",
           "sort": "non-voté"
@@ -153,7 +141,7 @@
         {
           "aut": "Mme Schillinger, …",
           "date": "2012-02-10",
-          "groupe": "LREM",
+          "groupe": "SOC",
           "id_api": "53340",
           "numero": "12",
           "sort": "non-voté"
@@ -161,7 +149,7 @@
         {
           "aut": "Mmes Procaccia, …",
           "date": "2012-02-15",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "53342",
           "numero": "14",
           "sort": "non-voté"
@@ -185,7 +173,7 @@
         {
           "aut": "Mmes Pasquet, …",
           "date": "2012-02-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "53353",
           "numero": "25",
           "sort": "non-voté"
@@ -193,7 +181,7 @@
         {
           "aut": "Mmes Pasquet, …",
           "date": "2012-02-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "53354",
           "numero": "26",
           "sort": "non-voté"
@@ -201,7 +189,7 @@
         {
           "aut": "Mmes Pasquet, …",
           "date": "2012-02-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "53355",
           "numero": "27",
           "sort": "non-voté"
@@ -209,7 +197,7 @@
         {
           "aut": "Mmes Pasquet, …",
           "date": "2012-02-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "53356",
           "numero": "28",
           "sort": "non-voté"
@@ -217,7 +205,7 @@
         {
           "aut": "Mmes Pasquet, …",
           "date": "2012-02-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "53357",
           "numero": "29",
           "sort": "non-voté"
@@ -225,7 +213,7 @@
         {
           "aut": "Mmes Pasquet, …",
           "date": "2012-02-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "53358",
           "numero": "30",
           "sort": "non-voté"
@@ -233,7 +221,7 @@
         {
           "aut": "Mmes Pasquet, …",
           "date": "2012-02-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "53359",
           "numero": "31",
           "sort": "non-voté"
@@ -241,7 +229,7 @@
         {
           "aut": "Mmes Procaccia, …",
           "date": "2012-02-14",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "53365",
           "numero": "37",
           "sort": "non-voté"
@@ -249,7 +237,7 @@
         {
           "aut": "Mmes Procaccia, …",
           "date": "2012-02-14",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "53366",
           "numero": "38",
           "sort": "non-voté"
@@ -257,7 +245,7 @@
         {
           "aut": "Mmes Procaccia, …",
           "date": "2012-02-14",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "53367",
           "numero": "39",
           "sort": "non-voté"
@@ -271,7 +259,7 @@
         {
           "aut": "Mme Schillinger, …",
           "date": "2012-02-10",
-          "groupe": "LREM",
+          "groupe": "SOC",
           "id_api": "53329",
           "numero": "1",
           "sort": "non-voté"
@@ -279,7 +267,7 @@
         {
           "aut": "Mme Schillinger, …",
           "date": "2012-02-10",
-          "groupe": "LREM",
+          "groupe": "SOC",
           "id_api": "53330",
           "numero": "2",
           "sort": "non-voté"
@@ -287,7 +275,7 @@
         {
           "aut": "Mmes Pasquet, …",
           "date": "2012-02-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "53350",
           "numero": "22",
           "sort": "non-voté"
@@ -295,7 +283,7 @@
         {
           "aut": "Mmes Pasquet, …",
           "date": "2012-02-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "53351",
           "numero": "23",
           "sort": "non-voté"
@@ -309,7 +297,7 @@
         {
           "aut": "Mmes Pasquet, …",
           "date": "2012-02-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "53360",
           "numero": "32",
           "sort": "non-voté"
@@ -331,7 +319,7 @@
         {
           "aut": "Mme Schillinger, …",
           "date": "2012-02-10",
-          "groupe": "LREM",
+          "groupe": "SOC",
           "id_api": "53341",
           "numero": "13",
           "sort": "non-voté"
@@ -355,7 +343,7 @@
         {
           "aut": "Mmes Pasquet, …",
           "date": "2012-02-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "53362",
           "numero": "34",
           "sort": "non-voté"
@@ -369,7 +357,7 @@
         {
           "aut": "Mmes Pasquet, …",
           "date": "2012-02-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "53361",
           "numero": "33",
           "sort": "non-voté"
@@ -405,7 +393,7 @@
         {
           "aut": "Mmes Procaccia, …",
           "date": "2012-02-15",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "53343",
           "numero": "15",
           "sort": "non-voté"

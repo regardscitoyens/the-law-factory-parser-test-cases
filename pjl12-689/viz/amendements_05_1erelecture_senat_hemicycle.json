@@ -1,23 +1,23 @@
 {
   "api_root_url": "https://www.nossenateurs.fr/api/document/Amendement/",
   "groupes": {
-    "CRCE": {
+    "CRC": {
       "color": "rgb(255,30,30)",
-      "link": "https://www.nossenateurs.fr/groupe/CRCE",
-      "nom": "Communiste républicain citoyen et Écologiste",
-      "order": 10
+      "link": "https://www.nossenateurs.fr/groupe/CRC",
+      "nom": "Communiste, Républicain, Citoyen et des Sénateurs du Parti de Gauche",
+      "order": 11
+    },
+    "ECOLO": {
+      "color": "rgb(0,230,30)",
+      "link": "https://www.nossenateurs.fr/groupe/ECOLO",
+      "nom": "Écologiste",
+      "order": 16
     },
     "Gouvernement": {
       "color": "#cccbb3",
       "link": "",
       "nom": "Gouvernement",
       "order": 60
-    },
-    "LR": {
-      "color": "rgb(30,30,200)",
-      "link": "https://www.nossenateurs.fr/groupe/LR",
-      "nom": "Les Républicains",
-      "order": 24
     },
     "NI": {
       "color": "rgb(165,165,165)",
@@ -42,6 +42,12 @@
       "link": "https://www.nossenateurs.fr/groupe/UC",
       "nom": "Union Centriste",
       "order": 20
+    },
+    "UMP": {
+      "color": "rgb(30,30,200)",
+      "link": "https://www.nossenateurs.fr/groupe/UMP",
+      "nom": "Union pour un Mouvement Populaire",
+      "order": 23
     }
   },
   "id_step": "05_1erelecture_senat_hemicycle",
@@ -137,7 +143,7 @@
         {
           "aut": "Mme Lipietz, …",
           "date": "2013-07-08",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "67216",
           "numero": "108",
           "sort": "non-voté"
@@ -195,7 +201,7 @@
         {
           "aut": "Mme Lipietz, …",
           "date": "2013-07-09",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "67428",
           "numero": "106",
           "sort": "non-voté"
@@ -203,7 +209,7 @@
         {
           "aut": "Mme Lipietz, …",
           "date": "2013-07-08",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "67215",
           "numero": "107",
           "sort": "non-voté"
@@ -211,7 +217,7 @@
         {
           "aut": "Mme Lipietz, …",
           "date": "2013-07-08",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "67217",
           "numero": "109",
           "sort": "non-voté"
@@ -219,7 +225,7 @@
         {
           "aut": "Mme Lipietz, …",
           "date": "2013-07-08",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "67221",
           "numero": "113",
           "sort": "non-voté"
@@ -227,7 +233,7 @@
         {
           "aut": "Mme Lipietz, …",
           "date": "2013-07-08",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "67230",
           "numero": "122",
           "sort": "non-voté"
@@ -235,7 +241,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2013-07-08",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "67260",
           "numero": "153",
           "sort": "rejeté"
@@ -287,7 +293,7 @@
         {
           "aut": "Mme Lipietz, …",
           "date": "2013-07-08",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "67222",
           "numero": "114",
           "sort": "non-voté"
@@ -301,7 +307,7 @@
         {
           "aut": "Mme Lipietz, …",
           "date": "2013-07-08",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "67226",
           "numero": "118",
           "sort": "non-voté"
@@ -309,7 +315,7 @@
         {
           "aut": "Mme Lipietz, …",
           "date": "2013-07-08",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "67227",
           "numero": "119",
           "sort": "non-voté"
@@ -317,7 +323,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2013-07-08",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "67264",
           "numero": "157",
           "sort": "non-voté"
@@ -339,7 +345,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2013-07-12",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "67735",
           "numero": "160",
           "sort": "non-voté"
@@ -361,7 +367,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2013-07-09",
-          "groupe": "CRCE",
+          "groupe": "RDSE",
           "id_api": "67422",
           "numero": "94",
           "sort": "adopté"
@@ -399,7 +405,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2013-07-08",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "67268",
           "numero": "161",
           "sort": "rejeté"
@@ -421,7 +427,7 @@
         {
           "aut": "M. Béchu",
           "date": "2013-07-08",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67138",
           "numero": "22",
           "sort": "non-voté"
@@ -437,7 +443,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2013-07-08",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "67266",
           "numero": "159",
           "sort": "rejeté"
@@ -451,7 +457,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2013-07-09",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67392",
           "numero": "46",
           "sort": "non-voté"
@@ -459,7 +465,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2013-07-09",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67393",
           "numero": "47",
           "sort": "non-voté"
@@ -467,7 +473,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2013-07-09",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67394",
           "numero": "48",
           "sort": "non-voté"
@@ -475,7 +481,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2013-07-09",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67395",
           "numero": "49",
           "sort": "non-voté"
@@ -491,7 +497,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2013-07-09",
-          "groupe": "CRCE",
+          "groupe": "RDSE",
           "id_api": "67411",
           "numero": "83",
           "sort": "rejeté"
@@ -561,7 +567,7 @@
         {
           "aut": "Mmes Deroche, …",
           "date": "2013-07-09",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67373",
           "numero": "25",
           "sort": "non-voté"
@@ -577,7 +583,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2013-07-09",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67396",
           "numero": "50",
           "sort": "adopté"
@@ -585,7 +591,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2013-07-09",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67397",
           "numero": "51",
           "sort": "non-voté"
@@ -601,7 +607,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2013-07-09",
-          "groupe": "CRCE",
+          "groupe": "RDSE",
           "id_api": "67418",
           "numero": "90",
           "sort": "adopté"
@@ -633,7 +639,7 @@
         {
           "aut": "Mme Lipietz, …",
           "date": "2013-07-08",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "67211",
           "numero": "103",
           "sort": "non-voté"
@@ -641,7 +647,7 @@
         {
           "aut": "Mme Lipietz, …",
           "date": "2013-07-08",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "67212",
           "numero": "104",
           "sort": "non-voté"
@@ -649,7 +655,7 @@
         {
           "aut": "Mme Lipietz, …",
           "date": "2013-07-08",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "67228",
           "numero": "120",
           "sort": "non-voté"
@@ -713,7 +719,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-08",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "67249",
           "numero": "141",
           "sort": "non-voté"
@@ -721,7 +727,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2013-07-08",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "67251",
           "numero": "143",
           "sort": "non-voté"
@@ -729,7 +735,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2013-07-08",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "67252",
           "numero": "144",
           "sort": "non-voté"
@@ -737,7 +743,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2013-07-08",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "67262",
           "numero": "155",
           "sort": "non-voté"
@@ -881,7 +887,7 @@
         {
           "aut": "Mme Lipietz, …",
           "date": "2013-07-08",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "67213",
           "numero": "105",
           "sort": "non-voté"
@@ -903,7 +909,7 @@
         {
           "aut": "MM. Longuet, …",
           "date": "2013-07-09",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67401",
           "numero": "63",
           "sort": "non-voté"
@@ -911,7 +917,7 @@
         {
           "aut": "M. Longuet",
           "date": "2013-07-15",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67828",
           "numero": "64",
           "sort": "non-voté"
@@ -919,7 +925,7 @@
         {
           "aut": "MM. Longuet, …",
           "date": "2013-07-15",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67829",
           "numero": "65",
           "sort": "rejeté"
@@ -927,7 +933,7 @@
         {
           "aut": "M. Longuet",
           "date": "2013-07-15",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67830",
           "numero": "66",
           "sort": "non-voté"
@@ -935,7 +941,7 @@
         {
           "aut": "MM. Longuet, …",
           "date": "2013-07-15",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67831",
           "numero": "67",
           "sort": "non-voté"
@@ -943,7 +949,7 @@
         {
           "aut": "M. Longuet",
           "date": "2013-07-08",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67178",
           "numero": "68",
           "sort": "non-voté"
@@ -951,7 +957,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2013-07-09",
-          "groupe": "CRCE",
+          "groupe": "RDSE",
           "id_api": "67419",
           "numero": "91",
           "sort": "adopté"
@@ -959,7 +965,7 @@
         {
           "aut": "Mme Lipietz, …",
           "date": "2013-07-08",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "67218",
           "numero": "110",
           "sort": "non-voté"
@@ -967,7 +973,7 @@
         {
           "aut": "Mme Lipietz, …",
           "date": "2013-07-08",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "67219",
           "numero": "111",
           "sort": "non-voté"
@@ -975,7 +981,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2013-07-15",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "67836",
           "numero": "158",
           "sort": "rejeté"
@@ -1029,7 +1035,7 @@
         {
           "aut": "MM. Longuet, …",
           "date": "2013-07-09",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67404",
           "numero": "69",
           "sort": "non-voté"
@@ -1037,7 +1043,7 @@
         {
           "aut": "Mme Lipietz, …",
           "date": "2013-07-08",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "67220",
           "numero": "112",
           "sort": "non-voté"
@@ -1045,7 +1051,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2013-07-08",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "67263",
           "numero": "156",
           "sort": "non-voté"
@@ -1097,7 +1103,7 @@
         {
           "aut": "M. P. Dominati",
           "date": "2013-07-08",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67250",
           "numero": "142",
           "sort": "non-voté"
@@ -1125,7 +1131,7 @@
         {
           "aut": "MM. Longuet, …",
           "date": "2013-07-16",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67832",
           "numero": "70",
           "sort": "adopté"
@@ -1133,7 +1139,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2013-07-09",
-          "groupe": "CRCE",
+          "groupe": "RDSE",
           "id_api": "67420",
           "numero": "92",
           "sort": "adopté"
@@ -1163,7 +1169,7 @@
         {
           "aut": "Mme Lipietz, …",
           "date": "2013-07-08",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "67223",
           "numero": "115",
           "sort": "non-voté"
@@ -1185,7 +1191,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2013-07-09",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67377",
           "numero": "31",
           "sort": "rejeté"
@@ -1193,7 +1199,7 @@
         {
           "aut": "M. Longuet",
           "date": "2013-07-08",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67271",
           "numero": "165",
           "sort": "non-voté"
@@ -1207,7 +1213,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2013-07-09",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67378",
           "numero": "32",
           "sort": "adopté"
@@ -1215,7 +1221,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2013-07-09",
-          "groupe": "CRCE",
+          "groupe": "RDSE",
           "id_api": "67409",
           "numero": "81",
           "sort": "non-voté"
@@ -1223,7 +1229,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2013-07-08",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "67257",
           "numero": "150",
           "sort": "non-voté"
@@ -1231,7 +1237,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2013-07-08",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "67258",
           "numero": "151",
           "sort": "non-voté"
@@ -1239,7 +1245,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2013-07-08",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "67259",
           "numero": "152",
           "sort": "rejeté"
@@ -1247,7 +1253,7 @@
         {
           "aut": "M. Longuet",
           "date": "2013-07-08",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67270",
           "numero": "164",
           "sort": "non-voté"
@@ -1277,7 +1283,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2013-07-09",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67379",
           "numero": "33",
           "sort": "adopté"
@@ -1285,7 +1291,7 @@
         {
           "aut": "Mme Lipietz, …",
           "date": "2013-07-08",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "67225",
           "numero": "117",
           "sort": "non-voté"
@@ -1293,7 +1299,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2013-07-08",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "67253",
           "numero": "145",
           "sort": "rejeté"
@@ -1301,7 +1307,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2013-07-08",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "67256",
           "numero": "148",
           "sort": "rejeté"
@@ -1309,7 +1315,7 @@
         {
           "aut": "MM. Longuet, …",
           "date": "2013-07-15",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67837",
           "numero": "166",
           "sort": "adopté"
@@ -1323,7 +1329,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2013-07-09",
-          "groupe": "CRCE",
+          "groupe": "RDSE",
           "id_api": "67421",
           "numero": "93",
           "sort": "rejeté"
@@ -1339,7 +1345,7 @@
         {
           "aut": "Mme Lipietz, …",
           "date": "2013-07-08",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "67224",
           "numero": "116",
           "sort": "non-voté"
@@ -1353,7 +1359,7 @@
         {
           "aut": "MM. Longuet, …",
           "date": "2013-07-09",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67406",
           "numero": "71",
           "sort": "non-voté"
@@ -1391,7 +1397,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2013-07-09",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67380",
           "numero": "34",
           "sort": "rejeté"
@@ -1399,7 +1405,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2013-07-09",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67381",
           "numero": "35",
           "sort": "adopté"
@@ -1407,7 +1413,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2013-07-09",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67382",
           "numero": "36",
           "sort": "rejeté"
@@ -1415,7 +1421,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2013-07-09",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67383",
           "numero": "37",
           "sort": "rejeté"
@@ -1423,7 +1429,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2013-07-09",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67384",
           "numero": "38",
           "sort": "rejeté"
@@ -1431,7 +1437,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2013-07-09",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67385",
           "numero": "39",
           "sort": "adopté"
@@ -1439,7 +1445,7 @@
         {
           "aut": "M. Longuet",
           "date": "2013-07-08",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67165",
           "numero": "55",
           "sort": "non-voté"
@@ -1447,7 +1453,7 @@
         {
           "aut": "M. Longuet",
           "date": "2013-07-08",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67166",
           "numero": "56",
           "sort": "non-voté"
@@ -1455,7 +1461,7 @@
         {
           "aut": "MM. Longuet, …",
           "date": "2013-07-09",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67398",
           "numero": "57",
           "sort": "rejeté"
@@ -1463,7 +1469,7 @@
         {
           "aut": "MM. Longuet, …",
           "date": "2013-07-09",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67399",
           "numero": "58",
           "sort": "rejeté"
@@ -1471,7 +1477,7 @@
         {
           "aut": "M. Longuet",
           "date": "2013-07-08",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67169",
           "numero": "59",
           "sort": "non-voté"
@@ -1487,7 +1493,7 @@
         {
           "aut": "Mme Lipietz, …",
           "date": "2013-07-11",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "67639",
           "numero": "121",
           "sort": "non-voté"
@@ -1495,7 +1501,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2013-07-08",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "67254",
           "numero": "146",
           "sort": "rejeté"
@@ -1503,7 +1509,7 @@
         {
           "aut": "M. Longuet",
           "date": "2013-07-08",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67273",
           "numero": "167",
           "sort": "rejeté"
@@ -1525,7 +1531,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2013-07-09",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67386",
           "numero": "40",
           "sort": "adopté"
@@ -1533,7 +1539,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2013-07-16",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67827",
           "numero": "41",
           "sort": "adopté"
@@ -1541,7 +1547,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2013-07-09",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67388",
           "numero": "42",
           "sort": "non-voté"
@@ -1573,7 +1579,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2013-07-08",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "67255",
           "numero": "147",
           "sort": "rejeté"
@@ -1581,7 +1587,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2013-07-08",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "67261",
           "numero": "154",
           "sort": "rejeté"
@@ -1619,7 +1625,7 @@
         {
           "aut": "MM. Longuet, …",
           "date": "2013-07-09",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67400",
           "numero": "60",
           "sort": "rejeté"
@@ -1649,7 +1655,7 @@
         {
           "aut": "M. Longuet",
           "date": "2013-07-08",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67171",
           "numero": "61",
           "sort": "non-voté"
@@ -1657,7 +1663,7 @@
         {
           "aut": "M. Longuet",
           "date": "2013-07-08",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67172",
           "numero": "62",
           "sort": "non-voté"
@@ -1679,7 +1685,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2013-07-09",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67389",
           "numero": "43",
           "sort": "non-voté"
@@ -1687,7 +1693,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2013-07-09",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67390",
           "numero": "44",
           "sort": "non-voté"
@@ -1709,7 +1715,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2013-07-09",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "67391",
           "numero": "45",
           "sort": "rejeté"
@@ -1775,7 +1781,7 @@
         {
           "aut": "MM. J.C. Gaudin, …",
           "date": "2013-07-05",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "66928",
           "numero": "21",
           "sort": "rejeté"

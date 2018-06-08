@@ -113,7 +113,6 @@ WARNING: amendments ignored (not the right step) 495
     * step - 1ère lecture hemicycle https://www.senat.fr/leg/tas07-116.html
       * downloading amendments: https://nossenateurs.fr/amendements/20072008-365/json?cache=5feb2018 for https://www.senat.fr/leg/pjl07-365.html
         parsing amendments: 495
-WARNING: no groupe found for http://www.nossenateurs.fr/amendement/20072008-365/44
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20072008-365/json?hemicycle=1
            downloading seance -  https://www.nossenateurs.fr/seance/1247/20072008-365/json

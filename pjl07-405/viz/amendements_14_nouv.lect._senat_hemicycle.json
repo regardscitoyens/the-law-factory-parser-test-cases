@@ -7,11 +7,11 @@
       "nom": "Communiste, Républicain, Citoyen et des Sénateurs du Parti de Gauche",
       "order": 11
     },
-    "NI": {
-      "color": "rgb(165,165,165)",
-      "link": "https://www.nossenateurs.fr/groupe/NI",
-      "nom": "Réunion administrative des Sénateurs ne figurant sur la liste d'aucun groupe politique",
-      "order": 25
+    "SOC": {
+      "color": "rgb(255,50,190)",
+      "link": "https://www.nossenateurs.fr/groupe/SOC",
+      "nom": "Socialiste et républicain",
+      "order": 14
     }
   },
   "id_step": "14_nouv.lect._senat_hemicycle",
@@ -21,7 +21,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2009-05-12",
-          "groupe": "CRC-SPG",
+          "groupe": "CRC",
           "id_api": "22902",
           "numero": "6",
           "sort": "rejeté"
@@ -29,7 +29,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2009-05-12",
-          "groupe": "CRC-SPG",
+          "groupe": "CRC",
           "id_api": "22903",
           "numero": "7",
           "sort": "non-voté"
@@ -37,7 +37,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2009-05-13",
-          "groupe": "CRC-SPG",
+          "groupe": "CRC",
           "id_api": "22904",
           "numero": "8",
           "sort": "non-voté"
@@ -51,7 +51,7 @@
         {
           "aut": "Mmes Blandin, …",
           "date": "2009-05-12",
-          "groupe": "NI",
+          "groupe": "SOC",
           "id_api": "22897",
           "numero": "1",
           "sort": "rejeté"
@@ -59,7 +59,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2009-05-12",
-          "groupe": "CRC-SPG",
+          "groupe": "CRC",
           "id_api": "22900",
           "numero": "4",
           "sort": "rejeté"
@@ -67,7 +67,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2009-05-12",
-          "groupe": "CRC-SPG",
+          "groupe": "CRC",
           "id_api": "22901",
           "numero": "5",
           "sort": "rejeté"
@@ -81,7 +81,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2009-05-12",
-          "groupe": "CRC-SPG",
+          "groupe": "CRC",
           "id_api": "22898",
           "numero": "2",
           "sort": "rejeté"
@@ -89,7 +89,7 @@
         {
           "aut": "MM. Renar, …",
           "date": "2009-05-12",
-          "groupe": "CRC-SPG",
+          "groupe": "CRC",
           "id_api": "22899",
           "numero": "3",
           "sort": "rejeté"

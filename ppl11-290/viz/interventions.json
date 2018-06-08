@@ -1530,42 +1530,15 @@
       "Discussion en procédure accélérée d'une proposition de loi": {
         "first_date": "2012-02-15",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 5,
-            "nb_mots": 39,
-            "orateurs": {
-              "jacky le menn": {
-                "link": "http://www.nossenateurs.fr/seance/7790#inter_ac4f76d2c5055cc690de80201b8d1d8a",
-                "nb_intervs": 1,
-                "nb_mots": 3
-              },
-              "jean-jacques mirassou": {
-                "link": "http://www.nossenateurs.fr/seance/7790#inter_a839c189a36ad98f74e7be75d8711f45",
-                "nb_intervs": 2,
-                "nb_mots": 14
-              },
-              "michel vergoz": {
-                "link": "http://www.nossenateurs.fr/seance/7790#inter_1787c6d40f4fe0fff9c52d2c3aecccac",
-                "nb_intervs": 2,
-                "nb_mots": 22
-              }
-            }
-          },
           "CRC": {
-            "nb_intervs": 10,
-            "nb_mots": 75,
+            "nb_intervs": 64,
+            "nb_mots": 1864,
             "orateurs": {
               "annie david": {
                 "link": "http://www.nossenateurs.fr/seance/7790#inter_43cce77ddd057d1852700a1da8c87464",
                 "nb_intervs": 10,
                 "nb_mots": 75
-              }
-            }
-          },
-          "CRCE": {
-            "nb_intervs": 54,
-            "nb_mots": 1789,
-            "orateurs": {
+              },
               "isabelle pasquet": {
                 "link": "http://www.nossenateurs.fr/seance/7790#inter_d974f12d04da68ec303da734ca13512e",
                 "nb_intervs": 10,
@@ -1583,6 +1556,17 @@
               }
             }
           },
+          "ECOLO": {
+            "nb_intervs": 25,
+            "nb_mots": 1176,
+            "orateurs": {
+              "jean desessard": {
+                "link": "http://www.nossenateurs.fr/seance/7790#inter_33d9c95e0b1f0fcbd5cc347342e15e55",
+                "nb_intervs": 25,
+                "nb_mots": 1176
+              }
+            }
+          },
           "Gouvernement": {
             "nb_intervs": 32,
             "nb_mots": 2435,
@@ -1594,7 +1578,77 @@
               }
             }
           },
-          "LR": {
+          "Présidence": {
+            "nb_intervs": 6,
+            "nb_mots": 118,
+            "orateurs": {
+              "bariza khiari": {
+                "link": "http://www.nossenateurs.fr/seance/7790#inter_ebb07b7efe402100d5991ec9d0a98826",
+                "nb_intervs": 6,
+                "nb_mots": 118
+              }
+            }
+          },
+          "RDSE": {
+            "nb_intervs": 13,
+            "nb_mots": 406,
+            "orateurs": {
+              "françois fortassin": {
+                "link": "http://www.nossenateurs.fr/seance/7790#inter_21584ca42b955e4adc199a2b44975a75",
+                "nb_intervs": 13,
+                "nb_mots": 406
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 14,
+            "nb_mots": 2662,
+            "orateurs": {
+              "claude jeannerot": {
+                "link": "http://www.nossenateurs.fr/seance/7790#inter_ae741aab80c3dad7f44b748a12a979b8",
+                "nb_intervs": 14,
+                "nb_mots": 2662
+              }
+            }
+          },
+          "SOC": {
+            "nb_intervs": 9,
+            "nb_mots": 61,
+            "orateurs": {
+              "jacky le menn": {
+                "link": "http://www.nossenateurs.fr/seance/7790#inter_ac4f76d2c5055cc690de80201b8d1d8a",
+                "nb_intervs": 1,
+                "nb_mots": 3
+              },
+              "jean-jacques mirassou": {
+                "link": "http://www.nossenateurs.fr/seance/7790#inter_a839c189a36ad98f74e7be75d8711f45",
+                "nb_intervs": 2,
+                "nb_mots": 14
+              },
+              "michel vergoz": {
+                "link": "http://www.nossenateurs.fr/seance/7790#inter_1787c6d40f4fe0fff9c52d2c3aecccac",
+                "nb_intervs": 2,
+                "nb_mots": 22
+              },
+              "roland courteau": {
+                "link": "http://www.nossenateurs.fr/seance/7790#inter_cba3bd3951c3bfc9119737def462e23c",
+                "nb_intervs": 4,
+                "nb_mots": 22
+              }
+            }
+          },
+          "UC": {
+            "nb_intervs": 4,
+            "nb_mots": 1532,
+            "orateurs": {
+              "vincent capo-canellas": {
+                "link": "http://www.nossenateurs.fr/seance/7790#inter_810bdfdc8a74386e707005ba9c84a94f",
+                "nb_intervs": 4,
+                "nb_mots": 1532
+              }
+            }
+          },
+          "UMP": {
             "nb_intervs": 69,
             "nb_mots": 2222,
             "orateurs": {
@@ -1659,72 +1713,6 @@
                 "nb_mots": 39
               }
             }
-          },
-          "NI": {
-            "nb_intervs": 25,
-            "nb_mots": 1176,
-            "orateurs": {
-              "jean desessard": {
-                "link": "http://www.nossenateurs.fr/seance/7790#inter_33d9c95e0b1f0fcbd5cc347342e15e55",
-                "nb_intervs": 25,
-                "nb_mots": 1176
-              }
-            }
-          },
-          "Présidence": {
-            "nb_intervs": 6,
-            "nb_mots": 118,
-            "orateurs": {
-              "bariza khiari": {
-                "link": "http://www.nossenateurs.fr/seance/7790#inter_ebb07b7efe402100d5991ec9d0a98826",
-                "nb_intervs": 6,
-                "nb_mots": 118
-              }
-            }
-          },
-          "RDSE": {
-            "nb_intervs": 13,
-            "nb_mots": 406,
-            "orateurs": {
-              "françois fortassin": {
-                "link": "http://www.nossenateurs.fr/seance/7790#inter_21584ca42b955e4adc199a2b44975a75",
-                "nb_intervs": 13,
-                "nb_mots": 406
-              }
-            }
-          },
-          "Rapporteurs": {
-            "nb_intervs": 14,
-            "nb_mots": 2662,
-            "orateurs": {
-              "claude jeannerot": {
-                "link": "http://www.nossenateurs.fr/seance/7790#inter_ae741aab80c3dad7f44b748a12a979b8",
-                "nb_intervs": 14,
-                "nb_mots": 2662
-              }
-            }
-          },
-          "SOC": {
-            "nb_intervs": 4,
-            "nb_mots": 22,
-            "orateurs": {
-              "roland courteau": {
-                "link": "http://www.nossenateurs.fr/seance/7790#inter_cba3bd3951c3bfc9119737def462e23c",
-                "nb_intervs": 4,
-                "nb_mots": 22
-              }
-            }
-          },
-          "UC": {
-            "nb_intervs": 4,
-            "nb_mots": 1532,
-            "orateurs": {
-              "vincent capo-canellas": {
-                "link": "http://www.nossenateurs.fr/seance/7790#inter_810bdfdc8a74386e707005ba9c84a94f",
-                "nb_intervs": 4,
-                "nb_mots": 1532
-              }
-            }
           }
         },
         "last_date": "2012-02-15",
@@ -1737,32 +1725,15 @@
       "Question préalable": {
         "first_date": "2012-02-15",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 5,
-            "nb_mots": 336,
-            "orateurs": {
-              "michel vergoz": {
-                "link": "http://www.nossenateurs.fr/seance/7790#inter_a653f91eb1553c123ace968cb2723b0b",
-                "nb_intervs": 5,
-                "nb_mots": 336
-              }
-            }
-          },
           "CRC": {
-            "nb_intervs": 13,
-            "nb_mots": 935,
+            "nb_intervs": 38,
+            "nb_mots": 2235,
             "orateurs": {
               "annie david": {
                 "link": "http://www.nossenateurs.fr/seance/7790#inter_e71ca6afaf2dd5a0fdd31941ac96b0ef",
                 "nb_intervs": 13,
                 "nb_mots": 935
-              }
-            }
-          },
-          "CRCE": {
-            "nb_intervs": 25,
-            "nb_mots": 1300,
-            "orateurs": {
+              },
               "nicole borvo cohen-seat": {
                 "link": "http://www.nossenateurs.fr/seance/7790#inter_fe93a9a614a0f0e3630b5496bfebc57b",
                 "nb_intervs": 24,
@@ -1775,6 +1746,17 @@
               }
             }
           },
+          "ECOLO": {
+            "nb_intervs": 7,
+            "nb_mots": 458,
+            "orateurs": {
+              "jean desessard": {
+                "link": "http://www.nossenateurs.fr/seance/7790#inter_8939ad6b0547c0cfe25651727a30febc",
+                "nb_intervs": 7,
+                "nb_mots": 458
+              }
+            }
+          },
           "Gouvernement": {
             "nb_intervs": 12,
             "nb_mots": 861,
@@ -1783,58 +1765,6 @@
                 "link": "http://www.nossenateurs.fr/seance/7790#inter_b2a5e8ed3fe2bf5b82b9cdb3e1991f40",
                 "nb_intervs": 12,
                 "nb_mots": 861
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 49,
-            "nb_mots": 2375,
-            "orateurs": {
-              "catherine procaccia": {
-                "link": "http://www.nossenateurs.fr/seance/7790#inter_55b81fa292ea339a8356ff7ba1c1d4e7",
-                "nb_intervs": 8,
-                "nb_mots": 1327
-              },
-              "charles revet": {
-                "link": "http://www.nossenateurs.fr/seance/7790#inter_e25db2a0bda362c9e7675fa51bb2615b",
-                "nb_intervs": 2,
-                "nb_mots": 8
-              },
-              "isabelle debré": {
-                "link": "http://www.nossenateurs.fr/seance/7790#inter_54bd09470b8ea707b91e2cf03564d034",
-                "nb_intervs": 1,
-                "nb_mots": 4
-              },
-              "jacques legendre": {
-                "link": "http://www.nossenateurs.fr/seance/7790#inter_24d5fd8b324bfa03c2b918b564fbfc50",
-                "nb_intervs": 1,
-                "nb_mots": 4
-              },
-              "louis nègre": {
-                "link": "http://www.nossenateurs.fr/seance/7790#inter_11447b5ee2bcc7ab9887d4c1a3a78a1e",
-                "nb_intervs": 23,
-                "nb_mots": 909
-              },
-              "marie-hélène des esgaulx": {
-                "link": "http://www.nossenateurs.fr/seance/7790#inter_e38f7fda545b0793e239615ad967ba94",
-                "nb_intervs": 13,
-                "nb_mots": 116
-              },
-              "marie-thérèse bruguière": {
-                "link": "http://www.nossenateurs.fr/seance/7790#inter_89fdc5bea0b65ecc07672b354f87b8eb",
-                "nb_intervs": 1,
-                "nb_mots": 7
-              }
-            }
-          },
-          "NI": {
-            "nb_intervs": 7,
-            "nb_mots": 458,
-            "orateurs": {
-              "jean desessard": {
-                "link": "http://www.nossenateurs.fr/seance/7790#inter_8939ad6b0547c0cfe25651727a30febc",
-                "nb_intervs": 7,
-                "nb_mots": 458
               }
             }
           },
@@ -1872,13 +1802,18 @@
             }
           },
           "SOC": {
-            "nb_intervs": 1,
-            "nb_mots": 935,
+            "nb_intervs": 6,
+            "nb_mots": 1271,
             "orateurs": {
               "georges labazée": {
                 "link": "http://www.nossenateurs.fr/seance/7790#inter_257d89e7fa9f020a96e5fa37894f8f5b",
                 "nb_intervs": 1,
                 "nb_mots": 935
+              },
+              "michel vergoz": {
+                "link": "http://www.nossenateurs.fr/seance/7790#inter_a653f91eb1553c123ace968cb2723b0b",
+                "nb_intervs": 5,
+                "nb_mots": 336
               }
             }
           },
@@ -1894,9 +1829,44 @@
             }
           },
           "UMP": {
-            "nb_intervs": 4,
-            "nb_mots": 20,
+            "nb_intervs": 53,
+            "nb_mots": 2395,
             "orateurs": {
+              "catherine procaccia": {
+                "link": "http://www.nossenateurs.fr/seance/7790#inter_55b81fa292ea339a8356ff7ba1c1d4e7",
+                "nb_intervs": 8,
+                "nb_mots": 1327
+              },
+              "charles revet": {
+                "link": "http://www.nossenateurs.fr/seance/7790#inter_e25db2a0bda362c9e7675fa51bb2615b",
+                "nb_intervs": 2,
+                "nb_mots": 8
+              },
+              "isabelle debré": {
+                "link": "http://www.nossenateurs.fr/seance/7790#inter_54bd09470b8ea707b91e2cf03564d034",
+                "nb_intervs": 1,
+                "nb_mots": 4
+              },
+              "jacques legendre": {
+                "link": "http://www.nossenateurs.fr/seance/7790#inter_24d5fd8b324bfa03c2b918b564fbfc50",
+                "nb_intervs": 1,
+                "nb_mots": 4
+              },
+              "louis nègre": {
+                "link": "http://www.nossenateurs.fr/seance/7790#inter_11447b5ee2bcc7ab9887d4c1a3a78a1e",
+                "nb_intervs": 23,
+                "nb_mots": 909
+              },
+              "marie-hélène des esgaulx": {
+                "link": "http://www.nossenateurs.fr/seance/7790#inter_e38f7fda545b0793e239615ad967ba94",
+                "nb_intervs": 13,
+                "nb_mots": 116
+              },
+              "marie-thérèse bruguière": {
+                "link": "http://www.nossenateurs.fr/seance/7790#inter_89fdc5bea0b65ecc07672b354f87b8eb",
+                "nb_intervs": 1,
+                "nb_mots": 7
+              },
               "pierre hérisson": {
                 "link": "http://www.nossenateurs.fr/seance/7790#inter_9f616e337358143f11f14981e28d7f01",
                 "nb_intervs": 3,
@@ -1920,36 +1890,30 @@
       "Suite de la discussion en procédure accélérée et rejet d'une proposition de loi": {
         "first_date": "2012-02-15",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 5,
-            "nb_mots": 1006,
-            "orateurs": {
-              "roland ries": {
-                "link": "http://www.nossenateurs.fr/seance/7790#inter_b006141dacc6e88585c9c410b45e827a",
-                "nb_intervs": 5,
-                "nb_mots": 1006
-              }
-            }
-          },
           "CRC": {
-            "nb_intervs": 6,
-            "nb_mots": 85,
+            "nb_intervs": 25,
+            "nb_mots": 252,
             "orateurs": {
               "annie david": {
                 "link": "http://www.nossenateurs.fr/seance/7790#inter_2327cc3d1aa76e4d957d919baa26c593",
                 "nb_intervs": 6,
                 "nb_mots": 85
-              }
-            }
-          },
-          "CRCE": {
-            "nb_intervs": 19,
-            "nb_mots": 167,
-            "orateurs": {
+              },
               "nicole borvo cohen-seat": {
                 "link": "http://www.nossenateurs.fr/seance/7790#inter_22b31f0d70c89e04e51775a4c2afaf30",
                 "nb_intervs": 19,
                 "nb_mots": 167
+              }
+            }
+          },
+          "ECOLO": {
+            "nb_intervs": 1,
+            "nb_mots": 6,
+            "orateurs": {
+              "jean desessard": {
+                "link": "http://www.nossenateurs.fr/seance/7790#inter_6d0f532a0008ee1444d0d593966befd8",
+                "nb_intervs": 1,
+                "nb_mots": 6
               }
             }
           },
@@ -1961,49 +1925,6 @@
                 "link": "http://www.nossenateurs.fr/seance/7790#inter_1aaef7f3ae7accc21afdd517853e0f81",
                 "nb_intervs": 5,
                 "nb_mots": 911
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 27,
-            "nb_mots": 1000,
-            "orateurs": {
-              "louis nègre": {
-                "link": "http://www.nossenateurs.fr/seance/7790#inter_06ef9fe266345e9183c3de1c64659d88",
-                "nb_intervs": 25,
-                "nb_mots": 990
-              },
-              "natacha bouchart": {
-                "link": "http://www.nossenateurs.fr/seance/7790#inter_5ae5bd7c58513d480422a68859b2f95f",
-                "nb_intervs": 1,
-                "nb_mots": 4
-              },
-              "roger karoutchi": {
-                "link": "http://www.nossenateurs.fr/seance/7790#inter_84f2073e75e2d4c06fd048e4296d4431",
-                "nb_intervs": 1,
-                "nb_mots": 6
-              }
-            }
-          },
-          "LREM": {
-            "nb_intervs": 4,
-            "nb_mots": 1004,
-            "orateurs": {
-              "patricia schillinger": {
-                "link": "http://www.nossenateurs.fr/seance/7790#inter_cef897cac4ef2d04eeecfd75f3c69542",
-                "nb_intervs": 4,
-                "nb_mots": 1004
-              }
-            }
-          },
-          "NI": {
-            "nb_intervs": 1,
-            "nb_mots": 6,
-            "orateurs": {
-              "jean desessard": {
-                "link": "http://www.nossenateurs.fr/seance/7790#inter_6d0f532a0008ee1444d0d593966befd8",
-                "nb_intervs": 1,
-                "nb_mots": 6
               }
             }
           },
@@ -2030,8 +1951,8 @@
             }
           },
           "SOC": {
-            "nb_intervs": 12,
-            "nb_mots": 954,
+            "nb_intervs": 21,
+            "nb_mots": 2964,
             "orateurs": {
               "georges labazée": {
                 "link": "http://www.nossenateurs.fr/seance/7790#inter_18c66c74f349a522d1041c52db27dd8c",
@@ -2043,10 +1964,20 @@
                 "nb_intervs": 1,
                 "nb_mots": 4
               },
+              "patricia schillinger": {
+                "link": "http://www.nossenateurs.fr/seance/7790#inter_cef897cac4ef2d04eeecfd75f3c69542",
+                "nb_intervs": 4,
+                "nb_mots": 1004
+              },
               "roland courteau": {
                 "link": "http://www.nossenateurs.fr/seance/7790#inter_a30741efdc40b680eab47f398f3abdd3",
                 "nb_intervs": 7,
                 "nb_mots": 30
+              },
+              "roland ries": {
+                "link": "http://www.nossenateurs.fr/seance/7790#inter_b006141dacc6e88585c9c410b45e827a",
+                "nb_intervs": 5,
+                "nb_mots": 1006
               }
             }
           },
@@ -2060,6 +1991,27 @@
                 "nb_mots": 14
               }
             }
+          },
+          "UMP": {
+            "nb_intervs": 27,
+            "nb_mots": 1000,
+            "orateurs": {
+              "louis nègre": {
+                "link": "http://www.nossenateurs.fr/seance/7790#inter_06ef9fe266345e9183c3de1c64659d88",
+                "nb_intervs": 25,
+                "nb_mots": 990
+              },
+              "natacha bouchart": {
+                "link": "http://www.nossenateurs.fr/seance/7790#inter_5ae5bd7c58513d480422a68859b2f95f",
+                "nb_intervs": 1,
+                "nb_mots": 4
+              },
+              "roger karoutchi": {
+                "link": "http://www.nossenateurs.fr/seance/7790#inter_84f2073e75e2d4c06fd048e4296d4431",
+                "nb_intervs": 1,
+                "nb_mots": 6
+              }
+            }
           }
         },
         "last_date": "2012-02-15",
@@ -2071,47 +2023,23 @@
       }
     },
     "groupes": {
-      "Auditionnés": {
-        "color": "#ccb7b6",
-        "link": "",
-        "nom": "Auditionnés",
-        "order": 70
-      },
       "CRC": {
         "color": "rgb(255,30,30)",
         "link": "https://www.nossenateurs.fr/groupe/CRC",
         "nom": "Communiste, Républicain, Citoyen et des Sénateurs du Parti de Gauche",
         "order": 11
       },
-      "CRCE": {
-        "color": "rgb(255,30,30)",
-        "link": "https://www.nossenateurs.fr/groupe/CRCE",
-        "nom": "Communiste républicain citoyen et Écologiste",
-        "order": 10
+      "ECOLO": {
+        "color": "rgb(0,230,30)",
+        "link": "https://www.nossenateurs.fr/groupe/ECOLO",
+        "nom": "Écologiste",
+        "order": 16
       },
       "Gouvernement": {
         "color": "#cccbb3",
         "link": "",
         "nom": "Gouvernement",
         "order": 60
-      },
-      "LR": {
-        "color": "rgb(30,30,200)",
-        "link": "https://www.nossenateurs.fr/groupe/LR",
-        "nom": "Les Républicains",
-        "order": 24
-      },
-      "LREM": {
-        "color": "rgb(232,197,5)",
-        "link": "https://www.nossenateurs.fr/groupe/LREM",
-        "nom": "La République en Marche",
-        "order": 18
-      },
-      "NI": {
-        "color": "rgb(165,165,165)",
-        "link": "https://www.nossenateurs.fr/groupe/NI",
-        "nom": "Réunion administrative des Sénateurs ne figurant sur la liste d'aucun groupe politique",
-        "order": 25
       },
       "Présidence": {
         "color": "#bfbbcc",
@@ -2154,7 +2082,7 @@
       "alain dufaut": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/alain-dufaut",
         "nom": "Alain Dufaut",
         "photo": "https://www.nossenateurs.fr/senateur/photo/alain-dufaut"
@@ -2162,7 +2090,7 @@
       "albéric de montgolfier": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/alberic-de-montgolfier",
         "nom": "Albéric de Montgolfier",
         "photo": "https://www.nossenateurs.fr/senateur/photo/alberic-de-montgolfier"
@@ -2176,9 +2104,9 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/annie-david"
       },
       "bariza khiari": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "présidente",
-        "groupe": "",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/bariza-khiari",
         "nom": "Bariza Khiari",
         "photo": "https://www.nossenateurs.fr/senateur/photo/bariza-khiari"
@@ -2186,7 +2114,7 @@
       "bruno sido": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/bruno-sido",
         "nom": "Bruno Sido",
         "photo": "https://www.nossenateurs.fr/senateur/photo/bruno-sido"
@@ -2194,7 +2122,7 @@
       "catherine procaccia": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/catherine-procaccia",
         "nom": "Catherine Procaccia",
         "photo": "https://www.nossenateurs.fr/senateur/photo/catherine-procaccia"
@@ -2202,7 +2130,7 @@
       "charles guené": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/charles-guene",
         "nom": "Charles Guené",
         "photo": "https://www.nossenateurs.fr/senateur/photo/charles-guene"
@@ -2210,7 +2138,7 @@
       "charles revet": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/charles-revet",
         "nom": "Charles Revet",
         "photo": "https://www.nossenateurs.fr/senateur/photo/charles-revet"
@@ -2218,15 +2146,15 @@
       "christian cambon": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/christian-cambon",
         "nom": "Christian Cambon",
         "photo": "https://www.nossenateurs.fr/senateur/photo/christian-cambon"
       },
       "claude jeannerot": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "rapporteur de la commission des affaires sociales",
-        "groupe": "",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/claude-jeannerot",
         "nom": "Claude Jeannerot",
         "photo": "https://www.nossenateurs.fr/senateur/photo/claude-jeannerot"
@@ -2234,7 +2162,7 @@
       "francis delattre": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/francis-delattre",
         "nom": "Francis Delattre",
         "photo": "https://www.nossenateurs.fr/senateur/photo/francis-delattre"
@@ -2258,7 +2186,7 @@
       "isabelle debré": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/isabelle-debre",
         "nom": "Isabelle Debré",
         "photo": "https://www.nossenateurs.fr/senateur/photo/isabelle-debre"
@@ -2266,15 +2194,15 @@
       "isabelle pasquet": {
         "color": "rgb(255,30,30)",
         "fonction": "",
-        "groupe": "CRCE",
+        "groupe": "CRC",
         "link": "https://www.nossenateurs.fr/isabelle-pasquet",
         "nom": "Isabelle Pasquet",
         "photo": "https://www.nossenateurs.fr/senateur/photo/isabelle-pasquet"
       },
       "jacky le menn": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/jacky-le-menn",
         "nom": "Jacky Le Menn",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jacky-le-menn"
@@ -2282,7 +2210,7 @@
       "jacques legendre": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/jacques-legendre",
         "nom": "Jacques Legendre",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jacques-legendre"
@@ -2290,23 +2218,23 @@
       "jean bizet": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/jean-bizet",
         "nom": "Jean Bizet",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jean-bizet"
       },
       "jean desessard": {
-        "color": "rgb(165,165,165)",
+        "color": "rgb(0,230,30)",
         "fonction": "",
-        "groupe": "NI",
+        "groupe": "ECOLO",
         "link": "https://www.nossenateurs.fr/jean-desessard",
         "nom": "Jean Desessard",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jean-desessard"
       },
       "jean-jacques mirassou": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/jean-jacques-mirassou",
         "nom": "Jean-Jacques Mirassou",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jean-jacques-mirassou"
@@ -2322,7 +2250,7 @@
       "jean-paul emorine": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/jean-paul-emorine",
         "nom": "Jean-Paul Emorine",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jean-paul-emorine"
@@ -2330,7 +2258,7 @@
       "louis nègre": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/louis-negre",
         "nom": "Louis Nègre",
         "photo": "https://www.nossenateurs.fr/senateur/photo/louis-negre"
@@ -2338,7 +2266,7 @@
       "marie-hélène des esgaulx": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/marie-helene-des-esgaulx",
         "nom": "Marie-Hélène Des Esgaulx",
         "photo": "https://www.nossenateurs.fr/senateur/photo/marie-helene-des-esgaulx"
@@ -2346,15 +2274,15 @@
       "marie-thérèse bruguière": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/marie-therese-bruguiere",
         "nom": "Marie-Thérèse Bruguière",
         "photo": "https://www.nossenateurs.fr/senateur/photo/marie-therese-bruguiere"
       },
       "michel vergoz": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/michel-vergoz",
         "nom": "Michel Vergoz",
         "photo": "https://www.nossenateurs.fr/senateur/photo/michel-vergoz"
@@ -2362,7 +2290,7 @@
       "natacha bouchart": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/natacha-bouchart",
         "nom": "Natacha Bouchart",
         "photo": "https://www.nossenateurs.fr/senateur/photo/natacha-bouchart"
@@ -2370,15 +2298,15 @@
       "nicole borvo cohen-seat": {
         "color": "rgb(255,30,30)",
         "fonction": "",
-        "groupe": "CRCE",
+        "groupe": "CRC",
         "link": "https://www.nossenateurs.fr/nicole-borvo-cohen-seat",
         "nom": "Nicole Borvo Cohen-Seat",
         "photo": "https://www.nossenateurs.fr/senateur/photo/nicole-borvo-cohen-seat"
       },
       "patricia schillinger": {
-        "color": "rgb(232,197,5)",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "LREM",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/patricia-schillinger",
         "nom": "Patricia Schillinger",
         "photo": "https://www.nossenateurs.fr/senateur/photo/patricia-schillinger"
@@ -2402,7 +2330,7 @@
       "roger karoutchi": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/roger-karoutchi",
         "nom": "Roger Karoutchi",
         "photo": "https://www.nossenateurs.fr/senateur/photo/roger-karoutchi"
@@ -2416,9 +2344,9 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/roland-courteau"
       },
       "roland ries": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/roland-ries",
         "nom": "Roland Ries",
         "photo": "https://www.nossenateurs.fr/senateur/photo/roland-ries"
@@ -2450,7 +2378,7 @@
       "éliane assassi": {
         "color": "rgb(255,30,30)",
         "fonction": "",
-        "groupe": "CRCE",
+        "groupe": "CRC",
         "link": "https://www.nossenateurs.fr/eliane-assassi",
         "nom": "Éliane Assassi",
         "photo": "https://www.nossenateurs.fr/senateur/photo/eliane-assassi"
@@ -3168,7 +3096,7 @@
       "Article 1er": {
         "first_date": "2012-02-29",
         "groupes": {
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 2,
             "nb_mots": 934,
             "orateurs": {
@@ -3187,17 +3115,6 @@
                 "link": "http://www.nossenateurs.fr/seance/7786#inter_6b8b9b8fca7cf3ad5577039a6906fef4",
                 "nb_intervs": 2,
                 "nb_mots": 47
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 2,
-            "nb_mots": 307,
-            "orateurs": {
-              "charles revet": {
-                "link": "http://www.nossenateurs.fr/seance/7786#inter_e9dcd79f70560873428e0df52c5b9eb9",
-                "nb_intervs": 2,
-                "nb_mots": 307
               }
             }
           },
@@ -3234,7 +3151,7 @@
               }
             }
           },
-          "UDI": {
+          "UC": {
             "nb_intervs": 1,
             "nb_mots": 133,
             "orateurs": {
@@ -3242,6 +3159,17 @@
                 "link": "http://www.nossenateurs.fr/seance/7786#inter_73f40c9f4bfdbb3619788a17b7ab4b4b",
                 "nb_intervs": 1,
                 "nb_mots": 133
+              }
+            }
+          },
+          "UMP": {
+            "nb_intervs": 2,
+            "nb_mots": 307,
+            "orateurs": {
+              "charles revet": {
+                "link": "http://www.nossenateurs.fr/seance/7786#inter_e9dcd79f70560873428e0df52c5b9eb9",
+                "nb_intervs": 2,
+                "nb_mots": 307
               }
             }
           }
@@ -3264,27 +3192,6 @@
                 "link": "http://www.nossenateurs.fr/seance/7786#inter_3387c612d4b95270c71079a9557d7543",
                 "nb_intervs": 7,
                 "nb_mots": 362
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 6,
-            "nb_mots": 281,
-            "orateurs": {
-              "charles revet": {
-                "link": "http://www.nossenateurs.fr/seance/7786#inter_7d55d3b763781300fd3d8c2bb48f2b1f",
-                "nb_intervs": 4,
-                "nb_mots": 24
-              },
-              "philippe dallier": {
-                "link": "http://www.nossenateurs.fr/seance/7786#inter_d2fc8c5f97c2e414228877b83225ae2f",
-                "nb_intervs": 1,
-                "nb_mots": 249
-              },
-              "élisabeth lamure": {
-                "link": "http://www.nossenateurs.fr/seance/7786#inter_7ceccf790d3b421e6666712aaee1e3ae",
-                "nb_intervs": 1,
-                "nb_mots": 8
               }
             }
           },
@@ -3341,6 +3248,27 @@
                 "nb_mots": 343
               }
             }
+          },
+          "UMP": {
+            "nb_intervs": 6,
+            "nb_mots": 281,
+            "orateurs": {
+              "charles revet": {
+                "link": "http://www.nossenateurs.fr/seance/7786#inter_7d55d3b763781300fd3d8c2bb48f2b1f",
+                "nb_intervs": 4,
+                "nb_mots": 24
+              },
+              "philippe dallier": {
+                "link": "http://www.nossenateurs.fr/seance/7786#inter_d2fc8c5f97c2e414228877b83225ae2f",
+                "nb_intervs": 1,
+                "nb_mots": 249
+              },
+              "élisabeth lamure": {
+                "link": "http://www.nossenateurs.fr/seance/7786#inter_7ceccf790d3b421e6666712aaee1e3ae",
+                "nb_intervs": 1,
+                "nb_mots": 8
+              }
+            }
           }
         },
         "last_date": "2012-02-29",
@@ -3386,7 +3314,7 @@
               }
             }
           },
-          "UDI": {
+          "UC": {
             "nb_intervs": 2,
             "nb_mots": 528,
             "orateurs": {
@@ -3416,17 +3344,6 @@
                 "link": "http://www.nossenateurs.fr/seance/7786#inter_cd30af571db6246b61bd8435a4fca7b7",
                 "nb_intervs": 1,
                 "nb_mots": 275
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 1,
-            "nb_mots": 13,
-            "orateurs": {
-              "philippe dallier": {
-                "link": "http://www.nossenateurs.fr/seance/7786#inter_295d20376110a08aa1dac4d05ffbce74",
-                "nb_intervs": 1,
-                "nb_mots": 13
               }
             }
           },
@@ -3478,6 +3395,17 @@
                 "nb_mots": 648
               }
             }
+          },
+          "UMP": {
+            "nb_intervs": 1,
+            "nb_mots": 13,
+            "orateurs": {
+              "philippe dallier": {
+                "link": "http://www.nossenateurs.fr/seance/7786#inter_295d20376110a08aa1dac4d05ffbce74",
+                "nb_intervs": 1,
+                "nb_mots": 13
+              }
+            }
           }
         },
         "last_date": "2012-02-29",
@@ -3490,33 +3418,7 @@
       "Discussion en procédure accélérée d'un projet de loi dans le texte de la commission": {
         "first_date": "2012-02-29",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 9,
-            "nb_mots": 2512,
-            "orateurs": {
-              "claude dilain": {
-                "link": "http://www.nossenateurs.fr/seance/7786#inter_e11ea64431493440835ce4610bf4a189",
-                "nb_intervs": 3,
-                "nb_mots": 708
-              },
-              "jean-jacques filleul": {
-                "link": "http://www.nossenateurs.fr/seance/7786#inter_9113302dc53d90659bd3f891e587f2c2",
-                "nb_intervs": 2,
-                "nb_mots": 1776
-              },
-              "jean-jacques mirassou": {
-                "link": "http://www.nossenateurs.fr/seance/7785#inter_927a1607cba2da9e060948ddd04e294b",
-                "nb_intervs": 2,
-                "nb_mots": 19
-              },
-              "jean-pierre caffet": {
-                "link": "http://www.nossenateurs.fr/seance/7786#inter_1e61339a8170a6c4b8d9dc7a8d43e368",
-                "nb_intervs": 2,
-                "nb_mots": 9
-              }
-            }
-          },
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 3,
             "nb_mots": 2682,
             "orateurs": {
@@ -3524,6 +3426,17 @@
                 "link": "http://www.nossenateurs.fr/seance/7786#inter_38d6a3d9c203bda8c95df0c4552e91c8",
                 "nb_intervs": 3,
                 "nb_mots": 2682
+              }
+            }
+          },
+          "ECOLO": {
+            "nb_intervs": 8,
+            "nb_mots": 2300,
+            "orateurs": {
+              "joël labbé": {
+                "link": "http://www.nossenateurs.fr/seance/7786#inter_fb8cc504af5cc539b648db1324136f21",
+                "nb_intervs": 8,
+                "nb_mots": 2300
               }
             }
           },
@@ -3535,27 +3448,6 @@
                 "link": "http://www.nossenateurs.fr/seance/7785#inter_6ec90fb1369fe0fd1cd3b18a47b5a30e",
                 "nb_intervs": 43,
                 "nb_mots": 3144
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 25,
-            "nb_mots": 5083,
-            "orateurs": {
-              "charles revet": {
-                "link": "http://www.nossenateurs.fr/seance/7785#inter_7c500c7f342d15612fffdf3605622442",
-                "nb_intervs": 3,
-                "nb_mots": 21
-              },
-              "philippe dallier": {
-                "link": "http://www.nossenateurs.fr/seance/7786#inter_7540939e4e907a4bb6ec49f424eea4ac",
-                "nb_intervs": 16,
-                "nb_mots": 3370
-              },
-              "élisabeth lamure": {
-                "link": "http://www.nossenateurs.fr/seance/7786#inter_1ffd7271cb73ae814f6b47b654c492ee",
-                "nb_intervs": 6,
-                "nb_mots": 1692
               }
             }
           },
@@ -3576,18 +3468,13 @@
             }
           },
           "RDSE": {
-            "nb_intervs": 21,
-            "nb_mots": 4175,
+            "nb_intervs": 13,
+            "nb_mots": 1875,
             "orateurs": {
               "jacques mézard": {
                 "link": "http://www.nossenateurs.fr/seance/7786#inter_748f936456fd9830de53d7751298adaa",
                 "nb_intervs": 13,
                 "nb_mots": 1875
-              },
-              "joël labbé": {
-                "link": "http://www.nossenateurs.fr/seance/7786#inter_fb8cc504af5cc539b648db1324136f21",
-                "nb_intervs": 8,
-                "nb_mots": 2300
               }
             }
           },
@@ -3608,18 +3495,38 @@
             }
           },
           "SOC": {
-            "nb_intervs": 43,
-            "nb_mots": 2766,
+            "nb_intervs": 52,
+            "nb_mots": 5278,
             "orateurs": {
               "claude bérit-débat": {
                 "link": "http://www.nossenateurs.fr/seance/7786#inter_5db1725474e61ac22f7808ae60794b13",
                 "nb_intervs": 6,
                 "nb_mots": 1380
               },
+              "claude dilain": {
+                "link": "http://www.nossenateurs.fr/seance/7786#inter_e11ea64431493440835ce4610bf4a189",
+                "nb_intervs": 3,
+                "nb_mots": 708
+              },
               "daniel raoul": {
                 "link": "http://www.nossenateurs.fr/seance/7785#inter_0e3bb730929bee8a4c468b8c14b39c71",
                 "nb_intervs": 8,
                 "nb_mots": 115
+              },
+              "jean-jacques filleul": {
+                "link": "http://www.nossenateurs.fr/seance/7786#inter_9113302dc53d90659bd3f891e587f2c2",
+                "nb_intervs": 2,
+                "nb_mots": 1776
+              },
+              "jean-jacques mirassou": {
+                "link": "http://www.nossenateurs.fr/seance/7785#inter_927a1607cba2da9e060948ddd04e294b",
+                "nb_intervs": 2,
+                "nb_mots": 19
+              },
+              "jean-pierre caffet": {
+                "link": "http://www.nossenateurs.fr/seance/7786#inter_1e61339a8170a6c4b8d9dc7a8d43e368",
+                "nb_intervs": 2,
+                "nb_mots": 9
               },
               "jean-pierre sueur": {
                 "link": "http://www.nossenateurs.fr/seance/7785#inter_36b83fe0f0b16b60b83bb7aee7abe6f4",
@@ -3644,24 +3551,39 @@
             }
           },
           "UC": {
-            "nb_intervs": 2,
-            "nb_mots": 1481,
+            "nb_intervs": 6,
+            "nb_mots": 2903,
             "orateurs": {
               "daniel dubois": {
                 "link": "http://www.nossenateurs.fr/seance/7786#inter_661c3ddad457d76c337c9f71e52806ca",
                 "nb_intervs": 2,
                 "nb_mots": 1481
-              }
-            }
-          },
-          "UDI": {
-            "nb_intervs": 4,
-            "nb_mots": 1422,
-            "orateurs": {
+              },
               "pierre jarlier": {
                 "link": "http://www.nossenateurs.fr/seance/7786#inter_aea4929acc37c712a0185c488b9e2f2f",
                 "nb_intervs": 4,
                 "nb_mots": 1422
+              }
+            }
+          },
+          "UMP": {
+            "nb_intervs": 25,
+            "nb_mots": 5083,
+            "orateurs": {
+              "charles revet": {
+                "link": "http://www.nossenateurs.fr/seance/7785#inter_7c500c7f342d15612fffdf3605622442",
+                "nb_intervs": 3,
+                "nb_mots": 21
+              },
+              "philippe dallier": {
+                "link": "http://www.nossenateurs.fr/seance/7786#inter_7540939e4e907a4bb6ec49f424eea4ac",
+                "nb_intervs": 16,
+                "nb_mots": 3370
+              },
+              "élisabeth lamure": {
+                "link": "http://www.nossenateurs.fr/seance/7786#inter_1ffd7271cb73ae814f6b47b654c492ee",
+                "nb_intervs": 6,
+                "nb_mots": 1692
               }
             }
           }
@@ -3676,14 +3598,14 @@
       "Vote sur l'ensemble": {
         "first_date": "2012-02-29",
         "groupes": {
-          "Auditionnés": {
+          "ECOLO": {
             "nb_intervs": 1,
-            "nb_mots": 110,
+            "nb_mots": 71,
             "orateurs": {
-              "jean-jacques filleul": {
-                "link": "http://www.nossenateurs.fr/seance/7786#inter_9446cacc4b4273a71ca0f42cc67e92ff",
+              "joël labbé": {
+                "link": "http://www.nossenateurs.fr/seance/7786#inter_3ede56571e770b7a3ce8d25fd7eea171",
                 "nb_intervs": 1,
-                "nb_mots": 110
+                "nb_mots": 71
               }
             }
           },
@@ -3698,17 +3620,6 @@
               }
             }
           },
-          "LR": {
-            "nb_intervs": 2,
-            "nb_mots": 248,
-            "orateurs": {
-              "élisabeth lamure": {
-                "link": "http://www.nossenateurs.fr/seance/7786#inter_7d215223508a20dccc912cfa5e5cf075",
-                "nb_intervs": 2,
-                "nb_mots": 248
-              }
-            }
-          },
           "Présidence": {
             "nb_intervs": 4,
             "nb_mots": 68,
@@ -3717,17 +3628,6 @@
                 "link": "http://www.nossenateurs.fr/seance/7786#inter_cb067cfd0ced1d2cc4e7e1e51a71a95e",
                 "nb_intervs": 4,
                 "nb_mots": 68
-              }
-            }
-          },
-          "RDSE": {
-            "nb_intervs": 1,
-            "nb_mots": 71,
-            "orateurs": {
-              "joël labbé": {
-                "link": "http://www.nossenateurs.fr/seance/7786#inter_3ede56571e770b7a3ce8d25fd7eea171",
-                "nb_intervs": 1,
-                "nb_mots": 71
               }
             }
           },
@@ -3743,18 +3643,34 @@
             }
           },
           "SOC": {
-            "nb_intervs": 2,
-            "nb_mots": 31,
+            "nb_intervs": 3,
+            "nb_mots": 141,
             "orateurs": {
               "daniel raoul": {
                 "link": "http://www.nossenateurs.fr/seance/7786#inter_52b790d0b1852d6de59729f482d5f2a6",
                 "nb_intervs": 1,
                 "nb_mots": 27
               },
+              "jean-jacques filleul": {
+                "link": "http://www.nossenateurs.fr/seance/7786#inter_9446cacc4b4273a71ca0f42cc67e92ff",
+                "nb_intervs": 1,
+                "nb_mots": 110
+              },
               "marie-noëlle lienemann": {
                 "link": "http://www.nossenateurs.fr/seance/7786#inter_b161a49dcb52cb246a89fd21997d7e14",
                 "nb_intervs": 1,
                 "nb_mots": 4
+              }
+            }
+          },
+          "UMP": {
+            "nb_intervs": 2,
+            "nb_mots": 248,
+            "orateurs": {
+              "élisabeth lamure": {
+                "link": "http://www.nossenateurs.fr/seance/7786#inter_7d215223508a20dccc912cfa5e5cf075",
+                "nb_intervs": 2,
+                "nb_mots": 248
               }
             }
           }
@@ -3768,29 +3684,23 @@
       }
     },
     "groupes": {
-      "Auditionnés": {
-        "color": "#ccb7b6",
-        "link": "",
-        "nom": "Auditionnés",
-        "order": 70
-      },
-      "CRCE": {
+      "CRC": {
         "color": "rgb(255,30,30)",
-        "link": "https://www.nossenateurs.fr/groupe/CRCE",
-        "nom": "Communiste républicain citoyen et Écologiste",
-        "order": 10
+        "link": "https://www.nossenateurs.fr/groupe/CRC",
+        "nom": "Communiste, Républicain, Citoyen et des Sénateurs du Parti de Gauche",
+        "order": 11
+      },
+      "ECOLO": {
+        "color": "rgb(0,230,30)",
+        "link": "https://www.nossenateurs.fr/groupe/ECOLO",
+        "nom": "Écologiste",
+        "order": 16
       },
       "Gouvernement": {
         "color": "#cccbb3",
         "link": "",
         "nom": "Gouvernement",
         "order": 60
-      },
-      "LR": {
-        "color": "rgb(30,30,200)",
-        "link": "https://www.nossenateurs.fr/groupe/LR",
-        "nom": "Les Républicains",
-        "order": 24
       },
       "Présidence": {
         "color": "#bfbbcc",
@@ -3822,11 +3732,11 @@
         "nom": "Union Centriste",
         "order": 20
       },
-      "UDI": {
-        "color": "rgb(30,180,255)",
-        "link": "https://www.nossenateurs.fr/groupe/UDI",
-        "nom": "Union des Démocrates et Indépendants - UC",
-        "order": 21
+      "UMP": {
+        "color": "rgb(30,30,200)",
+        "link": "https://www.nossenateurs.fr/groupe/UMP",
+        "nom": "Union pour un Mouvement Populaire",
+        "order": 23
       }
     },
     "orateurs": {
@@ -3841,7 +3751,7 @@
       "charles guené": {
         "color": "rgb(30,30,200)",
         "fonction": "président",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/charles-guene",
         "nom": "Charles Guené",
         "photo": "https://www.nossenateurs.fr/senateur/photo/charles-guene"
@@ -3849,7 +3759,7 @@
       "charles revet": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/charles-revet",
         "nom": "Charles Revet",
         "photo": "https://www.nossenateurs.fr/senateur/photo/charles-revet"
@@ -3863,9 +3773,9 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/claude-berit-debat"
       },
       "claude dilain": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/claude-dilain",
         "nom": "Claude Dilain",
         "photo": "https://www.nossenateurs.fr/senateur/photo/claude-dilain"
@@ -3889,7 +3799,7 @@
       "gérard le cam": {
         "color": "rgb(255,30,30)",
         "fonction": "",
-        "groupe": "CRCE",
+        "groupe": "CRC",
         "link": "https://www.nossenateurs.fr/gerard-le-cam",
         "nom": "Gérard Le Cam",
         "photo": "https://www.nossenateurs.fr/senateur/photo/gerard-le-cam"
@@ -3905,39 +3815,39 @@
       "jean-claude carle": {
         "color": "rgb(30,30,200)",
         "fonction": "président",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/jean-claude-carle",
         "nom": "Jean-Claude Carle",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jean-claude-carle"
       },
       "jean-jacques filleul": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/jean-jacques-filleul",
         "nom": "Jean-Jacques Filleul",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jean-jacques-filleul"
       },
       "jean-jacques mirassou": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/jean-jacques-mirassou",
         "nom": "Jean-Jacques Mirassou",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jean-jacques-mirassou"
       },
       "jean-paul amoudry": {
-        "color": "rgb(30,180,255)",
+        "color": "rgb(130,140,255)",
         "fonction": "",
-        "groupe": "UDI",
+        "groupe": "UC",
         "link": "https://www.nossenateurs.fr/jean-paul-amoudry",
         "nom": "Jean-Paul Amoudry",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jean-paul-amoudry"
       },
       "jean-pierre caffet": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/jean-pierre-caffet",
         "nom": "Jean-Pierre Caffet",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jean-pierre-caffet"
@@ -3951,9 +3861,9 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/jean-pierre-sueur"
       },
       "joël labbé": {
-        "color": "rgb(250,195,132)",
+        "color": "rgb(0,230,30)",
         "fonction": "",
-        "groupe": "RDSE",
+        "groupe": "ECOLO",
         "link": "https://www.nossenateurs.fr/joel-labbe",
         "nom": "Joël Labbé",
         "photo": "https://www.nossenateurs.fr/senateur/photo/joel-labbe"
@@ -3977,15 +3887,15 @@
       "philippe dallier": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/philippe-dallier",
         "nom": "Philippe Dallier",
         "photo": "https://www.nossenateurs.fr/senateur/photo/philippe-dallier"
       },
       "pierre jarlier": {
-        "color": "rgb(30,180,255)",
+        "color": "rgb(130,140,255)",
         "fonction": "",
-        "groupe": "UDI",
+        "groupe": "UC",
         "link": "https://www.nossenateurs.fr/pierre-jarlier",
         "nom": "Pierre Jarlier",
         "photo": "https://www.nossenateurs.fr/senateur/photo/pierre-jarlier"
@@ -4007,9 +3917,9 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/roland-courteau"
       },
       "thierry repentin": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "rapporteur de la commission de l'économie, du développement durable et de l'aménagement du territoire",
-        "groupe": "",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/thierry-repentin",
         "nom": "Thierry Repentin",
         "photo": "https://www.nossenateurs.fr/senateur/photo/thierry-repentin"
@@ -4017,7 +3927,7 @@
       "élisabeth lamure": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/elisabeth-lamure",
         "nom": "Élisabeth Lamure",
         "photo": "https://www.nossenateurs.fr/senateur/photo/elisabeth-lamure"

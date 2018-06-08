@@ -7,11 +7,11 @@
       "nom": "Gouvernement",
       "order": 60
     },
-    "LR": {
+    "UMP": {
       "color": "rgb(30,30,200)",
-      "link": "https://www.nossenateurs.fr/groupe/LR",
-      "nom": "Les Républicains",
-      "order": 24
+      "link": "https://www.nossenateurs.fr/groupe/UMP",
+      "nom": "Union pour un Mouvement Populaire",
+      "order": 23
     }
   },
   "id_step": "04_1erelecture_senat_commission",
@@ -21,7 +21,7 @@
         {
           "aut": "M. Portelli, …",
           "date": "2015-10-19",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "106231",
           "numero": "COM-2",
           "sort": "adopté"
@@ -35,7 +35,7 @@
         {
           "aut": "M. Portelli, …",
           "date": "2015-10-19",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "106230",
           "numero": "COM-1",
           "sort": "adopté"
@@ -49,7 +49,7 @@
         {
           "aut": "M. Portelli, …",
           "date": "2015-10-19",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "106232",
           "numero": "COM-3",
           "sort": "adopté"
@@ -57,7 +57,7 @@
         {
           "aut": "M. Portelli, …",
           "date": "2015-10-19",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "106233",
           "numero": "COM-4",
           "sort": "adopté"
@@ -71,7 +71,7 @@
         {
           "aut": "M. Portelli, …",
           "date": "2015-10-19",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "106234",
           "numero": "COM-5",
           "sort": "adopté"
@@ -79,7 +79,7 @@
         {
           "aut": "M. Portelli, …",
           "date": "2015-10-19",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "106235",
           "numero": "COM-6",
           "sort": "adopté"
@@ -93,7 +93,7 @@
         {
           "aut": "M. Portelli, …",
           "date": "2015-10-19",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "106236",
           "numero": "COM-7",
           "sort": "adopté"
@@ -107,7 +107,7 @@
         {
           "aut": "M. Portelli, …",
           "date": "2015-10-19",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "106237",
           "numero": "COM-8",
           "sort": "adopté"
@@ -121,7 +121,7 @@
         {
           "aut": "M. Portelli, …",
           "date": "2015-10-19",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "106238",
           "numero": "COM-9",
           "sort": "adopté"
@@ -143,7 +143,7 @@
         {
           "aut": "M. Portelli, …",
           "date": "2015-10-20",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "106239",
           "numero": "COM-10",
           "sort": "adopté"
@@ -165,7 +165,7 @@
         {
           "aut": "M. Portelli, …",
           "date": "2015-10-20",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "106350",
           "numero": "COM-13",
           "sort": "adopté"

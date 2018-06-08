@@ -10421,18 +10421,7 @@
       "Article 13 bis": {
         "first_date": "2008-06-23",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 2,
-            "nb_mots": 528,
-            "orateurs": {
-              "jean-pierre bel": {
-                "link": "http://www.nossenateurs.fr/seance/216#inter_7554553a38d39e784571f13cf7b44952",
-                "nb_intervs": 2,
-                "nb_mots": 528
-              }
-            }
-          },
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 7,
             "nb_mots": 1489,
             "orateurs": {
@@ -10459,28 +10448,6 @@
               }
             }
           },
-          "LR": {
-            "nb_intervs": 1,
-            "nb_mots": 7,
-            "orateurs": {
-              "isabelle debré": {
-                "link": "http://www.nossenateurs.fr/seance/216#inter_219738601c95be46119c029409a0b784",
-                "nb_intervs": 1,
-                "nb_mots": 7
-              }
-            }
-          },
-          "LREM": {
-            "nb_intervs": 3,
-            "nb_mots": 294,
-            "orateurs": {
-              "nicole bricq": {
-                "link": "http://www.nossenateurs.fr/seance/216#inter_37155aac387aa0bab24c9365256982b9",
-                "nb_intervs": 3,
-                "nb_mots": 294
-              }
-            }
-          },
           "RDSE": {
             "nb_intervs": 6,
             "nb_mots": 726,
@@ -10504,13 +10471,23 @@
             }
           },
           "SOC": {
-            "nb_intervs": 4,
-            "nb_mots": 644,
+            "nb_intervs": 9,
+            "nb_mots": 1466,
             "orateurs": {
               "bernard frimat": {
                 "link": "http://www.nossenateurs.fr/seance/216#inter_855b7f78b9f65ec46833757e0a654154",
                 "nb_intervs": 4,
                 "nb_mots": 644
+              },
+              "jean-pierre bel": {
+                "link": "http://www.nossenateurs.fr/seance/216#inter_7554553a38d39e784571f13cf7b44952",
+                "nb_intervs": 2,
+                "nb_mots": 528
+              },
+              "nicole bricq": {
+                "link": "http://www.nossenateurs.fr/seance/216#inter_37155aac387aa0bab24c9365256982b9",
+                "nb_intervs": 3,
+                "nb_mots": 294
               }
             }
           },
@@ -10526,13 +10503,18 @@
             }
           },
           "UMP": {
-            "nb_intervs": 27,
-            "nb_mots": 1503,
+            "nb_intervs": 28,
+            "nb_mots": 1510,
             "orateurs": {
               "adrien gouteyron": {
                 "link": "http://www.nossenateurs.fr/seance/216#inter_f74cd13f0195bde3a8779153244b4e50",
                 "nb_intervs": 23,
                 "nb_mots": 951
+              },
+              "isabelle debré": {
+                "link": "http://www.nossenateurs.fr/seance/216#inter_219738601c95be46119c029409a0b784",
+                "nb_intervs": 1,
+                "nb_mots": 7
               },
               "jean-rené lecerf": {
                 "link": "http://www.nossenateurs.fr/seance/216#inter_cedda9f30800fffef5cd27e8fdbef477",
@@ -10552,7 +10534,7 @@
       "Article 14": {
         "first_date": "2008-06-23",
         "groupes": {
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 9,
             "nb_mots": 1185,
             "orateurs": {
@@ -10579,48 +10561,6 @@
               }
             }
           },
-          "LR": {
-            "nb_intervs": 13,
-            "nb_mots": 983,
-            "orateurs": {
-              "gérard longuet": {
-                "link": "http://www.nossenateurs.fr/seance/216#inter_b68cd161320107efc67e77d2c90c0a61",
-                "nb_intervs": 3,
-                "nb_mots": 210
-              },
-              "henri de raincourt": {
-                "link": "http://www.nossenateurs.fr/seance/216#inter_f9f9cdeb158a9d097ea5ccab4018456b",
-                "nb_intervs": 1,
-                "nb_mots": 7
-              },
-              "jean-pierre raffarin": {
-                "link": "http://www.nossenateurs.fr/seance/216#inter_437148ab1531054a7cd2ff3837fdfb7c",
-                "nb_intervs": 6,
-                "nb_mots": 455
-              },
-              "robert del picchia": {
-                "link": "http://www.nossenateurs.fr/seance/216#inter_36ac8d99637e9ba666491c00cc1e05b9",
-                "nb_intervs": 3,
-                "nb_mots": 311
-              }
-            }
-          },
-          "LREM": {
-            "nb_intervs": 6,
-            "nb_mots": 524,
-            "orateurs": {
-              "nicole bricq": {
-                "link": "http://www.nossenateurs.fr/seance/216#inter_cb74dbd83f707a65cbaa76b065b00ed5",
-                "nb_intervs": 3,
-                "nb_mots": 15
-              },
-              "richard yung": {
-                "link": "http://www.nossenateurs.fr/seance/216#inter_8d18834be908fbb6e735e40c65aa4717",
-                "nb_intervs": 3,
-                "nb_mots": 509
-              }
-            }
-          },
           "RDSE": {
             "nb_intervs": 22,
             "nb_mots": 1636,
@@ -10644,13 +10584,23 @@
             }
           },
           "SOC": {
-            "nb_intervs": 17,
-            "nb_mots": 2352,
+            "nb_intervs": 23,
+            "nb_mots": 2876,
             "orateurs": {
               "bernard frimat": {
                 "link": "http://www.nossenateurs.fr/seance/216#inter_574c67e5c4bc4328852f3048472ba613",
                 "nb_intervs": 13,
                 "nb_mots": 1839
+              },
+              "nicole bricq": {
+                "link": "http://www.nossenateurs.fr/seance/216#inter_cb74dbd83f707a65cbaa76b065b00ed5",
+                "nb_intervs": 3,
+                "nb_mots": 15
+              },
+              "richard yung": {
+                "link": "http://www.nossenateurs.fr/seance/216#inter_8d18834be908fbb6e735e40c65aa4717",
+                "nb_intervs": 3,
+                "nb_mots": 509
               },
               "yannick bodin": {
                 "link": "http://www.nossenateurs.fr/seance/216#inter_f0670f9f7f0f2408dba93bc336b8374f",
@@ -10676,8 +10626,8 @@
             }
           },
           "UMP": {
-            "nb_intervs": 71,
-            "nb_mots": 3735,
+            "nb_intervs": 84,
+            "nb_mots": 4718,
             "orateurs": {
               "adrien gouteyron": {
                 "link": "http://www.nossenateurs.fr/seance/216#inter_c3a43a3fd3d282eabf71d996eaf9f090",
@@ -10699,10 +10649,25 @@
                 "nb_intervs": 1,
                 "nb_mots": 11
               },
+              "gérard longuet": {
+                "link": "http://www.nossenateurs.fr/seance/216#inter_b68cd161320107efc67e77d2c90c0a61",
+                "nb_intervs": 3,
+                "nb_mots": 210
+              },
+              "henri de raincourt": {
+                "link": "http://www.nossenateurs.fr/seance/216#inter_f9f9cdeb158a9d097ea5ccab4018456b",
+                "nb_intervs": 1,
+                "nb_mots": 7
+              },
               "jacques valade": {
                 "link": "http://www.nossenateurs.fr/seance/216#inter_362fe9890bee1fef8137d3b04c2b536e",
                 "nb_intervs": 1,
                 "nb_mots": 4
+              },
+              "jean-pierre raffarin": {
+                "link": "http://www.nossenateurs.fr/seance/216#inter_437148ab1531054a7cd2ff3837fdfb7c",
+                "nb_intervs": 6,
+                "nb_mots": 455
               },
               "jean-rené lecerf": {
                 "link": "http://www.nossenateurs.fr/seance/216#inter_3861353a9a871800d7d32c1b81f6c936",
@@ -10713,6 +10678,11 @@
                 "link": "http://www.nossenateurs.fr/seance/216#inter_43f7cebe28d39e8f0d9dd7ff2601d72f",
                 "nb_intervs": 6,
                 "nb_mots": 434
+              },
+              "robert del picchia": {
+                "link": "http://www.nossenateurs.fr/seance/216#inter_36ac8d99637e9ba666491c00cc1e05b9",
+                "nb_intervs": 3,
+                "nb_mots": 311
               }
             }
           }
@@ -10727,7 +10697,7 @@
       "Article 15": {
         "first_date": "2008-06-23",
         "groupes": {
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 1,
             "nb_mots": 308,
             "orateurs": {
@@ -10814,7 +10784,7 @@
       "Article 16": {
         "first_date": "2008-06-23",
         "groupes": {
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 7,
             "nb_mots": 1336,
             "orateurs": {
@@ -10841,28 +10811,6 @@
               }
             }
           },
-          "LR": {
-            "nb_intervs": 1,
-            "nb_mots": 5,
-            "orateurs": {
-              "isabelle debré": {
-                "link": "http://www.nossenateurs.fr/seance/216#inter_5d791a82a66ea186422c5b5c18a59a2d",
-                "nb_intervs": 1,
-                "nb_mots": 5
-              }
-            }
-          },
-          "LREM": {
-            "nb_intervs": 1,
-            "nb_mots": 216,
-            "orateurs": {
-              "richard yung": {
-                "link": "http://www.nossenateurs.fr/seance/216#inter_73bc14acd4f68fd3b023f8811836fc0e",
-                "nb_intervs": 1,
-                "nb_mots": 216
-              }
-            }
-          },
           "RDSE": {
             "nb_intervs": 15,
             "nb_mots": 892,
@@ -10886,13 +10834,18 @@
             }
           },
           "SOC": {
-            "nb_intervs": 9,
-            "nb_mots": 1701,
+            "nb_intervs": 10,
+            "nb_mots": 1917,
             "orateurs": {
               "bernard frimat": {
                 "link": "http://www.nossenateurs.fr/seance/216#inter_6647ee498d92666a53be5cc99b543202",
                 "nb_intervs": 9,
                 "nb_mots": 1701
+              },
+              "richard yung": {
+                "link": "http://www.nossenateurs.fr/seance/216#inter_73bc14acd4f68fd3b023f8811836fc0e",
+                "nb_intervs": 1,
+                "nb_mots": 216
               }
             }
           },
@@ -10913,13 +10866,18 @@
             }
           },
           "UMP": {
-            "nb_intervs": 27,
-            "nb_mots": 1449,
+            "nb_intervs": 28,
+            "nb_mots": 1454,
             "orateurs": {
               "adrien gouteyron": {
                 "link": "http://www.nossenateurs.fr/seance/216#inter_f7e8a2e9f307ff6e070adcbe237f5de2",
                 "nb_intervs": 25,
                 "nb_mots": 1443
+              },
+              "isabelle debré": {
+                "link": "http://www.nossenateurs.fr/seance/216#inter_5d791a82a66ea186422c5b5c18a59a2d",
+                "nb_intervs": 1,
+                "nb_mots": 5
               },
               "jean-pierre fourcade": {
                 "link": "http://www.nossenateurs.fr/seance/216#inter_80668904f8642b466da720db4d21fdec",
@@ -10944,7 +10902,7 @@
       "Article 17": {
         "first_date": "2008-06-23",
         "groupes": {
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 1,
             "nb_mots": 91,
             "orateurs": {
@@ -11027,24 +10985,18 @@
         "first_date": "2008-06-23",
         "groupes": {
           "CRC": {
-            "nb_intervs": 2,
-            "nb_mots": 781,
-            "orateurs": {
-              "odette terrade": {
-                "link": "http://www.nossenateurs.fr/seance/216#inter_43b5e01b169808252a405b8cf95d3c2f",
-                "nb_intervs": 2,
-                "nb_mots": 781
-              }
-            }
-          },
-          "CRCE": {
-            "nb_intervs": 8,
-            "nb_mots": 2170,
+            "nb_intervs": 10,
+            "nb_mots": 2951,
             "orateurs": {
               "nicole borvo cohen-seat": {
                 "link": "http://www.nossenateurs.fr/seance/216#inter_d06cccef3ccc89e52e7c4b65213802ef",
                 "nb_intervs": 8,
                 "nb_mots": 2170
+              },
+              "odette terrade": {
+                "link": "http://www.nossenateurs.fr/seance/216#inter_43b5e01b169808252a405b8cf95d3c2f",
+                "nb_intervs": 2,
+                "nb_mots": 781
               }
             }
           },
@@ -11056,17 +11008,6 @@
                 "link": "http://www.nossenateurs.fr/seance/216#inter_683f7239c4092ba90037095ab1d2a2e6",
                 "nb_intervs": 9,
                 "nb_mots": 1296
-              }
-            }
-          },
-          "LREM": {
-            "nb_intervs": 1,
-            "nb_mots": 499,
-            "orateurs": {
-              "richard yung": {
-                "link": "http://www.nossenateurs.fr/seance/216#inter_767a30c859d475e194e4106783f25b10",
-                "nb_intervs": 1,
-                "nb_mots": 499
               }
             }
           },
@@ -11104,8 +11045,8 @@
             }
           },
           "SOC": {
-            "nb_intervs": 13,
-            "nb_mots": 2172,
+            "nb_intervs": 14,
+            "nb_mots": 2671,
             "orateurs": {
               "alima boumediene-thiery": {
                 "link": "http://www.nossenateurs.fr/seance/216#inter_f9bcd7b661503423d0ed75d51ffa6126",
@@ -11116,6 +11057,11 @@
                 "link": "http://www.nossenateurs.fr/seance/216#inter_9d6f666aae4712a5e84c17610485ccdb",
                 "nb_intervs": 11,
                 "nb_mots": 1915
+              },
+              "richard yung": {
+                "link": "http://www.nossenateurs.fr/seance/216#inter_767a30c859d475e194e4106783f25b10",
+                "nb_intervs": 1,
+                "nb_mots": 499
               }
             }
           },
@@ -11162,23 +11108,7 @@
       "Article 19": {
         "first_date": "2008-06-23",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 10,
-            "nb_mots": 1474,
-            "orateurs": {
-              "jean-claude peyronnet": {
-                "link": "http://www.nossenateurs.fr/seance/217#inter_26debe1786ce56f446ca59a5e08d6d39",
-                "nb_intervs": 2,
-                "nb_mots": 459
-              },
-              "thierry repentin": {
-                "link": "http://www.nossenateurs.fr/seance/217#inter_bc4399fcfe6f78ef2c54aa106e35dcd0",
-                "nb_intervs": 8,
-                "nb_mots": 1015
-              }
-            }
-          },
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 7,
             "nb_mots": 1075,
             "orateurs": {
@@ -11234,8 +11164,8 @@
             }
           },
           "SOC": {
-            "nb_intervs": 11,
-            "nb_mots": 1804,
+            "nb_intervs": 21,
+            "nb_mots": 3278,
             "orateurs": {
               "alima boumediene-thiery": {
                 "link": "http://www.nossenateurs.fr/seance/217#inter_2c59a7cdf5e9597a81677ac2ef194c2b",
@@ -11247,10 +11177,20 @@
                 "nb_intervs": 2,
                 "nb_mots": 165
               },
+              "jean-claude peyronnet": {
+                "link": "http://www.nossenateurs.fr/seance/217#inter_26debe1786ce56f446ca59a5e08d6d39",
+                "nb_intervs": 2,
+                "nb_mots": 459
+              },
               "jean-pierre sueur": {
                 "link": "http://www.nossenateurs.fr/seance/217#inter_2fbec6ef64f3a9087b203f034d3fcc3c",
                 "nb_intervs": 6,
                 "nb_mots": 872
+              },
+              "thierry repentin": {
+                "link": "http://www.nossenateurs.fr/seance/217#inter_bc4399fcfe6f78ef2c54aa106e35dcd0",
+                "nb_intervs": 8,
+                "nb_mots": 1015
               }
             }
           },
@@ -11288,8 +11228,8 @@
         "first_date": "2008-06-18",
         "groupes": {
           "CRC": {
-            "nb_intervs": 7,
-            "nb_mots": 1339,
+            "nb_intervs": 9,
+            "nb_mots": 1503,
             "orateurs": {
               "annie david": {
                 "link": "http://www.nossenateurs.fr/seance/1288#inter_e83316228aaef65ea7428c8ffd57a1b4",
@@ -11301,17 +11241,6 @@
                 "nb_intervs": 1,
                 "nb_mots": 463
               },
-              "jean-luc mélenchon": {
-                "link": "http://www.nossenateurs.fr/seance/1288#inter_a02dbbd28fa3018bb075db96a7c9e65f",
-                "nb_intervs": 2,
-                "nb_mots": 390
-              }
-            }
-          },
-          "CRCE": {
-            "nb_intervs": 4,
-            "nb_mots": 554,
-            "orateurs": {
               "nicole borvo cohen-seat": {
                 "link": "http://www.nossenateurs.fr/seance/1288#inter_d0477cbda4ca08b11f01299d74c7b76e",
                 "nb_intervs": 3,
@@ -11335,40 +11264,14 @@
               }
             }
           },
-          "LR": {
-            "nb_intervs": 9,
-            "nb_mots": 1107,
+          "NI": {
+            "nb_intervs": 1,
+            "nb_mots": 217,
             "orateurs": {
               "bruno retailleau": {
                 "link": "http://www.nossenateurs.fr/seance/1288#inter_28a22d10b3c3ea59e66db7b159a44ad1",
                 "nb_intervs": 1,
                 "nb_mots": 217
-              },
-              "henri de raincourt": {
-                "link": "http://www.nossenateurs.fr/seance/1288#inter_651eca59c152dffb9426ab7d502aa118",
-                "nb_intervs": 2,
-                "nb_mots": 222
-              },
-              "jacques legendre": {
-                "link": "http://www.nossenateurs.fr/seance/1288#inter_65d43c4c8b8fdbf339bd97ea561f2de5",
-                "nb_intervs": 4,
-                "nb_mots": 479
-              },
-              "philippe dallier": {
-                "link": "http://www.nossenateurs.fr/seance/1288#inter_495bdb31a3bb085232077502dde94f90",
-                "nb_intervs": 2,
-                "nb_mots": 189
-              }
-            }
-          },
-          "NI": {
-            "nb_intervs": 3,
-            "nb_mots": 574,
-            "orateurs": {
-              "marie-christine blandin": {
-                "link": "http://www.nossenateurs.fr/seance/1288#inter_71357395b28c5c28fe3485a3b34cb315",
-                "nb_intervs": 3,
-                "nb_mots": 574
               }
             }
           },
@@ -11426,8 +11329,8 @@
             }
           },
           "SOC": {
-            "nb_intervs": 15,
-            "nb_mots": 3257,
+            "nb_intervs": 20,
+            "nb_mots": 4221,
             "orateurs": {
               "alima boumediene-thiery": {
                 "link": "http://www.nossenateurs.fr/seance/1288#inter_b7698f3b578664e763dfd0189492db68",
@@ -11449,6 +11352,16 @@
                 "nb_intervs": 3,
                 "nb_mots": 719
               },
+              "jean-luc mélenchon": {
+                "link": "http://www.nossenateurs.fr/seance/1288#inter_a02dbbd28fa3018bb075db96a7c9e65f",
+                "nb_intervs": 2,
+                "nb_mots": 390
+              },
+              "marie-christine blandin": {
+                "link": "http://www.nossenateurs.fr/seance/1288#inter_71357395b28c5c28fe3485a3b34cb315",
+                "nb_intervs": 3,
+                "nb_mots": 574
+              },
               "robert badinter": {
                 "link": "http://www.nossenateurs.fr/seance/1288#inter_4ba2514fbd274544c021aacf2bb6502e",
                 "nb_intervs": 2,
@@ -11457,8 +11370,8 @@
             }
           },
           "UC": {
-            "nb_intervs": 7,
-            "nb_mots": 677,
+            "nb_intervs": 8,
+            "nb_mots": 1629,
             "orateurs": {
               "anne-marie payet": {
                 "link": "http://www.nossenateurs.fr/seance/1288#inter_fd8c0852e13918bbbfe16ca3ff7517df",
@@ -11470,6 +11383,11 @@
                 "nb_intervs": 2,
                 "nb_mots": 513
               },
+              "muguette dini": {
+                "link": "http://www.nossenateurs.fr/seance/1288#inter_e08c0ee5723b4d6d02b6842fa8c3819e",
+                "nb_intervs": 1,
+                "nb_mots": 952
+              },
               "nicolas about": {
                 "link": "http://www.nossenateurs.fr/seance/1288#inter_029b86eaede82733f6ac69b20de97ce8",
                 "nb_intervs": 4,
@@ -11477,20 +11395,9 @@
               }
             }
           },
-          "UDI": {
-            "nb_intervs": 1,
-            "nb_mots": 952,
-            "orateurs": {
-              "muguette dini": {
-                "link": "http://www.nossenateurs.fr/seance/1288#inter_e08c0ee5723b4d6d02b6842fa8c3819e",
-                "nb_intervs": 1,
-                "nb_mots": 952
-              }
-            }
-          },
           "UMP": {
-            "nb_intervs": 32,
-            "nb_mots": 2008,
+            "nb_intervs": 40,
+            "nb_mots": 2898,
             "orateurs": {
               "adrien gouteyron": {
                 "link": "http://www.nossenateurs.fr/seance/1288#inter_105f51ae9152706094bc903695f46866",
@@ -11511,6 +11418,16 @@
                 "link": "http://www.nossenateurs.fr/seance/1288#inter_01cdee71edd244def402c0d2c82e45ce",
                 "nb_intervs": 4,
                 "nb_mots": 24
+              },
+              "henri de raincourt": {
+                "link": "http://www.nossenateurs.fr/seance/1288#inter_651eca59c152dffb9426ab7d502aa118",
+                "nb_intervs": 2,
+                "nb_mots": 222
+              },
+              "jacques legendre": {
+                "link": "http://www.nossenateurs.fr/seance/1288#inter_65d43c4c8b8fdbf339bd97ea561f2de5",
+                "nb_intervs": 4,
+                "nb_mots": 479
               },
               "jean-pierre fourcade": {
                 "link": "http://www.nossenateurs.fr/seance/1288#inter_5fdf1e7eda598b5324191066c0d572da",
@@ -11537,6 +11454,11 @@
                 "nb_intervs": 6,
                 "nb_mots": 51
               },
+              "philippe dallier": {
+                "link": "http://www.nossenateurs.fr/seance/1288#inter_495bdb31a3bb085232077502dde94f90",
+                "nb_intervs": 2,
+                "nb_mots": 189
+              },
               "philippe marini": {
                 "link": "http://www.nossenateurs.fr/seance/1288#inter_9a6b3d2bea42f55e96eac60610cef0a3",
                 "nb_intervs": 3,
@@ -11560,7 +11482,7 @@
       "Article 20": {
         "first_date": "2008-06-23",
         "groupes": {
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 2,
             "nb_mots": 637,
             "orateurs": {
@@ -11632,20 +11554,14 @@
         "first_date": "2008-06-23",
         "groupes": {
           "CRC": {
-            "nb_intervs": 3,
-            "nb_mots": 370,
+            "nb_intervs": 4,
+            "nb_mots": 376,
             "orateurs": {
               "bernard vera": {
                 "link": "http://www.nossenateurs.fr/seance/217#inter_0beb67cfa192b98483bd374a86880251",
                 "nb_intervs": 3,
                 "nb_mots": 370
-              }
-            }
-          },
-          "CRCE": {
-            "nb_intervs": 1,
-            "nb_mots": 6,
-            "orateurs": {
+              },
               "nicole borvo cohen-seat": {
                 "link": "http://www.nossenateurs.fr/seance/217#inter_6d5596695950cbabb3b4ba03b8ae57fc",
                 "nb_intervs": 1,
@@ -11661,28 +11577,6 @@
                 "link": "http://www.nossenateurs.fr/seance/217#inter_172f46fd4732905387814ce2a0591480",
                 "nb_intervs": 5,
                 "nb_mots": 628
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 2,
-            "nb_mots": 9,
-            "orateurs": {
-              "jean-patrick courtois": {
-                "link": "http://www.nossenateurs.fr/seance/217#inter_a98f86af1642917a09982cdadc6a82c2",
-                "nb_intervs": 2,
-                "nb_mots": 9
-              }
-            }
-          },
-          "LREM": {
-            "nb_intervs": 2,
-            "nb_mots": 223,
-            "orateurs": {
-              "nicole bricq": {
-                "link": "http://www.nossenateurs.fr/seance/217#inter_596b50977ce452dfad83dc464e5f0b38",
-                "nb_intervs": 2,
-                "nb_mots": 223
               }
             }
           },
@@ -11719,10 +11613,26 @@
               }
             }
           },
-          "UC": {
-            "nb_intervs": 7,
-            "nb_mots": 440,
+          "SOC": {
+            "nb_intervs": 2,
+            "nb_mots": 223,
             "orateurs": {
+              "nicole bricq": {
+                "link": "http://www.nossenateurs.fr/seance/217#inter_596b50977ce452dfad83dc464e5f0b38",
+                "nb_intervs": 2,
+                "nb_mots": 223
+              }
+            }
+          },
+          "UC": {
+            "nb_intervs": 9,
+            "nb_mots": 1206,
+            "orateurs": {
+              "jean arthuis": {
+                "link": "http://www.nossenateurs.fr/seance/217#inter_8dd2901259774f6b8ab32953e8e03730",
+                "nb_intervs": 2,
+                "nb_mots": 766
+              },
               "yves pozzo di borgo": {
                 "link": "http://www.nossenateurs.fr/seance/217#inter_7a31e542615cf13988a145a9027782a5",
                 "nb_intervs": 7,
@@ -11730,21 +11640,15 @@
               }
             }
           },
-          "UDI": {
-            "nb_intervs": 2,
-            "nb_mots": 766,
-            "orateurs": {
-              "jean arthuis": {
-                "link": "http://www.nossenateurs.fr/seance/217#inter_8dd2901259774f6b8ab32953e8e03730",
-                "nb_intervs": 2,
-                "nb_mots": 766
-              }
-            }
-          },
           "UMP": {
-            "nb_intervs": 2,
-            "nb_mots": 468,
+            "nb_intervs": 4,
+            "nb_mots": 477,
             "orateurs": {
+              "jean-patrick courtois": {
+                "link": "http://www.nossenateurs.fr/seance/217#inter_a98f86af1642917a09982cdadc6a82c2",
+                "nb_intervs": 2,
+                "nb_mots": 9
+              },
               "laurent béteille": {
                 "link": "http://www.nossenateurs.fr/seance/217#inter_e29057e5e5fa973ef7eee0e54feb2234",
                 "nb_intervs": 2,
@@ -11763,18 +11667,7 @@
       "Article 22": {
         "first_date": "2008-06-24",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 1,
-            "nb_mots": 475,
-            "orateurs": {
-              "jean-pierre bel": {
-                "link": "http://www.nossenateurs.fr/seance/769#inter_506ae7a7331e54058115a8947568cf01",
-                "nb_intervs": 1,
-                "nb_mots": 475
-              }
-            }
-          },
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 27,
             "nb_mots": 2433,
             "orateurs": {
@@ -11806,27 +11699,6 @@
               }
             }
           },
-          "LR": {
-            "nb_intervs": 6,
-            "nb_mots": 85,
-            "orateurs": {
-              "charles revet": {
-                "link": "http://www.nossenateurs.fr/seance/769#inter_2f5ee5f02edfa396431abac2c9d24028",
-                "nb_intervs": 1,
-                "nb_mots": 5
-              },
-              "hugues portelli": {
-                "link": "http://www.nossenateurs.fr/seance/769#inter_021c8f7f2c13b526223da4f9ee6c4f4f",
-                "nb_intervs": 4,
-                "nb_mots": 75
-              },
-              "jean-pierre raffarin": {
-                "link": "http://www.nossenateurs.fr/seance/769#inter_909e430d1079ec42408d8ab9cfdf2635",
-                "nb_intervs": 1,
-                "nb_mots": 5
-              }
-            }
-          },
           "RDSE": {
             "nb_intervs": 11,
             "nb_mots": 683,
@@ -11850,13 +11722,18 @@
             }
           },
           "SOC": {
-            "nb_intervs": 18,
-            "nb_mots": 1941,
+            "nb_intervs": 19,
+            "nb_mots": 2416,
             "orateurs": {
               "bernard frimat": {
                 "link": "http://www.nossenateurs.fr/seance/769#inter_ae76109689d923b478ee6063bf4e2495",
                 "nb_intervs": 11,
                 "nb_mots": 1160
+              },
+              "jean-pierre bel": {
+                "link": "http://www.nossenateurs.fr/seance/769#inter_506ae7a7331e54058115a8947568cf01",
+                "nb_intervs": 1,
+                "nb_mots": 475
               },
               "jean-pierre sueur": {
                 "link": "http://www.nossenateurs.fr/seance/769#inter_5e7b06c3ac13eee1011f98145c2ab1d7",
@@ -11887,13 +11764,28 @@
             }
           },
           "UMP": {
-            "nb_intervs": 41,
-            "nb_mots": 2635,
+            "nb_intervs": 47,
+            "nb_mots": 2720,
             "orateurs": {
+              "charles revet": {
+                "link": "http://www.nossenateurs.fr/seance/769#inter_2f5ee5f02edfa396431abac2c9d24028",
+                "nb_intervs": 1,
+                "nb_mots": 5
+              },
               "christian cointat": {
                 "link": "http://www.nossenateurs.fr/seance/769#inter_64df85a51cbe7e23afd99a3280e3aba2",
                 "nb_intervs": 4,
                 "nb_mots": 568
+              },
+              "hugues portelli": {
+                "link": "http://www.nossenateurs.fr/seance/769#inter_021c8f7f2c13b526223da4f9ee6c4f4f",
+                "nb_intervs": 4,
+                "nb_mots": 75
+              },
+              "jean-pierre raffarin": {
+                "link": "http://www.nossenateurs.fr/seance/769#inter_909e430d1079ec42408d8ab9cfdf2635",
+                "nb_intervs": 1,
+                "nb_mots": 5
               },
               "jean-rené lecerf": {
                 "link": "http://www.nossenateurs.fr/seance/769#inter_5a52ce45fdb8a2081822d2eae7715cc2",
@@ -11923,23 +11815,7 @@
       "Article 23": {
         "first_date": "2008-06-24",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 3,
-            "nb_mots": 452,
-            "orateurs": {
-              "jean-claude peyronnet": {
-                "link": "http://www.nossenateurs.fr/seance/769#inter_cce7e768ef54aa18b5ae31a76363a861",
-                "nb_intervs": 1,
-                "nb_mots": 430
-              },
-              "jean-pierre bel": {
-                "link": "http://www.nossenateurs.fr/seance/769#inter_1358838c59162dbeddc82d3ac9bac705",
-                "nb_intervs": 2,
-                "nb_mots": 22
-              }
-            }
-          },
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 8,
             "nb_mots": 1790,
             "orateurs": {
@@ -11963,22 +11839,6 @@
                 "link": "http://www.nossenateurs.fr/seance/769#inter_91048eb36ad88d3eb674f9be8e47d950",
                 "nb_intervs": 9,
                 "nb_mots": 1073
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 3,
-            "nb_mots": 384,
-            "orateurs": {
-              "charles revet": {
-                "link": "http://www.nossenateurs.fr/seance/769#inter_71f29aca4d8e9610191a211ef8cfbc55",
-                "nb_intervs": 1,
-                "nb_mots": 8
-              },
-              "hugues portelli": {
-                "link": "http://www.nossenateurs.fr/seance/769#inter_8255491a18bcf34beb74ff058b171769",
-                "nb_intervs": 2,
-                "nb_mots": 376
               }
             }
           },
@@ -12020,8 +11880,8 @@
             }
           },
           "SOC": {
-            "nb_intervs": 14,
-            "nb_mots": 1691,
+            "nb_intervs": 17,
+            "nb_mots": 2143,
             "orateurs": {
               "alima boumediene-thiery": {
                 "link": "http://www.nossenateurs.fr/seance/769#inter_bfda40d01c984afbdf7a1e48e10fb81f",
@@ -12032,6 +11892,16 @@
                 "link": "http://www.nossenateurs.fr/seance/769#inter_517273aaba6dbb08debb6ff13d95e9af",
                 "nb_intervs": 4,
                 "nb_mots": 602
+              },
+              "jean-claude peyronnet": {
+                "link": "http://www.nossenateurs.fr/seance/769#inter_cce7e768ef54aa18b5ae31a76363a861",
+                "nb_intervs": 1,
+                "nb_mots": 430
+              },
+              "jean-pierre bel": {
+                "link": "http://www.nossenateurs.fr/seance/769#inter_1358838c59162dbeddc82d3ac9bac705",
+                "nb_intervs": 2,
+                "nb_mots": 22
               },
               "jean-pierre sueur": {
                 "link": "http://www.nossenateurs.fr/seance/769#inter_f1c67525d54692d32d9835157270c326",
@@ -12062,13 +11932,23 @@
             }
           },
           "UMP": {
-            "nb_intervs": 51,
-            "nb_mots": 2837,
+            "nb_intervs": 54,
+            "nb_mots": 3221,
             "orateurs": {
+              "charles revet": {
+                "link": "http://www.nossenateurs.fr/seance/769#inter_71f29aca4d8e9610191a211ef8cfbc55",
+                "nb_intervs": 1,
+                "nb_mots": 8
+              },
               "christian cointat": {
                 "link": "http://www.nossenateurs.fr/seance/769#inter_39e44cab5b8ffd84403d5b8f01a54f14",
                 "nb_intervs": 6,
                 "nb_mots": 492
+              },
+              "hugues portelli": {
+                "link": "http://www.nossenateurs.fr/seance/769#inter_8255491a18bcf34beb74ff058b171769",
+                "nb_intervs": 2,
+                "nb_mots": 376
               },
               "jean-rené lecerf": {
                 "link": "http://www.nossenateurs.fr/seance/769#inter_c937d1a683f6b949ac4985ba0f790683",
@@ -12098,7 +11978,7 @@
       "Article 23 bis": {
         "first_date": "2008-06-24",
         "groupes": {
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 1,
             "nb_mots": 8,
             "orateurs": {
@@ -12186,30 +12066,14 @@
       "Article 24": {
         "first_date": "2008-06-24",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 2,
-            "nb_mots": 351,
-            "orateurs": {
-              "jean-pierre bel": {
-                "link": "http://www.nossenateurs.fr/seance/770#inter_c66c00e79d942063b7ce7e8cbd005a37",
-                "nb_intervs": 2,
-                "nb_mots": 351
-              }
-            }
-          },
-          "CRCE": {
-            "nb_intervs": 10,
-            "nb_mots": 1364,
+          "CRC": {
+            "nb_intervs": 9,
+            "nb_mots": 1188,
             "orateurs": {
               "nicole borvo cohen-seat": {
                 "link": "http://www.nossenateurs.fr/seance/770#inter_68f769945e3fd440538f32e7bd54cad4",
                 "nb_intervs": 9,
                 "nb_mots": 1188
-              },
-              "pierre-yves collombat": {
-                "link": "http://www.nossenateurs.fr/seance/770#inter_0f64064731ed0ae1760ec9a9d39f9c60",
-                "nb_intervs": 1,
-                "nb_mots": 176
               }
             }
           },
@@ -12221,22 +12085,6 @@
                 "link": "http://www.nossenateurs.fr/seance/770#inter_c8d6089270b7f5ae676bcaf20f1a52d3",
                 "nb_intervs": 5,
                 "nb_mots": 530
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 2,
-            "nb_mots": 20,
-            "orateurs": {
-              "hugues portelli": {
-                "link": "http://www.nossenateurs.fr/seance/770#inter_6cc9660a6e21cb611b1ef72cc1cd654e",
-                "nb_intervs": 1,
-                "nb_mots": 10
-              },
-              "jean-patrick courtois": {
-                "link": "http://www.nossenateurs.fr/seance/770#inter_e1418d308d52b54bbcbd00983ae9df6b",
-                "nb_intervs": 1,
-                "nb_mots": 10
               }
             }
           },
@@ -12274,13 +12122,23 @@
             }
           },
           "SOC": {
-            "nb_intervs": 4,
-            "nb_mots": 764,
+            "nb_intervs": 7,
+            "nb_mots": 1291,
             "orateurs": {
               "bernard frimat": {
                 "link": "http://www.nossenateurs.fr/seance/770#inter_6c612bb8994ecadcc55f92c7cb29594b",
                 "nb_intervs": 4,
                 "nb_mots": 764
+              },
+              "jean-pierre bel": {
+                "link": "http://www.nossenateurs.fr/seance/770#inter_c66c00e79d942063b7ce7e8cbd005a37",
+                "nb_intervs": 2,
+                "nb_mots": 351
+              },
+              "pierre-yves collombat": {
+                "link": "http://www.nossenateurs.fr/seance/770#inter_0f64064731ed0ae1760ec9a9d39f9c60",
+                "nb_intervs": 1,
+                "nb_mots": 176
               }
             }
           },
@@ -12292,6 +12150,22 @@
                 "link": "http://www.nossenateurs.fr/seance/770#inter_fea87c66af685bec7dc277320037dbc3",
                 "nb_intervs": 8,
                 "nb_mots": 580
+              }
+            }
+          },
+          "UMP": {
+            "nb_intervs": 2,
+            "nb_mots": 20,
+            "orateurs": {
+              "hugues portelli": {
+                "link": "http://www.nossenateurs.fr/seance/770#inter_6cc9660a6e21cb611b1ef72cc1cd654e",
+                "nb_intervs": 1,
+                "nb_mots": 10
+              },
+              "jean-patrick courtois": {
+                "link": "http://www.nossenateurs.fr/seance/770#inter_e1418d308d52b54bbcbd00983ae9df6b",
+                "nb_intervs": 1,
+                "nb_mots": 10
               }
             }
           }
@@ -12307,29 +12181,18 @@
         "first_date": "2008-06-24",
         "groupes": {
           "CRC": {
-            "nb_intervs": 1,
-            "nb_mots": 413,
+            "nb_intervs": 11,
+            "nb_mots": 744,
             "orateurs": {
               "josiane mathon-poinat": {
                 "link": "http://www.nossenateurs.fr/seance/770#inter_b887de41bb8bd3a31c1d71a79fb94bd5",
                 "nb_intervs": 1,
                 "nb_mots": 413
-              }
-            }
-          },
-          "CRCE": {
-            "nb_intervs": 11,
-            "nb_mots": 478,
-            "orateurs": {
+              },
               "nicole borvo cohen-seat": {
                 "link": "http://www.nossenateurs.fr/seance/770#inter_a79371bc330cec04eb0f1fe87d3e0f52",
                 "nb_intervs": 10,
                 "nb_mots": 331
-              },
-              "pierre-yves collombat": {
-                "link": "http://www.nossenateurs.fr/seance/770#inter_b6ce0aa51d0b3deb047111bedce04c5e",
-                "nb_intervs": 1,
-                "nb_mots": 147
               }
             }
           },
@@ -12341,28 +12204,6 @@
                 "link": "http://www.nossenateurs.fr/seance/770#inter_a0283e7add1cd1aa38fbce11e7623800",
                 "nb_intervs": 1,
                 "nb_mots": 508
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 5,
-            "nb_mots": 502,
-            "orateurs": {
-              "hugues portelli": {
-                "link": "http://www.nossenateurs.fr/seance/770#inter_b3c21af5359f2f91eb96520145f21cc7",
-                "nb_intervs": 5,
-                "nb_mots": 502
-              }
-            }
-          },
-          "NI": {
-            "nb_intervs": 4,
-            "nb_mots": 487,
-            "orateurs": {
-              "jean desessard": {
-                "link": "http://www.nossenateurs.fr/seance/770#inter_caa549bd0f50f31488e4791d39e94c2d",
-                "nb_intervs": 4,
-                "nb_mots": 487
               }
             }
           },
@@ -12399,13 +12240,23 @@
             }
           },
           "SOC": {
-            "nb_intervs": 5,
-            "nb_mots": 1197,
+            "nb_intervs": 10,
+            "nb_mots": 1831,
             "orateurs": {
+              "jean desessard": {
+                "link": "http://www.nossenateurs.fr/seance/770#inter_caa549bd0f50f31488e4791d39e94c2d",
+                "nb_intervs": 4,
+                "nb_mots": 487
+              },
               "jean-pierre sueur": {
                 "link": "http://www.nossenateurs.fr/seance/770#inter_b8826d3caa018b05099c29ed7521da65",
                 "nb_intervs": 2,
                 "nb_mots": 85
+              },
+              "pierre-yves collombat": {
+                "link": "http://www.nossenateurs.fr/seance/770#inter_b6ce0aa51d0b3deb047111bedce04c5e",
+                "nb_intervs": 1,
+                "nb_mots": 147
               },
               "robert badinter": {
                 "link": "http://www.nossenateurs.fr/seance/770#inter_dba9ea7e3f7ed0894edd9e534ef8ea55",
@@ -12431,8 +12282,8 @@
             }
           },
           "UMP": {
-            "nb_intervs": 37,
-            "nb_mots": 2244,
+            "nb_intervs": 42,
+            "nb_mots": 2746,
             "orateurs": {
               "adrien gouteyron": {
                 "link": "http://www.nossenateurs.fr/seance/770#inter_3dda81e20493a48364415d273ed41489",
@@ -12443,6 +12294,11 @@
                 "link": "http://www.nossenateurs.fr/seance/770#inter_2197caf6393cd7653b3d4c447e302090",
                 "nb_intervs": 2,
                 "nb_mots": 249
+              },
+              "hugues portelli": {
+                "link": "http://www.nossenateurs.fr/seance/770#inter_b3c21af5359f2f91eb96520145f21cc7",
+                "nb_intervs": 5,
+                "nb_mots": 502
               },
               "jean-rené lecerf": {
                 "link": "http://www.nossenateurs.fr/seance/770#inter_908869dbed05058a87eaf76349fee3a1",
@@ -12467,7 +12323,7 @@
       "Article 26": {
         "first_date": "2008-06-24",
         "groupes": {
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 4,
             "nb_mots": 325,
             "orateurs": {
@@ -12486,28 +12342,6 @@
                 "link": "http://www.nossenateurs.fr/seance/770#inter_1b1fbcc52638156e107423c71de46cb4",
                 "nb_intervs": 2,
                 "nb_mots": 449
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 3,
-            "nb_mots": 66,
-            "orateurs": {
-              "hugues portelli": {
-                "link": "http://www.nossenateurs.fr/seance/770#inter_f5842e2a72be1bae192783fa8fcdb441",
-                "nb_intervs": 3,
-                "nb_mots": 66
-              }
-            }
-          },
-          "NI": {
-            "nb_intervs": 2,
-            "nb_mots": 311,
-            "orateurs": {
-              "jean desessard": {
-                "link": "http://www.nossenateurs.fr/seance/770#inter_641bfd059cf009f93503214dbd6e0c04",
-                "nb_intervs": 2,
-                "nb_mots": 311
               }
             }
           },
@@ -12534,9 +12368,14 @@
             }
           },
           "SOC": {
-            "nb_intervs": 1,
-            "nb_mots": 474,
+            "nb_intervs": 3,
+            "nb_mots": 785,
             "orateurs": {
+              "jean desessard": {
+                "link": "http://www.nossenateurs.fr/seance/770#inter_641bfd059cf009f93503214dbd6e0c04",
+                "nb_intervs": 2,
+                "nb_mots": 311
+              },
               "robert badinter": {
                 "link": "http://www.nossenateurs.fr/seance/770#inter_0fc97c4605bfc3313f4f63e825311b54",
                 "nb_intervs": 1,
@@ -12545,13 +12384,18 @@
             }
           },
           "UMP": {
-            "nb_intervs": 28,
-            "nb_mots": 1087,
+            "nb_intervs": 31,
+            "nb_mots": 1153,
             "orateurs": {
               "adrien gouteyron": {
                 "link": "http://www.nossenateurs.fr/seance/770#inter_faa0dc9805f6cec0db7d72a6e1e4c6e2",
                 "nb_intervs": 20,
                 "nb_mots": 584
+              },
+              "hugues portelli": {
+                "link": "http://www.nossenateurs.fr/seance/770#inter_f5842e2a72be1bae192783fa8fcdb441",
+                "nb_intervs": 3,
+                "nb_mots": 66
               },
               "jean-pierre fourcade": {
                 "link": "http://www.nossenateurs.fr/seance/770#inter_c0e45c7b23f355af10619f5b02ba4129",
@@ -12680,20 +12524,14 @@
         "first_date": "2008-06-23",
         "groupes": {
           "CRC": {
-            "nb_intervs": 2,
-            "nb_mots": 1082,
+            "nb_intervs": 5,
+            "nb_mots": 1370,
             "orateurs": {
               "bernard vera": {
                 "link": "http://www.nossenateurs.fr/seance/217#inter_d0708c2c9e4b4f6346f15c217b20487c",
                 "nb_intervs": 2,
                 "nb_mots": 1082
-              }
-            }
-          },
-          "CRCE": {
-            "nb_intervs": 3,
-            "nb_mots": 288,
-            "orateurs": {
+              },
               "nicole borvo cohen-seat": {
                 "link": "http://www.nossenateurs.fr/seance/217#inter_55297087a3b006292fe14d1fdddba8a4",
                 "nb_intervs": 3,
@@ -12712,35 +12550,14 @@
               }
             }
           },
-          "LR": {
-            "nb_intervs": 14,
-            "nb_mots": 1811,
+          "NI": {
+            "nb_intervs": 5,
+            "nb_mots": 886,
             "orateurs": {
               "bruno retailleau": {
                 "link": "http://www.nossenateurs.fr/seance/217#inter_9f8a8ac857337db812e99b2488ce522b",
                 "nb_intervs": 5,
                 "nb_mots": 886
-              },
-              "jean-pierre raffarin": {
-                "link": "http://www.nossenateurs.fr/seance/217#inter_9591ac106f45c5bdd98db092706055be",
-                "nb_intervs": 4,
-                "nb_mots": 432
-              },
-              "robert del picchia": {
-                "link": "http://www.nossenateurs.fr/seance/217#inter_5dceb4ffaeaf81c4cd1defa49de0c884",
-                "nb_intervs": 5,
-                "nb_mots": 493
-              }
-            }
-          },
-          "LREM": {
-            "nb_intervs": 1,
-            "nb_mots": 4,
-            "orateurs": {
-              "nicole bricq": {
-                "link": "http://www.nossenateurs.fr/seance/217#inter_f5c00597f66b11c344d7023c5a6cd9b5",
-                "nb_intervs": 1,
-                "nb_mots": 4
               }
             }
           },
@@ -12793,8 +12610,8 @@
             }
           },
           "SOC": {
-            "nb_intervs": 8,
-            "nb_mots": 1279,
+            "nb_intervs": 9,
+            "nb_mots": 1283,
             "orateurs": {
               "alima boumediene-thiery": {
                 "link": "http://www.nossenateurs.fr/seance/217#inter_8406647003f6ebccc4ae6ddb5d64237b",
@@ -12810,13 +12627,23 @@
                 "link": "http://www.nossenateurs.fr/seance/217#inter_a67b6c3854948a8af5bfb2c779bf3f1d",
                 "nb_intervs": 5,
                 "nb_mots": 429
+              },
+              "nicole bricq": {
+                "link": "http://www.nossenateurs.fr/seance/217#inter_f5c00597f66b11c344d7023c5a6cd9b5",
+                "nb_intervs": 1,
+                "nb_mots": 4
               }
             }
           },
           "UC": {
-            "nb_intervs": 3,
-            "nb_mots": 748,
+            "nb_intervs": 5,
+            "nb_mots": 1110,
             "orateurs": {
+              "jean arthuis": {
+                "link": "http://www.nossenateurs.fr/seance/217#inter_d5c6f0addab1901d3ea3bc4cb95767d6",
+                "nb_intervs": 2,
+                "nb_mots": 362
+              },
               "pierre fauchon": {
                 "link": "http://www.nossenateurs.fr/seance/217#inter_4d8c7fec33d0d74f626c24d0ced9f661",
                 "nb_intervs": 3,
@@ -12824,20 +12651,9 @@
               }
             }
           },
-          "UDI": {
-            "nb_intervs": 2,
-            "nb_mots": 362,
-            "orateurs": {
-              "jean arthuis": {
-                "link": "http://www.nossenateurs.fr/seance/217#inter_d5c6f0addab1901d3ea3bc4cb95767d6",
-                "nb_intervs": 2,
-                "nb_mots": 362
-              }
-            }
-          },
           "UMP": {
-            "nb_intervs": 22,
-            "nb_mots": 2316,
+            "nb_intervs": 31,
+            "nb_mots": 3241,
             "orateurs": {
               "andré dulait": {
                 "link": "http://www.nossenateurs.fr/seance/217#inter_b07234bf3d96aa80236710144a0274da",
@@ -12869,10 +12685,20 @@
                 "nb_intervs": 3,
                 "nb_mots": 579
               },
+              "jean-pierre raffarin": {
+                "link": "http://www.nossenateurs.fr/seance/217#inter_9591ac106f45c5bdd98db092706055be",
+                "nb_intervs": 4,
+                "nb_mots": 432
+              },
               "jean-rené lecerf": {
                 "link": "http://www.nossenateurs.fr/seance/217#inter_a19b51050382a5c979aee8258cacbe91",
                 "nb_intervs": 8,
                 "nb_mots": 505
+              },
+              "robert del picchia": {
+                "link": "http://www.nossenateurs.fr/seance/217#inter_5dceb4ffaeaf81c4cd1defa49de0c884",
+                "nb_intervs": 5,
+                "nb_mots": 493
               },
               "roland du luart": {
                 "link": "http://www.nossenateurs.fr/seance/217#inter_5ea298e87a7fd1380fa356560f6d9182",
@@ -12893,20 +12719,14 @@
         "first_date": "2008-06-20",
         "groupes": {
           "CRC": {
-            "nb_intervs": 2,
-            "nb_mots": 633,
+            "nb_intervs": 7,
+            "nb_mots": 876,
             "orateurs": {
               "josiane mathon-poinat": {
                 "link": "http://www.nossenateurs.fr/seance/1844#inter_f175d96d47a1134334e3f1665055578f",
                 "nb_intervs": 2,
                 "nb_mots": 633
-              }
-            }
-          },
-          "CRCE": {
-            "nb_intervs": 5,
-            "nb_mots": 243,
-            "orateurs": {
+              },
               "nicole borvo cohen-seat": {
                 "link": "http://www.nossenateurs.fr/seance/1844#inter_d5dd62e20ca8a9243a50e4f650e27995",
                 "nb_intervs": 5,
@@ -12922,22 +12742,6 @@
                 "link": "http://www.nossenateurs.fr/seance/1844#inter_ff6d1a70bc3c9edb487ca34e03616f84",
                 "nb_intervs": 1,
                 "nb_mots": 588
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 5,
-            "nb_mots": 409,
-            "orateurs": {
-              "alain gournac": {
-                "link": "http://www.nossenateurs.fr/seance/1844#inter_00a16d9674b997377cefa86039867b27",
-                "nb_intervs": 3,
-                "nb_mots": 21
-              },
-              "hugues portelli": {
-                "link": "http://www.nossenateurs.fr/seance/1844#inter_5f091cd0fcc0a2e777ab000486253125",
-                "nb_intervs": 2,
-                "nb_mots": 388
               }
             }
           },
@@ -13007,13 +12811,23 @@
             }
           },
           "UMP": {
-            "nb_intervs": 3,
-            "nb_mots": 33,
+            "nb_intervs": 8,
+            "nb_mots": 442,
             "orateurs": {
+              "alain gournac": {
+                "link": "http://www.nossenateurs.fr/seance/1844#inter_00a16d9674b997377cefa86039867b27",
+                "nb_intervs": 3,
+                "nb_mots": 21
+              },
               "dominique braye": {
                 "link": "http://www.nossenateurs.fr/seance/1844#inter_ba80fdca134f8a49d0c31bde7fe82332",
                 "nb_intervs": 3,
                 "nb_mots": 33
+              },
+              "hugues portelli": {
+                "link": "http://www.nossenateurs.fr/seance/1844#inter_5f091cd0fcc0a2e777ab000486253125",
+                "nb_intervs": 2,
+                "nb_mots": 388
               }
             }
           }
@@ -13028,20 +12842,9 @@
       "Article 6": {
         "first_date": "2008-06-20",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 1,
-            "nb_mots": 8,
-            "orateurs": {
-              "jean-pierre bel": {
-                "link": "http://www.nossenateurs.fr/seance/1844#inter_e8eff109f3f8a331d9da1d34226ef9a4",
-                "nb_intervs": 1,
-                "nb_mots": 8
-              }
-            }
-          },
           "CRC": {
-            "nb_intervs": 2,
-            "nb_mots": 646,
+            "nb_intervs": 12,
+            "nb_mots": 1257,
             "orateurs": {
               "bernard vera": {
                 "link": "http://www.nossenateurs.fr/seance/1844#inter_ea64b8d09490b544f36cfc6970cb784f",
@@ -13052,13 +12855,7 @@
                 "link": "http://www.nossenateurs.fr/seance/1844#inter_183a8146c69f9c82b1fc59e7673457e5",
                 "nb_intervs": 1,
                 "nb_mots": 7
-              }
-            }
-          },
-          "CRCE": {
-            "nb_intervs": 10,
-            "nb_mots": 611,
-            "orateurs": {
+              },
               "nicole borvo cohen-seat": {
                 "link": "http://www.nossenateurs.fr/seance/1844#inter_02a9019186574f6571870271d1362dc1",
                 "nb_intervs": 9,
@@ -13084,27 +12881,6 @@
                 "link": "http://www.nossenateurs.fr/seance/1844#inter_6de1f5a6e2335cac9437ffdede3600c8",
                 "nb_intervs": 1,
                 "nb_mots": 5
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 5,
-            "nb_mots": 38,
-            "orateurs": {
-              "alain gournac": {
-                "link": "http://www.nossenateurs.fr/seance/1844#inter_9cd6dde1c5ca17a8ec580763d89c6fc5",
-                "nb_intervs": 3,
-                "nb_mots": 17
-              },
-              "hugues portelli": {
-                "link": "http://www.nossenateurs.fr/seance/1844#inter_e7a85210795f517d8387d9dc3b34572a",
-                "nb_intervs": 1,
-                "nb_mots": 18
-              },
-              "isabelle debré": {
-                "link": "http://www.nossenateurs.fr/seance/1844#inter_f71784663c2dbd0a130a8f4ceff6a9e2",
-                "nb_intervs": 1,
-                "nb_mots": 3
               }
             }
           },
@@ -13152,8 +12928,8 @@
             }
           },
           "SOC": {
-            "nb_intervs": 15,
-            "nb_mots": 1499,
+            "nb_intervs": 16,
+            "nb_mots": 1507,
             "orateurs": {
               "alima boumediene-thiery": {
                 "link": "http://www.nossenateurs.fr/seance/1844#inter_9fd4ae6eadb4165d7f0888f63f462266",
@@ -13170,6 +12946,11 @@
                 "nb_intervs": 5,
                 "nb_mots": 23
               },
+              "jean-pierre bel": {
+                "link": "http://www.nossenateurs.fr/seance/1844#inter_e8eff109f3f8a331d9da1d34226ef9a4",
+                "nb_intervs": 1,
+                "nb_mots": 8
+              },
               "jean-pierre sueur": {
                 "link": "http://www.nossenateurs.fr/seance/1844#inter_453d70f223f06dfea4dcbb84d1b9c206",
                 "nb_intervs": 1,
@@ -13183,9 +12964,14 @@
             }
           },
           "UMP": {
-            "nb_intervs": 14,
-            "nb_mots": 684,
+            "nb_intervs": 19,
+            "nb_mots": 722,
             "orateurs": {
+              "alain gournac": {
+                "link": "http://www.nossenateurs.fr/seance/1844#inter_9cd6dde1c5ca17a8ec580763d89c6fc5",
+                "nb_intervs": 3,
+                "nb_mots": 17
+              },
               "charles pasqua": {
                 "link": "http://www.nossenateurs.fr/seance/1844#inter_08be931ca5fd8415ae63533d5b3f0ef5",
                 "nb_intervs": 1,
@@ -13200,6 +12986,16 @@
                 "link": "http://www.nossenateurs.fr/seance/1844#inter_e73fe59d64fbe4aee40892cd13317d0d",
                 "nb_intervs": 9,
                 "nb_mots": 250
+              },
+              "hugues portelli": {
+                "link": "http://www.nossenateurs.fr/seance/1844#inter_e7a85210795f517d8387d9dc3b34572a",
+                "nb_intervs": 1,
+                "nb_mots": 18
+              },
+              "isabelle debré": {
+                "link": "http://www.nossenateurs.fr/seance/1844#inter_f71784663c2dbd0a130a8f4ceff6a9e2",
+                "nb_intervs": 1,
+                "nb_mots": 3
               },
               "roland du luart": {
                 "link": "http://www.nossenateurs.fr/seance/1844#inter_3812ef604c74dab59d4d2a46fcb91f93",
@@ -13219,18 +13015,7 @@
       "Article 7": {
         "first_date": "2008-06-20",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 9,
-            "nb_mots": 215,
-            "orateurs": {
-              "jean-pierre bel": {
-                "link": "http://www.nossenateurs.fr/seance/1844#inter_7c14b33d48fc2eca66a54ce0b4396e41",
-                "nb_intervs": 9,
-                "nb_mots": 215
-              }
-            }
-          },
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 18,
             "nb_mots": 2009,
             "orateurs": {
@@ -13259,48 +13044,6 @@
                 "link": "http://www.nossenateurs.fr/seance/1844#inter_42e64c42a9ebf64c6475943d469f2723",
                 "nb_intervs": 17,
                 "nb_mots": 407
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 29,
-            "nb_mots": 893,
-            "orateurs": {
-              "alain gournac": {
-                "link": "http://www.nossenateurs.fr/seance/1844#inter_91ddd2c6e0cdf85be79828ac3f700c6f",
-                "nb_intervs": 16,
-                "nb_mots": 89
-              },
-              "hugues portelli": {
-                "link": "http://www.nossenateurs.fr/seance/1844#inter_abd4fe2d2e4218929ecb19a7ebf3702c",
-                "nb_intervs": 4,
-                "nb_mots": 401
-              },
-              "isabelle debré": {
-                "link": "http://www.nossenateurs.fr/seance/1844#inter_66e4b9647fcd47b7edc2f6d8c477ef3d",
-                "nb_intervs": 4,
-                "nb_mots": 56
-              },
-              "jean-pierre raffarin": {
-                "link": "http://www.nossenateurs.fr/seance/1844#inter_6e1508ba12d16a605cfefbd6ac773299",
-                "nb_intervs": 5,
-                "nb_mots": 347
-              }
-            }
-          },
-          "LREM": {
-            "nb_intervs": 4,
-            "nb_mots": 554,
-            "orateurs": {
-              "nicole bricq": {
-                "link": "http://www.nossenateurs.fr/seance/1844#inter_0eee055b53b8b4a9d613b0d6c8eea7ea",
-                "nb_intervs": 1,
-                "nb_mots": 6
-              },
-              "richard yung": {
-                "link": "http://www.nossenateurs.fr/seance/1844#inter_a07aeff4720fffee76363b1286cb1105",
-                "nb_intervs": 3,
-                "nb_mots": 548
               }
             }
           },
@@ -13353,8 +13096,8 @@
             }
           },
           "SOC": {
-            "nb_intervs": 31,
-            "nb_mots": 1802,
+            "nb_intervs": 44,
+            "nb_mots": 2571,
             "orateurs": {
               "alima boumediene-thiery": {
                 "link": "http://www.nossenateurs.fr/seance/1844#inter_8d339de3739c4ef7e64808bd892e4955",
@@ -13371,10 +13114,25 @@
                 "nb_intervs": 18,
                 "nb_mots": 535
               },
+              "jean-pierre bel": {
+                "link": "http://www.nossenateurs.fr/seance/1844#inter_7c14b33d48fc2eca66a54ce0b4396e41",
+                "nb_intervs": 9,
+                "nb_mots": 215
+              },
               "jean-pierre sueur": {
                 "link": "http://www.nossenateurs.fr/seance/1844#inter_8f917710fe9e372aa45caaa52019e9f2",
                 "nb_intervs": 1,
                 "nb_mots": 5
+              },
+              "nicole bricq": {
+                "link": "http://www.nossenateurs.fr/seance/1844#inter_0eee055b53b8b4a9d613b0d6c8eea7ea",
+                "nb_intervs": 1,
+                "nb_mots": 6
+              },
+              "richard yung": {
+                "link": "http://www.nossenateurs.fr/seance/1844#inter_a07aeff4720fffee76363b1286cb1105",
+                "nb_intervs": 3,
+                "nb_mots": 548
               },
               "robert badinter": {
                 "link": "http://www.nossenateurs.fr/seance/1844#inter_e0ca09510811d8ed9f69f07e4026473c",
@@ -13400,9 +13158,14 @@
             }
           },
           "UMP": {
-            "nb_intervs": 16,
-            "nb_mots": 251,
+            "nb_intervs": 45,
+            "nb_mots": 1144,
             "orateurs": {
+              "alain gournac": {
+                "link": "http://www.nossenateurs.fr/seance/1844#inter_91ddd2c6e0cdf85be79828ac3f700c6f",
+                "nb_intervs": 16,
+                "nb_mots": 89
+              },
               "charles pasqua": {
                 "link": "http://www.nossenateurs.fr/seance/1844#inter_154bc709137e7ac6c2789847ffa6a35a",
                 "nb_intervs": 3,
@@ -13417,6 +13180,21 @@
                 "link": "http://www.nossenateurs.fr/seance/1844#inter_31dfc1e8378a4708255ea95fccf9ab2f",
                 "nb_intervs": 10,
                 "nb_mots": 113
+              },
+              "hugues portelli": {
+                "link": "http://www.nossenateurs.fr/seance/1844#inter_abd4fe2d2e4218929ecb19a7ebf3702c",
+                "nb_intervs": 4,
+                "nb_mots": 401
+              },
+              "isabelle debré": {
+                "link": "http://www.nossenateurs.fr/seance/1844#inter_66e4b9647fcd47b7edc2f6d8c477ef3d",
+                "nb_intervs": 4,
+                "nb_mots": 56
+              },
+              "jean-pierre raffarin": {
+                "link": "http://www.nossenateurs.fr/seance/1844#inter_6e1508ba12d16a605cfefbd6ac773299",
+                "nb_intervs": 5,
+                "nb_mots": 347
               }
             }
           }
@@ -13486,7 +13264,7 @@
       "Article additionnel après l'article 22": {
         "first_date": "2008-06-24",
         "groupes": {
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 2,
             "nb_mots": 385,
             "orateurs": {
@@ -13657,13 +13435,18 @@
             }
           },
           "RDSE": {
-            "nb_intervs": 6,
-            "nb_mots": 139,
+            "nb_intervs": 7,
+            "nb_mots": 279,
             "orateurs": {
               "michel charasse": {
                 "link": "http://www.nossenateurs.fr/seance/1844#inter_9443fc49ffd58e02f724c6c6d4b28b9c",
                 "nb_intervs": 6,
                 "nb_mots": 139
+              },
+              "nathalie goulet": {
+                "link": "http://www.nossenateurs.fr/seance/1844#inter_c88faed2d3067abd4396e1e676b259c5",
+                "nb_intervs": 1,
+                "nb_mots": 140
               }
             }
           },
@@ -13688,17 +13471,6 @@
                 "nb_mots": 12
               }
             }
-          },
-          "UC": {
-            "nb_intervs": 1,
-            "nb_mots": 140,
-            "orateurs": {
-              "nathalie goulet": {
-                "link": "http://www.nossenateurs.fr/seance/1844#inter_c88faed2d3067abd4396e1e676b259c5",
-                "nb_intervs": 1,
-                "nb_mots": 140
-              }
-            }
           }
         },
         "last_date": "2008-06-20",
@@ -13711,7 +13483,7 @@
       "Article additionnel après l'article 7 après l'article 8 ou avant l'article 9": {
         "first_date": "2008-06-20",
         "groupes": {
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 6,
             "nb_mots": 593,
             "orateurs": {
@@ -13743,22 +13515,6 @@
               }
             }
           },
-          "LR": {
-            "nb_intervs": 10,
-            "nb_mots": 88,
-            "orateurs": {
-              "alain gournac": {
-                "link": "http://www.nossenateurs.fr/seance/1844#inter_105d266ce85ca8f1ada613ce864380ee",
-                "nb_intervs": 3,
-                "nb_mots": 19
-              },
-              "christian cambon": {
-                "link": "http://www.nossenateurs.fr/seance/1844#inter_1fdebfec1ac200f5c43935406612664b",
-                "nb_intervs": 7,
-                "nb_mots": 69
-              }
-            }
-          },
           "Présidence": {
             "nb_intervs": 23,
             "nb_mots": 833,
@@ -13771,13 +13527,18 @@
             }
           },
           "RDSE": {
-            "nb_intervs": 4,
-            "nb_mots": 147,
+            "nb_intervs": 5,
+            "nb_mots": 279,
             "orateurs": {
               "michel charasse": {
                 "link": "http://www.nossenateurs.fr/seance/1844#inter_a678b4eb70e8022691f612b6af6ed52e",
                 "nb_intervs": 4,
                 "nb_mots": 147
+              },
+              "nathalie goulet": {
+                "link": "http://www.nossenateurs.fr/seance/1844#inter_8ee256cfb2b7a9302369f66eff2300fb",
+                "nb_intervs": 1,
+                "nb_mots": 132
               }
             }
           },
@@ -13828,21 +13589,20 @@
               }
             }
           },
-          "UC": {
-            "nb_intervs": 1,
-            "nb_mots": 132,
-            "orateurs": {
-              "nathalie goulet": {
-                "link": "http://www.nossenateurs.fr/seance/1844#inter_8ee256cfb2b7a9302369f66eff2300fb",
-                "nb_intervs": 1,
-                "nb_mots": 132
-              }
-            }
-          },
           "UMP": {
-            "nb_intervs": 11,
-            "nb_mots": 512,
+            "nb_intervs": 21,
+            "nb_mots": 600,
             "orateurs": {
+              "alain gournac": {
+                "link": "http://www.nossenateurs.fr/seance/1844#inter_105d266ce85ca8f1ada613ce864380ee",
+                "nb_intervs": 3,
+                "nb_mots": 19
+              },
+              "christian cambon": {
+                "link": "http://www.nossenateurs.fr/seance/1844#inter_1fdebfec1ac200f5c43935406612664b",
+                "nb_intervs": 7,
+                "nb_mots": 69
+              },
               "christian cointat": {
                 "link": "http://www.nossenateurs.fr/seance/1844#inter_c6a01b7b9ec2541423feff8ce35e25ee",
                 "nb_intervs": 1,
@@ -13866,18 +13626,7 @@
       "Article additionnel avant l'article 21": {
         "first_date": "2008-06-23",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 3,
-            "nb_mots": 24,
-            "orateurs": {
-              "thierry repentin": {
-                "link": "http://www.nossenateurs.fr/seance/217#inter_352011f1d56132dece84193f0e9c3dd9",
-                "nb_intervs": 3,
-                "nb_mots": 24
-              }
-            }
-          },
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 2,
             "nb_mots": 17,
             "orateurs": {
@@ -13931,6 +13680,17 @@
                 "nb_mots": 13
               }
             }
+          },
+          "SOC": {
+            "nb_intervs": 3,
+            "nb_mots": 24,
+            "orateurs": {
+              "thierry repentin": {
+                "link": "http://www.nossenateurs.fr/seance/217#inter_352011f1d56132dece84193f0e9c3dd9",
+                "nb_intervs": 3,
+                "nb_mots": 24
+              }
+            }
           }
         },
         "last_date": "2008-06-23",
@@ -13943,7 +13703,7 @@
       "Article additionnel avant l'article 23": {
         "first_date": "2008-06-24",
         "groupes": {
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 3,
             "nb_mots": 304,
             "orateurs": {
@@ -13962,17 +13722,6 @@
                 "link": "http://www.nossenateurs.fr/seance/769#inter_f7d993d485f2b5544194d7431141fe76",
                 "nb_intervs": 2,
                 "nb_mots": 117
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 1,
-            "nb_mots": 5,
-            "orateurs": {
-              "jean-patrick courtois": {
-                "link": "http://www.nossenateurs.fr/seance/769#inter_0af2ed7d258d5fa44ee68bd834549697",
-                "nb_intervs": 1,
-                "nb_mots": 5
               }
             }
           },
@@ -14015,9 +13764,14 @@
             }
           },
           "UMP": {
-            "nb_intervs": 8,
-            "nb_mots": 144,
+            "nb_intervs": 9,
+            "nb_mots": 149,
             "orateurs": {
+              "jean-patrick courtois": {
+                "link": "http://www.nossenateurs.fr/seance/769#inter_0af2ed7d258d5fa44ee68bd834549697",
+                "nb_intervs": 1,
+                "nb_mots": 5
+              },
               "patrice gélard": {
                 "link": "http://www.nossenateurs.fr/seance/769#inter_9e76a1cb769f98da6ed29cd5c8754692",
                 "nb_intervs": 2,
@@ -14041,18 +13795,7 @@
       "Article additionnel avant l'article 25": {
         "first_date": "2008-06-24",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 1,
-            "nb_mots": 7,
-            "orateurs": {
-              "didier boulaud": {
-                "link": "http://www.nossenateurs.fr/seance/770#inter_31864f1a759b214f6b7fbc174451d853",
-                "nb_intervs": 1,
-                "nb_mots": 7
-              }
-            }
-          },
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 1,
             "nb_mots": 112,
             "orateurs": {
@@ -14071,17 +13814,6 @@
                 "link": "http://www.nossenateurs.fr/seance/770#inter_2a497812671c85f23df7e4d0b04e751c",
                 "nb_intervs": 2,
                 "nb_mots": 201
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 1,
-            "nb_mots": 71,
-            "orateurs": {
-              "hugues portelli": {
-                "link": "http://www.nossenateurs.fr/seance/770#inter_85862438ca9041a046b9780d716d8f3d",
-                "nb_intervs": 1,
-                "nb_mots": 71
               }
             }
           },
@@ -14108,9 +13840,14 @@
             }
           },
           "SOC": {
-            "nb_intervs": 4,
-            "nb_mots": 972,
+            "nb_intervs": 5,
+            "nb_mots": 979,
             "orateurs": {
+              "didier boulaud": {
+                "link": "http://www.nossenateurs.fr/seance/770#inter_31864f1a759b214f6b7fbc174451d853",
+                "nb_intervs": 1,
+                "nb_mots": 7
+              },
               "jean-pierre sueur": {
                 "link": "http://www.nossenateurs.fr/seance/770#inter_dbc452a51584980758ba3534fb94913d",
                 "nb_intervs": 1,
@@ -14135,8 +13872,8 @@
             }
           },
           "UMP": {
-            "nb_intervs": 15,
-            "nb_mots": 478,
+            "nb_intervs": 16,
+            "nb_mots": 549,
             "orateurs": {
               "adrien gouteyron": {
                 "link": "http://www.nossenateurs.fr/seance/770#inter_b1ad2cbc91ca2668fa17056c72908b1b",
@@ -14147,6 +13884,11 @@
                 "link": "http://www.nossenateurs.fr/seance/770#inter_79423192c26f23f36f2edd0d65d4dda5",
                 "nb_intervs": 1,
                 "nb_mots": 187
+              },
+              "hugues portelli": {
+                "link": "http://www.nossenateurs.fr/seance/770#inter_85862438ca9041a046b9780d716d8f3d",
+                "nb_intervs": 1,
+                "nb_mots": 71
               },
               "yann gaillard": {
                 "link": "http://www.nossenateurs.fr/seance/770#inter_1a5541d8c9b841bc659b75e33c7e44c6",
@@ -14166,23 +13908,7 @@
       "Articles additionnels après 24": {
         "first_date": "2008-06-24",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 4,
-            "nb_mots": 232,
-            "orateurs": {
-              "didier boulaud": {
-                "link": "http://www.nossenateurs.fr/seance/770#inter_dfea751faa069b5ec961282531fcfb77",
-                "nb_intervs": 1,
-                "nb_mots": 10
-              },
-              "jean-pierre bel": {
-                "link": "http://www.nossenateurs.fr/seance/770#inter_9d5a50f43ecfe66d1ba557c068e94c06",
-                "nb_intervs": 3,
-                "nb_mots": 222
-              }
-            }
-          },
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 9,
             "nb_mots": 2327,
             "orateurs": {
@@ -14206,28 +13932,6 @@
                 "link": "http://www.nossenateurs.fr/seance/770#inter_7c4f0432248085784a318c56613bc8df",
                 "nb_intervs": 8,
                 "nb_mots": 1103
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 4,
-            "nb_mots": 1207,
-            "orateurs": {
-              "hugues portelli": {
-                "link": "http://www.nossenateurs.fr/seance/770#inter_261eb5fd3de726d78f0d16d74ef46afd",
-                "nb_intervs": 4,
-                "nb_mots": 1207
-              }
-            }
-          },
-          "NI": {
-            "nb_intervs": 1,
-            "nb_mots": 7,
-            "orateurs": {
-              "jean desessard": {
-                "link": "http://www.nossenateurs.fr/seance/770#inter_988ea681a87b9c015998f7341262b592",
-                "nb_intervs": 1,
-                "nb_mots": 7
               }
             }
           },
@@ -14270,8 +13974,8 @@
             }
           },
           "SOC": {
-            "nb_intervs": 11,
-            "nb_mots": 1649,
+            "nb_intervs": 16,
+            "nb_mots": 1888,
             "orateurs": {
               "alima boumediene-thiery": {
                 "link": "http://www.nossenateurs.fr/seance/770#inter_fe668500d9bfff0078aa4e22c4b08ab5",
@@ -14282,6 +13986,21 @@
                 "link": "http://www.nossenateurs.fr/seance/770#inter_418965e7bf02ebbc5e8e46b8b182c7b2",
                 "nb_intervs": 3,
                 "nb_mots": 313
+              },
+              "didier boulaud": {
+                "link": "http://www.nossenateurs.fr/seance/770#inter_dfea751faa069b5ec961282531fcfb77",
+                "nb_intervs": 1,
+                "nb_mots": 10
+              },
+              "jean desessard": {
+                "link": "http://www.nossenateurs.fr/seance/770#inter_988ea681a87b9c015998f7341262b592",
+                "nb_intervs": 1,
+                "nb_mots": 7
+              },
+              "jean-pierre bel": {
+                "link": "http://www.nossenateurs.fr/seance/770#inter_9d5a50f43ecfe66d1ba557c068e94c06",
+                "nb_intervs": 3,
+                "nb_mots": 222
               },
               "robert badinter": {
                 "link": "http://www.nossenateurs.fr/seance/770#inter_389445c3de4a8f071090b8a3905bc7f9",
@@ -14307,8 +14026,8 @@
             }
           },
           "UMP": {
-            "nb_intervs": 26,
-            "nb_mots": 939,
+            "nb_intervs": 30,
+            "nb_mots": 2146,
             "orateurs": {
               "adrien gouteyron": {
                 "link": "http://www.nossenateurs.fr/seance/770#inter_91c85f4208374ae5ee70c7afbaf12a4b",
@@ -14319,6 +14038,11 @@
                 "link": "http://www.nossenateurs.fr/seance/770#inter_073a062c2f6537640c015c23464546f6",
                 "nb_intervs": 1,
                 "nb_mots": 65
+              },
+              "hugues portelli": {
+                "link": "http://www.nossenateurs.fr/seance/770#inter_261eb5fd3de726d78f0d16d74ef46afd",
+                "nb_intervs": 4,
+                "nb_mots": 1207
               },
               "jean-pierre fourcade": {
                 "link": "http://www.nossenateurs.fr/seance/770#inter_c96bce5299670b76b4f4f5c2d4777a49",
@@ -14359,17 +14083,6 @@
               }
             }
           },
-          "LR": {
-            "nb_intervs": 1,
-            "nb_mots": 7,
-            "orateurs": {
-              "gérard longuet": {
-                "link": "http://www.nossenateurs.fr/seance/217#inter_53b8e49f62c71f046d45ebdc4817bee5",
-                "nb_intervs": 1,
-                "nb_mots": 7
-              }
-            }
-          },
           "Présidence": {
             "nb_intervs": 8,
             "nb_mots": 256,
@@ -14402,6 +14115,17 @@
                 "nb_mots": 394
               }
             }
+          },
+          "UMP": {
+            "nb_intervs": 1,
+            "nb_mots": 7,
+            "orateurs": {
+              "gérard longuet": {
+                "link": "http://www.nossenateurs.fr/seance/217#inter_53b8e49f62c71f046d45ebdc4817bee5",
+                "nb_intervs": 1,
+                "nb_mots": 7
+              }
+            }
           }
         },
         "last_date": "2008-06-23",
@@ -14414,7 +14138,7 @@
       "Articles additionnels après l'article 20": {
         "first_date": "2008-06-23",
         "groupes": {
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 1,
             "nb_mots": 6,
             "orateurs": {
@@ -14491,32 +14215,15 @@
       "Articles additionnels avant l'article 1er": {
         "first_date": "2008-06-18",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 1,
-            "nb_mots": 120,
-            "orateurs": {
-              "bariza khiari": {
-                "link": "http://www.nossenateurs.fr/seance/1288#inter_7b8b01af8c045f7e9a9675ccc6fb7110",
-                "nb_intervs": 1,
-                "nb_mots": 120
-              }
-            }
-          },
           "CRC": {
-            "nb_intervs": 3,
-            "nb_mots": 194,
+            "nb_intervs": 15,
+            "nb_mots": 1852,
             "orateurs": {
               "annie david": {
                 "link": "http://www.nossenateurs.fr/seance/1288#inter_cdfb5e70188eb9c8b8a23b3306ae6d9f",
                 "nb_intervs": 3,
                 "nb_mots": 194
-              }
-            }
-          },
-          "CRCE": {
-            "nb_intervs": 12,
-            "nb_mots": 1658,
-            "orateurs": {
+              },
               "nicole borvo cohen-seat": {
                 "link": "http://www.nossenateurs.fr/seance/1288#inter_29cf9d4616fc22df28664e5ab1b83b4d",
                 "nb_intervs": 9,
@@ -14545,35 +14252,14 @@
               }
             }
           },
-          "LR": {
-            "nb_intervs": 5,
-            "nb_mots": 85,
+          "NI": {
+            "nb_intervs": 2,
+            "nb_mots": 10,
             "orateurs": {
               "bruno retailleau": {
                 "link": "http://www.nossenateurs.fr/seance/1288#inter_3f2e1e5acec6498d98cb3d814601a773",
                 "nb_intervs": 2,
                 "nb_mots": 10
-              },
-              "henri de raincourt": {
-                "link": "http://www.nossenateurs.fr/seance/1288#inter_af9e6bc2934e7e3f8395b7e0bf39409a",
-                "nb_intervs": 2,
-                "nb_mots": 13
-              },
-              "hugues portelli": {
-                "link": "http://www.nossenateurs.fr/seance/1288#inter_c4a8c0c93dc8a0d08dcd205975e6d2c5",
-                "nb_intervs": 1,
-                "nb_mots": 62
-              }
-            }
-          },
-          "NI": {
-            "nb_intervs": 10,
-            "nb_mots": 427,
-            "orateurs": {
-              "jean desessard": {
-                "link": "http://www.nossenateurs.fr/seance/1288#inter_f60e96a088adca0da5878a33164f0cff",
-                "nb_intervs": 10,
-                "nb_mots": 427
               }
             }
           },
@@ -14626,18 +14312,28 @@
             }
           },
           "SOC": {
-            "nb_intervs": 7,
-            "nb_mots": 671,
+            "nb_intervs": 18,
+            "nb_mots": 1218,
             "orateurs": {
               "alima boumediene-thiery": {
                 "link": "http://www.nossenateurs.fr/seance/1288#inter_1eb5f37c88902998fe647d1056be4d51",
                 "nb_intervs": 4,
                 "nb_mots": 274
               },
+              "bariza khiari": {
+                "link": "http://www.nossenateurs.fr/seance/1288#inter_7b8b01af8c045f7e9a9675ccc6fb7110",
+                "nb_intervs": 1,
+                "nb_mots": 120
+              },
               "bernard frimat": {
                 "link": "http://www.nossenateurs.fr/seance/1288#inter_b33e7ff8da1c42857cf01500a8211518",
                 "nb_intervs": 1,
                 "nb_mots": 110
+              },
+              "jean desessard": {
+                "link": "http://www.nossenateurs.fr/seance/1288#inter_f60e96a088adca0da5878a33164f0cff",
+                "nb_intervs": 10,
+                "nb_mots": 427
               },
               "robert badinter": {
                 "link": "http://www.nossenateurs.fr/seance/1288#inter_b6a3681d0649c901822dbbe9130382ea",
@@ -14658,8 +14354,8 @@
             }
           },
           "UMP": {
-            "nb_intervs": 10,
-            "nb_mots": 615,
+            "nb_intervs": 13,
+            "nb_mots": 690,
             "orateurs": {
               "dominique braye": {
                 "link": "http://www.nossenateurs.fr/seance/1288#inter_a70bb591ac310338785bffd30cf0c803",
@@ -14670,6 +14366,16 @@
                 "link": "http://www.nossenateurs.fr/seance/1288#inter_bb10f34ef6e2fd0354b15109cbf3c04c",
                 "nb_intervs": 1,
                 "nb_mots": 194
+              },
+              "henri de raincourt": {
+                "link": "http://www.nossenateurs.fr/seance/1288#inter_af9e6bc2934e7e3f8395b7e0bf39409a",
+                "nb_intervs": 2,
+                "nb_mots": 13
+              },
+              "hugues portelli": {
+                "link": "http://www.nossenateurs.fr/seance/1288#inter_c4a8c0c93dc8a0d08dcd205975e6d2c5",
+                "nb_intervs": 1,
+                "nb_mots": 62
               },
               "patrice gélard": {
                 "link": "http://www.nossenateurs.fr/seance/1288#inter_32bdf8fededd464a3768f810a0664337",
@@ -14694,34 +14400,7 @@
       "Articles additionnels avant l'article 1er A": {
         "first_date": "2008-06-18",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 2,
-            "nb_mots": 584,
-            "orateurs": {
-              "bariza khiari": {
-                "link": "http://www.nossenateurs.fr/seance/1288#inter_3076a2bef58781e4f727476632a64f4c",
-                "nb_intervs": 1,
-                "nb_mots": 578
-              },
-              "jean-pierre bel": {
-                "link": "http://www.nossenateurs.fr/seance/1288#inter_769044400bedf4dc1723a5adedcc5c3d",
-                "nb_intervs": 1,
-                "nb_mots": 6
-              }
-            }
-          },
           "CRC": {
-            "nb_intervs": 1,
-            "nb_mots": 826,
-            "orateurs": {
-              "jean-luc mélenchon": {
-                "link": "http://www.nossenateurs.fr/seance/1288#inter_bf37343fbfbca89f5d9d37b49884762d",
-                "nb_intervs": 1,
-                "nb_mots": 826
-              }
-            }
-          },
-          "CRCE": {
             "nb_intervs": 15,
             "nb_mots": 2040,
             "orateurs": {
@@ -14750,27 +14429,6 @@
                 "link": "http://www.nossenateurs.fr/seance/1288#inter_f4e2f8f6e21c5f882859b843db00fbe1",
                 "nb_intervs": 7,
                 "nb_mots": 682
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 6,
-            "nb_mots": 653,
-            "orateurs": {
-              "alain gournac": {
-                "link": "http://www.nossenateurs.fr/seance/1288#inter_8e92fa0481f0209d8c55eb58f1afc7b0",
-                "nb_intervs": 2,
-                "nb_mots": 13
-              },
-              "hugues portelli": {
-                "link": "http://www.nossenateurs.fr/seance/1288#inter_116bc1a4b10f712ef5abfe438904a0cc",
-                "nb_intervs": 3,
-                "nb_mots": 442
-              },
-              "jean-pierre raffarin": {
-                "link": "http://www.nossenateurs.fr/seance/1288#inter_73e6aa0f79cf31900b5e429467a4f0c0",
-                "nb_intervs": 1,
-                "nb_mots": 198
               }
             }
           },
@@ -14813,18 +14471,33 @@
             }
           },
           "SOC": {
-            "nb_intervs": 12,
-            "nb_mots": 2330,
+            "nb_intervs": 15,
+            "nb_mots": 3740,
             "orateurs": {
               "alima boumediene-thiery": {
                 "link": "http://www.nossenateurs.fr/seance/1288#inter_4a58b8d76ba82f523453ecff391685c0",
                 "nb_intervs": 4,
                 "nb_mots": 561
               },
+              "bariza khiari": {
+                "link": "http://www.nossenateurs.fr/seance/1288#inter_3076a2bef58781e4f727476632a64f4c",
+                "nb_intervs": 1,
+                "nb_mots": 578
+              },
               "bernard frimat": {
                 "link": "http://www.nossenateurs.fr/seance/1288#inter_caae0aa496e6a1b804ae00e893935491",
                 "nb_intervs": 5,
                 "nb_mots": 573
+              },
+              "jean-luc mélenchon": {
+                "link": "http://www.nossenateurs.fr/seance/1288#inter_bf37343fbfbca89f5d9d37b49884762d",
+                "nb_intervs": 1,
+                "nb_mots": 826
+              },
+              "jean-pierre bel": {
+                "link": "http://www.nossenateurs.fr/seance/1288#inter_769044400bedf4dc1723a5adedcc5c3d",
+                "nb_intervs": 1,
+                "nb_mots": 6
               },
               "rené-pierre signé": {
                 "link": "http://www.nossenateurs.fr/seance/1288#inter_302c6fe7f84c42b7ded549a4403823f7",
@@ -14855,13 +14528,28 @@
             }
           },
           "UMP": {
-            "nb_intervs": 3,
-            "nb_mots": 23,
+            "nb_intervs": 9,
+            "nb_mots": 676,
             "orateurs": {
+              "alain gournac": {
+                "link": "http://www.nossenateurs.fr/seance/1288#inter_8e92fa0481f0209d8c55eb58f1afc7b0",
+                "nb_intervs": 2,
+                "nb_mots": 13
+              },
               "andré lardeux": {
                 "link": "http://www.nossenateurs.fr/seance/1288#inter_5df0092955107b9c2901417b6c0427a5",
                 "nb_intervs": 1,
                 "nb_mots": 7
+              },
+              "hugues portelli": {
+                "link": "http://www.nossenateurs.fr/seance/1288#inter_116bc1a4b10f712ef5abfe438904a0cc",
+                "nb_intervs": 3,
+                "nb_mots": 442
+              },
+              "jean-pierre raffarin": {
+                "link": "http://www.nossenateurs.fr/seance/1288#inter_73e6aa0f79cf31900b5e429467a4f0c0",
+                "nb_intervs": 1,
+                "nb_mots": 198
               },
               "patrice gélard": {
                 "link": "http://www.nossenateurs.fr/seance/1288#inter_4dc1c2e1df7aefe5b3f30a7c9e76995a",
@@ -14881,7 +14569,7 @@
       "Articles additionnels avant l'article 26": {
         "first_date": "2008-06-24",
         "groupes": {
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 2,
             "nb_mots": 47,
             "orateurs": {
@@ -14900,17 +14588,6 @@
                 "link": "http://www.nossenateurs.fr/seance/770#inter_14456bc046d411ab253602d8f20de8c3",
                 "nb_intervs": 4,
                 "nb_mots": 229
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 2,
-            "nb_mots": 97,
-            "orateurs": {
-              "hugues portelli": {
-                "link": "http://www.nossenateurs.fr/seance/770#inter_4959a5fed86db8b0de458db9bd264b52",
-                "nb_intervs": 2,
-                "nb_mots": 97
               }
             }
           },
@@ -14937,8 +14614,8 @@
             }
           },
           "UMP": {
-            "nb_intervs": 23,
-            "nb_mots": 956,
+            "nb_intervs": 25,
+            "nb_mots": 1053,
             "orateurs": {
               "adrien gouteyron": {
                 "link": "http://www.nossenateurs.fr/seance/770#inter_8820e2c0cf4501806a698837ae363a5e",
@@ -14949,6 +14626,11 @@
                 "link": "http://www.nossenateurs.fr/seance/770#inter_7342ef33af1d00473400a3ceab7ca97e",
                 "nb_intervs": 1,
                 "nb_mots": 184
+              },
+              "hugues portelli": {
+                "link": "http://www.nossenateurs.fr/seance/770#inter_4959a5fed86db8b0de458db9bd264b52",
+                "nb_intervs": 2,
+                "nb_mots": 97
               },
               "jean-pierre fourcade": {
                 "link": "http://www.nossenateurs.fr/seance/770#inter_18588e4e07ea7ecfbf9310bb17fc955b",
@@ -14973,7 +14655,7 @@
       "Demande de renvoi à la commission": {
         "first_date": "2008-06-17",
         "groupes": {
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 5,
             "nb_mots": 1424,
             "orateurs": {
@@ -15044,30 +14726,14 @@
       "Discussion d'un projet de loi constitutionnelle": {
         "first_date": "2008-06-17",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 1,
-            "nb_mots": 10,
-            "orateurs": {
-              "jean-pierre bel": {
-                "link": "http://www.nossenateurs.fr/seance/1668#inter_a93d0a7ffc38dbc076c715ef17ccbda3",
-                "nb_intervs": 1,
-                "nb_mots": 10
-              }
-            }
-          },
-          "CRCE": {
-            "nb_intervs": 12,
-            "nb_mots": 75,
+          "CRC": {
+            "nb_intervs": 11,
+            "nb_mots": 72,
             "orateurs": {
               "nicole borvo cohen-seat": {
                 "link": "http://www.nossenateurs.fr/seance/1668#inter_7d58ec27c52c18c58575799e2ae30757",
                 "nb_intervs": 10,
                 "nb_mots": 57
-              },
-              "pierre-yves collombat": {
-                "link": "http://www.nossenateurs.fr/seance/1668#inter_36ffe5d4986c4a800f9e66e4f8fc3a08",
-                "nb_intervs": 1,
-                "nb_mots": 3
               },
               "robert bret": {
                 "link": "http://www.nossenateurs.fr/seance/1668#inter_f6d4193780339309252f12dfec7f84ae",
@@ -15084,27 +14750,6 @@
                 "link": "http://www.nossenateurs.fr/seance/1668#inter_5d40afdac2dbeabfb2984758ab832359",
                 "nb_intervs": 16,
                 "nb_mots": 3812
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 7,
-            "nb_mots": 36,
-            "orateurs": {
-              "alain gournac": {
-                "link": "http://www.nossenateurs.fr/seance/1668#inter_3f3dec43b7eb8789a26508a5fea254d0",
-                "nb_intervs": 3,
-                "nb_mots": 14
-              },
-              "henri de raincourt": {
-                "link": "http://www.nossenateurs.fr/seance/1668#inter_acb6eabd8b01e03ea77928c0aa84e332",
-                "nb_intervs": 3,
-                "nb_mots": 15
-              },
-              "éric doligé": {
-                "link": "http://www.nossenateurs.fr/seance/1668#inter_e44e9768a52219e30b790ed0aa371fce",
-                "nb_intervs": 1,
-                "nb_mots": 7
               }
             }
           },
@@ -15147,8 +14792,8 @@
             }
           },
           "SOC": {
-            "nb_intervs": 16,
-            "nb_mots": 92,
+            "nb_intervs": 18,
+            "nb_mots": 105,
             "orateurs": {
               "alima boumediene-thiery": {
                 "link": "http://www.nossenateurs.fr/seance/1668#inter_5aa632a2ae4369940018d0f0e54a96c1",
@@ -15175,10 +14820,20 @@
                 "nb_intervs": 5,
                 "nb_mots": 36
               },
+              "jean-pierre bel": {
+                "link": "http://www.nossenateurs.fr/seance/1668#inter_a93d0a7ffc38dbc076c715ef17ccbda3",
+                "nb_intervs": 1,
+                "nb_mots": 10
+              },
               "jean-pierre sueur": {
                 "link": "http://www.nossenateurs.fr/seance/1668#inter_890151f39c3ebfbcaf23a43ee28ddfa3",
                 "nb_intervs": 1,
                 "nb_mots": 6
+              },
+              "pierre-yves collombat": {
+                "link": "http://www.nossenateurs.fr/seance/1668#inter_36ffe5d4986c4a800f9e66e4f8fc3a08",
+                "nb_intervs": 1,
+                "nb_mots": 3
               },
               "robert badinter": {
                 "link": "http://www.nossenateurs.fr/seance/1668#inter_bf371f8f65f75b0b15d84bd66b0160a4",
@@ -15204,13 +14859,23 @@
             }
           },
           "UMP": {
-            "nb_intervs": 4,
-            "nb_mots": 31,
+            "nb_intervs": 11,
+            "nb_mots": 67,
             "orateurs": {
+              "alain gournac": {
+                "link": "http://www.nossenateurs.fr/seance/1668#inter_3f3dec43b7eb8789a26508a5fea254d0",
+                "nb_intervs": 3,
+                "nb_mots": 14
+              },
               "charles pasqua": {
                 "link": "http://www.nossenateurs.fr/seance/1668#inter_d82252332fffec8e746050ccabc610cb",
                 "nb_intervs": 2,
                 "nb_mots": 19
+              },
+              "henri de raincourt": {
+                "link": "http://www.nossenateurs.fr/seance/1668#inter_acb6eabd8b01e03ea77928c0aa84e332",
+                "nb_intervs": 3,
+                "nb_mots": 15
               },
               "jean-guy branger": {
                 "link": "http://www.nossenateurs.fr/seance/1668#inter_b890cf9a44293c178badd3507fa8aba7",
@@ -15221,6 +14886,11 @@
                 "link": "http://www.nossenateurs.fr/seance/1668#inter_477095ecc19b1ba0f0907bb1ea6dd19a",
                 "nb_intervs": 1,
                 "nb_mots": 5
+              },
+              "éric doligé": {
+                "link": "http://www.nossenateurs.fr/seance/1668#inter_e44e9768a52219e30b790ed0aa371fce",
+                "nb_intervs": 1,
+                "nb_mots": 7
               }
             }
           }
@@ -15235,7 +14905,7 @@
       "Exception d'irrecevabilité": {
         "first_date": "2008-06-17",
         "groupes": {
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 4,
             "nb_mots": 3133,
             "orateurs": {
@@ -15350,17 +15020,6 @@
       "Question préalable": {
         "first_date": "2008-06-17",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 2,
-            "nb_mots": 21,
-            "orateurs": {
-              "jean-pierre bel": {
-                "link": "http://www.nossenateurs.fr/seance/1669#inter_3c4b158939f98c9ecb43866d840d1c95",
-                "nb_intervs": 2,
-                "nb_mots": 21
-              }
-            }
-          },
           "CRC": {
             "nb_intervs": 2,
             "nb_mots": 265,
@@ -15380,17 +15039,6 @@
                 "link": "http://www.nossenateurs.fr/seance/1669#inter_227c876880c22d4a1744e4ea07d34c77",
                 "nb_intervs": 1,
                 "nb_mots": 5
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 1,
-            "nb_mots": 11,
-            "orateurs": {
-              "jean-pierre raffarin": {
-                "link": "http://www.nossenateurs.fr/seance/1669#inter_df352564a296e47e37513c2fa643e28d",
-                "nb_intervs": 1,
-                "nb_mots": 11
               }
             }
           },
@@ -15417,8 +15065,8 @@
             }
           },
           "SOC": {
-            "nb_intervs": 11,
-            "nb_mots": 1809,
+            "nb_intervs": 13,
+            "nb_mots": 1830,
             "orateurs": {
               "alima boumediene-thiery": {
                 "link": "http://www.nossenateurs.fr/seance/1669#inter_8b463bb3ac523d578fd330bcd7ff7e6b",
@@ -15435,6 +15083,11 @@
                 "nb_intervs": 1,
                 "nb_mots": 4
               },
+              "jean-pierre bel": {
+                "link": "http://www.nossenateurs.fr/seance/1669#inter_3c4b158939f98c9ecb43866d840d1c95",
+                "nb_intervs": 2,
+                "nb_mots": 21
+              },
               "jean-pierre sueur": {
                 "link": "http://www.nossenateurs.fr/seance/1669#inter_3ed9042b964c1f5caf2ae1fbaade40af",
                 "nb_intervs": 7,
@@ -15444,6 +15097,17 @@
                 "link": "http://www.nossenateurs.fr/seance/1669#inter_cccb9eb7c75566fe66b50e38bdad33ca",
                 "nb_intervs": 1,
                 "nb_mots": 6
+              }
+            }
+          },
+          "UMP": {
+            "nb_intervs": 1,
+            "nb_mots": 11,
+            "orateurs": {
+              "jean-pierre raffarin": {
+                "link": "http://www.nossenateurs.fr/seance/1669#inter_df352564a296e47e37513c2fa643e28d",
+                "nb_intervs": 1,
+                "nb_mots": 11
               }
             }
           }
@@ -15458,66 +15122,29 @@
       "Suite de la discussion d'un projet de loi constitutionnelle": {
         "first_date": "2008-06-17",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 21,
-            "nb_mots": 2390,
-            "orateurs": {
-              "bariza khiari": {
-                "link": "http://www.nossenateurs.fr/seance/1668#inter_ec340e1ec7a82b8f967ecb9a7ecbf4e7",
-                "nb_intervs": 1,
-                "nb_mots": 5
-              },
-              "jean-claude peyronnet": {
-                "link": "http://www.nossenateurs.fr/seance/1669#inter_303a71377d3c11c15a1a3163544e6bb0",
-                "nb_intervs": 8,
-                "nb_mots": 1340
-              },
-              "jean-pierre bel": {
-                "link": "http://www.nossenateurs.fr/seance/1668#inter_26d17d87388ace96da485b5ab7bc272a",
-                "nb_intervs": 12,
-                "nb_mots": 1045
-              }
-            }
-          },
           "CRC": {
-            "nb_intervs": 8,
-            "nb_mots": 47,
+            "nb_intervs": 55,
+            "nb_mots": 5381,
             "orateurs": {
               "annie david": {
                 "link": "http://www.nossenateurs.fr/seance/1668#inter_0167b3330e16fa34698599f6b3916fe0",
                 "nb_intervs": 3,
                 "nb_mots": 13
               },
-              "ivan renar": {
-                "link": "http://www.nossenateurs.fr/seance/1668#inter_475bc8535a4719dbdf2ec8607230b146",
-                "nb_intervs": 2,
-                "nb_mots": 15
-              },
-              "jean-luc mélenchon": {
-                "link": "http://www.nossenateurs.fr/seance/1668#inter_bd608a4950ec68996c40c028bccd8584",
-                "nb_intervs": 3,
-                "nb_mots": 19
-              }
-            }
-          },
-          "CRCE": {
-            "nb_intervs": 51,
-            "nb_mots": 6307,
-            "orateurs": {
               "guy fischer": {
                 "link": "http://www.nossenateurs.fr/seance/1668#inter_361f0892bbaee75e700cac8ce72269ff",
                 "nb_intervs": 16,
                 "nb_mots": 2593
               },
+              "ivan renar": {
+                "link": "http://www.nossenateurs.fr/seance/1668#inter_475bc8535a4719dbdf2ec8607230b146",
+                "nb_intervs": 2,
+                "nb_mots": 15
+              },
               "nicole borvo cohen-seat": {
                 "link": "http://www.nossenateurs.fr/seance/1668#inter_97d9cf07890bff8fd71f285e04e2d7d7",
                 "nb_intervs": 31,
                 "nb_mots": 2730
-              },
-              "pierre-yves collombat": {
-                "link": "http://www.nossenateurs.fr/seance/1669#inter_014785ddd5e5c1172e07a495584d272b",
-                "nb_intervs": 1,
-                "nb_mots": 954
               },
               "robert bret": {
                 "link": "http://www.nossenateurs.fr/seance/1668#inter_a2d840f359ce3ae98189e48ef6a868ab",
@@ -15539,88 +15166,6 @@
                 "link": "http://www.nossenateurs.fr/seance/1668#inter_459b5de807f019f236e8e7dc365a37ff",
                 "nb_intervs": 12,
                 "nb_mots": 87
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 83,
-            "nb_mots": 12032,
-            "orateurs": {
-              "alain gournac": {
-                "link": "http://www.nossenateurs.fr/seance/1668#inter_9dfeaebcf9c739c1c05767536aa61c00",
-                "nb_intervs": 1,
-                "nb_mots": 4
-              },
-              "alain vasselle": {
-                "link": "http://www.nossenateurs.fr/seance/1669#inter_8639d318276ac715fd30ca9e8a6bbe19",
-                "nb_intervs": 4,
-                "nb_mots": 1635
-              },
-              "bernard saugey": {
-                "link": "http://www.nossenateurs.fr/seance/1668#inter_1dbf568a05ca24c45e635210ad9f0414",
-                "nb_intervs": 1,
-                "nb_mots": 7
-              },
-              "charles revet": {
-                "link": "http://www.nossenateurs.fr/seance/1668#inter_ae3e958b78749d1a6e58c80787899981",
-                "nb_intervs": 1,
-                "nb_mots": 5
-              },
-              "gérard larcher": {
-                "link": "http://www.nossenateurs.fr/seance/1668#inter_63842aa75b3fb790d77636fad68d38a2",
-                "nb_intervs": 9,
-                "nb_mots": 2111
-              },
-              "henri de raincourt": {
-                "link": "http://www.nossenateurs.fr/seance/1668#inter_cf7981451450050c79f4145fefc610c3",
-                "nb_intervs": 25,
-                "nb_mots": 2239
-              },
-              "isabelle debré": {
-                "link": "http://www.nossenateurs.fr/seance/1668#inter_4cfd78a3e503613925ccc890befdf204",
-                "nb_intervs": 2,
-                "nb_mots": 10
-              },
-              "jacques gautier": {
-                "link": "http://www.nossenateurs.fr/seance/1669#inter_cef60edf5c53ad8fb6df368d37459df4",
-                "nb_intervs": 2,
-                "nb_mots": 10
-              },
-              "jean-claude carle": {
-                "link": "http://www.nossenateurs.fr/seance/1668#inter_e5f5007aab1fa15959fae869c0ab192c",
-                "nb_intervs": 1,
-                "nb_mots": 7
-              },
-              "jean-patrick courtois": {
-                "link": "http://www.nossenateurs.fr/seance/1669#inter_5712a4e435aabcb06afa38e00ba546e5",
-                "nb_intervs": 1,
-                "nb_mots": 5
-              },
-              "jean-pierre raffarin": {
-                "link": "http://www.nossenateurs.fr/seance/1668#inter_c77a90ce39b3b19e22714b98ffda65b5",
-                "nb_intervs": 22,
-                "nb_mots": 2825
-              },
-              "robert del picchia": {
-                "link": "http://www.nossenateurs.fr/seance/1669#inter_d81ac1905139db1d0d1890556397e88e",
-                "nb_intervs": 6,
-                "nb_mots": 1945
-              },
-              "éric doligé": {
-                "link": "http://www.nossenateurs.fr/seance/1669#inter_2e9a53039bdb61fb6f9e238d97a25398",
-                "nb_intervs": 8,
-                "nb_mots": 1229
-              }
-            }
-          },
-          "LREM": {
-            "nb_intervs": 1,
-            "nb_mots": 1230,
-            "orateurs": {
-              "richard yung": {
-                "link": "http://www.nossenateurs.fr/seance/1669#inter_2f65ae6823743f89fe36ba2f5473974b",
-                "nb_intervs": 1,
-                "nb_mots": 1230
               }
             }
           },
@@ -15688,13 +15233,18 @@
             }
           },
           "SOC": {
-            "nb_intervs": 111,
-            "nb_mots": 10171,
+            "nb_intervs": 137,
+            "nb_mots": 14764,
             "orateurs": {
               "alima boumediene-thiery": {
                 "link": "http://www.nossenateurs.fr/seance/1669#inter_55d0cfe3c046dfe6f1da904a53e25d7e",
                 "nb_intervs": 3,
                 "nb_mots": 1937
+              },
+              "bariza khiari": {
+                "link": "http://www.nossenateurs.fr/seance/1668#inter_ec340e1ec7a82b8f967ecb9a7ecbf4e7",
+                "nb_intervs": 1,
+                "nb_mots": 5
               },
               "bernard frimat": {
                 "link": "http://www.nossenateurs.fr/seance/1668#inter_432bcba3daedd64380c2cc0d660285fe",
@@ -15711,10 +15261,25 @@
                 "nb_intervs": 12,
                 "nb_mots": 1283
               },
+              "jean-claude peyronnet": {
+                "link": "http://www.nossenateurs.fr/seance/1669#inter_303a71377d3c11c15a1a3163544e6bb0",
+                "nb_intervs": 8,
+                "nb_mots": 1340
+              },
               "jean-louis carrère": {
                 "link": "http://www.nossenateurs.fr/seance/1668#inter_52cbb130d9decbc031d7bb612f575d44",
                 "nb_intervs": 37,
                 "nb_mots": 293
+              },
+              "jean-luc mélenchon": {
+                "link": "http://www.nossenateurs.fr/seance/1668#inter_bd608a4950ec68996c40c028bccd8584",
+                "nb_intervs": 3,
+                "nb_mots": 19
+              },
+              "jean-pierre bel": {
+                "link": "http://www.nossenateurs.fr/seance/1668#inter_26d17d87388ace96da485b5ab7bc272a",
+                "nb_intervs": 12,
+                "nb_mots": 1045
               },
               "jean-pierre sueur": {
                 "link": "http://www.nossenateurs.fr/seance/1668#inter_bf518f83f2982b5a1996337df270a422",
@@ -15725,6 +15290,16 @@
                 "link": "http://www.nossenateurs.fr/seance/1668#inter_fd53076ce182181dce92a884085485bf",
                 "nb_intervs": 10,
                 "nb_mots": 2051
+              },
+              "pierre-yves collombat": {
+                "link": "http://www.nossenateurs.fr/seance/1669#inter_014785ddd5e5c1172e07a495584d272b",
+                "nb_intervs": 1,
+                "nb_mots": 954
+              },
+              "richard yung": {
+                "link": "http://www.nossenateurs.fr/seance/1669#inter_2f65ae6823743f89fe36ba2f5473974b",
+                "nb_intervs": 1,
+                "nb_mots": 1230
               },
               "robert badinter": {
                 "link": "http://www.nossenateurs.fr/seance/1668#inter_3ea173ec5462722517fa81c1e2194c7f",
@@ -15755,13 +15330,33 @@
             }
           },
           "UMP": {
-            "nb_intervs": 58,
-            "nb_mots": 5966,
+            "nb_intervs": 141,
+            "nb_mots": 17998,
             "orateurs": {
               "adrien gouteyron": {
                 "link": "http://www.nossenateurs.fr/seance/216#inter_0fe43b2f14b15e6e58d52886de139297",
                 "nb_intervs": 5,
                 "nb_mots": 79
+              },
+              "alain gournac": {
+                "link": "http://www.nossenateurs.fr/seance/1668#inter_9dfeaebcf9c739c1c05767536aa61c00",
+                "nb_intervs": 1,
+                "nb_mots": 4
+              },
+              "alain vasselle": {
+                "link": "http://www.nossenateurs.fr/seance/1669#inter_8639d318276ac715fd30ca9e8a6bbe19",
+                "nb_intervs": 4,
+                "nb_mots": 1635
+              },
+              "bernard saugey": {
+                "link": "http://www.nossenateurs.fr/seance/1668#inter_1dbf568a05ca24c45e635210ad9f0414",
+                "nb_intervs": 1,
+                "nb_mots": 7
+              },
+              "charles revet": {
+                "link": "http://www.nossenateurs.fr/seance/1668#inter_ae3e958b78749d1a6e58c80787899981",
+                "nb_intervs": 1,
+                "nb_mots": 5
               },
               "christian cointat": {
                 "link": "http://www.nossenateurs.fr/seance/1669#inter_026e95680201d6f6ddd9ed78820bb0e1",
@@ -15773,6 +15368,16 @@
                 "nb_intervs": 1,
                 "nb_mots": 807
               },
+              "gérard larcher": {
+                "link": "http://www.nossenateurs.fr/seance/1668#inter_63842aa75b3fb790d77636fad68d38a2",
+                "nb_intervs": 9,
+                "nb_mots": 2111
+              },
+              "henri de raincourt": {
+                "link": "http://www.nossenateurs.fr/seance/1668#inter_cf7981451450050c79f4145fefc610c3",
+                "nb_intervs": 25,
+                "nb_mots": 2239
+              },
               "henri de richemont": {
                 "link": "http://www.nossenateurs.fr/seance/1669#inter_0cc107c8acdf4b12cbc31251ba38b9db",
                 "nb_intervs": 4,
@@ -15783,10 +15388,35 @@
                 "nb_intervs": 11,
                 "nb_mots": 1853
               },
+              "isabelle debré": {
+                "link": "http://www.nossenateurs.fr/seance/1668#inter_4cfd78a3e503613925ccc890befdf204",
+                "nb_intervs": 2,
+                "nb_mots": 10
+              },
+              "jacques gautier": {
+                "link": "http://www.nossenateurs.fr/seance/1669#inter_cef60edf5c53ad8fb6df368d37459df4",
+                "nb_intervs": 2,
+                "nb_mots": 10
+              },
               "jean puech": {
                 "link": "http://www.nossenateurs.fr/seance/1669#inter_6edbfb9b0dcfa923a7c9c973c1465211",
                 "nb_intervs": 8,
                 "nb_mots": 1805
+              },
+              "jean-claude carle": {
+                "link": "http://www.nossenateurs.fr/seance/1668#inter_e5f5007aab1fa15959fae869c0ab192c",
+                "nb_intervs": 1,
+                "nb_mots": 7
+              },
+              "jean-patrick courtois": {
+                "link": "http://www.nossenateurs.fr/seance/1669#inter_5712a4e435aabcb06afa38e00ba546e5",
+                "nb_intervs": 1,
+                "nb_mots": 5
+              },
+              "jean-pierre raffarin": {
+                "link": "http://www.nossenateurs.fr/seance/1668#inter_c77a90ce39b3b19e22714b98ffda65b5",
+                "nb_intervs": 22,
+                "nb_mots": 2825
               },
               "joël bourdin": {
                 "link": "http://www.nossenateurs.fr/seance/1668#inter_d4803434a22c3158676a7f9e17a9aa5e",
@@ -15803,10 +15433,20 @@
                 "nb_intervs": 5,
                 "nb_mots": 31
               },
+              "robert del picchia": {
+                "link": "http://www.nossenateurs.fr/seance/1669#inter_d81ac1905139db1d0d1890556397e88e",
+                "nb_intervs": 6,
+                "nb_mots": 1945
+              },
               "roland du luart": {
                 "link": "http://www.nossenateurs.fr/seance/769#inter_39417410051e4fd38cded6f53c10d9e4",
                 "nb_intervs": 1,
                 "nb_mots": 49
+              },
+              "éric doligé": {
+                "link": "http://www.nossenateurs.fr/seance/1669#inter_2e9a53039bdb61fb6f9e238d97a25398",
+                "nb_intervs": 8,
+                "nb_mots": 1229
               }
             }
           }
@@ -15820,41 +15460,17 @@
       }
     },
     "groupes": {
-      "Auditionnés": {
-        "color": "#ccb7b6",
-        "link": "",
-        "nom": "Auditionnés",
-        "order": 70
-      },
       "CRC": {
         "color": "rgb(255,30,30)",
         "link": "https://www.nossenateurs.fr/groupe/CRC",
         "nom": "Communiste, Républicain, Citoyen et des Sénateurs du Parti de Gauche",
         "order": 11
       },
-      "CRCE": {
-        "color": "rgb(255,30,30)",
-        "link": "https://www.nossenateurs.fr/groupe/CRCE",
-        "nom": "Communiste républicain citoyen et Écologiste",
-        "order": 10
-      },
       "Gouvernement": {
         "color": "#cccbb3",
         "link": "",
         "nom": "Gouvernement",
         "order": 60
-      },
-      "LR": {
-        "color": "rgb(30,30,200)",
-        "link": "https://www.nossenateurs.fr/groupe/LR",
-        "nom": "Les Républicains",
-        "order": 24
-      },
-      "LREM": {
-        "color": "rgb(232,197,5)",
-        "link": "https://www.nossenateurs.fr/groupe/LREM",
-        "nom": "La République en Marche",
-        "order": 18
       },
       "NI": {
         "color": "rgb(165,165,165)",
@@ -15892,12 +15508,6 @@
         "nom": "Union Centriste",
         "order": 20
       },
-      "UDI": {
-        "color": "rgb(30,180,255)",
-        "link": "https://www.nossenateurs.fr/groupe/UDI",
-        "nom": "Union des Démocrates et Indépendants - UC",
-        "order": 21
-      },
       "UMP": {
         "color": "rgb(30,30,200)",
         "link": "https://www.nossenateurs.fr/groupe/UMP",
@@ -15917,7 +15527,7 @@
       "alain gournac": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/alain-gournac",
         "nom": "Alain Gournac",
         "photo": "https://www.nossenateurs.fr/senateur/photo/alain-gournac"
@@ -15925,15 +15535,15 @@
       "alain vasselle": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/alain-vasselle",
         "nom": "Alain Vasselle",
         "photo": "https://www.nossenateurs.fr/senateur/photo/alain-vasselle"
       },
       "alima boumediene-thiery": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "SOCV",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/alima-boumediene-thiery",
         "nom": "Alima Boumediene-Thiery",
         "photo": "https://www.nossenateurs.fr/senateur/photo/alima-boumediene-thiery"
@@ -15979,17 +15589,17 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/annie-david"
       },
       "bariza khiari": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/bariza-khiari",
         "nom": "Bariza Khiari",
         "photo": "https://www.nossenateurs.fr/senateur/photo/bariza-khiari"
       },
       "bernard frimat": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "SOCV",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/bernard-frimat",
         "nom": "Bernard Frimat",
         "photo": "https://www.nossenateurs.fr/senateur/photo/bernard-frimat"
@@ -15997,7 +15607,7 @@
       "bernard saugey": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/bernard-saugey",
         "nom": "Bernard Saugey",
         "photo": "https://www.nossenateurs.fr/senateur/photo/bernard-saugey"
@@ -16011,17 +15621,17 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/bernard-vera"
       },
       "bruno retailleau": {
-        "color": "rgb(30,30,200)",
+        "color": "rgb(165,165,165)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "NI",
         "link": "https://www.nossenateurs.fr/bruno-retailleau",
         "nom": "Bruno Retailleau",
         "photo": "https://www.nossenateurs.fr/senateur/photo/bruno-retailleau"
       },
       "charles gautier": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "SOCV",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/charles-gautier",
         "nom": "Charles Gautier",
         "photo": "https://www.nossenateurs.fr/senateur/photo/charles-gautier"
@@ -16037,7 +15647,7 @@
       "charles revet": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/charles-revet",
         "nom": "Charles Revet",
         "photo": "https://www.nossenateurs.fr/senateur/photo/charles-revet"
@@ -16045,7 +15655,7 @@
       "christian cambon": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/christian-cambon",
         "nom": "Christian Cambon",
         "photo": "https://www.nossenateurs.fr/senateur/photo/christian-cambon"
@@ -16075,9 +15685,9 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/david-assouline"
       },
       "didier boulaud": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/didier-boulaud",
         "nom": "Didier Boulaud",
         "photo": "https://www.nossenateurs.fr/senateur/photo/didier-boulaud"
@@ -16099,17 +15709,17 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/dominique-mortemousque"
       },
       "dominique voynet": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "SOCV",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/dominique-voynet",
         "nom": "Dominique Voynet",
         "photo": "https://www.nossenateurs.fr/senateur/photo/dominique-voynet"
       },
       "françois autain": {
-        "color": "#888888",
+        "color": "rgb(255,30,30)",
         "fonction": "",
-        "groupe": "CRC-SPG",
+        "groupe": "CRC",
         "link": "https://www.nossenateurs.fr/francois-autain",
         "nom": "François Autain",
         "photo": "https://www.nossenateurs.fr/senateur/photo/francois-autain"
@@ -16157,7 +15767,7 @@
       "guy fischer": {
         "color": "rgb(255,30,30)",
         "fonction": "",
-        "groupe": "CRCE",
+        "groupe": "CRC",
         "link": "https://www.nossenateurs.fr/guy-fischer",
         "nom": "Guy Fischer",
         "photo": "https://www.nossenateurs.fr/senateur/photo/guy-fischer"
@@ -16173,7 +15783,7 @@
       "gérard larcher": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/gerard-larcher",
         "nom": "Gérard Larcher",
         "photo": "https://www.nossenateurs.fr/senateur/photo/gerard-larcher"
@@ -16181,7 +15791,7 @@
       "gérard le cam": {
         "color": "rgb(255,30,30)",
         "fonction": "",
-        "groupe": "CRCE",
+        "groupe": "CRC",
         "link": "https://www.nossenateurs.fr/gerard-le-cam",
         "nom": "Gérard Le Cam",
         "photo": "https://www.nossenateurs.fr/senateur/photo/gerard-le-cam"
@@ -16189,7 +15799,7 @@
       "gérard longuet": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/gerard-longuet",
         "nom": "Gérard Longuet",
         "photo": "https://www.nossenateurs.fr/senateur/photo/gerard-longuet"
@@ -16197,7 +15807,7 @@
       "henri de raincourt": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/henri-de-raincourt",
         "nom": "Henri de Raincourt",
         "photo": "https://www.nossenateurs.fr/senateur/photo/henri-de-raincourt"
@@ -16221,7 +15831,7 @@
       "hugues portelli": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/hugues-portelli",
         "nom": "Hugues Portelli",
         "photo": "https://www.nossenateurs.fr/senateur/photo/hugues-portelli"
@@ -16229,15 +15839,15 @@
       "isabelle debré": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/isabelle-debre",
         "nom": "Isabelle Debré",
         "photo": "https://www.nossenateurs.fr/senateur/photo/isabelle-debre"
       },
       "ivan renar": {
-        "color": "#888888",
+        "color": "rgb(255,30,30)",
         "fonction": "",
-        "groupe": "CRC-SPG",
+        "groupe": "CRC",
         "link": "https://www.nossenateurs.fr/ivan-renar",
         "nom": "Ivan Renar",
         "photo": "https://www.nossenateurs.fr/senateur/photo/ivan-renar"
@@ -16253,7 +15863,7 @@
       "jacques gautier": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/jacques-gautier",
         "nom": "Jacques Gautier",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jacques-gautier"
@@ -16261,7 +15871,7 @@
       "jacques legendre": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/jacques-legendre",
         "nom": "Jacques Legendre",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jacques-legendre"
@@ -16275,17 +15885,17 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/jacques-valade"
       },
       "jean arthuis": {
-        "color": "rgb(30,180,255)",
+        "color": "rgb(130,140,255)",
         "fonction": "",
-        "groupe": "UDI",
+        "groupe": "UC",
         "link": "https://www.nossenateurs.fr/jean-arthuis",
         "nom": "Jean Arthuis",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jean-arthuis"
       },
       "jean desessard": {
-        "color": "rgb(165,165,165)",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "NI",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/jean-desessard",
         "nom": "Jean Desessard",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jean-desessard"
@@ -16301,15 +15911,15 @@
       "jean-claude carle": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/jean-claude-carle",
         "nom": "Jean-Claude Carle",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jean-claude-carle"
       },
       "jean-claude peyronnet": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/jean-claude-peyronnet",
         "nom": "Jean-Claude Peyronnet",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jean-claude-peyronnet"
@@ -16325,7 +15935,7 @@
       "jean-jacques hyest": {
         "color": "rgb(30,30,200)",
         "fonction": "rapporteur",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/jean-jacques-hyest",
         "nom": "Jean-Jacques Hyest",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jean-jacques-hyest"
@@ -16339,9 +15949,9 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/jean-louis-carrere"
       },
       "jean-luc mélenchon": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "CRC-SPG",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/jean-luc-melenchon",
         "nom": "Jean-Luc Mélenchon",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jean-luc-melenchon"
@@ -16357,15 +15967,15 @@
       "jean-patrick courtois": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/jean-patrick-courtois",
         "nom": "Jean-Patrick Courtois",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jean-patrick-courtois"
       },
       "jean-pierre bel": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/jean-pierre-bel",
         "nom": "Jean-Pierre Bel",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jean-pierre-bel"
@@ -16381,7 +15991,7 @@
       "jean-pierre raffarin": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/jean-pierre-raffarin",
         "nom": "Jean-Pierre Raffarin",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jean-pierre-raffarin"
@@ -16411,9 +16021,9 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/joseph-kergueris"
       },
       "josiane mathon-poinat": {
-        "color": "#888888",
+        "color": "rgb(255,30,30)",
         "fonction": "",
-        "groupe": "CRC-SPG",
+        "groupe": "CRC",
         "link": "https://www.nossenateurs.fr/josiane-mathon-poinat",
         "nom": "Josiane Mathon-Poinat",
         "photo": "https://www.nossenateurs.fr/senateur/photo/josiane-mathon-poinat"
@@ -16451,9 +16061,9 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/laurent-beteille"
       },
       "marie-christine blandin": {
-        "color": "rgb(165,165,165)",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "NI",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/marie-christine-blandin",
         "nom": "Marie-Christine Blandin",
         "photo": "https://www.nossenateurs.fr/senateur/photo/marie-christine-blandin"
@@ -16475,9 +16085,9 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/michel-mercier"
       },
       "michel sergent": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "SOCV",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/michel-sergent",
         "nom": "Michel Sergent",
         "photo": "https://www.nossenateurs.fr/senateur/photo/michel-sergent"
@@ -16491,25 +16101,25 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/michele-andre"
       },
       "monique cerisier-ben guiga": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "SOCV",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/monique-cerisier-ben-guiga",
         "nom": "Monique Cerisier-ben Guiga",
         "photo": "https://www.nossenateurs.fr/senateur/photo/monique-cerisier-ben-guiga"
       },
       "muguette dini": {
-        "color": "rgb(30,180,255)",
+        "color": "rgb(130,140,255)",
         "fonction": "",
-        "groupe": "UDI",
+        "groupe": "UC",
         "link": "https://www.nossenateurs.fr/muguette-dini",
         "nom": "Muguette Dini",
         "photo": "https://www.nossenateurs.fr/senateur/photo/muguette-dini"
       },
       "nathalie goulet": {
-        "color": "rgb(130,140,255)",
+        "color": "rgb(250,195,132)",
         "fonction": "",
-        "groupe": "UC",
+        "groupe": "RDSE",
         "link": "https://www.nossenateurs.fr/nathalie-goulet",
         "nom": "Nathalie Goulet",
         "photo": "https://www.nossenateurs.fr/senateur/photo/nathalie-goulet"
@@ -16533,23 +16143,23 @@
       "nicole borvo cohen-seat": {
         "color": "rgb(255,30,30)",
         "fonction": "",
-        "groupe": "CRCE",
+        "groupe": "CRC",
         "link": "https://www.nossenateurs.fr/nicole-borvo-cohen-seat",
         "nom": "Nicole Borvo Cohen-Seat",
         "photo": "https://www.nossenateurs.fr/senateur/photo/nicole-borvo-cohen-seat"
       },
       "nicole bricq": {
-        "color": "rgb(232,197,5)",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "LREM",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/nicole-bricq",
         "nom": "Nicole Bricq",
         "photo": "https://www.nossenateurs.fr/senateur/photo/nicole-bricq"
       },
       "odette terrade": {
-        "color": "#888888",
+        "color": "rgb(255,30,30)",
         "fonction": "",
-        "groupe": "CRC-SPG",
+        "groupe": "CRC",
         "link": "https://www.nossenateurs.fr/odette-terrade",
         "nom": "Odette Terrade",
         "photo": "https://www.nossenateurs.fr/senateur/photo/odette-terrade"
@@ -16565,7 +16175,7 @@
       "philippe dallier": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/philippe-dallier",
         "nom": "Philippe Dallier",
         "photo": "https://www.nossenateurs.fr/senateur/photo/philippe-dallier"
@@ -16603,17 +16213,17 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/pierre-laffitte"
       },
       "pierre mauroy": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "SOCV",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/pierre-mauroy",
         "nom": "Pierre Mauroy",
         "photo": "https://www.nossenateurs.fr/senateur/photo/pierre-mauroy"
       },
       "pierre-yves collombat": {
-        "color": "rgb(255,30,30)",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "CRCE",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/pierre-yves-collombat",
         "nom": "Pierre-Yves Collombat",
         "photo": "https://www.nossenateurs.fr/senateur/photo/pierre-yves-collombat"
@@ -16635,25 +16245,25 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/rene-garrec"
       },
       "rené-pierre signé": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "SOCV",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/rene-pierre-signe",
         "nom": "René-Pierre Signé",
         "photo": "https://www.nossenateurs.fr/senateur/photo/rene-pierre-signe"
       },
       "richard yung": {
-        "color": "rgb(232,197,5)",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "LREM",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/richard-yung",
         "nom": "Richard Yung",
         "photo": "https://www.nossenateurs.fr/senateur/photo/richard-yung"
       },
       "robert badinter": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "SOCV",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/robert-badinter",
         "nom": "Robert Badinter",
         "photo": "https://www.nossenateurs.fr/senateur/photo/robert-badinter"
@@ -16661,7 +16271,7 @@
       "robert bret": {
         "color": "rgb(255,30,30)",
         "fonction": "",
-        "groupe": "CRCE",
+        "groupe": "CRC",
         "link": "https://www.nossenateurs.fr/robert-bret",
         "nom": "Robert Bret",
         "photo": "https://www.nossenateurs.fr/senateur/photo/robert-bret"
@@ -16669,7 +16279,7 @@
       "robert del picchia": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/robert-del-picchia",
         "nom": "Robert del Picchia",
         "photo": "https://www.nossenateurs.fr/senateur/photo/robert-del-picchia"
@@ -16699,9 +16309,9 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/roland-du-luart"
       },
       "thierry repentin": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/thierry-repentin",
         "nom": "Thierry Repentin",
         "photo": "https://www.nossenateurs.fr/senateur/photo/thierry-repentin"
@@ -16715,9 +16325,9 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/yann-gaillard"
       },
       "yannick bodin": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "SOCV",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/yannick-bodin",
         "nom": "Yannick Bodin",
         "photo": "https://www.nossenateurs.fr/senateur/photo/yannick-bodin"
@@ -16749,7 +16359,7 @@
       "éliane assassi": {
         "color": "rgb(255,30,30)",
         "fonction": "",
-        "groupe": "CRCE",
+        "groupe": "CRC",
         "link": "https://www.nossenateurs.fr/eliane-assassi",
         "nom": "Éliane Assassi",
         "photo": "https://www.nossenateurs.fr/senateur/photo/eliane-assassi"
@@ -16757,7 +16367,7 @@
       "éric doligé": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/eric-dolige",
         "nom": "Éric Doligé",
         "photo": "https://www.nossenateurs.fr/senateur/photo/eric-dolige"
@@ -22251,32 +21861,15 @@
       "Article 11": {
         "first_date": "2008-07-16",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 1,
-            "nb_mots": 12,
-            "orateurs": {
-              "jean-claude peyronnet": {
-                "link": "http://www.nossenateurs.fr/seance/1580#inter_e159388e64efd8eab418571ff96a8891",
-                "nb_intervs": 1,
-                "nb_mots": 12
-              }
-            }
-          },
           "CRC": {
-            "nb_intervs": 2,
-            "nb_mots": 427,
+            "nb_intervs": 6,
+            "nb_mots": 584,
             "orateurs": {
               "josiane mathon-poinat": {
                 "link": "http://www.nossenateurs.fr/seance/1580#inter_0c4898efc020abb1cad51421b54992c8",
                 "nb_intervs": 2,
                 "nb_mots": 427
-              }
-            }
-          },
-          "CRCE": {
-            "nb_intervs": 4,
-            "nb_mots": 157,
-            "orateurs": {
+              },
               "nicole borvo cohen-seat": {
                 "link": "http://www.nossenateurs.fr/seance/1580#inter_2e837dd11589e4bf390a1f122df4498d",
                 "nb_intervs": 3,
@@ -22297,17 +21890,6 @@
                 "link": "http://www.nossenateurs.fr/seance/1580#inter_020e1a2e7e2e3e21226380eeb0373409",
                 "nb_intervs": 8,
                 "nb_mots": 1252
-              }
-            }
-          },
-          "LREM": {
-            "nb_intervs": 5,
-            "nb_mots": 1000,
-            "orateurs": {
-              "nicole bricq": {
-                "link": "http://www.nossenateurs.fr/seance/1580#inter_8033dd22f0d8b3e6038f43957172676c",
-                "nb_intervs": 5,
-                "nb_mots": 1000
               }
             }
           },
@@ -22334,13 +21916,18 @@
             }
           },
           "SOC": {
-            "nb_intervs": 8,
-            "nb_mots": 671,
+            "nb_intervs": 14,
+            "nb_mots": 1683,
             "orateurs": {
               "bernard frimat": {
                 "link": "http://www.nossenateurs.fr/seance/1580#inter_9607e064cda02331460c2e14d7e153f2",
                 "nb_intervs": 1,
                 "nb_mots": 10
+              },
+              "jean-claude peyronnet": {
+                "link": "http://www.nossenateurs.fr/seance/1580#inter_e159388e64efd8eab418571ff96a8891",
+                "nb_intervs": 1,
+                "nb_mots": 12
               },
               "jean-pierre sueur": {
                 "link": "http://www.nossenateurs.fr/seance/1580#inter_25115f4f46496f62aeb8bf9349e37a87",
@@ -22351,6 +21938,11 @@
                 "link": "http://www.nossenateurs.fr/seance/1580#inter_ef0c7677fbb7474a7ae257d62f06149d",
                 "nb_intervs": 5,
                 "nb_mots": 179
+              },
+              "nicole bricq": {
+                "link": "http://www.nossenateurs.fr/seance/1580#inter_8033dd22f0d8b3e6038f43957172676c",
+                "nb_intervs": 5,
+                "nb_mots": 1000
               }
             }
           },
@@ -22376,18 +21968,7 @@
       "Article 12": {
         "first_date": "2008-07-16",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 5,
-            "nb_mots": 27,
-            "orateurs": {
-              "didier boulaud": {
-                "link": "http://www.nossenateurs.fr/seance/1580#inter_a031de90cf5bf637f7af4b54d831c66e",
-                "nb_intervs": 5,
-                "nb_mots": 27
-              }
-            }
-          },
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 9,
             "nb_mots": 438,
             "orateurs": {
@@ -22411,17 +21992,6 @@
                 "link": "http://www.nossenateurs.fr/seance/1580#inter_27a4adba0a424ded93bf5d6defd9087b",
                 "nb_intervs": 3,
                 "nb_mots": 308
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 1,
-            "nb_mots": 4,
-            "orateurs": {
-              "alain gournac": {
-                "link": "http://www.nossenateurs.fr/seance/1580#inter_d11dd4d65d7794103752849bbe6440dc",
-                "nb_intervs": 1,
-                "nb_mots": 4
               }
             }
           },
@@ -22453,9 +22023,14 @@
             }
           },
           "SOC": {
-            "nb_intervs": 22,
-            "nb_mots": 1468,
+            "nb_intervs": 27,
+            "nb_mots": 1495,
             "orateurs": {
+              "didier boulaud": {
+                "link": "http://www.nossenateurs.fr/seance/1580#inter_a031de90cf5bf637f7af4b54d831c66e",
+                "nb_intervs": 5,
+                "nb_mots": 27
+              },
               "jean-pierre sueur": {
                 "link": "http://www.nossenateurs.fr/seance/1580#inter_1884fe712717bd07acd442e7f2e953ef",
                 "nb_intervs": 16,
@@ -22474,9 +22049,14 @@
             }
           },
           "UMP": {
-            "nb_intervs": 4,
-            "nb_mots": 32,
+            "nb_intervs": 5,
+            "nb_mots": 36,
             "orateurs": {
+              "alain gournac": {
+                "link": "http://www.nossenateurs.fr/seance/1580#inter_d11dd4d65d7794103752849bbe6440dc",
+                "nb_intervs": 1,
+                "nb_mots": 4
+              },
               "christian cointat": {
                 "link": "http://www.nossenateurs.fr/seance/1580#inter_3dbab23d938e1481627bb205c7b1c049",
                 "nb_intervs": 2,
@@ -22500,18 +22080,7 @@
       "Article 13": {
         "first_date": "2008-07-16",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 16,
-            "nb_mots": 2171,
-            "orateurs": {
-              "didier boulaud": {
-                "link": "http://www.nossenateurs.fr/seance/1580#inter_75869b6ca909d0c50bbd67045f56f460",
-                "nb_intervs": 16,
-                "nb_mots": 2171
-              }
-            }
-          },
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 5,
             "nb_mots": 1642,
             "orateurs": {
@@ -22530,17 +22099,6 @@
                 "link": "http://www.nossenateurs.fr/seance/1580#inter_ccb9567e52c92bdc26955bd6713603cc",
                 "nb_intervs": 2,
                 "nb_mots": 209
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 1,
-            "nb_mots": 10,
-            "orateurs": {
-              "alain gournac": {
-                "link": "http://www.nossenateurs.fr/seance/1580#inter_5efb1a74d78dda7b3a5d18f6d0eeacc8",
-                "nb_intervs": 1,
-                "nb_mots": 10
               }
             }
           },
@@ -22572,18 +22130,34 @@
             }
           },
           "SOC": {
-            "nb_intervs": 2,
-            "nb_mots": 430,
+            "nb_intervs": 18,
+            "nb_mots": 2601,
             "orateurs": {
               "alima boumediene-thiery": {
                 "link": "http://www.nossenateurs.fr/seance/1580#inter_0ca303d8aaf973ead3337e7251bdb839",
                 "nb_intervs": 1,
                 "nb_mots": 425
               },
+              "didier boulaud": {
+                "link": "http://www.nossenateurs.fr/seance/1580#inter_75869b6ca909d0c50bbd67045f56f460",
+                "nb_intervs": 16,
+                "nb_mots": 2171
+              },
               "michel dreyfus-schmidt": {
                 "link": "http://www.nossenateurs.fr/seance/1580#inter_ddecba7eb1fc80ddf1fa933f5cbd0f14",
                 "nb_intervs": 1,
                 "nb_mots": 5
+              }
+            }
+          },
+          "UMP": {
+            "nb_intervs": 1,
+            "nb_mots": 10,
+            "orateurs": {
+              "alain gournac": {
+                "link": "http://www.nossenateurs.fr/seance/1580#inter_5efb1a74d78dda7b3a5d18f6d0eeacc8",
+                "nb_intervs": 1,
+                "nb_mots": 10
               }
             }
           }
@@ -22598,7 +22172,7 @@
       "Article 14": {
         "first_date": "2008-07-16",
         "groupes": {
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 10,
             "nb_mots": 81,
             "orateurs": {
@@ -22706,20 +22280,14 @@
         "first_date": "2008-07-16",
         "groupes": {
           "CRC": {
-            "nb_intervs": 1,
-            "nb_mots": 4,
+            "nb_intervs": 5,
+            "nb_mots": 604,
             "orateurs": {
               "josiane mathon-poinat": {
                 "link": "http://www.nossenateurs.fr/seance/1580#inter_66f1ca1601422eaa1c690f752aeb2701",
                 "nb_intervs": 1,
                 "nb_mots": 4
-              }
-            }
-          },
-          "CRCE": {
-            "nb_intervs": 4,
-            "nb_mots": 600,
-            "orateurs": {
+              },
               "nicole borvo cohen-seat": {
                 "link": "http://www.nossenateurs.fr/seance/1580#inter_c213ded85cc65e78e5beceafffe5e4c1",
                 "nb_intervs": 1,
@@ -22803,23 +22371,7 @@
       "Article 16": {
         "first_date": "2008-07-16",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 5,
-            "nb_mots": 672,
-            "orateurs": {
-              "gisèle printz": {
-                "link": "http://www.nossenateurs.fr/seance/1580#inter_445573553e676abfc7362f196e1af48c",
-                "nb_intervs": 1,
-                "nb_mots": 343
-              },
-              "jean-claude peyronnet": {
-                "link": "http://www.nossenateurs.fr/seance/1580#inter_64fe5b8db8dd53ce1373cd459e1b96d8",
-                "nb_intervs": 4,
-                "nb_mots": 329
-              }
-            }
-          },
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 11,
             "nb_mots": 935,
             "orateurs": {
@@ -22879,9 +22431,19 @@
             }
           },
           "SOC": {
-            "nb_intervs": 4,
-            "nb_mots": 203,
+            "nb_intervs": 9,
+            "nb_mots": 875,
             "orateurs": {
+              "gisèle printz": {
+                "link": "http://www.nossenateurs.fr/seance/1580#inter_445573553e676abfc7362f196e1af48c",
+                "nb_intervs": 1,
+                "nb_mots": 343
+              },
+              "jean-claude peyronnet": {
+                "link": "http://www.nossenateurs.fr/seance/1580#inter_64fe5b8db8dd53ce1373cd459e1b96d8",
+                "nb_intervs": 4,
+                "nb_mots": 329
+              },
               "michel dreyfus-schmidt": {
                 "link": "http://www.nossenateurs.fr/seance/1580#inter_1ee5af631177790f4559a1f525f1e3a0",
                 "nb_intervs": 4,
@@ -22943,7 +22505,7 @@
               }
             }
           },
-          "UC": {
+          "RDSE": {
             "nb_intervs": 2,
             "nb_mots": 179,
             "orateurs": {
@@ -22976,32 +22538,15 @@
       "Article 18": {
         "first_date": "2008-07-16",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 1,
-            "nb_mots": 493,
-            "orateurs": {
-              "christiane demontès": {
-                "link": "http://www.nossenateurs.fr/seance/1580#inter_649ec966ab2fa215683e168a1f32ef6b",
-                "nb_intervs": 1,
-                "nb_mots": 493
-              }
-            }
-          },
           "CRC": {
-            "nb_intervs": 1,
-            "nb_mots": 331,
+            "nb_intervs": 2,
+            "nb_mots": 716,
             "orateurs": {
               "josiane mathon-poinat": {
                 "link": "http://www.nossenateurs.fr/seance/1580#inter_7b23a8f7b8823165e4e99c2614d26c93",
                 "nb_intervs": 1,
                 "nb_mots": 331
-              }
-            }
-          },
-          "CRCE": {
-            "nb_intervs": 1,
-            "nb_mots": 385,
-            "orateurs": {
+              },
               "nicole borvo cohen-seat": {
                 "link": "http://www.nossenateurs.fr/seance/1580#inter_816988a3d6046b53a496e464545ea6c3",
                 "nb_intervs": 1,
@@ -23032,13 +22577,18 @@
             }
           },
           "SOC": {
-            "nb_intervs": 2,
-            "nb_mots": 264,
+            "nb_intervs": 3,
+            "nb_mots": 757,
             "orateurs": {
               "alima boumediene-thiery": {
                 "link": "http://www.nossenateurs.fr/seance/1580#inter_c82c416321698df90657582b7ff9c256",
                 "nb_intervs": 1,
                 "nb_mots": 259
+              },
+              "christiane demontès": {
+                "link": "http://www.nossenateurs.fr/seance/1580#inter_649ec966ab2fa215683e168a1f32ef6b",
+                "nb_intervs": 1,
+                "nb_mots": 493
               },
               "jean-pierre sueur": {
                 "link": "http://www.nossenateurs.fr/seance/1580#inter_9c7a2b66ae5c1e600478b83e2ac2b707",
@@ -23069,35 +22619,14 @@
       "Article additionnel après l'article 10": {
         "first_date": "2008-07-16",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 4,
-            "nb_mots": 174,
-            "orateurs": {
-              "didier boulaud": {
-                "link": "http://www.nossenateurs.fr/seance/1580#inter_523b648255a73325bca56705837b5c35",
-                "nb_intervs": 2,
-                "nb_mots": 18
-              },
-              "jean-claude peyronnet": {
-                "link": "http://www.nossenateurs.fr/seance/1580#inter_b6389345fd0eedd0f177b26ec5cad544",
-                "nb_intervs": 2,
-                "nb_mots": 156
-              }
-            }
-          },
-          "CRCE": {
-            "nb_intervs": 2,
-            "nb_mots": 148,
+          "CRC": {
+            "nb_intervs": 1,
+            "nb_mots": 13,
             "orateurs": {
               "nicole borvo cohen-seat": {
                 "link": "http://www.nossenateurs.fr/seance/1580#inter_92a37fe946181cbcbaca1a496227b3f2",
                 "nb_intervs": 1,
                 "nb_mots": 13
-              },
-              "pierre-yves collombat": {
-                "link": "http://www.nossenateurs.fr/seance/1580#inter_6a9859afb5c4e5e6c947b30b505ce18b",
-                "nb_intervs": 1,
-                "nb_mots": 135
               }
             }
           },
@@ -23135,13 +22664,28 @@
             }
           },
           "SOC": {
-            "nb_intervs": 5,
-            "nb_mots": 403,
+            "nb_intervs": 10,
+            "nb_mots": 712,
             "orateurs": {
+              "didier boulaud": {
+                "link": "http://www.nossenateurs.fr/seance/1580#inter_523b648255a73325bca56705837b5c35",
+                "nb_intervs": 2,
+                "nb_mots": 18
+              },
+              "jean-claude peyronnet": {
+                "link": "http://www.nossenateurs.fr/seance/1580#inter_b6389345fd0eedd0f177b26ec5cad544",
+                "nb_intervs": 2,
+                "nb_mots": 156
+              },
               "jean-pierre sueur": {
                 "link": "http://www.nossenateurs.fr/seance/1580#inter_e7ef04e53a6f48d12d43bbb39bae8ee8",
                 "nb_intervs": 5,
                 "nb_mots": 403
+              },
+              "pierre-yves collombat": {
+                "link": "http://www.nossenateurs.fr/seance/1580#inter_6a9859afb5c4e5e6c947b30b505ce18b",
+                "nb_intervs": 1,
+                "nb_mots": 135
               }
             }
           },
@@ -23167,17 +22711,6 @@
       "Article additionnel après l'article 13": {
         "first_date": "2008-07-16",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 2,
-            "nb_mots": 320,
-            "orateurs": {
-              "gisèle printz": {
-                "link": "http://www.nossenateurs.fr/seance/1580#inter_c5c2d699cfb228f8af0a0f2dc6402a1c",
-                "nb_intervs": 2,
-                "nb_mots": 320
-              }
-            }
-          },
           "Gouvernement": {
             "nb_intervs": 1,
             "nb_mots": 5,
@@ -23210,6 +22743,17 @@
                 "nb_mots": 21
               }
             }
+          },
+          "SOC": {
+            "nb_intervs": 2,
+            "nb_mots": 320,
+            "orateurs": {
+              "gisèle printz": {
+                "link": "http://www.nossenateurs.fr/seance/1580#inter_c5c2d699cfb228f8af0a0f2dc6402a1c",
+                "nb_intervs": 2,
+                "nb_mots": 320
+              }
+            }
           }
         },
         "last_date": "2008-07-16",
@@ -23222,17 +22766,6 @@
       "Article additionnel après l'article 9": {
         "first_date": "2008-07-16",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 1,
-            "nb_mots": 6,
-            "orateurs": {
-              "jean-claude peyronnet": {
-                "link": "http://www.nossenateurs.fr/seance/1580#inter_c3c722d7761e67249da596e4df695f85",
-                "nb_intervs": 1,
-                "nb_mots": 6
-              }
-            }
-          },
           "Gouvernement": {
             "nb_intervs": 1,
             "nb_mots": 4,
@@ -23254,6 +22787,17 @@
                 "nb_mots": 147
               }
             }
+          },
+          "SOC": {
+            "nb_intervs": 1,
+            "nb_mots": 6,
+            "orateurs": {
+              "jean-claude peyronnet": {
+                "link": "http://www.nossenateurs.fr/seance/1580#inter_c3c722d7761e67249da596e4df695f85",
+                "nb_intervs": 1,
+                "nb_mots": 6
+              }
+            }
           }
         },
         "last_date": "2008-07-16",
@@ -23266,7 +22810,7 @@
       "Articles additionnels après l'article 14": {
         "first_date": "2008-07-16",
         "groupes": {
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 5,
             "nb_mots": 673,
             "orateurs": {
@@ -23285,17 +22829,6 @@
                 "link": "http://www.nossenateurs.fr/seance/1580#inter_d9e7f494c51af584d3b45ff7e1490445",
                 "nb_intervs": 2,
                 "nb_mots": 291
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 1,
-            "nb_mots": 12,
-            "orateurs": {
-              "alain gournac": {
-                "link": "http://www.nossenateurs.fr/seance/1580#inter_949dbcf6d7d2243f6df59b9a525dcbd6",
-                "nb_intervs": 1,
-                "nb_mots": 12
               }
             }
           },
@@ -23322,9 +22855,14 @@
             }
           },
           "UMP": {
-            "nb_intervs": 6,
-            "nb_mots": 455,
+            "nb_intervs": 7,
+            "nb_mots": 467,
             "orateurs": {
+              "alain gournac": {
+                "link": "http://www.nossenateurs.fr/seance/1580#inter_949dbcf6d7d2243f6df59b9a525dcbd6",
+                "nb_intervs": 1,
+                "nb_mots": 12
+              },
               "alain lambert": {
                 "link": "http://www.nossenateurs.fr/seance/1580#inter_50ab3e5260c9d5d275b1697d6ac69114",
                 "nb_intervs": 3,
@@ -23353,19 +22891,14 @@
       "Discussion d'un projet de loi constitutionnelle en deuxième lecture": {
         "first_date": "2008-07-15",
         "groupes": {
-          "CRCE": {
-            "nb_intervs": 17,
-            "nb_mots": 2376,
+          "CRC": {
+            "nb_intervs": 14,
+            "nb_mots": 2364,
             "orateurs": {
               "nicole borvo cohen-seat": {
                 "link": "http://www.nossenateurs.fr/seance/1135#inter_bc77ef950ab6f6ecdb67ada64cc4955b",
                 "nb_intervs": 10,
                 "nb_mots": 53
-              },
-              "pierre-yves collombat": {
-                "link": "http://www.nossenateurs.fr/seance/1135#inter_34473b69fe476b5d3c43b7bfbc9386a6",
-                "nb_intervs": 3,
-                "nb_mots": 12
               },
               "éliane assassi": {
                 "link": "http://www.nossenateurs.fr/seance/1135#inter_378f6631c735ca1c3c70e8180e0c2543",
@@ -23392,28 +22925,6 @@
                 "link": "http://www.nossenateurs.fr/seance/1135#inter_dc5e79fe51246d03a261fbf0b30fe704",
                 "nb_intervs": 2,
                 "nb_mots": 11
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 7,
-            "nb_mots": 979,
-            "orateurs": {
-              "catherine troendle": {
-                "link": "http://www.nossenateurs.fr/seance/1135#inter_1b8eaac771b02d87b9d9e5e45ee4ec7b",
-                "nb_intervs": 7,
-                "nb_mots": 979
-              }
-            }
-          },
-          "LREM": {
-            "nb_intervs": 1,
-            "nb_mots": 7,
-            "orateurs": {
-              "nicole bricq": {
-                "link": "http://www.nossenateurs.fr/seance/1135#inter_b122d2e9e051425898e06fe423b7fbec",
-                "nb_intervs": 1,
-                "nb_mots": 7
               }
             }
           },
@@ -23445,8 +22956,8 @@
             }
           },
           "SOC": {
-            "nb_intervs": 47,
-            "nb_mots": 5819,
+            "nb_intervs": 51,
+            "nb_mots": 5838,
             "orateurs": {
               "alima boumediene-thiery": {
                 "link": "http://www.nossenateurs.fr/seance/1135#inter_b0a8878c50f89e11a939a51f8d8c750d",
@@ -23493,6 +23004,16 @@
                 "nb_intervs": 5,
                 "nb_mots": 28
               },
+              "nicole bricq": {
+                "link": "http://www.nossenateurs.fr/seance/1135#inter_b122d2e9e051425898e06fe423b7fbec",
+                "nb_intervs": 1,
+                "nb_mots": 7
+              },
+              "pierre-yves collombat": {
+                "link": "http://www.nossenateurs.fr/seance/1135#inter_34473b69fe476b5d3c43b7bfbc9386a6",
+                "nb_intervs": 3,
+                "nb_mots": 12
+              },
               "robert badinter": {
                 "link": "http://www.nossenateurs.fr/seance/1135#inter_c142773825a7a4d15f11331ca3614235",
                 "nb_intervs": 3,
@@ -23501,9 +23022,14 @@
             }
           },
           "UC": {
-            "nb_intervs": 9,
-            "nb_mots": 1986,
+            "nb_intervs": 10,
+            "nb_mots": 1990,
             "orateurs": {
+              "jean arthuis": {
+                "link": "http://www.nossenateurs.fr/seance/1135#inter_9815531d7758bea2f270365b47db5ee1",
+                "nb_intervs": 1,
+                "nb_mots": 4
+              },
               "michel mercier": {
                 "link": "http://www.nossenateurs.fr/seance/1135#inter_2fec325fd3b81ce0896fbc7a47788c16",
                 "nb_intervs": 9,
@@ -23511,21 +23037,15 @@
               }
             }
           },
-          "UDI": {
-            "nb_intervs": 1,
-            "nb_mots": 4,
-            "orateurs": {
-              "jean arthuis": {
-                "link": "http://www.nossenateurs.fr/seance/1135#inter_9815531d7758bea2f270365b47db5ee1",
-                "nb_intervs": 1,
-                "nb_mots": 4
-              }
-            }
-          },
           "UMP": {
-            "nb_intervs": 9,
-            "nb_mots": 667,
+            "nb_intervs": 16,
+            "nb_mots": 1646,
             "orateurs": {
+              "catherine troendle": {
+                "link": "http://www.nossenateurs.fr/seance/1135#inter_1b8eaac771b02d87b9d9e5e45ee4ec7b",
+                "nb_intervs": 7,
+                "nb_mots": 979
+              },
               "charles pasqua": {
                 "link": "http://www.nossenateurs.fr/seance/1135#inter_e9a63bd172352392fc0af04a18221c95",
                 "nb_intervs": 1,
@@ -23569,7 +23089,7 @@
       "Exception d'irrecevabilité": {
         "first_date": "2008-07-15",
         "groupes": {
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 7,
             "nb_mots": 2513,
             "orateurs": {
@@ -23640,19 +23160,14 @@
       "Question préalable": {
         "first_date": "2008-07-15",
         "groupes": {
-          "CRCE": {
-            "nb_intervs": 7,
-            "nb_mots": 903,
+          "CRC": {
+            "nb_intervs": 5,
+            "nb_mots": 478,
             "orateurs": {
               "nicole borvo cohen-seat": {
                 "link": "http://www.nossenateurs.fr/seance/1135#inter_95b3bdff36de7728cef206f7e50ec13c",
                 "nb_intervs": 4,
                 "nb_mots": 471
-              },
-              "pierre-yves collombat": {
-                "link": "http://www.nossenateurs.fr/seance/1135#inter_313924a8be19f1ab593f0b71f8431a21",
-                "nb_intervs": 2,
-                "nb_mots": 425
               },
               "robert bret": {
                 "link": "http://www.nossenateurs.fr/seance/1135#inter_a9c17c07349867c25444374ad112a895",
@@ -23700,8 +23215,8 @@
             }
           },
           "SOC": {
-            "nb_intervs": 22,
-            "nb_mots": 1884,
+            "nb_intervs": 24,
+            "nb_mots": 2309,
             "orateurs": {
               "charles gautier": {
                 "link": "http://www.nossenateurs.fr/seance/1135#inter_1834b3059611b240e5750476154f3853",
@@ -23717,6 +23232,11 @@
                 "link": "http://www.nossenateurs.fr/seance/1135#inter_0e7d5aa98982e0a094484ee854940364",
                 "nb_intervs": 2,
                 "nb_mots": 19
+              },
+              "pierre-yves collombat": {
+                "link": "http://www.nossenateurs.fr/seance/1135#inter_313924a8be19f1ab593f0b71f8431a21",
+                "nb_intervs": 2,
+                "nb_mots": 425
               }
             }
           },
@@ -23763,23 +23283,7 @@
       "Rappel au règlement": {
         "first_date": "2008-07-16",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 7,
-            "nb_mots": 865,
-            "orateurs": {
-              "didier boulaud": {
-                "link": "http://www.nossenateurs.fr/seance/1580#inter_4056d742cf8d7517da5e88a2411d9d2f",
-                "nb_intervs": 2,
-                "nb_mots": 32
-              },
-              "jean-claude peyronnet": {
-                "link": "http://www.nossenateurs.fr/seance/1580#inter_06f5ed07dfab6dc3d0e0ea7086d15405",
-                "nb_intervs": 5,
-                "nb_mots": 833
-              }
-            }
-          },
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 10,
             "nb_mots": 431,
             "orateurs": {
@@ -23806,17 +23310,6 @@
               }
             }
           },
-          "LR": {
-            "nb_intervs": 2,
-            "nb_mots": 13,
-            "orateurs": {
-              "alain gournac": {
-                "link": "http://www.nossenateurs.fr/seance/1580#inter_f2fc90a7dadae61ff0b77e2a77a37e18",
-                "nb_intervs": 2,
-                "nb_mots": 13
-              }
-            }
-          },
           "Présidence": {
             "nb_intervs": 7,
             "nb_mots": 131,
@@ -23839,10 +23332,31 @@
               }
             }
           },
-          "UMP": {
-            "nb_intervs": 1,
-            "nb_mots": 9,
+          "SOC": {
+            "nb_intervs": 7,
+            "nb_mots": 865,
             "orateurs": {
+              "didier boulaud": {
+                "link": "http://www.nossenateurs.fr/seance/1580#inter_4056d742cf8d7517da5e88a2411d9d2f",
+                "nb_intervs": 2,
+                "nb_mots": 32
+              },
+              "jean-claude peyronnet": {
+                "link": "http://www.nossenateurs.fr/seance/1580#inter_06f5ed07dfab6dc3d0e0ea7086d15405",
+                "nb_intervs": 5,
+                "nb_mots": 833
+              }
+            }
+          },
+          "UMP": {
+            "nb_intervs": 3,
+            "nb_mots": 22,
+            "orateurs": {
+              "alain gournac": {
+                "link": "http://www.nossenateurs.fr/seance/1580#inter_f2fc90a7dadae61ff0b77e2a77a37e18",
+                "nb_intervs": 2,
+                "nb_mots": 13
+              },
               "patrice gélard": {
                 "link": "http://www.nossenateurs.fr/seance/1580#inter_35fc886b377a6a45bd60f4c29c695dd8",
                 "nb_intervs": 1,
@@ -23860,23 +23374,11 @@
       }
     },
     "groupes": {
-      "Auditionnés": {
-        "color": "#ccb7b6",
-        "link": "",
-        "nom": "Auditionnés",
-        "order": 70
-      },
       "CRC": {
         "color": "rgb(255,30,30)",
         "link": "https://www.nossenateurs.fr/groupe/CRC",
         "nom": "Communiste, Républicain, Citoyen et des Sénateurs du Parti de Gauche",
         "order": 11
-      },
-      "CRCE": {
-        "color": "rgb(255,30,30)",
-        "link": "https://www.nossenateurs.fr/groupe/CRCE",
-        "nom": "Communiste républicain citoyen et Écologiste",
-        "order": 10
       },
       "Gouvernement": {
         "color": "#cccbb3",
@@ -23884,23 +23386,17 @@
         "nom": "Gouvernement",
         "order": 60
       },
-      "LR": {
-        "color": "rgb(30,30,200)",
-        "link": "https://www.nossenateurs.fr/groupe/LR",
-        "nom": "Les Républicains",
-        "order": 24
-      },
-      "LREM": {
-        "color": "rgb(232,197,5)",
-        "link": "https://www.nossenateurs.fr/groupe/LREM",
-        "nom": "La République en Marche",
-        "order": 18
-      },
       "Présidence": {
         "color": "#bfbbcc",
         "link": "",
         "nom": "Présidence",
         "order": 0
+      },
+      "RDSE": {
+        "color": "rgb(250,195,132)",
+        "link": "https://www.nossenateurs.fr/groupe/RDSE",
+        "nom": "Rassemblement Démocratique et Social européen",
+        "order": 17
       },
       "Rapporteurs": {
         "color": "#b9ccc0",
@@ -23919,12 +23415,6 @@
         "link": "https://www.nossenateurs.fr/groupe/UC",
         "nom": "Union Centriste",
         "order": 20
-      },
-      "UDI": {
-        "color": "rgb(30,180,255)",
-        "link": "https://www.nossenateurs.fr/groupe/UDI",
-        "nom": "Union des Démocrates et Indépendants - UC",
-        "order": 21
       },
       "UMP": {
         "color": "rgb(30,30,200)",
@@ -23945,7 +23435,7 @@
       "alain gournac": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/alain-gournac",
         "nom": "Alain Gournac",
         "photo": "https://www.nossenateurs.fr/senateur/photo/alain-gournac"
@@ -23959,17 +23449,17 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/alain-lambert"
       },
       "alima boumediene-thiery": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "SOCV",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/alima-boumediene-thiery",
         "nom": "Alima Boumediene-Thiery",
         "photo": "https://www.nossenateurs.fr/senateur/photo/alima-boumediene-thiery"
       },
       "bernard frimat": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "SOCV",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/bernard-frimat",
         "nom": "Bernard Frimat",
         "photo": "https://www.nossenateurs.fr/senateur/photo/bernard-frimat"
@@ -23985,15 +23475,15 @@
       "catherine troendle": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/catherine-troendle",
         "nom": "Catherine Troendle",
         "photo": "https://www.nossenateurs.fr/senateur/photo/catherine-troendle"
       },
       "charles gautier": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "SOCV",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/charles-gautier",
         "nom": "Charles Gautier",
         "photo": "https://www.nossenateurs.fr/senateur/photo/charles-gautier"
@@ -24023,9 +23513,9 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/christian-poncelet"
       },
       "christiane demontès": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/christiane-demontes",
         "nom": "Christiane Demontès",
         "photo": "https://www.nossenateurs.fr/senateur/photo/christiane-demontes"
@@ -24047,9 +23537,9 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/david-assouline"
       },
       "didier boulaud": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/didier-boulaud",
         "nom": "Didier Boulaud",
         "photo": "https://www.nossenateurs.fr/senateur/photo/didier-boulaud"
@@ -24087,9 +23577,9 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/georges-gruillot"
       },
       "gisèle printz": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/gisele-printz",
         "nom": "Gisèle Printz",
         "photo": "https://www.nossenateurs.fr/senateur/photo/gisele-printz"
@@ -24103,17 +23593,17 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/hubert-haenel"
       },
       "jean arthuis": {
-        "color": "rgb(30,180,255)",
+        "color": "rgb(130,140,255)",
         "fonction": "",
-        "groupe": "UDI",
+        "groupe": "UC",
         "link": "https://www.nossenateurs.fr/jean-arthuis",
         "nom": "Jean Arthuis",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jean-arthuis"
       },
       "jean-claude peyronnet": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/jean-claude-peyronnet",
         "nom": "Jean-Claude Peyronnet",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jean-claude-peyronnet"
@@ -24121,15 +23611,15 @@
       "jean-jacques hyest": {
         "color": "rgb(30,30,200)",
         "fonction": "rapporteur",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/jean-jacques-hyest",
         "nom": "Jean-Jacques Hyest",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jean-jacques-hyest"
       },
       "jean-luc mélenchon": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "rapporteur s’exclame)",
-        "groupe": "CRC-SPG",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/jean-luc-melenchon",
         "nom": "Jean-Luc Mélenchon",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jean-luc-melenchon"
@@ -24167,9 +23657,9 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/jean-rene-lecerf"
       },
       "josiane mathon-poinat": {
-        "color": "#888888",
+        "color": "rgb(255,30,30)",
         "fonction": "",
-        "groupe": "CRC-SPG",
+        "groupe": "CRC",
         "link": "https://www.nossenateurs.fr/josiane-mathon-poinat",
         "nom": "Josiane Mathon-Poinat",
         "photo": "https://www.nossenateurs.fr/senateur/photo/josiane-mathon-poinat"
@@ -24191,9 +23681,9 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/laurent-beteille"
       },
       "michel dreyfus-schmidt": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "SOCV",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/michel-dreyfus-schmidt",
         "nom": "Michel Dreyfus-Schmidt",
         "photo": "https://www.nossenateurs.fr/senateur/photo/michel-dreyfus-schmidt"
@@ -24207,9 +23697,9 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/michel-mercier"
       },
       "nathalie goulet": {
-        "color": "rgb(130,140,255)",
+        "color": "rgb(250,195,132)",
         "fonction": "",
-        "groupe": "UC",
+        "groupe": "RDSE",
         "link": "https://www.nossenateurs.fr/nathalie-goulet",
         "nom": "Nathalie Goulet",
         "photo": "https://www.nossenateurs.fr/senateur/photo/nathalie-goulet"
@@ -24217,15 +23707,15 @@
       "nicole borvo cohen-seat": {
         "color": "rgb(255,30,30)",
         "fonction": "",
-        "groupe": "CRCE",
+        "groupe": "CRC",
         "link": "https://www.nossenateurs.fr/nicole-borvo-cohen-seat",
         "nom": "Nicole Borvo Cohen-Seat",
         "photo": "https://www.nossenateurs.fr/senateur/photo/nicole-borvo-cohen-seat"
       },
       "nicole bricq": {
-        "color": "rgb(232,197,5)",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "LREM",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/nicole-bricq",
         "nom": "Nicole Bricq",
         "photo": "https://www.nossenateurs.fr/senateur/photo/nicole-bricq"
@@ -24255,9 +23745,9 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/philippe-richert"
       },
       "pierre-yves collombat": {
-        "color": "rgb(255,30,30)",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "CRCE",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/pierre-yves-collombat",
         "nom": "Pierre-Yves Collombat",
         "photo": "https://www.nossenateurs.fr/senateur/photo/pierre-yves-collombat"
@@ -24271,9 +23761,9 @@
         "photo": ""
       },
       "robert badinter": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "SOCV",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/robert-badinter",
         "nom": "Robert Badinter",
         "photo": "https://www.nossenateurs.fr/senateur/photo/robert-badinter"
@@ -24281,7 +23771,7 @@
       "robert bret": {
         "color": "rgb(255,30,30)",
         "fonction": "",
-        "groupe": "CRCE",
+        "groupe": "CRC",
         "link": "https://www.nossenateurs.fr/robert-bret",
         "nom": "Robert Bret",
         "photo": "https://www.nossenateurs.fr/senateur/photo/robert-bret"
@@ -24297,7 +23787,7 @@
       "éliane assassi": {
         "color": "rgb(255,30,30)",
         "fonction": "",
-        "groupe": "CRCE",
+        "groupe": "CRC",
         "link": "https://www.nossenateurs.fr/eliane-assassi",
         "nom": "Éliane Assassi",
         "photo": "https://www.nossenateurs.fr/senateur/photo/eliane-assassi"

@@ -1,6 +1,12 @@
 {
   "api_root_url": "https://www.nossenateurs.fr/api/document/Amendement/",
   "groupes": {
+    "ECOLO": {
+      "color": "rgb(0,230,30)",
+      "link": "https://www.nossenateurs.fr/groupe/ECOLO",
+      "nom": "Écologiste",
+      "order": 16
+    },
     "NI": {
       "color": "rgb(165,165,165)",
       "link": "https://www.nossenateurs.fr/groupe/NI",
@@ -59,7 +65,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-01",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "66754",
           "numero": "COM-20",
           "sort": "non-voté"
@@ -67,7 +73,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-01",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "66755",
           "numero": "COM-21",
           "sort": "non-voté"
@@ -75,7 +81,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-01",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "66756",
           "numero": "COM-22",
           "sort": "rejeté"
@@ -83,7 +89,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-01",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "66757",
           "numero": "COM-23",
           "sort": "rejeté"
@@ -91,7 +97,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-01",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "66758",
           "numero": "COM-24",
           "sort": "non-voté"
@@ -99,7 +105,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-01",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "66762",
           "numero": "COM-28",
           "sort": "rejeté"
@@ -127,7 +133,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-01",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "66763",
           "numero": "COM-29",
           "sort": "non-voté"
@@ -149,7 +155,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-01",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "66774",
           "numero": "COM-40",
           "sort": "rejeté"
@@ -157,7 +163,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-01",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "66775",
           "numero": "COM-41",
           "sort": "rejeté"
@@ -259,7 +265,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-01",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "66750",
           "numero": "COM-16",
           "sort": "rejeté"
@@ -267,7 +273,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-01",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "66751",
           "numero": "COM-17",
           "sort": "adopté"
@@ -275,7 +281,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-01",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "66752",
           "numero": "COM-18",
           "sort": "rejeté"
@@ -283,7 +289,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-01",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "66769",
           "numero": "COM-35",
           "sort": "adopté"
@@ -291,7 +297,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-01",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "66772",
           "numero": "COM-38",
           "sort": "rejeté"
@@ -421,7 +427,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-01",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "66753",
           "numero": "COM-19",
           "sort": "rejeté"
@@ -443,7 +449,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-01",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "66759",
           "numero": "COM-25",
           "sort": "rejeté"
@@ -451,7 +457,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-01",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "66760",
           "numero": "COM-26",
           "sort": "non-voté"
@@ -545,7 +551,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-01",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "66761",
           "numero": "COM-27",
           "sort": "rejeté"
@@ -633,7 +639,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-01",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "66773",
           "numero": "COM-39",
           "sort": "rejeté"
@@ -695,7 +701,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-01",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "66764",
           "numero": "COM-30",
           "sort": "rejeté"
@@ -825,7 +831,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-01",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "66766",
           "numero": "COM-32",
           "sort": "rejeté"
@@ -833,7 +839,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-01",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "66767",
           "numero": "COM-33",
           "sort": "rejeté"
@@ -873,7 +879,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-02",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "66876",
           "numero": "COM-34",
           "sort": "rejeté"
@@ -887,7 +893,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-01",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "66765",
           "numero": "COM-31",
           "sort": "non-voté"
@@ -1043,7 +1049,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-01",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "66770",
           "numero": "COM-36",
           "sort": "rejeté"
@@ -1051,7 +1057,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-01",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "66771",
           "numero": "COM-37",
           "sort": "rejeté"

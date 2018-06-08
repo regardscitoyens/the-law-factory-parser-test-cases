@@ -7,23 +7,11 @@
       "nom": "Communiste, Républicain, Citoyen et des Sénateurs du Parti de Gauche",
       "order": 11
     },
-    "CRCE": {
-      "color": "rgb(255,30,30)",
-      "link": "https://www.nossenateurs.fr/groupe/CRCE",
-      "nom": "Communiste républicain citoyen et Écologiste",
-      "order": 10
-    },
     "Gouvernement": {
       "color": "#cccbb3",
       "link": "",
       "nom": "Gouvernement",
       "order": 60
-    },
-    "LR": {
-      "color": "rgb(30,30,200)",
-      "link": "https://www.nossenateurs.fr/groupe/LR",
-      "nom": "Les Républicains",
-      "order": 24
     },
     "LREM": {
       "color": "rgb(232,197,5)",
@@ -54,6 +42,12 @@
       "link": "https://www.nossenateurs.fr/groupe/UC",
       "nom": "Union Centriste",
       "order": 20
+    },
+    "UMP": {
+      "color": "rgb(30,30,200)",
+      "link": "https://www.nossenateurs.fr/groupe/UMP",
+      "nom": "Union pour un Mouvement Populaire",
+      "order": 23
     }
   },
   "id_step": "02_1erelecture_senat_hemicycle",
@@ -63,7 +57,7 @@
         {
           "aut": "MM. Labbé, …",
           "date": "2017-07-10",
-          "groupe": "RDSE",
+          "groupe": "NI",
           "id_api": "131208",
           "numero": "190",
           "sort": "non-voté"
@@ -85,7 +79,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "RDSE",
           "id_api": "131261",
           "numero": "245",
           "sort": "non-voté"
@@ -93,7 +87,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "RDSE",
           "id_api": "131262",
           "numero": "246",
           "sort": "non-voté"
@@ -107,7 +101,7 @@
         {
           "aut": "MM. Vaspart, …",
           "date": "2017-07-10",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131055",
           "numero": "9",
           "sort": "non-voté"
@@ -115,7 +109,7 @@
         {
           "aut": "MM. Pointereau, …",
           "date": "2017-07-10",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131057",
           "numero": "11",
           "sort": "non-voté"
@@ -123,7 +117,7 @@
         {
           "aut": "M. Grand",
           "date": "2017-07-10",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131058",
           "numero": "12",
           "sort": "non-voté"
@@ -131,7 +125,7 @@
         {
           "aut": "M. Grand",
           "date": "2017-07-10",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131059",
           "numero": "13",
           "sort": "non-voté"
@@ -139,7 +133,7 @@
         {
           "aut": "MM. Vaspart, …",
           "date": "2017-07-10",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131101",
           "numero": "66",
           "sort": "non-voté"
@@ -203,7 +197,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "131119",
           "numero": "94",
           "sort": "non-voté"
@@ -219,7 +213,7 @@
         {
           "aut": "MM. Doligé, …",
           "date": "2017-07-10",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131199",
           "numero": "181",
           "sort": "non-voté"
@@ -227,7 +221,7 @@
         {
           "aut": "MM. Retailleau, …",
           "date": "2017-07-10",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131286",
           "numero": "277",
           "sort": "adopté"
@@ -249,7 +243,7 @@
         {
           "aut": "Mme Assassi, …",
           "date": "2017-07-07",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "130944",
           "numero": "41",
           "sort": "adopté"
@@ -265,7 +259,7 @@
         {
           "aut": "Mme Garriaud-Maylam",
           "date": "2017-07-10",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131185",
           "numero": "167",
           "sort": "non-voté"
@@ -273,7 +267,7 @@
         {
           "aut": "M. Labbé, …",
           "date": "2017-07-11",
-          "groupe": "RDSE",
+          "groupe": "NI",
           "id_api": "131366",
           "numero": "203",
           "sort": "non-voté"
@@ -311,7 +305,7 @@
         {
           "aut": "M. Labbé, …",
           "date": "2017-07-10",
-          "groupe": "RDSE",
+          "groupe": "NI",
           "id_api": "131204",
           "numero": "186",
           "sort": "non-voté"
@@ -319,7 +313,7 @@
         {
           "aut": "M. Labbé, …",
           "date": "2017-07-10",
-          "groupe": "RDSE",
+          "groupe": "NI",
           "id_api": "131205",
           "numero": "187",
           "sort": "rejeté"
@@ -327,7 +321,7 @@
         {
           "aut": "MM. Labbé, …",
           "date": "2017-07-10",
-          "groupe": "RDSE",
+          "groupe": "NI",
           "id_api": "131211",
           "numero": "193",
           "sort": "rejeté"
@@ -335,7 +329,7 @@
         {
           "aut": "MM. Labbé, …",
           "date": "2017-07-10",
-          "groupe": "RDSE",
+          "groupe": "NI",
           "id_api": "131213",
           "numero": "195",
           "sort": "non-voté"
@@ -365,7 +359,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-11",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "131355",
           "numero": "89",
           "sort": "rejeté"
@@ -373,7 +367,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "131116",
           "numero": "90",
           "sort": "rejeté"
@@ -381,7 +375,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "131117",
           "numero": "91",
           "sort": "rejeté"
@@ -389,7 +383,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "131149",
           "numero": "126",
           "sort": "non-voté"
@@ -397,7 +391,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "131150",
           "numero": "127",
           "sort": "non-voté"
@@ -405,7 +399,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "131151",
           "numero": "128",
           "sort": "non-voté"
@@ -413,7 +407,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "131152",
           "numero": "129",
           "sort": "non-voté"
@@ -421,7 +415,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "131154",
           "numero": "131",
           "sort": "non-voté"
@@ -429,7 +423,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "131155",
           "numero": "133",
           "sort": "non-voté"
@@ -461,7 +455,7 @@
         {
           "aut": "MM. Vasselle, …",
           "date": "2017-07-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131359",
           "numero": "162",
           "sort": "non-voté"
@@ -469,7 +463,7 @@
         {
           "aut": "MM. Genest, …",
           "date": "2017-07-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131360",
           "numero": "163",
           "sort": "adopté"
@@ -477,7 +471,7 @@
         {
           "aut": "MM. Genest, …",
           "date": "2017-07-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131361",
           "numero": "164",
           "sort": "adopté"
@@ -485,7 +479,7 @@
         {
           "aut": "MM. Genest, …",
           "date": "2017-07-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131362",
           "numero": "165",
           "sort": "adopté"
@@ -493,7 +487,7 @@
         {
           "aut": "M. Labbé, …",
           "date": "2017-07-10",
-          "groupe": "RDSE",
+          "groupe": "NI",
           "id_api": "131203",
           "numero": "185",
           "sort": "rejeté"
@@ -501,7 +495,7 @@
         {
           "aut": "MM. Labbé, …",
           "date": "2017-07-10",
-          "groupe": "RDSE",
+          "groupe": "NI",
           "id_api": "131212",
           "numero": "194",
           "sort": "non-voté"
@@ -509,7 +503,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "RDSE",
           "id_api": "131252",
           "numero": "236",
           "sort": "non-voté"
@@ -517,7 +511,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "RDSE",
           "id_api": "131253",
           "numero": "237",
           "sort": "rejeté"
@@ -525,7 +519,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "RDSE",
           "id_api": "131254",
           "numero": "238",
           "sort": "adopté"
@@ -533,7 +527,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "RDSE",
           "id_api": "131255",
           "numero": "239",
           "sort": "rejeté"
@@ -541,7 +535,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "RDSE",
           "id_api": "131272",
           "numero": "257",
           "sort": "rejeté"
@@ -549,7 +543,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "RDSE",
           "id_api": "131273",
           "numero": "258",
           "sort": "rejeté"
@@ -557,7 +551,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "RDSE",
           "id_api": "131274",
           "numero": "259",
           "sort": "rejeté"
@@ -565,7 +559,7 @@
         {
           "aut": "MM. Baroin, …",
           "date": "2017-07-10",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131287",
           "numero": "278",
           "sort": "adopté"
@@ -579,7 +573,7 @@
         {
           "aut": "M. Grand",
           "date": "2017-07-10",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131159",
           "numero": "139",
           "sort": "non-voté"
@@ -617,7 +611,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-07",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "130946",
           "numero": "43",
           "sort": "non-voté"
@@ -625,7 +619,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-07",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "130947",
           "numero": "44",
           "sort": "non-voté"
@@ -633,7 +627,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "131082",
           "numero": "46",
           "sort": "rejeté"
@@ -641,7 +635,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-11",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "131352",
           "numero": "48",
           "sort": "adopté"
@@ -705,7 +699,7 @@
         {
           "aut": "MM. Raison, …",
           "date": "2017-07-10",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131104",
           "numero": "70",
           "sort": "non-voté"
@@ -713,7 +707,7 @@
         {
           "aut": "MM. Raison, …",
           "date": "2017-07-07",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "130980",
           "numero": "78",
           "sort": "non-voté"
@@ -873,7 +867,7 @@
         {
           "aut": "M. Navarro",
           "date": "2017-07-10",
-          "groupe": "LREM",
+          "groupe": "NI",
           "id_api": "131285",
           "numero": "276",
           "sort": "non-voté"
@@ -881,7 +875,7 @@
         {
           "aut": "M. Bas, …",
           "date": "2017-07-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131371",
           "numero": "282",
           "sort": "adopté"
@@ -947,7 +941,7 @@
         {
           "aut": "M. Labbé, …",
           "date": "2017-07-10",
-          "groupe": "RDSE",
+          "groupe": "NI",
           "id_api": "131201",
           "numero": "183",
           "sort": "rejeté"
@@ -1023,7 +1017,7 @@
         {
           "aut": "MM. Labbé, …",
           "date": "2017-07-10",
-          "groupe": "RDSE",
+          "groupe": "NI",
           "id_api": "131209",
           "numero": "191",
           "sort": "non-voté"
@@ -1031,7 +1025,7 @@
         {
           "aut": "M. Labbé, …",
           "date": "2017-07-10",
-          "groupe": "RDSE",
+          "groupe": "NI",
           "id_api": "131217",
           "numero": "199",
           "sort": "non-voté"
@@ -1045,7 +1039,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "131120",
           "numero": "95",
           "sort": "non-voté"
@@ -1053,7 +1047,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "131121",
           "numero": "96",
           "sort": "rejeté"
@@ -1061,7 +1055,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "131148",
           "numero": "125",
           "sort": "non-voté"
@@ -1069,7 +1063,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "131153",
           "numero": "130",
           "sort": "non-voté"
@@ -1077,7 +1071,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "131156",
           "numero": "135",
           "sort": "non-voté"
@@ -1085,7 +1079,7 @@
         {
           "aut": "M. Labbé, …",
           "date": "2017-07-10",
-          "groupe": "RDSE",
+          "groupe": "NI",
           "id_api": "131206",
           "numero": "188",
           "sort": "non-voté"
@@ -1093,7 +1087,7 @@
         {
           "aut": "M. Labbé, …",
           "date": "2017-07-10",
-          "groupe": "RDSE",
+          "groupe": "NI",
           "id_api": "131222",
           "numero": "204",
           "sort": "non-voté"
@@ -1109,7 +1103,7 @@
         {
           "aut": "M. Bas, …",
           "date": "2017-07-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131374",
           "numero": "285",
           "sort": "adopté"
@@ -1123,7 +1117,7 @@
         {
           "aut": "MM. P. Dominati, …",
           "date": "2017-07-10",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131049",
           "numero": "1",
           "sort": "adopté"
@@ -1137,7 +1131,7 @@
         {
           "aut": "M. Labbé, …",
           "date": "2017-07-10",
-          "groupe": "RDSE",
+          "groupe": "NI",
           "id_api": "131214",
           "numero": "196",
           "sort": "non-voté"
@@ -1183,7 +1177,7 @@
         {
           "aut": "M. Labbé, …",
           "date": "2017-07-10",
-          "groupe": "RDSE",
+          "groupe": "NI",
           "id_api": "131218",
           "numero": "200",
           "sort": "non-voté"
@@ -1197,7 +1191,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "131128",
           "numero": "103",
           "sort": "rejeté"
@@ -1219,7 +1213,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "131129",
           "numero": "104",
           "sort": "rejeté"
@@ -1255,7 +1249,7 @@
         {
           "aut": "M. Labbé, …",
           "date": "2017-07-10",
-          "groupe": "RDSE",
+          "groupe": "NI",
           "id_api": "131216",
           "numero": "198",
           "sort": "rejeté"
@@ -1271,7 +1265,7 @@
         {
           "aut": "M. Bas, …",
           "date": "2017-07-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131382",
           "numero": "293",
           "sort": "adopté"
@@ -1285,7 +1279,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "131114",
           "numero": "88",
           "sort": "adopté"
@@ -1301,7 +1295,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2017-07-11",
-          "groupe": "CRCE",
+          "groupe": "RDSE",
           "id_api": "131369",
           "numero": "233",
           "sort": "adopté"
@@ -1337,7 +1331,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "131118",
           "numero": "92",
           "sort": "rejeté"
@@ -1369,7 +1363,7 @@
         {
           "aut": "MM. Labbé, …",
           "date": "2017-07-10",
-          "groupe": "RDSE",
+          "groupe": "NI",
           "id_api": "131200",
           "numero": "182",
           "sort": "rejeté"
@@ -1377,7 +1371,7 @@
         {
           "aut": "M. Labbé, …",
           "date": "2017-07-10",
-          "groupe": "RDSE",
+          "groupe": "NI",
           "id_api": "131202",
           "numero": "184",
           "sort": "rejeté"
@@ -1385,7 +1379,7 @@
         {
           "aut": "MM. Labbé, …",
           "date": "2017-07-10",
-          "groupe": "RDSE",
+          "groupe": "NI",
           "id_api": "131210",
           "numero": "192",
           "sort": "rejeté"
@@ -1437,7 +1431,7 @@
         {
           "aut": "M. Bas, …",
           "date": "2017-07-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131370",
           "numero": "281",
           "sort": "adopté"
@@ -1489,7 +1483,7 @@
         {
           "aut": "M. Bas, …",
           "date": "2017-07-12",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131402",
           "numero": "A-1",
           "sort": "adopté"
@@ -1529,7 +1523,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-07",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "130950",
           "numero": "47",
           "sort": "non-voté"
@@ -1553,7 +1547,7 @@
         {
           "aut": "MM. Revet, …",
           "date": "2017-07-10",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131157",
           "numero": "136",
           "sort": "non-voté"
@@ -1561,7 +1555,7 @@
         {
           "aut": "MM. Bonhomme, …",
           "date": "2017-07-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131363",
           "numero": "166",
           "sort": "non-voté"
@@ -1593,7 +1587,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "RDSE",
           "id_api": "131257",
           "numero": "241",
           "sort": "adopté"
@@ -1655,7 +1649,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "RDSE",
           "id_api": "131259",
           "numero": "243",
           "sort": "rejeté"
@@ -1663,7 +1657,7 @@
         {
           "aut": "M. Bas, …",
           "date": "2017-07-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131372",
           "numero": "283",
           "sort": "adopté"
@@ -1789,7 +1783,7 @@
         {
           "aut": "M. Bas, …",
           "date": "2017-07-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131373",
           "numero": "284",
           "sort": "adopté"
@@ -1811,7 +1805,7 @@
         {
           "aut": "MM. P. Dominati, …",
           "date": "2017-07-10",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131054",
           "numero": "8",
           "sort": "non-voté"
@@ -1819,7 +1813,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-07",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "130948",
           "numero": "45",
           "sort": "non-voté"
@@ -1899,7 +1893,7 @@
         {
           "aut": "M. Navarro",
           "date": "2017-07-10",
-          "groupe": "LREM",
+          "groupe": "NI",
           "id_api": "131288",
           "numero": "279",
           "sort": "non-voté"
@@ -1953,7 +1947,7 @@
         {
           "aut": "M. Bas, …",
           "date": "2017-07-12",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131400",
           "numero": "294",
           "sort": "adopté"
@@ -1997,7 +1991,7 @@
         {
           "aut": "M. Grand",
           "date": "2017-07-06",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131060",
           "numero": "14",
           "sort": "non-voté"
@@ -2061,7 +2055,7 @@
         {
           "aut": "M. Grand",
           "date": "2017-07-08",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131106",
           "numero": "79",
           "sort": "non-voté"
@@ -2069,7 +2063,7 @@
         {
           "aut": "M. Grand",
           "date": "2017-07-08",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131107",
           "numero": "80",
           "sort": "non-voté"
@@ -2077,7 +2071,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "131122",
           "numero": "97",
           "sort": "non-voté"
@@ -2085,7 +2079,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "131123",
           "numero": "98",
           "sort": "rejeté"
@@ -2093,7 +2087,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "131124",
           "numero": "99",
           "sort": "rejeté"
@@ -2133,7 +2127,7 @@
         {
           "aut": "MM. Labbé, …",
           "date": "2017-07-10",
-          "groupe": "RDSE",
+          "groupe": "NI",
           "id_api": "131207",
           "numero": "189",
           "sort": "rejeté"
@@ -2141,7 +2135,7 @@
         {
           "aut": "M. Labbé, …",
           "date": "2017-07-10",
-          "groupe": "RDSE",
+          "groupe": "NI",
           "id_api": "131219",
           "numero": "201",
           "sort": "non-voté"
@@ -2149,7 +2143,7 @@
         {
           "aut": "M. Labbé, …",
           "date": "2017-07-10",
-          "groupe": "RDSE",
+          "groupe": "NI",
           "id_api": "131220",
           "numero": "202",
           "sort": "rejeté"
@@ -2173,7 +2167,7 @@
         {
           "aut": "M. Bas, …",
           "date": "2017-07-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131376",
           "numero": "287",
           "sort": "adopté"
@@ -2195,7 +2189,7 @@
         {
           "aut": "M. Grand",
           "date": "2017-07-06",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131061",
           "numero": "15",
           "sort": "non-voté"
@@ -2219,7 +2213,7 @@
         {
           "aut": "M. Grand",
           "date": "2017-07-08",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131108",
           "numero": "81",
           "sort": "non-voté"
@@ -2227,7 +2221,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "131125",
           "numero": "100",
           "sort": "non-voté"
@@ -2235,7 +2229,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "131126",
           "numero": "101",
           "sort": "non-voté"
@@ -2243,7 +2237,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-10",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "131127",
           "numero": "102",
           "sort": "non-voté"
@@ -2275,7 +2269,7 @@
         {
           "aut": "M. Bas, …",
           "date": "2017-07-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131377",
           "numero": "288",
           "sort": "adopté"
@@ -2289,7 +2283,7 @@
         {
           "aut": "MM. P. Dominati, …",
           "date": "2017-07-12",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131397",
           "numero": "10",
           "sort": "rejeté"
@@ -2313,7 +2307,7 @@
         {
           "aut": "M. P. Dominati",
           "date": "2017-07-10",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131280",
           "numero": "265",
           "sort": "rejeté"
@@ -2321,7 +2315,7 @@
         {
           "aut": "M. Bas, …",
           "date": "2017-07-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131381",
           "numero": "292",
           "sort": "adopté"
@@ -2335,7 +2329,7 @@
         {
           "aut": "M. Bas, …",
           "date": "2017-07-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131378",
           "numero": "289",
           "sort": "adopté"
@@ -2357,7 +2351,7 @@
         {
           "aut": "M. Labbé, …",
           "date": "2017-07-11",
-          "groupe": "RDSE",
+          "groupe": "NI",
           "id_api": "131365",
           "numero": "197",
           "sort": "non-voté"
@@ -2379,7 +2373,7 @@
         {
           "aut": "M. Bas, …",
           "date": "2017-07-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131375",
           "numero": "286",
           "sort": "adopté"
@@ -2447,7 +2441,7 @@
         {
           "aut": "MM. Doligé, …",
           "date": "2017-07-10",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131198",
           "numero": "180",
           "sort": "non-voté"
@@ -2469,7 +2463,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2017-07-07",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "130945",
           "numero": "42",
           "sort": "rejeté"
@@ -2485,7 +2479,7 @@
         {
           "aut": "MM. Raison, …",
           "date": "2017-07-10",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "131103",
           "numero": "69",
           "sort": "adopté"

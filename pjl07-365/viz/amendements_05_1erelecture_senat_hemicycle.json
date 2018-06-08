@@ -7,29 +7,11 @@
       "nom": "Communiste, Républicain, Citoyen et des Sénateurs du Parti de Gauche",
       "order": 11
     },
-    "CRCE": {
-      "color": "rgb(255,30,30)",
-      "link": "https://www.nossenateurs.fr/groupe/CRCE",
-      "nom": "Communiste républicain citoyen et Écologiste",
-      "order": 10
-    },
     "Gouvernement": {
       "color": "#cccbb3",
       "link": "",
       "nom": "Gouvernement",
       "order": 60
-    },
-    "Inconnu": {
-      "color": "#bfbfbf",
-      "link": "",
-      "nom": "Inconnu",
-      "order": 100
-    },
-    "LR": {
-      "color": "rgb(30,30,200)",
-      "link": "https://www.nossenateurs.fr/groupe/LR",
-      "nom": "Les Républicains",
-      "order": 24
     },
     "RDSE": {
       "color": "rgb(250,195,132)",
@@ -49,12 +31,6 @@
       "nom": "Union Centriste",
       "order": 20
     },
-    "UDI": {
-      "color": "rgb(30,180,255)",
-      "link": "https://www.nossenateurs.fr/groupe/UDI",
-      "nom": "Union des Démocrates et Indépendants - UC",
-      "order": 21
-    },
     "UMP": {
       "color": "rgb(30,30,200)",
       "link": "https://www.nossenateurs.fr/groupe/UMP",
@@ -69,7 +45,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15066",
           "numero": "183",
           "sort": "rejeté"
@@ -77,7 +53,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15067",
           "numero": "184",
           "sort": "rejeté"
@@ -85,7 +61,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15203",
           "numero": "331",
           "sort": "rejeté"
@@ -93,7 +69,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15245",
           "numero": "374",
           "sort": "rejeté"
@@ -101,7 +77,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15246",
           "numero": "375",
           "sort": "rejeté"
@@ -109,7 +85,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15307",
           "numero": "438",
           "sort": "non-voté"
@@ -117,7 +93,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15310",
           "numero": "441",
           "sort": "non-voté"
@@ -145,7 +121,7 @@
         {
           "aut": "Mme Khiari, …",
           "date": "2008-06-21",
-          "groupe": "Inconnu",
+          "groupe": "SOC",
           "id_api": "14931",
           "numero": "44",
           "sort": "rejeté"
@@ -153,7 +129,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15330",
           "numero": "461",
           "sort": "rejeté"
@@ -191,7 +167,7 @@
         {
           "aut": "M. Arthuis",
           "date": "2008-06-12",
-          "groupe": "UDI",
+          "groupe": "UC",
           "id_api": "15030",
           "numero": "146",
           "sort": "rejeté"
@@ -199,7 +175,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15083",
           "numero": "200",
           "sort": "rejeté"
@@ -215,7 +191,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15207",
           "numero": "335",
           "sort": "non-voté"
@@ -223,7 +199,7 @@
         {
           "aut": "M. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15336",
           "numero": "467",
           "sort": "rejeté"
@@ -251,7 +227,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15208",
           "numero": "336",
           "sort": "rejeté"
@@ -259,7 +235,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15209",
           "numero": "337",
           "sort": "rejeté"
@@ -273,7 +249,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-17",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15292",
           "numero": "423",
           "sort": "rejeté"
@@ -281,7 +257,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-17",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15293",
           "numero": "424",
           "sort": "rejeté"
@@ -289,7 +265,7 @@
         {
           "aut": "Mme Borvo Cohen-Seat",
           "date": "2008-06-19",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15380",
           "numero": "512",
           "sort": "rejeté"
@@ -311,7 +287,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15289",
           "numero": "420",
           "sort": "rejeté"
@@ -325,7 +301,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15050",
           "numero": "167",
           "sort": "rejeté"
@@ -333,7 +309,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15051",
           "numero": "168",
           "sort": "rejeté"
@@ -341,7 +317,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15052",
           "numero": "169",
           "sort": "rejeté"
@@ -363,7 +339,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15096",
           "numero": "214",
           "sort": "rejeté"
@@ -377,7 +353,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15105",
           "numero": "223",
           "sort": "rejeté"
@@ -391,7 +367,7 @@
         {
           "aut": "MM. Portelli, …",
           "date": "2008-06-17",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14957",
           "numero": "71",
           "sort": "non-voté"
@@ -399,7 +375,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15113",
           "numero": "231",
           "sort": "rejeté"
@@ -407,7 +383,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15114",
           "numero": "232",
           "sort": "rejeté"
@@ -415,7 +391,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15115",
           "numero": "233",
           "sort": "adopté"
@@ -423,7 +399,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15205",
           "numero": "333",
           "sort": "rejeté"
@@ -431,7 +407,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15222",
           "numero": "351",
           "sort": "rejeté"
@@ -459,7 +435,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15228",
           "numero": "357",
           "sort": "rejeté"
@@ -473,7 +449,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15054",
           "numero": "171",
           "sort": "rejeté"
@@ -553,7 +529,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15119",
           "numero": "237",
           "sort": "rejeté"
@@ -561,7 +537,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15120",
           "numero": "238",
           "sort": "rejeté"
@@ -569,7 +545,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15240",
           "numero": "369",
           "sort": "rejeté"
@@ -577,7 +553,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15241",
           "numero": "370",
           "sort": "rejeté"
@@ -585,7 +561,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15243",
           "numero": "372",
           "sort": "rejeté"
@@ -593,7 +569,7 @@
         {
           "aut": "MM. Legendre, …",
           "date": "2008-06-17",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15248",
           "numero": "377",
           "sort": "adopté"
@@ -609,7 +585,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15290",
           "numero": "421",
           "sort": "non-voté"
@@ -623,7 +599,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15018",
           "numero": "134",
           "sort": "adopté"
@@ -631,7 +607,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15362",
           "numero": "494",
           "sort": "rejeté"
@@ -645,7 +621,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15126",
           "numero": "245",
           "sort": "rejeté"
@@ -653,7 +629,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15127",
           "numero": "246",
           "sort": "rejeté"
@@ -675,7 +651,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15298",
           "numero": "429",
           "sort": "rejeté"
@@ -689,7 +665,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15235",
           "numero": "364",
           "sort": "rejeté"
@@ -697,7 +673,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15299",
           "numero": "430",
           "sort": "rejeté"
@@ -705,7 +681,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15300",
           "numero": "431",
           "sort": "rejeté"
@@ -719,7 +695,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15199",
           "numero": "327",
           "sort": "rejeté"
@@ -727,7 +703,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15200",
           "numero": "328",
           "sort": "rejeté"
@@ -735,7 +711,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15308",
           "numero": "439",
           "sort": "rejeté"
@@ -743,7 +719,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15309",
           "numero": "440",
           "sort": "rejeté"
@@ -765,7 +741,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14989",
           "numero": "104",
           "sort": "adopté"
@@ -773,7 +749,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15068",
           "numero": "185",
           "sort": "non-voté"
@@ -789,7 +765,7 @@
         {
           "aut": "Mme N. Goulet",
           "date": "2008-06-13",
-          "groupe": "UC",
+          "groupe": "RDSE",
           "id_api": "15172",
           "numero": "299",
           "sort": "non-voté"
@@ -805,7 +781,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15215",
           "numero": "343",
           "sort": "rejeté"
@@ -813,7 +789,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15218",
           "numero": "347",
           "sort": "rejeté"
@@ -821,7 +797,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15232",
           "numero": "361",
           "sort": "rejeté"
@@ -829,7 +805,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15311",
           "numero": "442",
           "sort": "rejeté"
@@ -837,7 +813,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15312",
           "numero": "443",
           "sort": "non-voté"
@@ -845,7 +821,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15313",
           "numero": "444",
           "sort": "rejeté"
@@ -853,7 +829,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15314",
           "numero": "445",
           "sort": "rejeté"
@@ -875,7 +851,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14990",
           "numero": "105",
           "sort": "adopté"
@@ -961,7 +937,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-21",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14946",
           "numero": "59",
           "sort": "adopté"
@@ -969,7 +945,7 @@
         {
           "aut": "MM. Portelli, …",
           "date": "2008-06-17",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14955",
           "numero": "69",
           "sort": "non-voté"
@@ -1001,7 +977,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14991",
           "numero": "106",
           "sort": "adopté"
@@ -1009,7 +985,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14992",
           "numero": "107",
           "sort": "adopté"
@@ -1017,7 +993,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-17",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14993",
           "numero": "108",
           "sort": "adopté"
@@ -1041,7 +1017,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-18",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15070",
           "numero": "187",
           "sort": "rejeté"
@@ -1049,7 +1025,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15072",
           "numero": "189",
           "sort": "non-voté"
@@ -1057,7 +1033,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15073",
           "numero": "190",
           "sort": "non-voté"
@@ -1065,7 +1041,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15074",
           "numero": "191",
           "sort": "non-voté"
@@ -1073,7 +1049,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15075",
           "numero": "192",
           "sort": "adopté"
@@ -1105,7 +1081,7 @@
         {
           "aut": "MM. Arthuis, …",
           "date": "2008-06-20",
-          "groupe": "UDI",
+          "groupe": "UC",
           "id_api": "15174",
           "numero": "301",
           "sort": "adopté"
@@ -1113,7 +1089,7 @@
         {
           "aut": "MM. Arthuis, …",
           "date": "2008-06-17",
-          "groupe": "UDI",
+          "groupe": "UC",
           "id_api": "15175",
           "numero": "302",
           "sort": "non-voté"
@@ -1137,7 +1113,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15236",
           "numero": "365",
           "sort": "non-voté"
@@ -1169,7 +1145,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15315",
           "numero": "446",
           "sort": "adopté"
@@ -1177,7 +1153,7 @@
         {
           "aut": "M. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15316",
           "numero": "447",
           "sort": "non-voté"
@@ -1185,7 +1161,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15317",
           "numero": "448",
           "sort": "non-voté"
@@ -1193,7 +1169,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15318",
           "numero": "449",
           "sort": "non-voté"
@@ -1201,7 +1177,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15319",
           "numero": "450",
           "sort": "rejeté"
@@ -1209,7 +1185,7 @@
         {
           "aut": "M. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15320",
           "numero": "451",
           "sort": "non-voté"
@@ -1217,7 +1193,7 @@
         {
           "aut": "Mme Cerisier-ben Guiga, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15321",
           "numero": "452",
           "sort": "non-voté"
@@ -1225,7 +1201,7 @@
         {
           "aut": "Mme Cerisier-ben Guiga, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15322",
           "numero": "453",
           "sort": "non-voté"
@@ -1233,7 +1209,7 @@
         {
           "aut": "Mme Cerisier-ben Guiga, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15323",
           "numero": "454",
           "sort": "non-voté"
@@ -1241,7 +1217,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-21",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15324",
           "numero": "455",
           "sort": "adopté"
@@ -1249,7 +1225,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-20",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15371",
           "numero": "503",
           "sort": "adopté"
@@ -1271,7 +1247,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14994",
           "numero": "109",
           "sort": "adopté"
@@ -1287,7 +1263,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15071",
           "numero": "188",
           "sort": "non-voté"
@@ -1303,7 +1279,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15224",
           "numero": "353",
           "sort": "non-voté"
@@ -1311,7 +1287,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15325",
           "numero": "456",
           "sort": "non-voté"
@@ -1333,7 +1309,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14995",
           "numero": "110",
           "sort": "adopté"
@@ -1341,7 +1317,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14996",
           "numero": "111",
           "sort": "adopté"
@@ -1405,7 +1381,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15213",
           "numero": "341",
           "sort": "rejeté"
@@ -1413,7 +1389,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15233",
           "numero": "362",
           "sort": "rejeté"
@@ -1421,7 +1397,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15326",
           "numero": "457",
           "sort": "rejeté"
@@ -1429,7 +1405,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15327",
           "numero": "458",
           "sort": "rejeté"
@@ -1437,7 +1413,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15328",
           "numero": "459",
           "sort": "non-voté"
@@ -1445,7 +1421,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15329",
           "numero": "460",
           "sort": "rejeté"
@@ -1467,7 +1443,7 @@
         {
           "aut": "MM. Portelli, …",
           "date": "2008-06-17",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14956",
           "numero": "70",
           "sort": "non-voté"
@@ -1483,7 +1459,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15078",
           "numero": "195",
           "sort": "rejeté"
@@ -1491,7 +1467,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15079",
           "numero": "196",
           "sort": "rejeté"
@@ -1499,7 +1475,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15080",
           "numero": "197",
           "sort": "rejeté"
@@ -1507,7 +1483,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-16",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15284",
           "numero": "414",
           "sort": "rejeté"
@@ -1515,7 +1491,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-20",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15331",
           "numero": "462",
           "sort": "rejeté"
@@ -1553,7 +1529,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14997",
           "numero": "112",
           "sort": "adopté"
@@ -1561,7 +1537,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-23",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15081",
           "numero": "198",
           "sort": "non-voté"
@@ -1569,7 +1545,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15082",
           "numero": "199",
           "sort": "rejeté"
@@ -1601,7 +1577,7 @@
         {
           "aut": "M. Vasselle",
           "date": "2008-06-16",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15194",
           "numero": "322",
           "sort": "non-voté"
@@ -1609,7 +1585,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15332",
           "numero": "463",
           "sort": "rejeté"
@@ -1617,7 +1593,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15333",
           "numero": "464",
           "sort": "rejeté"
@@ -1625,7 +1601,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15334",
           "numero": "465",
           "sort": "non-voté"
@@ -1633,7 +1609,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15335",
           "numero": "466",
           "sort": "rejeté"
@@ -1647,7 +1623,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14998",
           "numero": "113",
           "sort": "adopté"
@@ -1655,7 +1631,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15084",
           "numero": "201",
           "sort": "non-voté"
@@ -1663,7 +1639,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15244",
           "numero": "373",
           "sort": "non-voté"
@@ -1671,7 +1647,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15337",
           "numero": "468",
           "sort": "adopté"
@@ -1701,7 +1677,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14999",
           "numero": "114",
           "sort": "adopté"
@@ -1709,7 +1685,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15000",
           "numero": "115",
           "sort": "adopté"
@@ -1717,7 +1693,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15001",
           "numero": "116",
           "sort": "adopté"
@@ -1725,7 +1701,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15085",
           "numero": "202",
           "sort": "non-voté"
@@ -1733,7 +1709,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15086",
           "numero": "203",
           "sort": "non-voté"
@@ -1757,7 +1733,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-16",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15273",
           "numero": "403",
           "sort": "non-voté"
@@ -1765,7 +1741,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15338",
           "numero": "469",
           "sort": "rejeté"
@@ -1773,7 +1749,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-23",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15339",
           "numero": "470",
           "sort": "adopté"
@@ -1781,7 +1757,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15340",
           "numero": "471",
           "sort": "non-voté"
@@ -1789,7 +1765,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15341",
           "numero": "472",
           "sort": "non-voté"
@@ -1803,7 +1779,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15002",
           "numero": "117",
           "sort": "adopté"
@@ -1811,7 +1787,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15238",
           "numero": "367",
           "sort": "non-voté"
@@ -1833,7 +1809,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15003",
           "numero": "118",
           "sort": "adopté"
@@ -1841,7 +1817,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15087",
           "numero": "204",
           "sort": "rejeté"
@@ -1849,7 +1825,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15088",
           "numero": "205",
           "sort": "non-voté"
@@ -1857,7 +1833,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15089",
           "numero": "206",
           "sort": "non-voté"
@@ -1865,7 +1841,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15090",
           "numero": "207",
           "sort": "non-voté"
@@ -1873,7 +1849,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15210",
           "numero": "338",
           "sort": "rejeté"
@@ -1889,7 +1865,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15342",
           "numero": "473",
           "sort": "rejeté"
@@ -1897,7 +1873,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15343",
           "numero": "474",
           "sort": "rejeté"
@@ -1905,7 +1881,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-18",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15376",
           "numero": "508",
           "sort": "rejeté"
@@ -1913,7 +1889,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-23",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15382",
           "numero": "514",
           "sort": "rejeté"
@@ -1943,7 +1919,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15004",
           "numero": "119",
           "sort": "adopté"
@@ -1951,7 +1927,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15005",
           "numero": "120",
           "sort": "adopté"
@@ -1959,7 +1935,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15006",
           "numero": "121",
           "sort": "adopté"
@@ -1967,7 +1943,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15091",
           "numero": "208",
           "sort": "rejeté"
@@ -1975,7 +1951,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15092",
           "numero": "209",
           "sort": "rejeté"
@@ -1983,7 +1959,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15093",
           "numero": "210",
           "sort": "rejeté"
@@ -1999,7 +1975,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15198",
           "numero": "326",
           "sort": "rejeté"
@@ -2007,7 +1983,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-20",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15202",
           "numero": "330",
           "sort": "rejeté"
@@ -2015,7 +1991,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15230",
           "numero": "359",
           "sort": "non-voté"
@@ -2023,7 +1999,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-16",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15272",
           "numero": "402",
           "sort": "adopté"
@@ -2031,7 +2007,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15344",
           "numero": "475",
           "sort": "non-voté"
@@ -2039,7 +2015,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15345",
           "numero": "476",
           "sort": "rejeté"
@@ -2047,7 +2023,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15346",
           "numero": "477",
           "sort": "rejeté"
@@ -2055,7 +2031,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15347",
           "numero": "478",
           "sort": "rejeté"
@@ -2077,7 +2053,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14981",
           "numero": "96",
           "sort": "adopté"
@@ -2093,7 +2069,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15291",
           "numero": "422",
           "sort": "non-voté"
@@ -2147,7 +2123,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14980",
           "numero": "95",
           "sort": "non-voté"
@@ -2155,7 +2131,7 @@
         {
           "aut": "M. Mélenchon",
           "date": "2008-06-11",
-          "groupe": "CRC-SPG",
+          "groupe": "SOC",
           "id_api": "15029",
           "numero": "145",
           "sort": "adopté"
@@ -2163,7 +2139,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15039",
           "numero": "156",
           "sort": "non-voté"
@@ -2171,7 +2147,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15040",
           "numero": "157",
           "sort": "adopté"
@@ -2219,7 +2195,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15220",
           "numero": "349",
           "sort": "non-voté"
@@ -2227,7 +2203,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15227",
           "numero": "356",
           "sort": "non-voté"
@@ -2235,7 +2211,7 @@
         {
           "aut": "MM. Legendre, …",
           "date": "2008-06-17",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15247",
           "numero": "376",
           "sort": "non-voté"
@@ -2273,7 +2249,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14982",
           "numero": "97",
           "sort": "adopté"
@@ -2281,7 +2257,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15221",
           "numero": "350",
           "sort": "rejeté"
@@ -2295,7 +2271,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-17",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15007",
           "numero": "122",
           "sort": "adopté"
@@ -2303,7 +2279,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15094",
           "numero": "212",
           "sort": "rejeté"
@@ -2311,7 +2287,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15095",
           "numero": "213",
           "sort": "rejeté"
@@ -2319,7 +2295,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15348",
           "numero": "479",
           "sort": "rejeté"
@@ -2341,7 +2317,7 @@
         {
           "aut": "MM. Portelli, …",
           "date": "2008-06-17",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15028",
           "numero": "144",
           "sort": "non-voté"
@@ -2349,7 +2325,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15097",
           "numero": "215",
           "sort": "rejeté"
@@ -2357,7 +2333,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15098",
           "numero": "216",
           "sort": "rejeté"
@@ -2365,7 +2341,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15099",
           "numero": "217",
           "sort": "rejeté"
@@ -2373,7 +2349,7 @@
         {
           "aut": "MM. Arthuis, …",
           "date": "2008-06-17",
-          "groupe": "UDI",
+          "groupe": "UC",
           "id_api": "15176",
           "numero": "303",
           "sort": "adopté"
@@ -2381,7 +2357,7 @@
         {
           "aut": "M. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15349",
           "numero": "480",
           "sort": "adopté"
@@ -2411,7 +2387,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15008",
           "numero": "123",
           "sort": "adopté"
@@ -2419,7 +2395,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15100",
           "numero": "218",
           "sort": "non-voté"
@@ -2427,7 +2403,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15101",
           "numero": "219",
           "sort": "non-voté"
@@ -2435,7 +2411,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15102",
           "numero": "220",
           "sort": "non-voté"
@@ -2443,7 +2419,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15103",
           "numero": "221",
           "sort": "non-voté"
@@ -2451,7 +2427,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-23",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15104",
           "numero": "222",
           "sort": "non-voté"
@@ -2467,7 +2443,7 @@
         {
           "aut": "M. Vasselle",
           "date": "2008-06-16",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15195",
           "numero": "323",
           "sort": "non-voté"
@@ -2475,7 +2451,7 @@
         {
           "aut": "M. Vasselle",
           "date": "2008-06-16",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15196",
           "numero": "324",
           "sort": "non-voté"
@@ -2483,7 +2459,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-16",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15282",
           "numero": "412",
           "sort": "non-voté"
@@ -2491,7 +2467,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15350",
           "numero": "481",
           "sort": "non-voté"
@@ -2499,7 +2475,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15351",
           "numero": "482",
           "sort": "non-voté"
@@ -2515,7 +2491,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-23",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15383",
           "numero": "515",
           "sort": "rejeté"
@@ -2523,7 +2499,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-23",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15384",
           "numero": "516",
           "sort": "rejeté"
@@ -2531,7 +2507,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-23",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15385",
           "numero": "517",
           "sort": "rejeté"
@@ -2553,7 +2529,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15009",
           "numero": "124",
           "sort": "adopté"
@@ -2569,7 +2545,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15107",
           "numero": "225",
           "sort": "non-voté"
@@ -2577,7 +2553,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15108",
           "numero": "226",
           "sort": "non-voté"
@@ -2625,7 +2601,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15226",
           "numero": "355",
           "sort": "non-voté"
@@ -2649,7 +2625,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15352",
           "numero": "483",
           "sort": "non-voté"
@@ -2671,7 +2647,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15010",
           "numero": "125",
           "sort": "adopté"
@@ -2679,7 +2655,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-23",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15109",
           "numero": "227",
           "sort": "adopté"
@@ -2695,7 +2671,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15353",
           "numero": "484",
           "sort": "adopté"
@@ -2717,7 +2693,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15110",
           "numero": "228",
           "sort": "non-voté"
@@ -2725,7 +2701,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15111",
           "numero": "229",
           "sort": "rejeté"
@@ -2733,7 +2709,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15112",
           "numero": "230",
           "sort": "non-voté"
@@ -2757,7 +2733,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15354",
           "numero": "485",
           "sort": "non-voté"
@@ -2765,7 +2741,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15387",
           "numero": "519",
           "sort": "adopté"
@@ -2779,7 +2755,7 @@
         {
           "aut": "MM. Portelli, …",
           "date": "2008-06-17",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14958",
           "numero": "72",
           "sort": "non-voté"
@@ -2787,7 +2763,7 @@
         {
           "aut": "MM. Portelli, …",
           "date": "2008-06-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14959",
           "numero": "73",
           "sort": "adopté"
@@ -2803,7 +2779,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-24",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15116",
           "numero": "234",
           "sort": "rejeté"
@@ -2811,7 +2787,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15237",
           "numero": "366",
           "sort": "adopté"
@@ -2827,7 +2803,7 @@
         {
           "aut": "MM. Badinter, …",
           "date": "2008-06-24",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15355",
           "numero": "487",
           "sort": "rejeté"
@@ -2835,7 +2811,7 @@
         {
           "aut": "MM. Badinter, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15356",
           "numero": "488",
           "sort": "adopté"
@@ -2873,7 +2849,7 @@
         {
           "aut": "MM. Portelli, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14961",
           "numero": "75",
           "sort": "non-voté"
@@ -2881,7 +2857,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15012",
           "numero": "128",
           "sort": "adopté"
@@ -2889,7 +2865,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15118",
           "numero": "236",
           "sort": "rejeté"
@@ -2897,7 +2873,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15223",
           "numero": "352",
           "sort": "rejeté"
@@ -2935,7 +2911,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15013",
           "numero": "129",
           "sort": "adopté"
@@ -2999,7 +2975,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15214",
           "numero": "342",
           "sort": "rejeté"
@@ -3007,7 +2983,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-16",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15274",
           "numero": "404",
           "sort": "non-voté"
@@ -3015,7 +2991,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-23",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15275",
           "numero": "405",
           "sort": "non-voté"
@@ -3023,7 +2999,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-23",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15276",
           "numero": "406",
           "sort": "non-voté"
@@ -3031,7 +3007,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-16",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15277",
           "numero": "407",
           "sort": "non-voté"
@@ -3039,7 +3015,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-16",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15285",
           "numero": "415",
           "sort": "non-voté"
@@ -3047,7 +3023,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-16",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15286",
           "numero": "416",
           "sort": "non-voté"
@@ -3055,7 +3031,7 @@
         {
           "aut": "MM. Badinter, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15357",
           "numero": "489",
           "sort": "rejeté"
@@ -3135,7 +3111,7 @@
         {
           "aut": "MM. Portelli, …",
           "date": "2008-06-17",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14954",
           "numero": "68",
           "sort": "non-voté"
@@ -3151,7 +3127,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-19",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14983",
           "numero": "98",
           "sort": "adopté"
@@ -3159,7 +3135,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15053",
           "numero": "170",
           "sort": "non-voté"
@@ -3205,7 +3181,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14985",
           "numero": "100",
           "sort": "adopté"
@@ -3219,7 +3195,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14984",
           "numero": "99",
           "sort": "adopté"
@@ -3233,7 +3209,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15014",
           "numero": "130",
           "sort": "adopté"
@@ -3291,7 +3267,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15358",
           "numero": "490",
           "sort": "rejeté"
@@ -3329,7 +3305,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15015",
           "numero": "131",
           "sort": "adopté"
@@ -3337,7 +3313,7 @@
         {
           "aut": "MM. Amoudry, …",
           "date": "2008-06-17",
-          "groupe": "UDI",
+          "groupe": "UC",
           "id_api": "15163",
           "numero": "290",
           "sort": "non-voté"
@@ -3345,7 +3321,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15359",
           "numero": "491",
           "sort": "rejeté"
@@ -3367,7 +3343,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15016",
           "numero": "132",
           "sort": "adopté"
@@ -3383,7 +3359,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15122",
           "numero": "240",
           "sort": "rejeté"
@@ -3391,7 +3367,7 @@
         {
           "aut": "MM. Amoudry, …",
           "date": "2008-06-17",
-          "groupe": "UDI",
+          "groupe": "UC",
           "id_api": "15164",
           "numero": "291",
           "sort": "non-voté"
@@ -3407,7 +3383,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15231",
           "numero": "360",
           "sort": "non-voté"
@@ -3415,7 +3391,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15360",
           "numero": "492",
           "sort": "non-voté"
@@ -3429,7 +3405,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15017",
           "numero": "133",
           "sort": "adopté"
@@ -3453,7 +3429,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15123",
           "numero": "241",
           "sort": "rejeté"
@@ -3461,7 +3437,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15124",
           "numero": "242",
           "sort": "rejeté"
@@ -3493,7 +3469,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15361",
           "numero": "493",
           "sort": "adopté"
@@ -3507,7 +3483,7 @@
         {
           "aut": "MM. Portelli, …",
           "date": "2008-06-18",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14962",
           "numero": "76",
           "sort": "non-voté"
@@ -3515,7 +3491,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15019",
           "numero": "135",
           "sort": "adopté"
@@ -3523,7 +3499,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15020",
           "numero": "136",
           "sort": "adopté"
@@ -3539,7 +3515,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15212",
           "numero": "340",
           "sort": "rejeté"
@@ -3547,7 +3523,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-24",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15229",
           "numero": "358",
           "sort": "rejeté"
@@ -3555,7 +3531,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15363",
           "numero": "495",
           "sort": "rejeté"
@@ -3563,7 +3539,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15364",
           "numero": "496",
           "sort": "non-voté"
@@ -3571,7 +3547,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15365",
           "numero": "497",
           "sort": "rejeté"
@@ -3585,7 +3561,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15021",
           "numero": "137",
           "sort": "adopté"
@@ -3601,7 +3577,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15125",
           "numero": "244",
           "sort": "rejeté"
@@ -3631,7 +3607,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-17",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14986",
           "numero": "101",
           "sort": "adopté"
@@ -3647,7 +3623,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15055",
           "numero": "172",
           "sort": "non-voté"
@@ -3655,7 +3631,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15056",
           "numero": "173",
           "sort": "non-voté"
@@ -3663,7 +3639,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15057",
           "numero": "174",
           "sort": "non-voté"
@@ -3671,7 +3647,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15216",
           "numero": "344",
           "sort": "rejeté"
@@ -3679,7 +3655,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-17",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15217",
           "numero": "346",
           "sort": "rejeté"
@@ -3703,7 +3679,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-16",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15287",
           "numero": "417",
           "sort": "non-voté"
@@ -3711,7 +3687,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15294",
           "numero": "425",
           "sort": "non-voté"
@@ -3733,7 +3709,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15058",
           "numero": "175",
           "sort": "rejeté"
@@ -3741,7 +3717,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15059",
           "numero": "176",
           "sort": "rejeté"
@@ -3749,7 +3725,7 @@
         {
           "aut": "MM. Amoudry, …",
           "date": "2008-06-17",
-          "groupe": "UDI",
+          "groupe": "UC",
           "id_api": "15141",
           "numero": "267",
           "sort": "non-voté"
@@ -3757,7 +3733,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15234",
           "numero": "363",
           "sort": "rejeté"
@@ -3765,7 +3741,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15295",
           "numero": "426",
           "sort": "rejeté"
@@ -3787,7 +3763,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15060",
           "numero": "177",
           "sort": "non-voté"
@@ -3795,7 +3771,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15211",
           "numero": "339",
           "sort": "non-voté"
@@ -3811,7 +3787,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15296",
           "numero": "427",
           "sort": "non-voté"
@@ -3825,7 +3801,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15061",
           "numero": "178",
           "sort": "rejeté"
@@ -3833,7 +3809,7 @@
         {
           "aut": "MM. Amoudry, …",
           "date": "2008-06-20",
-          "groupe": "UDI",
+          "groupe": "UC",
           "id_api": "15142",
           "numero": "268",
           "sort": "non-voté"
@@ -3841,7 +3817,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15201",
           "numero": "329",
           "sort": "rejeté"
@@ -3849,7 +3825,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15297",
           "numero": "428",
           "sort": "rejeté"
@@ -3911,7 +3887,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14987",
           "numero": "102",
           "sort": "adopté"
@@ -3919,7 +3895,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-17",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14988",
           "numero": "103",
           "sort": "adopté"
@@ -3927,7 +3903,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-18",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15063",
           "numero": "180",
           "sort": "non-voté"
@@ -3935,7 +3911,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-20",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15064",
           "numero": "181",
           "sort": "rejeté"
@@ -3943,7 +3919,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15065",
           "numero": "182",
           "sort": "non-voté"
@@ -3951,7 +3927,7 @@
         {
           "aut": "Mme N. Goulet",
           "date": "2008-06-13",
-          "groupe": "UC",
+          "groupe": "RDSE",
           "id_api": "15128",
           "numero": "249",
           "sort": "non-voté"
@@ -4015,7 +3991,7 @@
         {
           "aut": "MM. Arthuis, …",
           "date": "2008-06-17",
-          "groupe": "UDI",
+          "groupe": "UC",
           "id_api": "15173",
           "numero": "300",
           "sort": "non-voté"
@@ -4031,7 +4007,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15197",
           "numero": "325",
           "sort": "rejeté"
@@ -4039,7 +4015,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15204",
           "numero": "332",
           "sort": "rejeté"
@@ -4047,7 +4023,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15206",
           "numero": "334",
           "sort": "non-voté"
@@ -4055,7 +4031,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15219",
           "numero": "348",
           "sort": "rejeté"
@@ -4071,7 +4047,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-16",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15279",
           "numero": "409",
           "sort": "rejeté"
@@ -4079,7 +4055,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-16",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15283",
           "numero": "413",
           "sort": "non-voté"
@@ -4087,7 +4063,7 @@
         {
           "aut": "M. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15301",
           "numero": "432",
           "sort": "non-voté"
@@ -4095,7 +4071,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15302",
           "numero": "433",
           "sort": "non-voté"
@@ -4103,7 +4079,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15303",
           "numero": "434",
           "sort": "non-voté"
@@ -4111,7 +4087,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15304",
           "numero": "435",
           "sort": "rejeté"
@@ -4119,7 +4095,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15305",
           "numero": "436",
           "sort": "rejeté"
@@ -4127,7 +4103,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15306",
           "numero": "437",
           "sort": "rejeté"
@@ -4149,7 +4125,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15069",
           "numero": "186",
           "sort": "rejeté"
@@ -4163,7 +4139,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15077",
           "numero": "194",
           "sort": "rejeté"
@@ -4177,7 +4153,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15041",
           "numero": "158",
           "sort": "rejeté"
@@ -4185,7 +4161,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15044",
           "numero": "161",
           "sort": "rejeté"
@@ -4193,7 +4169,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15045",
           "numero": "162",
           "sort": "rejeté"
@@ -4201,7 +4177,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-16",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15046",
           "numero": "163",
           "sort": "rejeté"
@@ -4209,7 +4185,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15047",
           "numero": "164",
           "sort": "non-voté"
@@ -4217,7 +4193,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15048",
           "numero": "165",
           "sort": "rejeté"
@@ -4225,7 +4201,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15239",
           "numero": "368",
           "sort": "rejeté"
@@ -4233,7 +4209,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15242",
           "numero": "371",
           "sort": "rejeté"
@@ -4249,7 +4225,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-18",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15377",
           "numero": "509",
           "sort": "adopté"
@@ -4257,7 +4233,7 @@
         {
           "aut": "Mme Borvo Cohen-Seat",
           "date": "2008-06-18",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15378",
           "numero": "510",
           "sort": "rejeté"
@@ -4265,7 +4241,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-18",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15379",
           "numero": "511",
           "sort": "rejeté"
@@ -4279,7 +4255,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15042",
           "numero": "159",
           "sort": "rejeté"
@@ -4287,7 +4263,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15043",
           "numero": "160",
           "sort": "rejeté"
@@ -4295,7 +4271,7 @@
         {
           "aut": "Mmes Boumediene-Thiery, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15225",
           "numero": "354",
           "sort": "rejeté"
@@ -4303,7 +4279,7 @@
         {
           "aut": "MM. Frimat, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15288",
           "numero": "419",
           "sort": "rejeté"
@@ -4317,7 +4293,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15049",
           "numero": "166",
           "sort": "rejeté"
@@ -4345,7 +4321,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15106",
           "numero": "224",
           "sort": "rejeté"
@@ -4359,7 +4335,7 @@
         {
           "aut": "M. Badinter, …",
           "date": "2008-06-16",
-          "groupe": "SOCV",
+          "groupe": "SOC",
           "id_api": "15193",
           "numero": "321",
           "sort": "adopté"
@@ -4389,7 +4365,7 @@
         {
           "aut": "MM. Portelli, …",
           "date": "2008-06-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "14960",
           "numero": "74",
           "sort": "non-voté"
@@ -4397,7 +4373,7 @@
         {
           "aut": "M. Hyest, …",
           "date": "2008-06-11",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "15011",
           "numero": "127",
           "sort": "adopté"
@@ -4405,7 +4381,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15117",
           "numero": "235",
           "sort": "adopté"
@@ -4433,7 +4409,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-16",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15121",
           "numero": "239",
           "sort": "rejeté"
@@ -4447,7 +4423,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-16",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15278",
           "numero": "408",
           "sort": "rejeté"
@@ -4455,7 +4431,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-16",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15280",
           "numero": "410",
           "sort": "rejeté"
@@ -4463,7 +4439,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-16",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15281",
           "numero": "411",
           "sort": "rejeté"
@@ -4477,7 +4453,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-13",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15062",
           "numero": "179",
           "sort": "rejeté"
@@ -4491,7 +4467,7 @@
         {
           "aut": "M. Bret, …",
           "date": "2008-06-17",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "15373",
           "numero": "505",
           "sort": "rejeté"
@@ -4505,7 +4481,7 @@
         {
           "aut": "Mmes Borvo Cohen-Seat, …",
           "date": "2008-06-10",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "14895",
           "numero": "2",
           "sort": "rejeté"

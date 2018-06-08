@@ -1,11 +1,11 @@
 {
   "api_root_url": "https://www.nossenateurs.fr/api/document/Amendement/",
   "groupes": {
-    "CRCE": {
+    "CRC": {
       "color": "rgb(255,30,30)",
-      "link": "https://www.nossenateurs.fr/groupe/CRCE",
-      "nom": "Communiste républicain citoyen et Écologiste",
-      "order": 10
+      "link": "https://www.nossenateurs.fr/groupe/CRC",
+      "nom": "Communiste, Républicain, Citoyen et des Sénateurs du Parti de Gauche",
+      "order": 11
     },
     "ECOLO": {
       "color": "rgb(0,230,30)",
@@ -13,17 +13,17 @@
       "nom": "Écologiste",
       "order": 16
     },
-    "LR": {
-      "color": "rgb(30,30,200)",
-      "link": "https://www.nossenateurs.fr/groupe/LR",
-      "nom": "Les Républicains",
-      "order": 24
-    },
     "NI": {
       "color": "rgb(165,165,165)",
       "link": "https://www.nossenateurs.fr/groupe/NI",
       "nom": "Réunion administrative des Sénateurs ne figurant sur la liste d'aucun groupe politique",
       "order": 25
+    },
+    "RDSE": {
+      "color": "rgb(250,195,132)",
+      "link": "https://www.nossenateurs.fr/groupe/RDSE",
+      "nom": "Rassemblement Démocratique et Social européen",
+      "order": 17
     },
     "SOC": {
       "color": "rgb(255,50,190)",
@@ -36,6 +36,12 @@
       "link": "https://www.nossenateurs.fr/groupe/UC",
       "nom": "Union Centriste",
       "order": 20
+    },
+    "UMP": {
+      "color": "rgb(30,30,200)",
+      "link": "https://www.nossenateurs.fr/groupe/UMP",
+      "nom": "Union pour un Mouvement Populaire",
+      "order": 23
     }
   },
   "id_step": "14_nouv.lect._senat_hemicycle",
@@ -61,7 +67,7 @@
         {
           "aut": "MM. Hyest, …",
           "date": "2013-07-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "68382",
           "numero": "6",
           "sort": "rejeté"
@@ -69,7 +75,7 @@
         {
           "aut": "MM. Hyest, …",
           "date": "2013-07-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "68383",
           "numero": "7",
           "sort": "non-voté"
@@ -77,7 +83,7 @@
         {
           "aut": "MM. Hyest, …",
           "date": "2013-07-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "68384",
           "numero": "8",
           "sort": "adopté"
@@ -85,7 +91,7 @@
         {
           "aut": "MM. Hyest, …",
           "date": "2013-07-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "68385",
           "numero": "9",
           "sort": "adopté"
@@ -93,7 +99,7 @@
         {
           "aut": "MM. Hyest, …",
           "date": "2013-07-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "68386",
           "numero": "10",
           "sort": "rejeté"
@@ -101,7 +107,7 @@
         {
           "aut": "MM. Hyest, …",
           "date": "2013-07-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "68387",
           "numero": "11",
           "sort": "adopté"
@@ -109,7 +115,7 @@
         {
           "aut": "MM. Hyest, …",
           "date": "2013-07-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "68388",
           "numero": "12",
           "sort": "adopté"
@@ -117,7 +123,7 @@
         {
           "aut": "MM. Hyest, …",
           "date": "2013-07-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "68389",
           "numero": "13",
           "sort": "adopté"
@@ -125,7 +131,7 @@
         {
           "aut": "MM. Hyest, …",
           "date": "2013-07-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "68390",
           "numero": "14",
           "sort": "adopté"
@@ -133,7 +139,7 @@
         {
           "aut": "MM. Hyest, …",
           "date": "2013-07-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "68391",
           "numero": "15",
           "sort": "adopté"
@@ -141,7 +147,7 @@
         {
           "aut": "MM. Hyest, …",
           "date": "2013-07-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "68392",
           "numero": "16",
           "sort": "adopté"
@@ -149,7 +155,7 @@
         {
           "aut": "MM. Hyest, …",
           "date": "2013-07-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "68393",
           "numero": "17",
           "sort": "adopté"
@@ -157,7 +163,7 @@
         {
           "aut": "MM. Hyest, …",
           "date": "2013-07-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "68394",
           "numero": "18",
           "sort": "adopté"
@@ -165,7 +171,7 @@
         {
           "aut": "MM. Hyest, …",
           "date": "2013-07-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "68395",
           "numero": "19",
           "sort": "rejeté"
@@ -173,7 +179,7 @@
         {
           "aut": "MM. Hyest, …",
           "date": "2013-07-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "68396",
           "numero": "20",
           "sort": "rejeté"
@@ -181,7 +187,7 @@
         {
           "aut": "MM. Hyest, …",
           "date": "2013-07-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "68397",
           "numero": "21",
           "sort": "adopté"
@@ -189,7 +195,7 @@
         {
           "aut": "MM. Hyest, …",
           "date": "2013-07-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "68398",
           "numero": "22",
           "sort": "non-voté"
@@ -197,7 +203,7 @@
         {
           "aut": "MM. Hyest, …",
           "date": "2013-07-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "68399",
           "numero": "23",
           "sort": "non-voté"
@@ -205,7 +211,7 @@
         {
           "aut": "MM. Hyest, …",
           "date": "2013-07-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "68400",
           "numero": "24",
           "sort": "adopté"
@@ -213,7 +219,7 @@
         {
           "aut": "MM. Hyest, …",
           "date": "2013-07-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "68401",
           "numero": "25",
           "sort": "rejeté"
@@ -221,7 +227,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2013-07-24",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "68407",
           "numero": "31",
           "sort": "adopté"
@@ -229,7 +235,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2013-07-24",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "68408",
           "numero": "32",
           "sort": "adopté"
@@ -237,7 +243,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2013-07-24",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "68409",
           "numero": "33",
           "sort": "non-voté"
@@ -245,7 +251,7 @@
         {
           "aut": "Mmes Assassi, …",
           "date": "2013-07-24",
-          "groupe": "CRCE",
+          "groupe": "CRC",
           "id_api": "68410",
           "numero": "34",
           "sort": "rejeté"
@@ -277,7 +283,7 @@
         {
           "aut": "Mme Lipietz, …",
           "date": "2013-07-24",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "68414",
           "numero": "38",
           "sort": "adopté"
@@ -285,7 +291,7 @@
         {
           "aut": "Mme Lipietz, …",
           "date": "2013-07-24",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "68415",
           "numero": "39",
           "sort": "non-voté"
@@ -293,7 +299,7 @@
         {
           "aut": "Mmes Ango Ela, …",
           "date": "2013-07-24",
-          "groupe": "ECO",
+          "groupe": "ECOLO",
           "id_api": "68416",
           "numero": "40",
           "sort": "non-voté"
@@ -301,7 +307,7 @@
         {
           "aut": "Mme Lipietz, …",
           "date": "2013-07-24",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "68419",
           "numero": "43",
           "sort": "non-voté"
@@ -309,7 +315,7 @@
         {
           "aut": "Mme Lipietz, …",
           "date": "2013-07-24",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "68420",
           "numero": "44",
           "sort": "non-voté"
@@ -317,7 +323,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2013-07-24",
-          "groupe": "CRCE",
+          "groupe": "RDSE",
           "id_api": "68422",
           "numero": "46",
           "sort": "non-voté"
@@ -325,7 +331,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2013-07-25",
-          "groupe": "CRCE",
+          "groupe": "RDSE",
           "id_api": "68427",
           "numero": "47",
           "sort": "non-voté"
@@ -339,7 +345,7 @@
         {
           "aut": "MM. Hyest, …",
           "date": "2013-07-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "68381",
           "numero": "5",
           "sort": "adopté"
@@ -347,7 +353,7 @@
         {
           "aut": "MM. Collombat, …",
           "date": "2013-07-24",
-          "groupe": "CRCE",
+          "groupe": "RDSE",
           "id_api": "68421",
           "numero": "45",
           "sort": "adopté"
@@ -361,7 +367,7 @@
         {
           "aut": "MM. Hyest, …",
           "date": "2013-07-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "68402",
           "numero": "26",
           "sort": "non-voté"
@@ -369,7 +375,7 @@
         {
           "aut": "MM. Hyest, …",
           "date": "2013-07-25",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "68426",
           "numero": "27",
           "sort": "rejeté"
@@ -377,7 +383,7 @@
         {
           "aut": "MM. Hyest, …",
           "date": "2013-07-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "68404",
           "numero": "28",
           "sort": "non-voté"
@@ -385,7 +391,7 @@
         {
           "aut": "MM. Hyest, …",
           "date": "2013-07-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "68405",
           "numero": "29",
           "sort": "rejeté"
@@ -393,7 +399,7 @@
         {
           "aut": "MM. Hyest, …",
           "date": "2013-07-24",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "68406",
           "numero": "30",
           "sort": "rejeté"
@@ -401,7 +407,7 @@
         {
           "aut": "Mme Lipietz, …",
           "date": "2013-07-24",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "68417",
           "numero": "41",
           "sort": "rejeté"
@@ -431,7 +437,7 @@
         {
           "aut": "Mme Lipietz, …",
           "date": "2013-07-24",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "68418",
           "numero": "42",
           "sort": "non-voté"

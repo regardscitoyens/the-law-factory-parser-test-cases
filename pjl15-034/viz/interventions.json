@@ -15,6 +15,17 @@
               }
             }
           },
+          "ECOLO": {
+            "nb_intervs": 4,
+            "nb_mots": 1226,
+            "orateurs": {
+              "ronan dantec": {
+                "link": "http://www.nossenateurs.fr/seance/13559#inter_e6009b2249990400abb4c28757caa813",
+                "nb_intervs": 4,
+                "nb_mots": 1226
+              }
+            }
+          },
           "Gouvernement": {
             "nb_intervs": 1,
             "nb_mots": 1887,
@@ -23,22 +34,6 @@
                 "link": "http://www.nossenateurs.fr/seance/13559#inter_bfb9715228d5244d69436e3c2c399d47",
                 "nb_intervs": 1,
                 "nb_mots": 1887
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 2,
-            "nb_mots": 1680,
-            "orateurs": {
-              "didier mandelli": {
-                "link": "http://www.nossenateurs.fr/seance/13559#inter_aeec2b7c3c05da5bf45f49b4a045ba64",
-                "nb_intervs": 1,
-                "nb_mots": 1676
-              },
-              "françois bonhomme": {
-                "link": "http://www.nossenateurs.fr/seance/13559#inter_61fc2b2df7caf8509f993123d814d677",
-                "nb_intervs": 1,
-                "nb_mots": 4
               }
             }
           },
@@ -54,18 +49,13 @@
             }
           },
           "RDSE": {
-            "nb_intervs": 7,
-            "nb_mots": 1985,
+            "nb_intervs": 3,
+            "nb_mots": 759,
             "orateurs": {
               "françois fortassin": {
                 "link": "http://www.nossenateurs.fr/seance/13559#inter_a3e7f3376ca37d8c0dc290746d39f2bc",
                 "nb_intervs": 3,
                 "nb_mots": 759
-              },
-              "ronan dantec": {
-                "link": "http://www.nossenateurs.fr/seance/13559#inter_e6009b2249990400abb4c28757caa813",
-                "nb_intervs": 4,
-                "nb_mots": 1226
               }
             }
           },
@@ -104,6 +94,22 @@
                 "link": "http://www.nossenateurs.fr/seance/13559#inter_2fd775de570e1b5cb17edceba3d2575f",
                 "nb_intervs": 1,
                 "nb_mots": 1458
+              }
+            }
+          },
+          "UMP": {
+            "nb_intervs": 2,
+            "nb_mots": 1680,
+            "orateurs": {
+              "didier mandelli": {
+                "link": "http://www.nossenateurs.fr/seance/13559#inter_aeec2b7c3c05da5bf45f49b4a045ba64",
+                "nb_intervs": 1,
+                "nb_mots": 1676
+              },
+              "françois bonhomme": {
+                "link": "http://www.nossenateurs.fr/seance/13559#inter_61fc2b2df7caf8509f993123d814d677",
+                "nb_intervs": 1,
+                "nb_mots": 4
               }
             }
           }
@@ -162,6 +168,17 @@
       "Article 18": {
         "first_date": "2015-10-26",
         "groupes": {
+          "ECOLO": {
+            "nb_intervs": 8,
+            "nb_mots": 477,
+            "orateurs": {
+              "ronan dantec": {
+                "link": "http://www.nossenateurs.fr/seance/13559#inter_4d11c1f384c35777f01821edaa59eb94",
+                "nb_intervs": 8,
+                "nb_mots": 477
+              }
+            }
+          },
           "Gouvernement": {
             "nb_intervs": 4,
             "nb_mots": 387,
@@ -181,17 +198,6 @@
                 "link": "http://www.nossenateurs.fr/seance/13559#inter_a440f45fabdd61367d2298a52c86c760",
                 "nb_intervs": 14,
                 "nb_mots": 301
-              }
-            }
-          },
-          "RDSE": {
-            "nb_intervs": 8,
-            "nb_mots": 477,
-            "orateurs": {
-              "ronan dantec": {
-                "link": "http://www.nossenateurs.fr/seance/13559#inter_4d11c1f384c35777f01821edaa59eb94",
-                "nb_intervs": 8,
-                "nb_mots": 477
               }
             }
           },
@@ -228,6 +234,17 @@
       "Article 19 ter": {
         "first_date": "2015-10-26",
         "groupes": {
+          "ECOLO": {
+            "nb_intervs": 2,
+            "nb_mots": 71,
+            "orateurs": {
+              "ronan dantec": {
+                "link": "http://www.nossenateurs.fr/seance/13559#inter_9d128c953d8e388011eee237de7ec875",
+                "nb_intervs": 2,
+                "nb_mots": 71
+              }
+            }
+          },
           "Gouvernement": {
             "nb_intervs": 2,
             "nb_mots": 64,
@@ -236,17 +253,6 @@
                 "link": "http://www.nossenateurs.fr/seance/13559#inter_53ed3d36cffb6406e8b97a80b05eda32",
                 "nb_intervs": 2,
                 "nb_mots": 64
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 1,
-            "nb_mots": 50,
-            "orateurs": {
-              "rémy pointereau": {
-                "link": "http://www.nossenateurs.fr/seance/13559#inter_2bbc2ce17a2ffbe1c98daffb4c3aecbf",
-                "nb_intervs": 1,
-                "nb_mots": 50
               }
             }
           },
@@ -261,17 +267,6 @@
               }
             }
           },
-          "RDSE": {
-            "nb_intervs": 2,
-            "nb_mots": 71,
-            "orateurs": {
-              "ronan dantec": {
-                "link": "http://www.nossenateurs.fr/seance/13559#inter_9d128c953d8e388011eee237de7ec875",
-                "nb_intervs": 2,
-                "nb_mots": 71
-              }
-            }
-          },
           "Rapporteurs": {
             "nb_intervs": 2,
             "nb_mots": 153,
@@ -280,6 +275,17 @@
                 "link": "http://www.nossenateurs.fr/seance/13559#inter_7ca7dfc3cf6d0faec6d1a15f91bacc75",
                 "nb_intervs": 2,
                 "nb_mots": 153
+              }
+            }
+          },
+          "UMP": {
+            "nb_intervs": 1,
+            "nb_mots": 50,
+            "orateurs": {
+              "rémy pointereau": {
+                "link": "http://www.nossenateurs.fr/seance/13559#inter_2bbc2ce17a2ffbe1c98daffb4c3aecbf",
+                "nb_intervs": 1,
+                "nb_mots": 50
               }
             }
           }
@@ -404,17 +410,6 @@
               }
             }
           },
-          "LR": {
-            "nb_intervs": 1,
-            "nb_mots": 65,
-            "orateurs": {
-              "rémy pointereau": {
-                "link": "http://www.nossenateurs.fr/seance/13559#inter_6a94c41aaa228beb613683733f7005d9",
-                "nb_intervs": 1,
-                "nb_mots": 65
-              }
-            }
-          },
           "Présidence": {
             "nb_intervs": 8,
             "nb_mots": 295,
@@ -447,6 +442,17 @@
                 "nb_mots": 213
               }
             }
+          },
+          "UMP": {
+            "nb_intervs": 1,
+            "nb_mots": 65,
+            "orateurs": {
+              "rémy pointereau": {
+                "link": "http://www.nossenateurs.fr/seance/13559#inter_6a94c41aaa228beb613683733f7005d9",
+                "nb_intervs": 1,
+                "nb_mots": 65
+              }
+            }
           }
         },
         "last_date": "2015-10-26",
@@ -459,6 +465,17 @@
       "Article additionnel après l'article 19": {
         "first_date": "2015-10-26",
         "groupes": {
+          "ECOLO": {
+            "nb_intervs": 3,
+            "nb_mots": 182,
+            "orateurs": {
+              "ronan dantec": {
+                "link": "http://www.nossenateurs.fr/seance/13559#inter_a73c3529f42c768b1f0a2aa5ee3c4871",
+                "nb_intervs": 3,
+                "nb_mots": 182
+              }
+            }
+          },
           "Gouvernement": {
             "nb_intervs": 1,
             "nb_mots": 5,
@@ -478,17 +495,6 @@
                 "link": "http://www.nossenateurs.fr/seance/13559#inter_ecb6dbff8f3969632f5dbbd988a9aded",
                 "nb_intervs": 5,
                 "nb_mots": 103
-              }
-            }
-          },
-          "RDSE": {
-            "nb_intervs": 3,
-            "nb_mots": 182,
-            "orateurs": {
-              "ronan dantec": {
-                "link": "http://www.nossenateurs.fr/seance/13559#inter_a73c3529f42c768b1f0a2aa5ee3c4871",
-                "nb_intervs": 3,
-                "nb_mots": 182
               }
             }
           },
@@ -525,14 +531,14 @@
       "Article additionnel après l'article 20": {
         "first_date": "2015-10-26",
         "groupes": {
-          "Auditionnés": {
-            "nb_intervs": 1,
-            "nb_mots": 146,
+          "ECOLO": {
+            "nb_intervs": 3,
+            "nb_mots": 345,
             "orateurs": {
-              "jean-jacques filleul": {
-                "link": "http://www.nossenateurs.fr/seance/13559#inter_9373f418b7944f7e97af82263b6eb23e",
-                "nb_intervs": 1,
-                "nb_mots": 146
+              "ronan dantec": {
+                "link": "http://www.nossenateurs.fr/seance/13559#inter_3f4de82f8a969da41616de05d9efdc80",
+                "nb_intervs": 3,
+                "nb_mots": 345
               }
             }
           },
@@ -558,17 +564,6 @@
               }
             }
           },
-          "RDSE": {
-            "nb_intervs": 3,
-            "nb_mots": 345,
-            "orateurs": {
-              "ronan dantec": {
-                "link": "http://www.nossenateurs.fr/seance/13559#inter_3f4de82f8a969da41616de05d9efdc80",
-                "nb_intervs": 3,
-                "nb_mots": 345
-              }
-            }
-          },
           "Rapporteurs": {
             "nb_intervs": 2,
             "nb_mots": 556,
@@ -577,6 +572,17 @@
                 "link": "http://www.nossenateurs.fr/seance/13559#inter_4dc95f0fa2d9ac24d33d298b508d6afc",
                 "nb_intervs": 2,
                 "nb_mots": 556
+              }
+            }
+          },
+          "SOC": {
+            "nb_intervs": 1,
+            "nb_mots": 146,
+            "orateurs": {
+              "jean-jacques filleul": {
+                "link": "http://www.nossenateurs.fr/seance/13559#inter_9373f418b7944f7e97af82263b6eb23e",
+                "nb_intervs": 1,
+                "nb_mots": 146
               }
             }
           }
@@ -602,6 +608,17 @@
               }
             }
           },
+          "ECOLO": {
+            "nb_intervs": 3,
+            "nb_mots": 928,
+            "orateurs": {
+              "ronan dantec": {
+                "link": "http://www.nossenateurs.fr/seance/13559#inter_1847d707bc750b296259515d409e874e",
+                "nb_intervs": 3,
+                "nb_mots": 928
+              }
+            }
+          },
           "Gouvernement": {
             "nb_intervs": 1,
             "nb_mots": 365,
@@ -621,17 +638,6 @@
                 "link": "http://www.nossenateurs.fr/seance/13559#inter_b85b33f6b765f617754a88c231fa1a6e",
                 "nb_intervs": 9,
                 "nb_mots": 379
-              }
-            }
-          },
-          "RDSE": {
-            "nb_intervs": 3,
-            "nb_mots": 928,
-            "orateurs": {
-              "ronan dantec": {
-                "link": "http://www.nossenateurs.fr/seance/13559#inter_1847d707bc750b296259515d409e874e",
-                "nb_intervs": 3,
-                "nb_mots": 928
               }
             }
           },
@@ -667,29 +673,23 @@
       }
     },
     "groupes": {
-      "Auditionnés": {
-        "color": "#ccb7b6",
-        "link": "",
-        "nom": "Auditionnés",
-        "order": 70
-      },
       "CRC": {
         "color": "rgb(255,30,30)",
         "link": "https://www.nossenateurs.fr/groupe/CRC",
         "nom": "Communiste, Républicain, Citoyen et des Sénateurs du Parti de Gauche",
         "order": 11
       },
+      "ECOLO": {
+        "color": "rgb(0,230,30)",
+        "link": "https://www.nossenateurs.fr/groupe/ECOLO",
+        "nom": "Écologiste",
+        "order": 16
+      },
       "Gouvernement": {
         "color": "#cccbb3",
         "link": "",
         "nom": "Gouvernement",
         "order": 60
-      },
-      "LR": {
-        "color": "rgb(30,30,200)",
-        "link": "https://www.nossenateurs.fr/groupe/LR",
-        "nom": "Les Républicains",
-        "order": 24
       },
       "Présidence": {
         "color": "#bfbbcc",
@@ -720,6 +720,12 @@
         "link": "https://www.nossenateurs.fr/groupe/UC",
         "nom": "Union Centriste",
         "order": 20
+      },
+      "UMP": {
+        "color": "rgb(30,30,200)",
+        "link": "https://www.nossenateurs.fr/groupe/UMP",
+        "nom": "Union pour un Mouvement Populaire",
+        "order": 23
       }
     },
     "orateurs": {
@@ -734,7 +740,7 @@
       "didier mandelli": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/didier-mandelli",
         "nom": "Didier Mandelli",
         "photo": "https://www.nossenateurs.fr/senateur/photo/didier-mandelli"
@@ -742,7 +748,7 @@
       "françois bonhomme": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/francois-bonhomme",
         "nom": "François Bonhomme",
         "photo": "https://www.nossenateurs.fr/senateur/photo/francois-bonhomme"
@@ -764,9 +770,9 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/jacqueline-gourault"
       },
       "jean-jacques filleul": {
-        "color": "#888888",
+        "color": "rgb(255,50,190)",
         "fonction": "",
-        "groupe": "",
+        "groupe": "SOC",
         "link": "https://www.nossenateurs.fr/jean-jacques-filleul",
         "nom": "Jean-Jacques Filleul",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jean-jacques-filleul"
@@ -782,7 +788,7 @@
       "michel raison": {
         "color": "rgb(30,30,200)",
         "fonction": "rapporteur",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/michel-raison",
         "nom": "Michel Raison",
         "photo": "https://www.nossenateurs.fr/senateur/photo/michel-raison"
@@ -812,9 +818,9 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/pierre-medevielle"
       },
       "ronan dantec": {
-        "color": "rgb(250,195,132)",
+        "color": "rgb(0,230,30)",
         "fonction": "",
-        "groupe": "RDSE",
+        "groupe": "ECOLO",
         "link": "https://www.nossenateurs.fr/ronan-dantec",
         "nom": "Ronan Dantec",
         "photo": "https://www.nossenateurs.fr/senateur/photo/ronan-dantec"
@@ -822,7 +828,7 @@
       "rémy pointereau": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/remy-pointereau",
         "nom": "Rémy Pointereau",
         "photo": "https://www.nossenateurs.fr/senateur/photo/remy-pointereau"
@@ -830,7 +836,7 @@
       "thierry foucaud": {
         "color": "rgb(255,30,30)",
         "fonction": "président",
-        "groupe": "CRCE",
+        "groupe": "CRC",
         "link": "https://www.nossenateurs.fr/thierry-foucaud",
         "nom": "Thierry Foucaud",
         "photo": "https://www.nossenateurs.fr/senateur/photo/thierry-foucaud"
@@ -842,7 +848,7 @@
       "Adoption des conclusions d'une commission mixte paritaire": {
         "first_date": "2015-12-17",
         "groupes": {
-          "CRCE": {
+          "CRC": {
             "nb_intervs": 1,
             "nb_mots": 1034,
             "orateurs": {
@@ -850,6 +856,17 @@
                 "link": "http://www.nossenateurs.fr/seance/13966#inter_5e0375d0ad061fc3814e510d4b6a79c2",
                 "nb_intervs": 1,
                 "nb_mots": 1034
+              }
+            }
+          },
+          "ECOLO": {
+            "nb_intervs": 1,
+            "nb_mots": 1107,
+            "orateurs": {
+              "corinne bouchoux": {
+                "link": "http://www.nossenateurs.fr/seance/13966#inter_5fcb3657c56e19053a8ec42e98c3ba90",
+                "nb_intervs": 1,
+                "nb_mots": 1107
               }
             }
           },
@@ -861,33 +878,6 @@
                 "link": "http://www.nossenateurs.fr/seance/13966#inter_4f2b47524532cc0ca46afe16d09882a3",
                 "nb_intervs": 2,
                 "nb_mots": 677
-              }
-            }
-          },
-          "LR": {
-            "nb_intervs": 2,
-            "nb_mots": 1278,
-            "orateurs": {
-              "hugues portelli": {
-                "link": "http://www.nossenateurs.fr/seance/13966#inter_a1a28b42b33abf362e426fcbcec69de3",
-                "nb_intervs": 1,
-                "nb_mots": 576
-              },
-              "jacky deromedi": {
-                "link": "http://www.nossenateurs.fr/seance/13966#inter_b2807d681fafd152c2864a73dc27a5d5",
-                "nb_intervs": 1,
-                "nb_mots": 702
-              }
-            }
-          },
-          "NI": {
-            "nb_intervs": 1,
-            "nb_mots": 1107,
-            "orateurs": {
-              "corinne bouchoux": {
-                "link": "http://www.nossenateurs.fr/seance/13966#inter_5fcb3657c56e19053a8ec42e98c3ba90",
-                "nb_intervs": 1,
-                "nb_mots": 1107
               }
             }
           },
@@ -939,6 +929,22 @@
                 "nb_mots": 1038
               }
             }
+          },
+          "UMP": {
+            "nb_intervs": 2,
+            "nb_mots": 1278,
+            "orateurs": {
+              "hugues portelli": {
+                "link": "http://www.nossenateurs.fr/seance/13966#inter_a1a28b42b33abf362e426fcbcec69de3",
+                "nb_intervs": 1,
+                "nb_mots": 576
+              },
+              "jacky deromedi": {
+                "link": "http://www.nossenateurs.fr/seance/13966#inter_b2807d681fafd152c2864a73dc27a5d5",
+                "nb_intervs": 1,
+                "nb_mots": 702
+              }
+            }
           }
         },
         "last_date": "2015-12-17",
@@ -950,29 +956,23 @@
       }
     },
     "groupes": {
-      "CRCE": {
+      "CRC": {
         "color": "rgb(255,30,30)",
-        "link": "https://www.nossenateurs.fr/groupe/CRCE",
-        "nom": "Communiste républicain citoyen et Écologiste",
-        "order": 10
+        "link": "https://www.nossenateurs.fr/groupe/CRC",
+        "nom": "Communiste, Républicain, Citoyen et des Sénateurs du Parti de Gauche",
+        "order": 11
+      },
+      "ECOLO": {
+        "color": "rgb(0,230,30)",
+        "link": "https://www.nossenateurs.fr/groupe/ECOLO",
+        "nom": "Écologiste",
+        "order": 16
       },
       "Gouvernement": {
         "color": "#cccbb3",
         "link": "",
         "nom": "Gouvernement",
         "order": 60
-      },
-      "LR": {
-        "color": "rgb(30,30,200)",
-        "link": "https://www.nossenateurs.fr/groupe/LR",
-        "nom": "Les Républicains",
-        "order": 24
-      },
-      "NI": {
-        "color": "rgb(165,165,165)",
-        "link": "https://www.nossenateurs.fr/groupe/NI",
-        "nom": "Réunion administrative des Sénateurs ne figurant sur la liste d'aucun groupe politique",
-        "order": 25
       },
       "Présidence": {
         "color": "#bfbbcc",
@@ -997,6 +997,12 @@
         "link": "https://www.nossenateurs.fr/groupe/UC",
         "nom": "Union Centriste",
         "order": 20
+      },
+      "UMP": {
+        "color": "rgb(30,30,200)",
+        "link": "https://www.nossenateurs.fr/groupe/UMP",
+        "nom": "Union pour un Mouvement Populaire",
+        "order": 23
       }
     },
     "orateurs": {
@@ -1017,9 +1023,9 @@
         "photo": ""
       },
       "corinne bouchoux": {
-        "color": "rgb(165,165,165)",
+        "color": "rgb(0,230,30)",
         "fonction": "",
-        "groupe": "NI",
+        "groupe": "ECOLO",
         "link": "https://www.nossenateurs.fr/corinne-bouchoux",
         "nom": "Corinne Bouchoux",
         "photo": "https://www.nossenateurs.fr/senateur/photo/corinne-bouchoux"
@@ -1035,7 +1041,7 @@
       "hugues portelli": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/hugues-portelli",
         "nom": "Hugues Portelli",
         "photo": "https://www.nossenateurs.fr/senateur/photo/hugues-portelli"
@@ -1043,7 +1049,7 @@
       "isabelle debré": {
         "color": "rgb(30,30,200)",
         "fonction": "présidente",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/isabelle-debre",
         "nom": "Isabelle Debré",
         "photo": "https://www.nossenateurs.fr/senateur/photo/isabelle-debre"
@@ -1051,7 +1057,7 @@
       "jacky deromedi": {
         "color": "rgb(30,30,200)",
         "fonction": "",
-        "groupe": "LR",
+        "groupe": "UMP",
         "link": "https://www.nossenateurs.fr/jacky-deromedi",
         "nom": "Jacky Deromedi",
         "photo": "https://www.nossenateurs.fr/senateur/photo/jacky-deromedi"
@@ -1075,7 +1081,7 @@
       "éric bocquet": {
         "color": "rgb(255,30,30)",
         "fonction": "",
-        "groupe": "CRCE",
+        "groupe": "CRC",
         "link": "https://www.nossenateurs.fr/eric-bocquet",
         "nom": "Éric Bocquet",
         "photo": "https://www.nossenateurs.fr/senateur/photo/eric-bocquet"

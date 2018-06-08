@@ -1,17 +1,11 @@
 {
   "api_root_url": "https://www.nossenateurs.fr/api/document/Amendement/",
   "groupes": {
-    "LR": {
-      "color": "rgb(30,30,200)",
-      "link": "https://www.nossenateurs.fr/groupe/LR",
-      "nom": "Les Républicains",
-      "order": 24
-    },
-    "NI": {
-      "color": "rgb(165,165,165)",
-      "link": "https://www.nossenateurs.fr/groupe/NI",
-      "nom": "Réunion administrative des Sénateurs ne figurant sur la liste d'aucun groupe politique",
-      "order": 25
+    "ECOLO": {
+      "color": "rgb(0,230,30)",
+      "link": "https://www.nossenateurs.fr/groupe/ECOLO",
+      "nom": "Écologiste",
+      "order": 16
     },
     "SOC": {
       "color": "rgb(255,50,190)",
@@ -24,6 +18,12 @@
       "link": "https://www.nossenateurs.fr/groupe/UC",
       "nom": "Union Centriste",
       "order": 20
+    },
+    "UMP": {
+      "color": "rgb(30,30,200)",
+      "link": "https://www.nossenateurs.fr/groupe/UMP",
+      "nom": "Union pour un Mouvement Populaire",
+      "order": 23
     }
   },
   "id_step": "04_1erelecture_senat_commission",
@@ -287,7 +287,7 @@
         {
           "aut": "Mme Lipietz",
           "date": "2013-07-01",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "66732",
           "numero": "COM-51",
           "sort": "non-voté"
@@ -397,7 +397,7 @@
         {
           "aut": "Mme Garriaud-Maylam",
           "date": "2013-07-01",
-          "groupe": "LR",
+          "groupe": "UMP",
           "id_api": "66731",
           "numero": "COM-50",
           "sort": "rejeté"

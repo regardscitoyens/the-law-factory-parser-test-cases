@@ -7,17 +7,17 @@
       "nom": "Communiste, Républicain, Citoyen et des Sénateurs du Parti de Gauche",
       "order": 11
     },
+    "ECOLO": {
+      "color": "rgb(0,230,30)",
+      "link": "https://www.nossenateurs.fr/groupe/ECOLO",
+      "nom": "Écologiste",
+      "order": 16
+    },
     "Gouvernement": {
       "color": "#cccbb3",
       "link": "",
       "nom": "Gouvernement",
       "order": 60
-    },
-    "NI": {
-      "color": "rgb(165,165,165)",
-      "link": "https://www.nossenateurs.fr/groupe/NI",
-      "nom": "Réunion administrative des Sénateurs ne figurant sur la liste d'aucun groupe politique",
-      "order": 25
     },
     "RDSE": {
       "color": "rgb(250,195,132)",
@@ -81,7 +81,7 @@
         {
           "aut": "Mme Bouchoux, …",
           "date": "2015-10-26",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "106503",
           "numero": "17",
           "sort": "adopté"
@@ -127,7 +127,7 @@
         {
           "aut": "Mme Bouchoux, …",
           "date": "2015-10-26",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "106510",
           "numero": "24",
           "sort": "rejeté"
@@ -197,7 +197,7 @@
         {
           "aut": "Mme Bouchoux, …",
           "date": "2015-10-26",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "106504",
           "numero": "18",
           "sort": "adopté"
@@ -205,7 +205,7 @@
         {
           "aut": "Mme Bouchoux, …",
           "date": "2015-10-26",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "106505",
           "numero": "19",
           "sort": "non-voté"
@@ -213,7 +213,7 @@
         {
           "aut": "Mme Bouchoux, …",
           "date": "2015-10-26",
-          "groupe": "NI",
+          "groupe": "ECOLO",
           "id_api": "106506",
           "numero": "20",
           "sort": "non-voté"
