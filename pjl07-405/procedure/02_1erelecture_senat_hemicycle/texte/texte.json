@@ -48,7 +48,9 @@
         "044": "- l'article L. 331-22 devient l'article L. 331-11.",
         "045": "M. - Supprimé"
       },
-      "liens": [],
+      "liens": [
+        "code de la propriété intellectuelle"
+      ],
       "order": 1,
       "section": "C1",
       "statut": "none",
@@ -193,14 +195,15 @@
         "121": "\"Elle évalue, en outre, les expérimentations conduites par les professionnels concernés dans le domaine des technologies de reconnaissance des contenus et de filtrage et rend compte des principales évolutions constatées dans ce domaine, dans le cadre du rapport prévu à l'article L. 331-13-1.\""
       },
       "liens": [
+        "code de la propriété intellectuelle",
         "article 432-13 du code pénal",
         "article L. 233-16 du code de commerce",
         "article L. 34-1 du code des postes et des communications électroniques",
-        "du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004",
+        "I de l'article 6 de la loi n° 2004-575 du 21 juin 2004",
         "article 413-10 du code pénal",
         "article 17-1 de la loi n° 95-73 du 21 janvier 1995",
         "article L. 121-84 du code de la consommation",
-        "la loi n° 78-17 du 6 janvier 1978"
+        "loi n° 78-17 du 6 janvier 1978"
       ],
       "order": 3,
       "section": "C1",
@@ -212,7 +215,9 @@
       "alineas": {
         "001": "La section 3 du chapitre Ier du titre III du livre III de la première partie du code de la propriété intellectuelle, dans sa rédaction résultant de l'article 2, est complétée par une sous-section 4 intitulée : \"Mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des oeuvres et des objets protégés\" qui comprend les articles L. 331-37 à L. 331-43."
       },
-      "liens": [],
+      "liens": [
+        "code de la propriété intellectuelle"
+      ],
       "order": 4,
       "section": "C1",
       "statut": "none",
@@ -236,7 +241,9 @@
       "alineas": {
         "001": "L'intitulé du chapitre VI du titre III du livre III de la première partie du code de la propriété intellectuelle est ainsi rédigé : \"Prévention du téléchargement et de la mise à disposition illicites d'oeuvres et d'objets protégés\"."
       },
-      "liens": [],
+      "liens": [
+        "code de la propriété intellectuelle"
+      ],
       "order": 6,
       "section": "C1",
       "statut": "nouveau",
@@ -270,6 +277,7 @@
         "009": "\"Un décret détermine lesdites caractéristiques essentielles de l'utilisation de l'oeuvre.\""
       },
       "liens": [
+        "code de la propriété intellectuelle",
         "articles L. 111-1 et L. 121-1 du code de la consommation"
       ],
       "order": 8,
@@ -310,7 +318,7 @@
         "002": "\"Les personnes visées à l'alinéa précédent les informent également de l'existence de moyens de sécurisation permettant de prévenir les manquements à l'obligation définie à l'article L. 336-3 du code de la propriété intellectuelle et leur proposent au moins un de ces moyens figurant sur la liste mentionnée à l'article L. 331-30 du même code.\""
       },
       "liens": [
-        "du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004",
+        "I de l'article 6 de la loi n° 2004-575 du 21 juin 2004",
         "article L. 336-3 du code de la propriété intellectuelle"
       ],
       "order": 11,
@@ -324,7 +332,7 @@
         "001": "À la première phrase du II de l'article L. 34-1 du code des postes et des communications électroniques, après les mots : \"infractions pénales\", sont insérés les mots : \"ou d'un manquement à l'obligation définie à l'article L. 336-3 du code de la propriété intellectuelle\" et après les mots : \"l'autorité judiciaire\", sont insérés les mots : \"ou de la Haute Autorité mentionnée à l'article L. 331-12 du code de la propriété intellectuelle\"."
       },
       "liens": [
-        "du II de l'article L. 34-1 du code des postes et des communications électroniques",
+        "II de l'article L. 34-1 du code des postes et des communications électroniques",
         "article L. 336-3 du code de la propriété intellectuelle",
         "article L. 331-12 du code de la propriété intellectuelle"
       ],
@@ -397,7 +405,8 @@
         "003": "III. - Les procédures en cours devant l'Autorité de régulation des mesures techniques à la date de la première réunion de la Haute Autorité pour la diffusion des oeuvres et la protection des droits sur internet sont poursuivies de plein droit devant le collège de la Haute Autorité."
       },
       "liens": [
-        "articles L. 331-29, L. 331-31 et L. 331-32 du code de la propriété intellectuelle"
+        "articles L. 331-29, L. 331-31 et L. 331-32 du code de la propriété intellectuelle",
+        "code de la propriété intellectuelle"
       ],
       "order": 16,
       "section": "C4",
@@ -415,7 +424,7 @@
       "liens": [
         "article 89 de la loi n° 82-652 du 29 juillet 1982",
         "article 79 de la loi n° 86-1067 du 30 septembre 1986",
-        "au second alinéa de l'article 30-4 du code de l'industrie cinématographique",
+        "second alinéa de l'article 30-4 du code de l'industrie cinématographique",
         "article 89 de la loi n° 82-652 du 29 juillet 1982"
       ],
       "order": 17,

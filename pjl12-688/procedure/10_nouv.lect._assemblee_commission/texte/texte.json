@@ -97,12 +97,14 @@
         "085": "Dans les six mois suivant cette date, tout député ou sénateur établit une déclaration de situation patrimoniale et une déclaration d'intérêts et d'activités suivant les modalités prévues aux articles L. O. 135-1 et L. O. 135-2 du code électoral."
       },
       "liens": [
-        "articles 1er et 2 de la loi n° 88-227 du 11 mars 1988",
-        "articles 3 et 10 de la loi",
+        "code électoral",
+        "loi n° 88-227 du 11 mars 1988",
         "articles 131-26 et 131-26-1 du code pénal",
         "article 74 de la Constitution",
         "article 226-1 du code pénal",
-        "articles 10 à 13 de la loi n° 78-753 du 17 juillet 1978"
+        "articles 10 à 13 de la loi n° 78-753 du 17 juillet 1978",
+        "livre des procédures fiscales",
+        "code électoral"
       ],
       "order": 2,
       "statut": "none",
@@ -152,7 +154,12 @@
         "039": "VIII. - Le IV bis du présent article entre en vigueur le 1er janvier 2014.",
         "040": "IX. - (Supprimé)"
       },
-      "liens": [],
+      "liens": [
+        "code électoral",
+        "Constitution",
+        "code électoral",
+        "code électoral"
+      ],
       "order": 3,
       "statut": "none",
       "titre": "2",
@@ -162,7 +169,9 @@
       "alineas": {
         "001": "La deuxième phrase de l'article L. O. 153 du code électoral est complétée par les mots : \"et ne peut percevoir aucune indemnité en tant que parlementaire\"."
       },
-      "liens": [],
+      "liens": [
+        "code électoral"
+      ],
       "order": 4,
       "statut": "conforme",
       "titre": "2 bis",
@@ -172,7 +181,9 @@
       "alineas": {
         "001": "Le 1° du I des articles L. O. 489, L. O. 516 et L. O. 544 du code électoral est abrogé."
       },
-      "liens": [],
+      "liens": [
+        "code électoral"
+      ],
       "order": 5,
       "statut": "conforme",
       "titre": "2 ter",
@@ -206,7 +217,7 @@
         "010": "III. - Le 2° du I A du présent article entre en vigueur le 1er janvier 2014."
       },
       "liens": [
-        "L'ordonnance n° 58-1099 du 17 novembre 1958",
+        "ordonnance n° 58-1099 du 17 novembre 1958",
         "article 23 de la Constitution"
       ],
       "order": 7,
@@ -246,9 +257,7 @@
       "alineas": {
         "001": "Les articles 1er et 2 de la présente loi sont applicables en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie."
       },
-      "liens": [
-        "articles 1er et 2 de la présente loi"
-      ],
+      "liens": [],
       "order": 10,
       "statut": "conforme",
       "titre": "5",
@@ -261,8 +270,7 @@
         "003": "2° Le 1° du I de l'article 195 est abrogé."
       },
       "liens": [
-        "La loi organique n° 99-209 du 19 mars 1999",
-        "aux 1° et 2° du I de l'article 10 de la loi"
+        "loi organique n° 99-209 du 19 mars 1999"
       ],
       "order": 11,
       "statut": "non modifié",
@@ -278,8 +286,7 @@
         "005": "\"Le président et les autres représentants à l'assemblée de la Polynésie française sont soumis, dans les mêmes conditions, aux obligations de déclaration applicables aux personnes mentionnées, respectivement, aux 1° et 2° du même I."
       },
       "liens": [
-        "La loi organique n° 2004-192 du 27 février 2004",
-        "aux 1° et 2° du I de l'article 10 de la loi"
+        "loi organique n° 2004-192 du 27 février 2004"
       ],
       "order": 12,
       "statut": "non modifié",
@@ -291,7 +298,7 @@
         "001": "Après le mot : \"sont\", la fin du dernier alinéa des articles L. O. 6221-1, L. O. 6321-1 et L. O. 6431-1 du code général des collectivités territoriales est ainsi rédigée : \"soumis, dans les mêmes conditions, aux obligations de déclaration applicables aux personnes mentionnées, respectivement, aux 1° et 2° du I de l'article 10 de la loi n° du relative à la transparence de la vie publique.\""
       },
       "liens": [
-        "aux 1° et 2° du I de l'article 10 de la loi"
+        "code général des collectivités territoriales"
       ],
       "order": 13,
       "statut": "non modifié",

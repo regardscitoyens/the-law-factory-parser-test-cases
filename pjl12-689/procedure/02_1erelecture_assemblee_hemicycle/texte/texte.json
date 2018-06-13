@@ -22,7 +22,7 @@
         "007": "5° Les personnes chargées d'une mission de service public placées sous l'autorité d'un supérieur hiérarchique le saisissent ; ce dernier apprécie s'il y a lieu de confier le dossier ou la décision à une autre personne."
       },
       "liens": [
-        "au deuxième alinéa de l'article 432-12 du code pénal"
+        "deuxième alinéa de l'article 432-12 du code pénal"
       ],
       "order": 2,
       "section": "C1S1",
@@ -83,8 +83,7 @@
         "035": "La même procédure est applicable en cas de déclaration incomplète ou lorsqu'il n'a pas été donné suite à une demande d'explications adressée par la Haute Autorité en application du II de l'article 13."
       },
       "liens": [
-        "article 12 de la présente loi",
-        "article 10 de la présente loi"
+        "code électoral"
       ],
       "order": 4,
       "section": "C1S2",
@@ -117,7 +116,7 @@
         "021": "V. - Un décret en Conseil d'État, pris après avis de la Commission nationale de l'informatique et des libertés, précise les modalités d'application du présent article."
       },
       "liens": [
-        "Au 1° du I de l'article 6 de la loi n° 78-753 du 17 juillet 1978"
+        "1° du I de l'article 6 de la loi n° 78-753 du 17 juillet 1978"
       ],
       "order": 5,
       "section": "C1S2",
@@ -135,8 +134,8 @@
         "006": "Les agents de l'administration fiscale sont déliés du secret professionnel à l'égard des membres et des rapporteurs de la Haute Autorité, au titre des vérifications et contrôles qu'ils mettent en oeuvre pour l'application de la présente loi."
       },
       "liens": [
-        "article 3 de la présente loi",
-        "articles 170 à 175 A du code général des impôts"
+        "articles 170 à 175 A du code général des impôts",
+        "livre des procédures fiscales"
       ],
       "order": 6,
       "section": "C1S2",
@@ -176,7 +175,9 @@
         "001": "Tout membre du Gouvernement, dès après sa nomination, fait l'objet d'une procédure de vérification de sa situation fiscale, dans les conditions prévues au titre II de la première partie du livre des procédures fiscales, au titre de l'impôt sur le revenu et, le cas échéant, de l'impôt de solidarité sur la fortune. Cette procédure est placée sous le contrôle de la Haute Autorité de la transparence de la vie publique.",
         "002": "Les conditions d'applications du présent article sont fixées par décret en Conseil d'État."
       },
-      "liens": [],
+      "liens": [
+        "livre des procédures fiscales"
+      ],
       "order": 9,
       "section": "C1S2",
       "statut": "none",
@@ -223,10 +224,10 @@
         "023": "IV. - Le IV de l'article 3 et les articles 5 et 6 sont applicables aux personnes mentionnées au présent article. L'article 9 est applicable aux personnes mentionnées au présent article, à l'exclusion des personnes mentionnées au 1° A du I."
       },
       "liens": [
-        "article 3 de la présente loi",
+        "code électoral",
         "article L. 421-1 du code de la construction et de l'habitation",
         "titres XII et XIII de la Constitution",
-        "au 1° de l'article L. 1525-1 du code général des collectivités territoriales"
+        "1° de l'article L. 1525-1 du code général des collectivités territoriales"
       ],
       "order": 11,
       "section": "C1S2",
@@ -334,8 +335,8 @@
         "026": "La Haute Autorité adopte un règlement général, déterminant les conditions de son fonctionnement et l'organisation de ses procédures."
       },
       "liens": [
-        "articles 3 et 10 de la présente loi",
-        "La loi du 10 août 1922"
+        "code électoral",
+        "loi du 10 août 1922"
       ],
       "order": 16,
       "section": "C1S3",
@@ -358,7 +359,8 @@
         "011": "Elle peut charger un ou plusieurs de ses membres ou rapporteurs de procéder ou de faire procéder par les agents de ses services à des vérifications portant sur le contenu des déclarations prévues à l'article L. O. 135-1 du code électoral et aux articles 3 et 10 de la présente loi et sur les informations dont elle dispose."
       },
       "liens": [
-        "articles 3 et 10 de la présente loi"
+        "code électoral",
+        "code électoral"
       ],
       "order": 17,
       "section": "C1S3",
@@ -419,7 +421,8 @@
       },
       "liens": [
         "article 6 de la loi n° 77-729 du 7 juillet 1977",
-        "Le deuxième alinéa de l'article 46 de la loi n° 84-16 du 11 janvier 1984",
+        "code électoral",
+        "deuxième alinéa de l'article 46 de la loi n° 84-16 du 11 janvier 1984",
         "article 65 de la loi n° 84-53 du 26 janvier 1984",
         "article 53 de la loi n° 86-33 du 9 janvier 1986"
       ],
@@ -438,8 +441,7 @@
       },
       "liens": [
         "article 2-23 du code de procédure pénale",
-        "article 2 de la présente loi",
-        "au premier alinéa de l'article 226-10 du code pénal"
+        "premier alinéa de l'article 226-10 du code pénal"
       ],
       "order": 21,
       "section": "C1S5",
@@ -456,11 +458,9 @@
         "005": "IV. - Le fait de publier, hors les cas prévus par la présente loi, ou de divulguer, de quelque manière que ce soit, tout ou partie des déclarations, des informations ou des observations mentionnées aux articles L. O. 135-1 et L. O. 135-3 du code électoral et aux articles 3, 5 et 10 de la présente loi est puni des peines mentionnées à l'article 226-1 du code pénal."
       },
       "liens": [
-        "du III de l'article 3 de la présente loi",
         "articles 131-26 et 131-26-1 du code pénal",
-        "articles 3 ou 10 de la présente loi",
         "articles 131-26 et 131-26-1 du code pénal",
-        "articles 3, 5 et 10 de la présente loi",
+        "code électoral",
         "article 226-1 du code pénal"
       ],
       "order": 22,
@@ -485,9 +485,10 @@
       },
       "liens": [
         "article 131-26 du code pénal",
-        "le premier alinéa de l'article 324-7 du code pénal",
-        "du 1° de l'article 432-17 du code pénal",
-        "du premier alinéa de l'article L. 117 du code électoral",
+        "premier alinéa de l'article 324-7 du code pénal",
+        "1° de l'article 432-17 du code pénal",
+        "premier alinéa de l'article L. 117 du code électoral",
+        "code général des impôts",
         "article 131-26 du code pénal",
         "articles 131-26 et 131-26-1 du code pénal",
         "articles L. 241-3 et L. 242-6 du code de commerce",
@@ -515,7 +516,7 @@
         "003": "2° Après les mots : \"en tant que\", sont insérés les mots : \"membre du Gouvernement, titulaire d'une fonction exécutive locale,\"."
       },
       "liens": [
-        "Le premier alinéa de l'article 432-13 du code pénal"
+        "premier alinéa de l'article 432-13 du code pénal"
       ],
       "order": 25,
       "section": "C2",
@@ -529,8 +530,8 @@
         "002": "\"<table><tbody><tr><td>Président de la Haute Autorité de la transparence de la vie publique</td><td>Commission permanente compétente en matière de lois constitutionnelles</td></tr></tbody></table>\""
       },
       "liens": [
-        "la loi n° 2010-838 du 23 juillet 2010",
-        "du cinquième alinéa de l'article 13 de la Constitution"
+        "loi n° 2010-838 du 23 juillet 2010",
+        "cinquième alinéa de l'article 13 de la Constitution"
       ],
       "order": 26,
       "section": "C3",
@@ -548,7 +549,7 @@
       "liens": [
         "articles 1er à 5-1 de la loi n° 88-227 du 11 mars 1988",
         "articles 1er et 2 de la loi n° 88-227 du 11 mars 1988",
-        "articles L. 195 et L. 367 du code électoral"
+        "dernier alinéa des articles L. 195 et L. 367 du code électoral"
       ],
       "order": 27,
       "section": "C3",
@@ -564,8 +565,7 @@
         "004": "3° Après le mot : \"mentionnées\", la fin de l'article est ainsi rédigée : \"aux articles 3 et 10 de la loi n° du relative à la transparence de la vie publique, en application de l'article 5 de cette même loi.\""
       },
       "liens": [
-        "article L. 139 B du livre des procédures fiscales",
-        "articles 3 et 10 de la loi"
+        "article L. 139 B du livre des procédures fiscales"
       ],
       "order": 28,
       "section": "C3",
@@ -605,6 +605,7 @@
         "014": "II. - Les articles L. 2123-18-1-1 et L. 5211-13-1 du code général des collectivités territoriales sont applicables en Polynésie française."
       },
       "liens": [
+        "code général des collectivités territoriales",
         "articles L. 2123-18-1-1 et L. 5211-13-1 du code général des collectivités territoriales"
       ],
       "order": 30,
@@ -619,7 +620,7 @@
         "002": "II. - (Supprimé)"
       },
       "liens": [
-        "le deuxième alinéa de l'article 65 de la loi n° 84-53 du 26 janvier 1984",
+        "deuxième alinéa de l'article 65 de la loi n° 84-53 du 26 janvier 1984",
         "article 53 de la loi n° 86-33 du 9 janvier 1986"
       ],
       "order": 31,

@@ -6,8 +6,10 @@
         "002": "II. - L'ordonnance n° 2011-204 du 24 février 2011 relative au code des transports est ratifiée."
       },
       "liens": [
-        "L'ordonnance n° 2010-1307 du 28 octobre 2010",
-        "L'ordonnance n° 2011-204 du 24 février 2011"
+        "ordonnance n° 2010-1307 du 28 octobre 2010",
+        "partie législative du code des transports",
+        "ordonnance n° 2011-204 du 24 février 2011",
+        "code des transports"
       ],
       "order": 1,
       "statut": "none",
@@ -50,6 +52,7 @@
         "032": "\"Art. L. 1114-5. - En cas de perturbation du trafic aérien liée à une grève dans une entreprise, un établissement ou une partie d'établissement entrant dans le champ d'application du présent chapitre, tout passager a le droit de disposer d'une information gratuite, précise et fiable sur l'activité assurée. Cette information doit être délivrée aux passagers par l'entreprise de transport aérien au plus tard vingt-quatre heures avant le début de la perturbation.\""
       },
       "liens": [
+        "code des transports",
         "article L. 2512-1 du code du travail",
         "article 226-13 du code pénal",
         "articles L. 2523-4 à L. 2523-9 du code du travail"
@@ -65,7 +68,7 @@
         "002": "\"Elle est également applicable aux manquements au règlement (CE) n° 1008/2008 du Parlement européen et du Conseil, du 24 septembre 2008, établissant des règles communes pour l'exploitation de services aériens dans la Communauté.\""
       },
       "liens": [
-        "Le deuxième alinéa de l'article L. 113-3 du code de la consommation"
+        "deuxième alinéa de l'article L. 113-3 du code de la consommation"
       ],
       "order": 3,
       "statut": "none",
@@ -78,7 +81,7 @@
         "002": "\"6° De l'article 23 du règlement (CE) n° 1008/2008 du Parlement européen et du Conseil, du 24 septembre 2008, établissant des règles communes pour l'exploitation de services aériens dans la Communauté.\""
       },
       "liens": [
-        "Le III de l'article L. 141-1 du code de la consommation"
+        "III de l'article L. 141-1 du code de la consommation"
       ],
       "order": 4,
       "statut": "none",
@@ -95,7 +98,9 @@
         "006": "2° L'article L. 1324-8 est complété par une phrase ainsi rédigée :",
         "007": "\"Cette sanction disciplinaire peut également être prise à l'encontre du salarié qui, de façon répétée, n'a pas informé son employeur de son intention de renoncer à participer à la grève ou de reprendre son service.\""
       },
-      "liens": [],
+      "liens": [
+        "code des transports"
+      ],
       "order": 5,
       "statut": "none",
       "titre": "2 quater",

@@ -93,13 +93,13 @@
         "089": "Les procédures se rapportant à des mandats parlementaires qui emportaient l'obligation de dépôt de déclarations en application de l'article L. O. 135-1 dudit code dans sa rédaction antérieure à l'entrée en vigueur de l'article 1er de la présente loi organique et qui se poursuivent après cette entrée en vigueur sont conduites par la Haute Autorité. Elle dispose, en ce qui les concerne, des prérogatives prévues par la présente loi organique."
       },
       "liens": [
-        "articles 3 et 10 de la loi",
+        "code électoral",
         "articles 131-26 et 131-26-1 du code pénal",
         "article 74 de la Constitution",
         "articles 10 à 13 de la loi n° 78-753 du 17 juillet 1978",
-        "article 1er de la présente loi organique",
-        "article 1er de la présente loi organique",
-        "article 1er de la présente loi organique"
+        "livre des procédures fiscales",
+        "code électoral",
+        "code électoral"
       ],
       "order": 1,
       "statut": "none",
@@ -150,7 +150,12 @@
         "040": "VII bis. - Pour l'application du III, les activités professionnelles et les fonctions de conseil exercées dans le cadre d'une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est protégé, pratiquées par les membres du Parlement avant la promulgation de la présente loi, sont considérées comme ayant été exercées avant le début de leur mandat.",
         "041": "VIII et IX. - (Supprimé)"
       },
-      "liens": [],
+      "liens": [
+        "code électoral",
+        "Constitution",
+        "code électoral",
+        "code électoral"
+      ],
       "order": 2,
       "statut": "none",
       "titre": "2",
@@ -165,7 +170,7 @@
         "005": "2° Le second alinéa de l'article 6 est supprimé."
       },
       "liens": [
-        "L'ordonnance n° 58-1067 du 7 novembre 1958"
+        "ordonnance n° 58-1067 du 7 novembre 1958"
       ],
       "order": 3,
       "statut": "none",
@@ -176,7 +181,9 @@
       "alineas": {
         "001": "La deuxième phrase de l'article L. O. 153 du code électoral est complétée par les mots : \"et ne peut percevoir aucune indemnité en tant que parlementaire\"."
       },
-      "liens": [],
+      "liens": [
+        "code électoral"
+      ],
       "order": 4,
       "statut": "conforme",
       "titre": "2 bis",
@@ -186,7 +193,9 @@
       "alineas": {
         "001": "Le 1° du I des articles L. O. 489, L. O. 516 et L. O. 544 du code électoral est abrogé."
       },
-      "liens": [],
+      "liens": [
+        "code électoral"
+      ],
       "order": 5,
       "statut": "conforme",
       "titre": "2 ter",
@@ -220,7 +229,7 @@
         "010": "III. - Le 2° du I A du présent article entre en vigueur le 1er octobre 2014."
       },
       "liens": [
-        "L'ordonnance n° 58-1099 du 17 novembre 1958",
+        "ordonnance n° 58-1099 du 17 novembre 1958",
         "article 23 de la Constitution"
       ],
       "order": 7,
@@ -234,8 +243,8 @@
         "002": "\"<table><tbody><tr><td>Haute Autorité pour la transparence de la vie publique</td><td>Président</td></tr></tbody></table>\""
       },
       "liens": [
-        "la loi organique n° 2010-837 du 23 juillet 2010",
-        "du cinquième alinéa de l'article 13 de la Constitution"
+        "loi organique n° 2010-837 du 23 juillet 2010",
+        "cinquième alinéa de l'article 13 de la Constitution"
       ],
       "order": 8,
       "statut": "none",
@@ -249,7 +258,8 @@
         "003": "\"La déclaration de situation patrimoniale remise à l'issue des fonctions dans les conditions prévues au quatrième alinéa du présent I est transmise à la Haute Autorité pour la transparence de la vie publique. Si la Haute Autorité constate que cette déclaration n'est pas exhaustive, exacte ou sincère ou si elle constate une évolution de situation patrimoniale pour laquelle elle ne dispose pas d'explications suffisantes, elle rend public ce constat, après avoir mis à même l'intéressé de présenter ses observations.\""
       },
       "liens": [
-        "le dernier alinéa du I de l'article 3 de la loi n° 62-1292 du 6 novembre 1962"
+        "dernier alinéa du I de l'article 3 de la loi n° 62-1292 du 6 novembre 1962",
+        "code électoral"
       ],
       "order": 9,
       "statut": "none",
@@ -288,9 +298,7 @@
       "alineas": {
         "001": "Les articles 1er et 2 de la présente loi sont applicables en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie."
       },
-      "liens": [
-        "articles 1er et 2 de la présente loi"
-      ],
+      "liens": [],
       "order": 12,
       "statut": "conforme",
       "titre": "5",
@@ -303,8 +311,7 @@
         "003": "2° Le 1° du I de l'article 195 est abrogé."
       },
       "liens": [
-        "La loi organique n° 99-209 du 19 mars 1999",
-        "aux 1° et 2° du I de l'article 10 de la loi"
+        "loi organique n° 99-209 du 19 mars 1999"
       ],
       "order": 13,
       "statut": "conformes",
@@ -320,8 +327,7 @@
         "005": "\"Le président et les autres représentants à l'assemblée de la Polynésie française sont soumis, dans les mêmes conditions, aux obligations de déclaration applicables aux personnes mentionnées, respectivement, aux 1° et 2° du même I."
       },
       "liens": [
-        "La loi organique n° 2004-192 du 27 février 2004",
-        "aux 1° et 2° du I de l'article 10 de la loi"
+        "loi organique n° 2004-192 du 27 février 2004"
       ],
       "order": 14,
       "statut": "conformes",
@@ -333,7 +339,7 @@
         "001": "Après le mot : \"sont\", la fin du dernier alinéa des articles L. O. 6221-1, L. O. 6321-1 et L. O. 6431-1 du code général des collectivités territoriales est ainsi rédigée : \"soumis, dans les mêmes conditions, aux obligations de déclaration applicables aux personnes mentionnées, respectivement, aux 1° et 2° du I de l'article 10 de la loi n° du relative à la transparence de la vie publique.\""
       },
       "liens": [
-        "aux 1° et 2° du I de l'article 10 de la loi"
+        "code général des collectivités territoriales"
       ],
       "order": 15,
       "statut": "conformes",
@@ -346,10 +352,7 @@
         "002": "L'administration fiscale compétente localement dans les collectivités d'outre-mer et en Nouvelle-Calédonie peut être sollicitée par la Haute Autorité pour la transparence de la vie publique dans les mêmes conditions que l'administration fiscale compétente au niveau national.",
         "003": "Chacune des personnes concernées par les articles 6 à 7 bis de la présente loi organique établit une déclaration de situation patrimoniale et une déclaration d'intérêts suivant les modalités prévues aux articles 3 et 10 de la loi n° du relative à la transparence de la vie publique, au plus tard le 1er juin 2014."
       },
-      "liens": [
-        "articles 6 à 7 bis de la présente loi organique",
-        "articles 3 et 10 de la loi"
-      ],
+      "liens": [],
       "order": 16,
       "statut": "none",
       "titre": "8",

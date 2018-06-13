@@ -8,7 +8,7 @@
       },
       "liens": [
         "article 1er de la Constitution",
-        "Le dernier alinéa de l'article 3 de la Constitution"
+        "dernier alinéa de l'article 3 de la Constitution"
       ],
       "order": 1,
       "statut": "nouveau",
@@ -36,7 +36,7 @@
         "002": "\"Nul ne peut exercer plus de deux mandats consécutifs.\""
       },
       "liens": [
-        "le premier alinéa de l'article 6 de la Constitution"
+        "premier alinéa de l'article 6 de la Constitution"
       ],
       "order": 3,
       "statut": "none",
@@ -194,7 +194,7 @@
         "002": "\"Elles ne peuvent être ratifiées que de manière expresse.\""
       },
       "liens": [
-        "Le deuxième alinéa de l'article 38 de la Constitution"
+        "deuxième alinéa de l'article 38 de la Constitution"
       ],
       "order": 13,
       "statut": "none",
@@ -253,7 +253,7 @@
         "002": "\"Ce droit s'exerce en séance ou en commission. Le règlement de chaque assemblée fixe les conditions dans lesquelles s'exerce le droit d'amendement de ses membres.\""
       },
       "liens": [
-        "Le premier alinéa de l'article 44 de la Constitution"
+        "premier alinéa de l'article 44 de la Constitution"
       ],
       "order": 17,
       "statut": "none",
@@ -282,7 +282,7 @@
         "002": "\"Le projet ou la proposition ne peut, en première lecture, être soumis à la délibération et au vote des assemblées qu'à l'expiration des délais fixés au troisième alinéa de l'article 42. Toutefois, s'il répond à une situation urgente, le projet ou la proposition ne peut être soumis à la délibération de la première assemblée saisie avant l'expiration d'un délai de quinze jours après son dépôt.\""
       },
       "liens": [
-        "Le deuxième alinéa de l'article 46 de la Constitution"
+        "deuxième alinéa de l'article 46 de la Constitution"
       ],
       "order": 19,
       "statut": "none",
@@ -326,7 +326,7 @@
         "002": "\"Le Premier ministre peut, après délibération du Conseil des ministres, engager la responsabilité du Gouvernement devant l'Assemblée nationale sur le vote d'un projet de loi de finances ou de financement de la sécurité sociale ou, après consultation de la Conférence des Présidents de l'Assemblée nationale, sur tout autre projet ou proposition de loi.\""
       },
       "liens": [
-        "du troisième alinéa de l'article 49 de la Constitution"
+        "troisième alinéa de l'article 49 de la Constitution"
       ],
       "order": 22,
       "statut": "none",
@@ -362,7 +362,9 @@
       "alineas": {
         "001": "Dans la Constitution, les mots : \"Conseil constitutionnel\" sont remplacés par les mots : \"Cour constitutionnelle\"."
       },
-      "liens": [],
+      "liens": [
+        "Constitution"
+      ],
       "order": 25,
       "statut": "nouveau",
       "titre": "24 ter",
@@ -375,7 +377,7 @@
         "003": "II. - Le deuxième alinéa du même article est supprimé."
       },
       "liens": [
-        "Le premier alinéa de l'article 56 de la Constitution"
+        "premier alinéa de l'article 56 de la Constitution"
       ],
       "order": 26,
       "statut": "none",
@@ -387,7 +389,7 @@
         "001": "Dans le premier alinéa de l'article 61 de la Constitution, après le mot : \"promulgation,\", sont insérés les mots : \"les propositions de loi mentionnées à l'article 11 avant qu'elles ne soient soumises au référendum,\"."
       },
       "liens": [
-        "le premier alinéa de l'article 61 de la Constitution"
+        "premier alinéa de l'article 61 de la Constitution"
       ],
       "order": 27,
       "statut": "nouveau",
@@ -399,7 +401,7 @@
         "001": "Le deuxième alinéa de l'article 61 de la Constitution est complété par les mots : \"ou par un groupe parlementaire\"."
       },
       "liens": [
-        "Le deuxième alinéa de l'article 61 de la Constitution"
+        "deuxième alinéa de l'article 61 de la Constitution"
       ],
       "order": 28,
       "statut": "nouveau",
@@ -413,7 +415,8 @@
         "003": "\"Une loi organique détermine les conditions d'application du présent article.\""
       },
       "liens": [
-        "article 61 de la Constitution"
+        "article 61 de la Constitution",
+        "Constitution"
       ],
       "order": 29,
       "statut": "none",
@@ -427,7 +430,7 @@
         "003": "\"Une disposition déclarée inconstitutionnelle sur le fondement de l'article 61-1 est abrogée à compter de la publication de la décision du Conseil constitutionnel ou d'une date ultérieure fixée par cette décision. Le Conseil constitutionnel détermine les conditions et limites dans lesquelles les effets que la disposition a produits sont susceptibles d'être remis en cause.\""
       },
       "liens": [
-        "Le premier alinéa de l'article 62 de la Constitution"
+        "premier alinéa de l'article 62 de la Constitution"
       ],
       "order": 30,
       "statut": "none",
@@ -555,7 +558,7 @@
         "002": "\"Dans les collectivités d'outre-mer visées à l'article 74, en Nouvelle-Calédonie, dans les Terres australes et antarctiques françaises et à Clipperton, le Gouvernement peut, dans les matières qui demeurent de la compétence de l'État, étendre par ordonnances, avec les adaptations nécessaires, les dispositions de nature législative en vigueur en métropole ou adapter les dispositions de nature législative en vigueur à l'organisation particulière de la collectivité concernée, sous réserve que la loi n'ait pas expressément exclu, pour les dispositions en cause, le recours à cette procédure.\""
       },
       "liens": [
-        "Le premier alinéa de l'article 74-1 de la Constitution"
+        "premier alinéa de l'article 74-1 de la Constitution"
       ],
       "order": 39,
       "statut": "nouveau",
@@ -631,7 +634,7 @@
         "002": "\"Les délais prévus au troisième alinéa de l'article 42 sont applicables.\""
       },
       "liens": [
-        "du deuxième alinéa de l'article 89 de la Constitution"
+        "deuxième alinéa de l'article 89 de la Constitution"
       ],
       "order": 44,
       "statut": "nouveau",
@@ -665,8 +668,7 @@
       },
       "liens": [
         "titre XV de la Constitution",
-        "article 88-5 de la Constitution",
-        "article 33 de la présente loi"
+        "article 88-5 de la Constitution"
       ],
       "order": 46,
       "statut": "none",

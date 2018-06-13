@@ -90,11 +90,13 @@
         "086": "Dans les deux mois suivant cette date, tout député ou sénateur établit une déclaration de situation patrimoniale et une déclaration d'intérêts et d'activités suivant les modalités prévues aux articles L. O. 135-1 et L. O. 135-2 du code électoral."
       },
       "liens": [
-        "articles 1er et 2 de la loi n° 88-227 du 11 mars 1988",
-        "articles 3 et 10 de la loi",
+        "code électoral",
+        "loi n° 88-227 du 11 mars 1988",
         "articles 131-26 et 131-26-1 du code pénal",
         "article 74 de la Constitution",
-        "article 226-1 du code pénal"
+        "article 226-1 du code pénal",
+        "livre des procédures fiscales",
+        "code électoral"
       ],
       "order": 1,
       "statut": "none",
@@ -136,7 +138,11 @@
         "031": "VII. - Les I A à IV du présent article entrent en vigueur à compter du prochain renouvellement général ou d'une série de l'assemblée à laquelle appartient le parlementaire.",
         "032": "VIII. - Le IV bis du présent article entre en vigueur le 1er janvier 2014."
       },
-      "liens": [],
+      "liens": [
+        "code électoral",
+        "Constitution",
+        "code électoral"
+      ],
       "order": 2,
       "statut": "none",
       "titre": "2",
@@ -150,7 +156,7 @@
         "004": "2° Le second alinéa de l'article 6 est supprimé."
       },
       "liens": [
-        "L'ordonnance n° 58-1067 du 7 novembre 1958"
+        "ordonnance n° 58-1067 du 7 novembre 1958"
       ],
       "order": 3,
       "statut": "nouveau",
@@ -161,7 +167,9 @@
       "alineas": {
         "001": "La deuxième phrase de l'article L. O. 153 du code électoral est complétée par les mots : \"et ne peut percevoir aucune indemnité en tant que parlementaire\"."
       },
-      "liens": [],
+      "liens": [
+        "code électoral"
+      ],
       "order": 4,
       "statut": "nouveau",
       "titre": "2 bis",
@@ -171,7 +179,9 @@
       "alineas": {
         "001": "Le 1° du I des articles L. O. 489, L. O. 516 et L. O. 544 du code électoral est abrogé."
       },
-      "liens": [],
+      "liens": [
+        "code électoral"
+      ],
       "order": 5,
       "statut": "nouveau",
       "titre": "2 ter",
@@ -204,7 +214,7 @@
         "009": "III. - Le 2° du I A du présent article entre en vigueur le 1er janvier 2014."
       },
       "liens": [
-        "L'ordonnance n° 58-1099 du 17 novembre 1958",
+        "ordonnance n° 58-1099 du 17 novembre 1958",
         "article 23 de la Constitution"
       ],
       "order": 7,
@@ -218,8 +228,8 @@
         "002": "\"<table><tbody><tr><td>Haute Autorité de la transparence de la vie publique</td><td>Président</td></tr></tbody></table>\""
       },
       "liens": [
-        "la loi organique n° 2010-837 du 23 juillet 2010",
-        "du cinquième alinéa de l'article 13 de la Constitution"
+        "loi organique n° 2010-837 du 23 juillet 2010",
+        "cinquième alinéa de l'article 13 de la Constitution"
       ],
       "order": 8,
       "statut": "none",
@@ -258,9 +268,7 @@
       "alineas": {
         "001": "Les articles 1er et 2 de la présente loi sont applicables en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie."
       },
-      "liens": [
-        "articles 1er et 2 de la présente loi"
-      ],
+      "liens": [],
       "order": 11,
       "statut": "none",
       "titre": "5",
@@ -273,8 +281,7 @@
         "003": "2° Le 1° du I de l'article 195 est abrogé."
       },
       "liens": [
-        "La loi organique n° 99-209 du 19 mars 1999",
-        "aux 1° et 2° du I de l'article 10 de la loi"
+        "loi organique n° 99-209 du 19 mars 1999"
       ],
       "order": 12,
       "statut": "nouveau",
@@ -288,8 +295,7 @@
         "003": "2° Après le mot : \"patrimoniale\", la fin de l'article 160 est ainsi rédigée : \"et une déclaration d'intérêts, dans les conditions prévues au 1° du I de l'article 10 de la loi n° du relative à la transparence de la vie publique, pour le président de la Polynésie française et le président de l'assemblée, et dans les conditions prévues au 2° du même I, pour les autres membres du gouvernement et de l'assemblée.\""
       },
       "liens": [
-        "La loi organique n° 2004-192 du 27 février 2004",
-        "au 1° du I de l'article 10 de la loi"
+        "loi organique n° 2004-192 du 27 février 2004"
       ],
       "order": 13,
       "statut": "nouveau",
@@ -303,8 +309,7 @@
         "003": "2° Après le mot : \"déposer\", la fin du dernier alinéa de l'article L. O. 6431-1 est ainsi rédigée : \"une déclaration de situation patrimoniale et une déclaration d'intérêts, dans les conditions prévues, respectivement, aux 1° et 2° du I de l'article 10 de la loi n° du relative à la transparence de la vie publique.\""
       },
       "liens": [
-        "aux 1° et 2° du I de l'article 10 de la loi",
-        "aux 1° et 2° du I de l'article 10 de la loi"
+        "code général des collectivités territoriales"
       ],
       "order": 14,
       "statut": "nouveau",
@@ -316,8 +321,7 @@
         "001": "Pour l'application de l'article 1er de la présente loi et des articles 4 et 5 de la loi n° du relative à la transparence de la vie publique, les références à l'administration fiscale s'entendent, dans les collectivités d'outre-mer et en Nouvelle-Calédonie, comme visant l'administration fiscale de ces collectivités d'outre-mer et l'administration fiscale de la Nouvelle-Calédonie et les références au livre des procédures fiscales s'entendent comme visant les dispositions équivalentes dans les législations applicables localement."
       },
       "liens": [
-        "article 1er de la présente loi",
-        "articles 4 et 5 de la loi"
+        "livre des procédures fiscales"
       ],
       "order": 15,
       "statut": "nouveau",
