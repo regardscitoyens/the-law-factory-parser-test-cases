@@ -34,16 +34,17 @@ pjl11-350
  - process amendements & interventions
     * step - 1ère lecture depot http://www.assemblee-nationale.fr/13/projets/pl3709.asp
     * step - 1ère lecture commission http://www.assemblee-nationale.fr/13/rapports/r4175.asp
-      * downloading amendments: https://nosdeputes.fr/13/amendements/3709/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/projets/pl3709.asp
+      * downloading amendments: https://nosdeputes.fr/14/amendements/3709/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/projets/pl3709.asp
         parsing amendments: 0
       * downloading interventions
-        * downloading seances -  https://2007-2012.nosdeputes.fr/seances/3709/json?commission=1
+        * downloading seances -  https://2012-2017.nosdeputes.fr/seances/3709/json?commission=1
     * step - 1ère lecture hemicycle http://www.assemblee-nationale.fr/13/ta/ta0848.asp
-      * downloading amendments: https://nosdeputes.fr/13/amendements/4175/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/rapports/r4175.asp
-        parsing amendments: 0
+      * downloading amendments: https://nosdeputes.fr/14/amendements/4175/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/rapports/r4175.asp
+        parsing amendments: 12
+WARNING: amendments ignored (not the right step) 12
       * downloading interventions
-        * downloading seances -  https://2007-2012.nosdeputes.fr/seances/4175/json?hemicycle=1
-        * downloading seances -  https://2007-2012.nosdeputes.fr/seances/3709/json?hemicycle=1
+        * downloading seances -  https://2012-2017.nosdeputes.fr/seances/4175/json?hemicycle=1
+        * downloading seances -  https://2012-2017.nosdeputes.fr/seances/3709/json?hemicycle=1
     * step - 1ère lecture depot https://www.senat.fr/leg/pjl11-350.html
     * step - 1ère lecture commission https://www.senat.fr/leg/pjl12-400.html
       * downloading amendments: https://nossenateurs.fr/amendements/20112012-350/json?cache=5feb2018 for https://www.senat.fr/leg/pjl11-350.html
