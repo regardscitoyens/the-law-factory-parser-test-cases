@@ -1,0 +1,3224 @@
+{
+  "seance": [
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La séance est ouverte à 16 heures 45.</p><p>Présidence de M. Jean-Jacques Urvoas, président.</p><p>La Commission examine, sur le rapport de M. Luc Belot, après engagement de la procédure accélérée, le projet de loi relatif à la gratuité et aux modalités de la réutilisation des informations du secteur public (n° 3037).</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821400",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "62",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000010",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_e2249e4137e48041ca05a6082e534748",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821400/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Madame la secrétaire d'État chargée de la réforme de l'État et de la simplification, je vous souhaite la bienvenue dans notre commission. Pourriez-vous nous présenter la philosophie du projet de loi relatif à la gratuité et aux modalités de la réutilisation des informations du secteur public, qui transpose une directive européenne ? Le Conseil constitutionnel nous ayant avertis pendant l'été, en censurant dans une loi de transposition toutes les dispositions qui n'avaient pas pour objet de mettre en oeuvre le droit communautaire, de l'étroitesse de notre « marge de manoeuvre », nous devrons nous limiter à cette épure.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821401",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "106",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "format"
+          },
+          {
+            "tag": "transposition"
+          },
+          {
+            "tag": "gratuité"
+          },
+          {
+            "tag": "réutilisation"
+          }
+        ],
+        "timestamp": "93000020",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_e3768dc72541c07427868f9e8e714606",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821401/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Chargée, au sein du Gouvernement, de faire respecter les bonnes résolutions en matière de transposition des directives européennes, je commencerai par les appliquer moi-même. Certes, comme notre pays est en avance sur la législation européenne, le Gouvernement a souhaité, sur plusieurs points, aller plus loin que la directive ; mais les dispositions en question ont été examinées par le Conseil d'État.</p><p>Ce texte consacré à la gratuité et aux modalités de la réutilisation des informations du secteur public concerne l'open data &#8211; un enjeu dont on parlera de plus en plus. La France est en pointe dans ce domaine et le Gouvernement a pris des engagements forts visant à partager toutes les données produites par les administrations dans le cadre de leur mission de service public. Très variées, ces données portent sur l'ensemble du champ de l'administration : impôts, subventions, aménagement du territoire, qualité de l'air&#8230; Une mission créée au sein des services du Premier ministre, Etalab, est chargée, grâce à un portail unique interministériel &#8211; data.gouv.fr &#8211;, de rassembler et de mettre à disposition, en accès libre, l'ensemble des informations publiques de l'État, des établissements publics administratifs et, si elles le souhaitent, des collectivités locales. Les ministères participent largement à cette politique. La semaine dernière, le ministère de l'intérieur a ainsi ouvert l'accès aux données électorales depuis 1999, avec un degré élevé de précision, les informations allant jusqu'au niveau du bureau de vote. Au total, 18 000 jeux de données sont aujourd'hui publics, libres d'accès et de réutilisation.</p><p>Le Gouvernement s'engage d'autant plus volontiers dans ce chantier &#8211; auquel vous reviendrez avec le texte d'Axelle Lemaire et celui portant sur l'innovation &#8211; que celui-ci ouvre un vaste champ économique, générateur de valeur et créateur d'entreprises, de start-ups et d'emplois. Nous comptons y contribuer largement. Il s'agit également d'un levier important d'amélioration des politiques publiques : grâce à la mission Etalab, les services de l'État mettent au point des applications numériques innovantes. Ainsi, une application de cartographie permet d'intégrer la géolocalisation dans les démarches des usagers, rendant par exemple possible, pour une entreprise, de savoir à quelles aides elle peut prétendre en fonction de son territoire d'implantation. Enfin, c'est la démocratie même qui sortira transformée et redynamisée de cette ouverture des données. Cet été, le Président de la République a signé un plan en faveur d'un Gouvernement ouvert ; une démocratie plus transparente et plus collaborative permettra d'engager des débats publics &#8211; comme celui qu'Axelle Lemaire a lancé dans le cadre de son projet de loi. L'ouverture des données conduit enfin à la création d'outils tels qu'Handimap, une application de calcul d'itinéraire pour des handicapés moteurs mise en place par les villes de Rennes et de Montpellier.</p><p>Si, dans ce domaine, la France est en avance sur les autres pays, c'est qu'elle a une longue tradition qui remonte au discours d'Hourtin, en 1997, et au programme d'action du Gouvernement pour préparer l'entrée de la France dans la « société de l'information ». Un projet de loi en ce sens avait alors été déposé. Depuis 2012, le Gouvernement a réaffirmé sa volonté de rendre gratuit l'accès aux données publiques &#8211; point essentiel sur lequel nous allons plus loin que les autres pays européens.</p><p>La directive de 2013 &#8211; que transpose ce texte &#8211; a précisé le champ d'application de celle de 2003, mais notre avance permet de restreindre le champ des dispositions législatives à modifier. Il s'agit de légiférer sur trois points : le texte élargit le champ d'application des obligations de rediffusion aux informations contenues dans les documents détenus par les établissements culturels : bibliothèques, universités, musées, archives&#8230; Dans le système antérieur, ce domaine faisait l'objet d'une dérogation ; nous pourrons désormais revenir au droit commun tout en maintenant un dispositif particulier de protection. Le projet de loi encadre ensuite les possibilités d'accorder un droit d'exclusivité à un tiers pour la réutilisation des données, limitant la durée de l'accord à dix ans, avec un réexamen tous les trois ans. Notons à ce propos que le ministère de la Culture participe également à cette politique d'open data. Fidèle à sa tradition, la France instaure enfin un principe de gratuité, alors que la directive se limite à plafonner le montant des redevances aux coûts marginaux de production, de mise à disposition et de diffusion des données. Des dérogations sont prévues dans certaines situations particulières.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821402",
+        "intervenant_fonction": "secrétaire d'état chargée de la réforme de l'état et de la simplification",
+        "intervenant_groupe": "",
+        "intervenant_nom": "Clotilde Valter",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "783",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000030",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_40984239e7b34a19e4015e4d9e055267",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821402/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Avec ce texte, nous donnerons à notre pays un nouveau cadre particulièrement ambitieux pour la politique d'ouverture et de diffusion des données. En pointe dans ce domaine depuis longtemps, la France a été classée troisième en matière d'open data par l'association internationale Open Knowledge Foundation. Dans la transposition de la directive, il s'agit donc de ne pas reculer par rapport à nos acquis.</p><p>Le principe de gratuité de la réutilisation des données publiques représente l'élément essentiel du projet de loi. Comme vous l'avez dit, madame la secrétaire d'État, nous posons là une première pierre à l'édifice de la République numérique qui donnera lieu, pendant cette session parlementaire, à trois textes cohérents : celui que nous examinons ; le projet de loi pour une République numérique, dit « projet Lemaire », qui fait l'objet, depuis samedi dernier, d'une consultation en ligne pour trois semaines ; et &#8211; pour les éléments liés aux écosystèmes numériques &#8211; le futur « projet de loi Macron 2 ». Lors de nos débats, nous devrions garder à l'esprit cette perspective d'ensemble, garante de la cohérence ; mais l'objet du présent projet de loi est très précisément circonscrit. Le 13 août dernier, le Conseil constitutionnel a censuré vingt-six articles de la loi portant adaptation de la procédure pénale au droit de l'Union européenne parce qu'ils ne relevaient pas d'une transposition de directive. Aussi, je donnerai un avis défavorable à tous les amendements relatifs à l'open data mais ne répondant pas à cet impératif. Nous pourrons en débattre dans un autre cadre, notamment à l'occasion du projet de loi pour une République numérique.</p><p>Le délai de transposition justifie la procédure accélérée engagée par le Gouvernement. Malgré un calendrier particulièrement serré, j'ai réussi à mener des auditions avec les émetteurs et les producteurs de données &#8211; l'Institut national de l'information géographique et forestière (IGN), Météo France ou la Bibliothèque nationale de France (BNF) &#8211; et avec les représentants des utilisateurs, notamment Regards citoyens. Ce travail permet de bénéficier d'une vue d'ensemble susceptible d'éclairer le texte comme les amendements.</p><p>Globalement bien accueilli, le projet de loi ne soulève pas d'opposition majeure. Le sujet est éminemment politique, mais l'action de l'État depuis 2010 &#8211; François Fillon crée Etalab en 2011 &#8211; se caractérise par sa continuité et sa cohérence. Je souhaite nous voir nous inscrire dans cette tendance. Aussi, mis à part quelques amendements qui excèdent le cadre de la transposition, je ne formulerai quasiment que des demandes de retrait, car le plus souvent le texte satisfait l'esprit de vos propositions. Nous devrions donc pouvoir avancer sereinement.</p><p>En remerciant Mme la secrétaire d'État et son cabinet, ainsi que les administrateurs de l'Assemblée pour la qualité du travail qu'ils ont accompli dans des délais très courts, je propose d'adopter ce texte sous réserve de quelques amendements, notamment rédactionnels, que je vous soumettrai.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821403",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "522",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "transposition"
+          },
+          {
+            "tag": "réutilisation"
+          },
+          {
+            "tag": "gratuité"
+          },
+          {
+            "tag": "format"
+          },
+          {
+            "tag": "open"
+          },
+          {
+            "tag": "data"
+          }
+        ],
+        "timestamp": "93000040",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_0f8f5ef55a28d64177b293056ef48920",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821403/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Le droit français satisfaisant déjà en grande partie la directive européenne transposée dans ce texte, nous devons aller plus loin.</p><p>Dans la plupart des cas, les redevances génèrent peu de recettes ; une partie d'entre elles étant payée par les autres administrations, elles ne sont pas d'un grand intérêt. Le contribuable investit parfois beaucoup d'argent dans la production de données par des services publics tels que l'Institut national de la statistique et des études économiques (INSEE), dont les redevances ne représentent pourtant que 3 % des ressources. La gratuité nous paraît donc souhaitable.</p><p>Le groupe Écologiste exprime toutefois deux regrets. D'une part, le texte est centré sur la question des redevances et ne parle que très peu de l'open data et de la libération des données. Les modifications indispensables à la loi de 1978 sont renvoyées au projet de loi sur le numérique qui fait l'objet d'une consultation depuis ce week-end. Je porterai toutefois quelques amendements sur cette question, car ces deux sujets sont très liés. Inspirées du rapport des sénateurs Corinne Bouchoux et Jean-Jacques Hyest, mes propositions portent notamment sur la définition d'un format ouvert et réutilisable et sur la création d'un droit à une publication régulière des données d'intérêt général.</p><p>D'autre part, si la loi prévoit la gratuité des données, l'essentiel du texte consiste à en énumérer les nombreuses exceptions. Dans plusieurs cas, le projet de loi prévoit également des accords d'exclusivité d'une durée supérieure à dix ans. Enfin, les redevances ne seront plus arrêtées par décret, celui-ci ne fixant que la liste des administrations susceptibles de les établir. Nous regrettons ce recul et souhaitons que le texte soit amendé sur ce point.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821404",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "Paul Molac",
+        "intervenant_slug": "paul-molac",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "315",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "exclusivité"
+          },
+          {
+            "tag": "gratuité"
+          },
+          {
+            "tag": "redevance"
+          },
+          {
+            "tag": "format"
+          },
+          {
+            "tag": "open"
+          },
+          {
+            "tag": "data"
+          }
+        ],
+        "timestamp": "93000050",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_863750ab8d62dc83ee8d1f6d005b4b4b",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821404/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La transposition dont nous sommes saisis ne soulève pas de problèmes particuliers. D'abord, la liberté d'accès aux documents administratifs est la règle en France depuis la loi de juillet 1978 et ses versions ultérieures, dont la mise en oeuvre repose sur le travail de la Commission d'accès aux documents administratifs (CADA) où j'ai l'honneur de siéger sur décision de votre commission. La législation française satisfait déjà les objectifs assignés par la directive, quand elle ne va pas au-delà.</p><p>Ensuite, le Gouvernement est favorable à une large ouverture des données publiques, et les dispositions du projet de loi en concernent essentiellement la réutilisation, dont elles précisent les modalités et généralisent la gratuité. Le groupe Socialiste, républicain et citoyen votera donc ce texte qui a recueilli un avis très favorable et circonstancié de la CADA.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821405",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "René Dosière",
+        "intervenant_slug": "rene-dosiere",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "155",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "réutilisation"
+          },
+          {
+            "tag": "transposition"
+          },
+          {
+            "tag": "gratuité"
+          }
+        ],
+        "timestamp": "93000060",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_bc8d1ac5a87c8e6cf7a1d9b67e87dc15",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821405/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La question de l'ouverture des données au public est essentielle à la fois en matière économique et démocratique. C'est pourquoi les pays occidentaux s'en saisissent à travers des mesures d'incitation ; l'enjeu figurait par exemple parmi les thèmes centraux du discours du candidat Obama lors de la dernière élection présidentielle américaine.</p><p>La France est-elle aujourd'hui en avance dans ce domaine ? Les chiffres sont ambivalents : certes, les entreprises publiques sont en pointe, tout comme certaines grandes collectivités, mais restons modestes face aux résultats des administrations ! D'importants efforts sont nécessaires pour engager une stratégie dans ce domaine.</p><p>Les initiatives de l'État avaient très bien démarré avec le lancement par Mme Lemaire d'une vaste consultation publique ; mais le processus s'enraie à cause du télescopage des textes. Sans doute le calendrier s'explique-t-il par l'urgence à transposer la directive ; mais, tout comme pour la « loi Macron » et la « loi Lemaire » à venir, les internautes intéressés, qui ont beaucoup contribué à faire avancer le sujet, ont du mal à retrouver leurs petits ! Il ne suffit pas de lancer des consultations : encore faut-il recueillir les avis et en tenir compte dans les textes de loi. Le recours à une procédure accélérée est également regrettable. Au total, les problèmes de forme entachent le contenu du texte, qui relève du bon sens.</p><p>Le groupe Union des démocrates et indépendants déplore le choix fait par le Gouvernement de traiter la question de l'ouverture des données publiques à travers plusieurs véhicules législatifs. Le Parlement devra prochainement examiner le projet de loi sur le numérique porté par Axelle Lemaire, qui devrait poser le principe de l'ouverture des données publiques par défaut. Certes, en instaurant la gratuité de la réutilisation des informations, le texte de transposition de la directive de 2013 va dans le bon sens, mais ces sujets auraient dû être traités en même temps. Pourquoi morceler cette question ? Tout regrouper au sein d'un seul texte aurait donné du sens à cette démarche qui va dans le bon sens, mais dont on attend de voir l'aboutissement.</p><p>Nous regrettons l'oubli, à l'article 2, de l'inscription des redevances et des exceptions dans un registre public accessible à tous. Le droit d'exclusivité accordé à un tiers pour la réutilisation d'informations publiques et les redevances octroyées aux administrations constituent des exceptions aux principes de gratuité et de mise à disposition publique énoncés par la loi ; il convient donc de donner aux citoyens l'accès à toutes les informations en cette matière. Le citoyen ainsi mis au coeur du système devrait être en mesure de veiller à la bonne application de ces règles.</p><p>Le manque de précision de certaines mesures constitue un autre problème du texte : certains termes devraient être mieux définis, notamment s'agissant du montant des redevances et des hypothèses dans lesquelles celles-ci peuvent être maintenues. Ainsi, à l'alinéa 6 de l'article 3, que fixe exactement le décret en Conseil d'État ? Quelles sont les modalités de fixation des redevances ? Quid de la liste des catégories d'administration et de celle des redevances ? Quel est le rôle précis de la CADA ? Ces points doivent être discutés en commission.</p><p>Enfin &#8211; même si cette remarque ne remet pas en question le fond du projet de loi &#8211;, il faut pointer l'absence de limite dans la durée du droit d'exclusivité en matière de numérisation des ressources culturelles. S'agit-il de renflouer les caisses du ministère de la Culture au prix de l'accès du public aux données ? Il conviendrait de mieux encadrer cette période dans le temps. S'il semble exagéré d'accorder une dérogation sans limites, une échéance ne saurait être fixée ni justifiée que par l'étude d'impact ; or celle-ci n'est pas précise sur ce point.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821406",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UDI",
+        "intervenant_nom": "Bertrand Pancher",
+        "intervenant_slug": "bertrand-pancher",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "662",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "réutilisation"
+          },
+          {
+            "tag": "transposition"
+          },
+          {
+            "tag": "exclusivité"
+          },
+          {
+            "tag": "gratuité"
+          },
+          {
+            "tag": "redevance"
+          },
+          {
+            "tag": "format"
+          }
+        ],
+        "timestamp": "93000070",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_fd0aa218988696010f95989028f401c1",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821406/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>J'aurai l'occasion de revenir sur le fond lors de l'examen des amendements, mais avant tout nous sommes nombreux à être étonnés par le calendrier. Quelle surprise de voir ce texte présenté en Conseil des ministres en plein été alors qu'un projet de loi numérique censé traiter exactement du même sujet devait intervenir à l'automne ! La loi numérique ayant été sans cesse repoussée, nous avons l'impression qu'on a prévu de la découper en morceaux. C'est dommage, car la transposition de la nouvelle directive Public Sector lnformation (PSI) aurait mérité de s'insérer dans une vue globale sur l'open data en France.</p><p>Cette directive aurait dû être transposée avant le 18 juillet, et j'ai lu dans la presse que ce projet de loi était destiné à « rassurer Bruxelles ». Cela laisse songeur sur l'organisation du temps parlementaire par le Gouvernement ! Décidément, nous ne nous y ferons jamais&#8230; Nous voilà donc avec un morceau de projet de loi qui faisait partie de la version de l'avant-projet de loi numérique ayant fuité, et qui aurait tout à fait trouvé sa place dans le texte dévoilé samedi qui &#8211; cela ne s'invente pas ! &#8211; comporte une partie entière sur l'ouverture des données publiques.</p><p>Aux yeux du groupe Les Républicains, cette transposition au pas de course ne doit pas nous conduire à faire les choses a minima. Il n'est pas question de légiférer à la va-vite et sans ambition, car c'est le bon moment pour finir de lancer le mouvement de l'open data. Ne laissons pas passer le train !</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821407",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "LR",
+        "intervenant_nom": "Lionel Tardy",
+        "intervenant_slug": "lionel-tardy",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "268",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "transposition"
+          },
+          {
+            "tag": "format"
+          },
+          {
+            "tag": "open"
+          },
+          {
+            "tag": "data"
+          }
+        ],
+        "timestamp": "93000080",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_e614c097b65b07d3c623e6d8c4fff5fc",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821407/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je souhaite d'abord répondre aux interventions qui ont évoqué le calendrier et l'ordre de présentation des textes. Personne n'ignore qu'il existe des délais pour la transposition des directives. En l'espèce, nous devions transposer la directive PSI avant le 18 juillet dernier, ainsi que vous l'avez vous-même rappelé, monsieur Tardy. L'initiative du Gouvernement, qui consiste à transposer cette directive le plus rapidement possible, n'est donc pas contestable. Je précise que la France a déjà reçu un avis au titre de la procédure en manquement. En d'autres termes, bien que le délai de transposition ait été dépassé de deux mois à peine, nous sommes déjà dans une situation où nous manquons à nos obligations. Le texte qui devait comprendre l'ensemble des éléments relatifs à l'ouverture des données ayant été retardé, il était urgent de transposer la directive, afin de respecter le cadre légal dans lequel nous nous inscrivons.</p><p>D'autre part, messieurs Molac, Pancher et Tardy, je comprends que vous exprimiez votre frustration de ne pas pouvoir traiter l'ensemble du champ de l'ouverture des données, alors que nous abordons enfin ce beau sujet. Cependant, une autre contrainte s'impose, avec laquelle la commission des Lois vit d'ailleurs en permanence : ainsi que le Conseil constitutionnel l'a rappelé un peu brutalement cet été, le législateur ne peut pas ajouter de dispositions dépourvues de lien avec l'objet du projet de loi initial, en l'espèce la transposition de la directive. À cet égard, nous avons pris nos précautions : nous nous sommes assurés a priori auprès du Conseil d'État que nous n'enfreignions pas cette règle s'agissant des quatre points sur lesquels nous nous écartons de la directive.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821408",
+        "intervenant_fonction": "secrétaire d'état chargée de la réforme de l'état et de la simplification",
+        "intervenant_groupe": "",
+        "intervenant_nom": "Clotilde Valter",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "290",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000090",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_e4ef474484388cc1031ebc3ff5a5e1b1",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821408/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Monsieur Molac, la question des redevances entre administrations est un sujet important, de même que celle de la réutilisation des données par les administrations elles-mêmes. Elles seront traitées dans un rapport qui a été commandé à M. Antoine Fouilleron et dont nous devrions connaître les conclusions avant la fin du mois d'octobre. Nous pourrons aborder à nouveau ces questions à ce moment-là.</p><p>Je ne peux que souscrire à vos propos sur les données d'intérêt général. On peut regretter que cette question ne soit pas discutée aujourd'hui, mais tel n'est pas l'objet du projet de loi, et nous devons nous inscrire dans le cadre rappelé par le Conseil constitutionnel s'agissant de la transposition des textes européens. Néanmoins, un certain nombre d'éléments figurent déjà dans le texte, en particulier le principe de la gratuité, dont la portée est très ambitieuse.</p><p>S'agissant du décret en Conseil d'État prévu à l'alinéa 6 de l'article 3, messieurs Molac et Pancher, l'amendement que je proposerai vous donnera, selon moi, satisfaction.</p><p>De même, les amendements que vous avez déposés, monsieur Dosière &#8211; tout le monde connaît votre grande compétence et votre vigilance sur ces questions &#8211; sont déjà satisfaits sur le fond par le texte lui-même ou le seront par les réécritures que je proposerai.</p><p>Monsieur Pancher, je salue et partage votre forte ambition pour la France en matière d'open data. Toutefois, j'ai trouvé votre jugement sur notre pays très dur. L'association internationale indépendante que j'ai mentionnée l'a classé en troisième position. Ce n'est pas si souvent ! Certes, le French bashing est un sport national, mais, en l'espèce, nous sommes plutôt en pointe. Néanmoins, nous pouvons toujours faire mieux. Tel sera le cas grâce à ce texte, qui contient des éléments très forts, notamment le principe de la gratuité.</p><p>En ce qui concerne la cohérence des textes présentés, messieurs Pancher et Tardy, Mme la secrétaire d'État vous a répondu.</p><p>De même, elle a répondu à vos interpellations d'ordre politique, monsieur Tardy. Je retiens votre conclusion, notamment votre volonté de bien légiférer, ambition qui est aussi la mienne.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821409",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "396",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "réutilisation"
+          },
+          {
+            "tag": "transposition"
+          },
+          {
+            "tag": "gratuité"
+          },
+          {
+            "tag": "redevance"
+          },
+          {
+            "tag": "open"
+          },
+          {
+            "tag": "data"
+          }
+        ],
+        "timestamp": "93000100",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_62ed3bf6be54790bc296ef814ce6094a",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821409/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission en vient à l'examen des articles.</p><p>Avant l'article 1er</p><p>La Commission examine l'amendement CL13 de M. Paul Molac.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821410",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "25",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000110",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_a18ab94a97ae7f2b4bf0d87d3caeabb8",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821410/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cet amendement reprend une recommandation du rapport sénatorial Refonder le droit à l'information publique à l'heure du numérique. Il s'agit de permettre à un citoyen de demander la publication régulière d'un document d'intérêt général. De nombreux documents ou jeux de données n'ont en effet d'intérêt que s'ils sont publiés régulièrement.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821411",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "Paul Molac",
+        "intervenant_slug": "paul-molac",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "63",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "format"
+          }
+        ],
+        "timestamp": "93000120",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_2a9d035c70248ca23b7ab42b8c870e49",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821411/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Vous avez gagné le droit d'obtenir une copie de la décision n° 2015-719 DC du Conseil constitutionnel du 13 août 2015, monsieur Molac !</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821412",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "25",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000130",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_a5c475d59acf1a5b7ef1df7a7c6a4b2a",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821412/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je m'inscris dans la continuité des propos du président : votre idée est tout à fait intéressante, monsieur Molac, mais elle ne relève pas de la transposition de la directive. Je vous invite donc à retirer cet amendement, ainsi que le suivant, pour la même raison.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821413",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "50",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "transposition"
+          },
+          {
+            "tag": "invite"
+          }
+        ],
+        "timestamp": "93000140",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_e256ba03766fc1d743eb90bf2f183e27",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821413/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'amendement est retiré.</p><p>L'amendement CL21 de M. Paul Molac est également retiré.</p><p>La Commission est saisie de l'amendement CL22 de M. Paul Molac.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821414",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "29",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000150",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_706396eb33aef78b8bcc77c1a3bde7f5",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821414/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cet amendement vise à instaurer une possibilité de republication des informations transmises à un demandeur. Le droit de communication prévu par la loi de 1978 doit évoluer vers une ouverture plus importante des données.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821415",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "Paul Molac",
+        "intervenant_slug": "paul-molac",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "35",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "format"
+          }
+        ],
+        "timestamp": "93000160",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_f80e664e9bf56d4089fb7022dbd9a802",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821415/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Votre amendement concerne l'accès aux documents administratifs, question qui sort là aussi du cadre de la transposition de la directive. Je vous invite donc à le retirer.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821416",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "29",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "transposition"
+          },
+          {
+            "tag": "invite"
+          }
+        ],
+        "timestamp": "93000170",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_c7fb3ca84b48c69888a828119197d73b",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821416/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'amendement est retiré.</p><p>La Commission en vient à l'amendement CL25 du rapporteur.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821417",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "15",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000180",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_08d22d864ffd8f258d78bd1d60bf4152",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821417/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Il s'agit d'affirmer que la réutilisation des informations publiques constitue un droit. À cette fin, je propose que le chapitre II du titre Ier de la loi de 1978 soit intitulé « Du droit de réutilisation des informations publiques ».</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821418",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "40",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "réutilisation"
+          },
+          {
+            "tag": "format"
+          }
+        ],
+        "timestamp": "93000190",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_7e0b95fef7669babb3f7851a3610cdf1",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821418/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte l'amendement.</p><p>Puis elle examine l'amendement CL27 du rapporteur, qui fait l'objet du sous-amendement CL46 du Gouvernement.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821419",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "23",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000200",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_9ec36118fa26bece42aeba451d841477",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821419/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Il est souhaitable que les organismes du secteur public mettent leurs documents à disposition dans un format ouvert. C'est pourquoi je propose d'insérer la phrase suivante au premier alinéa de l'article 10 de la loi de 1978 : « Ces informations sont communiquées sous forme électronique et dans un format ouvert. »</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821420",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "51",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "format"
+          }
+        ],
+        "timestamp": "93000210",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_f8b8c2e8c3fe615734e976d9ff299e9e",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821420/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Le sous-amendement du Gouvernement vise à insérer les mots « si possible » entre virgules après les mots « sous forme électronique », afin de coller exactement au texte de la directive. Cela devrait vous convenir, monsieur le président, de même qu'au Conseil constitutionnel.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821421",
+        "intervenant_fonction": "secrétaire d'état chargée de la réforme de l'état et de la simplification",
+        "intervenant_groupe": "",
+        "intervenant_nom": "Clotilde Valter",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "45",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000220",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_7a7febe323cde40d3ce75541bd4aeeaa",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821421/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Si vous aviez souhaité insérer l'adverbe « notamment », nous aurions été contre ! (Sourires.)</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821422",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "15",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000230",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_84bad78dd0998573cf3a2b9049ffd0f9",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821422/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Notre pays étant actuellement en pointe, et conformément à l'esprit même de l'open data, il est vraiment souhaitable que les documents soient toujours mis à disposition dans un format ouvert. Néanmoins, j'ai cru comprendre que nous avions des difficultés à communiquer certains types de documents très spécifiques dans un tel format. Je donne donc un avis favorable à ce sous-amendement.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821423",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "64",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "format"
+          },
+          {
+            "tag": "open"
+          },
+          {
+            "tag": "data"
+          }
+        ],
+        "timestamp": "93000240",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_ec056053c892b4560c80503daf3d9e0b",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821423/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Le terme « ouvert » ne suffit pas : il faudrait aussi préciser que cette transmission doit se faire dans un format « librement réutilisable ». Le terme « librement » figure dans l'article de la « loi Macron » qui porte sur les données des services réguliers de transport public de personnes et sera peut-être inscrit dans la loi relative à la liberté de la création &#8211; nous allons en effet évoquer tout à l'heure en séance publique la constitution d'une base de données sur l'utilisation des 25 % de la rémunération pour copie privée qui sont consacrés à l'aide à la création. Dans un souci d'harmonisation, il serait bon d'insérer le terme « librement » dans l'amendement CL27.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821424",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "LR",
+        "intervenant_nom": "Lionel Tardy",
+        "intervenant_slug": "lionel-tardy",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "118",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "format"
+          }
+        ],
+        "timestamp": "93000250",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_3662590916fc4f91424ee43bedb3d462",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821424/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte le sous-amendement CL46 du Gouvernement.</p><p>Puis elle adopte l'amendement CL27 sous-amendé.</p><p>Article 1er (art. 11 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal) : Suppression du régime particulier de réutilisation des informations contenues dans les documents produits ou reçus par les établissements ou institutions d'enseignement et de recherche ou culturels</p><p>La Commission adopte l'article 1er sans modification.</p><p>Article 2 (art. 14 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal) : Limitation à dix ans de la durée des accords d'exclusivité, sauf droit d'exclusivité accordé pour les besoins de la numérisation culturelle</p><p>La Commission est saisie de l'amendement CL14 de M. Paul Molac.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821425",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "154",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000260",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_bfd8dfbd20192298cf23913928b39b94",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821425/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Les deux dernières phrases de l'alinéa 2 de l'article 2 créent une dérogation permettant la conclusion d'accords d'exclusivité d'une durée supérieure à dix ans. Dix ans nous semblent déjà une durée très importante. Une durée encore plus longue serait disproportionnée. La directive PSI indique d'ailleurs que la durée du droit d'exclusivité pour les numérisations de ressources culturelles ne devrait pas, en général, dépasser dix ans. D'autre part, l'étude d'impact ne précise pas quels accords pourraient être concernés. C'est pourquoi nous souhaitons supprimer cette dérogation.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821426",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "Paul Molac",
+        "intervenant_slug": "paul-molac",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "103",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "exclusivité"
+          }
+        ],
+        "timestamp": "93000270",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_e422ce2e7f5d0df35484e6a673c6314b",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821426/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je suis a priori plutôt favorable à l'esprit de votre amendement. Tel est l'esprit même de l'open data, et il serait cohérent de limiter la durée des accords d'exclusivité à dix ans. Cependant, il ressort des auditions que certains établissements, notamment des bibliothèques municipales, ont parfois passé des accords d'exclusivité de quinze ans. Aussi, je vous invite à retirer votre amendement, afin que nous puissions prendre le temps de voir ce qu'il en est exactement, d'évaluer les conséquences dudit amendement et de trouver une solution d'ici à la séance publique.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821427",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "96",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "exclusivité"
+          },
+          {
+            "tag": "invite"
+          },
+          {
+            "tag": "open"
+          },
+          {
+            "tag": "data"
+          }
+        ],
+        "timestamp": "93000280",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_bf9ac38f929134a90ddd68fc74ffa748",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821427/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Nous proposerons un amendement modifié pour la séance publique.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821428",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "Paul Molac",
+        "intervenant_slug": "paul-molac",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "12",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000290",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_9813310365254fc6d19f56bb0964997c",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821428/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'amendement est retiré.</p><p>La Commission adopte l'amendement rédactionnel CL36 du rapporteur.</p><p>Puis elle examine l'amendement CL10 de M. Bertrand Pancher.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821429",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "27",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000300",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_e34e1f8056f2c4f4dac70f09f5a0427b",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821429/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Les droits d'exclusivité accordés à un tiers pour la réutilisation d'informations publiques et les redevances établies par un certain nombre d'administrations énumérées par décret constituent des exceptions aux principes de gratuité et de mise à disposition publique énoncés par le présent projet de loi. Dès lors, il serait très intéressant de donner aux citoyens l'accès libre à toutes les informations relatives à ces exceptions. Ainsi placés au coeur du système, ils pourraient veiller à ce que les règles soient appliquées. Nous proposons donc que les accords d'exclusivité et les modalités d'octroi de ces droits soient transparents et inscrits sur un registre public créé par décret.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821430",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UDI",
+        "intervenant_nom": "Bertrand Pancher",
+        "intervenant_slug": "bertrand-pancher",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "119",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "réutilisation"
+          },
+          {
+            "tag": "exclusivité"
+          },
+          {
+            "tag": "gratuité"
+          },
+          {
+            "tag": "redevance"
+          },
+          {
+            "tag": "format"
+          }
+        ],
+        "timestamp": "93000310",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_8dc8741e1e5bdec0825d82467606444c",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821430/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Le projet de loi prévoit que les accords d'exclusivité sont transparents, disposition que vous entendez maintenir. Toutefois, vous souhaitez remplacer la publication des accords par leur inscription sur un registre. Je ne suis pas convaincu que cette procédure soit un progrès ni qu'elle soit la plus adaptée à l'heure du numérique. Je vous invite donc à retirer votre amendement. Vous pourriez le cas échéant préciser, d'ici à la séance publique, les conditions dans lesquels les accords doivent être publiés, par exemple dans un format numérique ou sur une plate-forme de l'État.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821431",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "101",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "exclusivité"
+          },
+          {
+            "tag": "format"
+          },
+          {
+            "tag": "invite"
+          }
+        ],
+        "timestamp": "93000320",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_f4214fad299f14a5543a47e6cf5bf09a",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821431/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je préciserai les choses d'ici à la séance publique. Il est clair que la publication devrait se faire sous forme numérique. D'autre part, afin de faciliter l'accès à l'information, il serait utile de centraliser sur un même support les données relatives à ces accords, ainsi que les règles et les conditions de transparence. Tel est le sens de mon amendement, que je maintiens.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821432",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UDI",
+        "intervenant_nom": "Bertrand Pancher",
+        "intervenant_slug": "bertrand-pancher",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "69",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "format"
+          }
+        ],
+        "timestamp": "93000330",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_33cca9f300268d0cd1971c0e0d5077c7",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821432/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Il s'agit de dispositions de nature non pas législative, mais réglementaire. Pour faire suite aux propos du rapporteur, je précise que le site data.gouv.fr a vocation à accueillir les informations relatives aux accords d'exclusivité, en effet très utiles, et à les mettre à disposition du public intéressé.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821433",
+        "intervenant_fonction": "secrétaire d'état chargée de la réforme de l'état et de la simplification",
+        "intervenant_groupe": "",
+        "intervenant_nom": "Clotilde Valter",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "53",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000340",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_01444307122c145aade6f58e206444c5",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821433/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission rejette l'amendement.</p><p>Elle en vient à l'amendement CL1 de M. Lionel Tardy.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821434",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "17",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000350",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_596bc35575728e41533292f4e9118b09",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821434/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La phrase « Les accords d'exclusivité sont transparents et rendus publics » est redondante. Dès lors que les accords sont rendus publics, ils sont nécessairement transparents. Le mieux est parfois l'ennemi du bien.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821435",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "LR",
+        "intervenant_nom": "Lionel Tardy",
+        "intervenant_slug": "lionel-tardy",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "35",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "exclusivité"
+          }
+        ],
+        "timestamp": "93000360",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_8fad92b9229b40e8ae9576036f86d271",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821435/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je suis assez d'accord avec vous, monsieur Tardy : la publicité des accords assure leur transparence. Cependant, cette phrase reprend la formulation de la directive. D'autre part, si le terme « transparent » appliqué à un accord n'a guère de signification en droit, il y a certainement d'autres notions sous-jacentes, telles que la transparence des conditions de négociation, ainsi que des modèles économiques et des critères qui ont été retenus pour l'élaboration de l'accord. Si nous supprimions complètement le mot « transparents », nous risquerions d'être très mal compris, ce qui n'est ni votre objectif ni le nôtre. Je préférerais que l'on récrive votre amendement d'ici à la séance publique en tenant compte des éléments que je viens d'évoquer. Je vous invite donc à le retirer.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821436",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "135",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "invite"
+          }
+        ],
+        "timestamp": "93000370",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_77fa0e98671e2f13b77cc1dd161524a6",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821436/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'amendement est retiré.</p><p>La Commission adopte l'article 2 modifié.</p><p>Article 3 (art. 15 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal) : Principe de gratuité de la réutilisation des informations du secteur public et dérogations à ce principe</p><p>La Commission est saisie de l'amendement CL2 de M. Lionel Tardy.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821437",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "73",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000380",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_269be90ffaafeae5775efbe93e1eca37",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821437/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'alinéa 2 de l'article 3 du présent projet de loi fait référence à des « administrations », alors que l'article 1er de la loi de 1978 renvoie à des « personnes ». La première version du projet de loi numérique contenait, elle, le terme « personnes ». Je précise que la concertation sur ce dernier texte n'était pas encore lancée au moment où j'ai rédigé cet amendement. Malheureusement, nous sommes bien obligés de nous fier aux informations que l'on veut bien nous donner ou que nous sommes contraints de recueillir ! En tout cas, je vois au moins une différence entre « administrations » et « personnes » : dans le cas où l'on retiendrait le second terme, l'ouverture des données pourrait aussi concerner les personnes de droit privé chargées d'une mission de service public.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821438",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "LR",
+        "intervenant_nom": "Lionel Tardy",
+        "intervenant_slug": "lionel-tardy",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "134",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "format"
+          }
+        ],
+        "timestamp": "93000390",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_ea1e9c81ca1ac08f220d53394f118963",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821438/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Vous avez à nouveau parfaitement raison du point de vue juridique, monsieur Tardy : le terme « administrations » est celui qui a été retenu dans toute la loi de 1978, sauf dans son article 1er. S'agissant du présent texte, soit nous le conservons partout, soit nous le remplaçons partout par « personnes », et pas seulement à l'alinéa 2 de l'article 3 ainsi que vous le proposez par cet amendement.</p><p>Par ailleurs, il convient d'être vigilant sur l'emploi du terme « personnes », car l'article 1er de la loi de 1978 fait aussi référence au « droit de toute personne à l'information ». Il pourrait donc y avoir un doute sur la ou les personnes qui sont visées. Quoi qu'il en soit, je souscris à vos propos en ce qui concerne les personnes de droit privé chargées d'une mission de service public.</p><p>Je vous invite à retirer votre amendement et à soulever à nouveau cette question lors de l'examen du projet de loi pour une République numérique. Nous pourrions alors harmoniser les termes dans l'ensemble de la loi de 1978, dans un souci de cohérence.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821439",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "182",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "format"
+          },
+          {
+            "tag": "invite"
+          }
+        ],
+        "timestamp": "93000400",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_7da285325bcc7a9abe5251f1b0cdff35",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821439/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je retire mon amendement et réexaminerai ce point d'ici à la séance publique.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821440",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "LR",
+        "intervenant_nom": "Lionel Tardy",
+        "intervenant_slug": "lionel-tardy",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "16",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000410",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_600ca9c19c9aabfb732bf34a86405b1c",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821440/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'amendement est retiré.</p><p>La Commission adopte successivement les amendements rédactionnels CL26, CL31, CL32, CL30, CL37, CL33 et CL34 du rapporteur.</p><p>Elle en vient à l'amendement CL18 de M. René Dosière.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821441",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "37",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000420",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_b0ddff6e116116aa2a5b38fc677e4fde",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821441/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cet amendement vise à préciser que les coûts de reproduction des informations doivent aussi être pris en compte dans le calcul des redevances.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821442",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "René Dosière",
+        "intervenant_slug": "rene-dosiere",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "26",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "redevance"
+          },
+          {
+            "tag": "format"
+          }
+        ],
+        "timestamp": "93000430",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_70fc5e4e9fabf2b09cc75c3bbd75f8e5",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821442/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je partage l'objectif de votre amendement, monsieur Dosière, mais je vous invite à le retirer, car il est déjà satisfait par la rédaction actuelle du projet de loi : la mise à disposition des informations comprend leur reproduction.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821443",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "40",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "format"
+          },
+          {
+            "tag": "invite"
+          }
+        ],
+        "timestamp": "93000440",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_0072951f8995189def4172f32bd73592",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821443/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Mon souci de précision tient au fait que je fréquente sans doute trop la CADA. (Sourires.)</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821444",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "René Dosière",
+        "intervenant_slug": "rene-dosiere",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "20",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000450",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_b463b16782130c25e643a09fc88abfc7",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821444/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'amendement est retiré.</p><p>La Commission adopte l'amendement rédactionnel CL35 du rapporteur.</p><p>Puis elle examine l'amendement CL15 de M. Paul Molac.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821445",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "27",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000460",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_2facf3b77001212b1b92a760d6a45cd2",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821445/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cet amendement vise à préciser que les critères de fixation du montant des redevances sont non seulement transparents, mais aussi publics. Il s'agit donc de reprendre les mêmes termes que ceux qui sont utilisés à l'article 2 pour les accords d'exclusivité.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821446",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "Paul Molac",
+        "intervenant_slug": "paul-molac",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "44",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "exclusivité"
+          },
+          {
+            "tag": "redevance"
+          }
+        ],
+        "timestamp": "93000470",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_fe9ea55c308e7b800757f9f61d27666e",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821446/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je connais votre vigilance sur ces questions, monsieur Molac. Néanmoins, je vous invite à retirer votre amendement, car il est satisfait par l'alinéa 6 de l'article 3, qui dispose que « les modalités de fixation de ces redevances sont fixées par décret en Conseil d'État », ainsi que par l'article 5, lequel réécrit le second alinéa de l'article 17 de la loi de 1978 comme suit : « Les conditions de réutilisation des informations publiques ainsi que, le cas échéant, les bases de calcul retenues pour la fixation du montant des redevances sont rendues publiques, dans un format ouvert, par les autorités qui les ont produites ou reçues. »</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821447",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "112",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "réutilisation"
+          },
+          {
+            "tag": "redevance"
+          },
+          {
+            "tag": "format"
+          },
+          {
+            "tag": "invite"
+          }
+        ],
+        "timestamp": "93000480",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_9d370b83012e6826fe8512ad0ef772f7",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821447/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'amendement est retiré.</p><p>La Commission est saisie de l'amendement CL3 de M. Lionel Tardy.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821448",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "18",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000490",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_381215c4fef9ca58d2492eebc0455300",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821448/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Afin que les choses ne soient pas figées dans le temps, cet amendement prévoit que les critères de fixation du montant des redevances sont réévalués de façon régulière. Nous pourrions imaginer, par exemple, une révision annuelle, sachant que les coûts de fonctionnement liés à la mise à disposition des données sont amenés à évoluer et, potentiellement, à baisser. Une redevance ne saurait en aucun cas être une rente permanente.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821449",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "LR",
+        "intervenant_nom": "Lionel Tardy",
+        "intervenant_slug": "lionel-tardy",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "80",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "redevance"
+          }
+        ],
+        "timestamp": "93000500",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_99fdc9bd1239a5566097506c284a2c2d",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821449/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'enjeu porte davantage sur le réexamen de la liste des catégories d'administrations autorisées à établir des redevances que sur celui des critères de fixation de leur montant. Je vous renvoie à mes amendements CL38 et CL40, qui me paraissent répondre à vos attentes.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821450",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "47",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "redevance"
+          }
+        ],
+        "timestamp": "93000510",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_8f04b0be66e41e91e4ae7991cdeae6ff",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821450/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je vous invite à retirer votre amendement, monsieur Tardy, afin que nous puissions travailler à une rédaction qui convienne mieux d'ici à la séance publique.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821451",
+        "intervenant_fonction": "secrétaire d'état chargée de la réforme de l'état et de la simplification",
+        "intervenant_groupe": "",
+        "intervenant_nom": "Clotilde Valter",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "26",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000520",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_d9e77181efaa8074027b59da23475a0c",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821451/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'amendement est retiré.</p><p>La Commission examine l'amendement CL12 de M. Bertrand Pancher.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821452",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "16",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000530",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_1af63173da01a11fd267281a2ed03082",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821452/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cet amendement va nous permettre de montrer l'exemple, en faisant de l'open data sur la loi relative à l'open data ! (Sourires.) Je propose que les redevances pratiquées, ainsi que les mises à jour des montants ou des modalités de ces redevances, soient inscrites sur un registre public. Ainsi éclairés, nos concitoyens pourront donner leur avis et, éventuellement, interpeller le Gouvernement ou les parlementaires si l'on assiste à des dérives d'année en année.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821453",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UDI",
+        "intervenant_nom": "Bertrand Pancher",
+        "intervenant_slug": "bertrand-pancher",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "77",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "redevance"
+          },
+          {
+            "tag": "open"
+          },
+          {
+            "tag": "data"
+          }
+        ],
+        "timestamp": "93000540",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_3dc7e4f846c6dff6876015ad20bc7b58",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821453/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Nous avons déjà eu ce débat lorsque nous avons examiné l'amendement CL10 et n'avons pas décidé de créer de registre de cette nature. Je vous invite à retirer votre amendement, car il est satisfait par l'alinéa 6 de l'article 3 : la liste des catégories d'administrations autorisées à établir des redevances sera fixée par décret en Conseil d'État et sera donc publique. De plus, mon amendement CL38, que je présenterai tout à l'heure et qui vise à ce que chaque nouvelle redevance soit expressément autorisée, est lui aussi de nature à vous donner satisfaction.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821454",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "101",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "redevance"
+          },
+          {
+            "tag": "invite"
+          }
+        ],
+        "timestamp": "93000550",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_a22970a4216dbbef629f3a34fb7ccfe7",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821454/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Vous êtes habile, monsieur le rapporteur, mais vous ne répondez pas complètement à ma question. Je maintiens mon amendement et verrai ce que vous proposez tout à l'heure.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821455",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UDI",
+        "intervenant_nom": "Bertrand Pancher",
+        "intervenant_slug": "bertrand-pancher",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "30",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000560",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_b6e22138657bb1f01f1ebc1cda988e52",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821455/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission rejette l'amendement.</p><p>Elle en vient à l'amendement CL4 de M. Lionel Tardy.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821456",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "17",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000570",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_43286a136d01785377f64360acf5cad7",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821456/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Nous nous perdons un peu dans les règles de fixation des redevances. Celles-ci sont définies de façon générale à l'alinéa 2 de l'article 3, mais on voit apparaître d'autres critères à l'alinéa 6 du même article, relatif au décret d'application : la nature de l'activité des administrations et les conditions de leur financement. Or les conditions de financement des administrations sont, selon moi, un critère trop large. Quant à la nature de leur activité, je ne vois pas concrètement ce qui sera pris en compte, ni de quelle manière cela le sera. Le critère de fixation du montant de la redevance doit être avant tout les coûts induits par l'ouverture des données, ainsi que le prévoit la directive PSI.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821457",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "LR",
+        "intervenant_nom": "Lionel Tardy",
+        "intervenant_slug": "lionel-tardy",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "132",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "redevance"
+          }
+        ],
+        "timestamp": "93000580",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_95338a2fb473a0955b482415aefb60de",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821457/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Votre intention est louable, mais la précision que vous proposez de supprimer à l'alinéa 6 &#8211; « en raison de la nature de leur activité et des conditions de leur financement » &#8211; est utile. En effet, l'alinéa 2 mentionne les « administrations », alors que le décret prévu à l'alinéa 6 devra déterminer, lui, la liste des « catégories d'administrations » autorisées à établir des redevances. Cette structuration de l'article 3 résulte d'une proposition du Conseil d'État. Je propose d'en rester à celle-ci et vous invite donc à retirer votre amendement.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821458",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "88",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "redevance"
+          },
+          {
+            "tag": "invite"
+          }
+        ],
+        "timestamp": "93000590",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_0dee8ee3a276c0d67612fcbcb8af50da",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821458/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je maintiens mon amendement.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821459",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "LR",
+        "intervenant_nom": "Lionel Tardy",
+        "intervenant_slug": "lionel-tardy",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "6",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000600",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_dd094988511eddf063f5ee7913921968",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821459/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je suis du même avis que le rapporteur.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821460",
+        "intervenant_fonction": "secrétaire d'état chargée de la réforme de l'état et de la simplification",
+        "intervenant_groupe": "",
+        "intervenant_nom": "Clotilde Valter",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "11",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000610",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_02ff492f07d6c6d840e2707e51aa4afb",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821460/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission rejette l'amendement.</p><p>Puis elle est saisie de l'amendement CL5 rectifié de M. Lionel Tardy.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821461",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "20",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000620",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_25d853b85c3e4d6a31238a4867df7710",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821461/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je propose de préciser que les redevances sont « limitées aux coûts marginaux de reproduction, de mise à disposition et de diffusion » des données, ainsi que le prévoit textuellement l'article 6 de la directive PSI. Je sais que l'on peut prendre quelques libertés dans la transposition de ladite directive, mais, en l'espèce, si l'on ne colle pas suffisamment au texte, notre politique d'open data risque sérieusement de perdre de sa force.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821462",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "LR",
+        "intervenant_nom": "Lionel Tardy",
+        "intervenant_slug": "lionel-tardy",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "78",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "transposition"
+          },
+          {
+            "tag": "redevance"
+          },
+          {
+            "tag": "open"
+          },
+          {
+            "tag": "data"
+          }
+        ],
+        "timestamp": "93000630",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_ab00ce5267193fc4d5f09f3f1549bdf6",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821462/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Une fois n'est pas coutume, je suis en désaccord avec vous sur le fond, monsieur Tardy. Le projet de loi consacre le principe de gratuité de la réutilisation des informations du secteur public et prévoit des dérogations à ce principe. Ce dispositif est plus ambitieux en matière d'open data que l'établissement de redevances limitées aux coûts marginaux, qui me paraît, de plus, aller à l'encontre des autres propositions que vous avez formulées. Nous ne devons pas, selon moi, retenir la notion de coûts marginaux. Avis défavorable.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821463",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "98",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "réutilisation"
+          },
+          {
+            "tag": "gratuité"
+          },
+          {
+            "tag": "redevance"
+          },
+          {
+            "tag": "format"
+          },
+          {
+            "tag": "open"
+          },
+          {
+            "tag": "data"
+          }
+        ],
+        "timestamp": "93000640",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_41dc01e0cdfb3dd9df3aac40fd551ce2",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821463/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'amendement est retiré.</p><p>La Commission examine l'amendement CL40 du rapporteur.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821464",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "14",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000650",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_c0de200c0bfd41651f825f683780620f",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821464/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je propose que la liste des catégories d'administrations autorisées à établir des redevances soit révisée tous les cinq ans. Cette disposition me semble de nature à satisfaire les préoccupations de MM. Pancher et Tardy.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821465",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "39",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "redevance"
+          }
+        ],
+        "timestamp": "93000660",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_762a39cac426b24b0aa3401ade61bb0c",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821465/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte l'amendement.</p><p>Puis elle examine les amendements CL16 de M. Paul Molac et CL38 du rapporteur, qui peuvent faire l'objet d'une discussion commune.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821466",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "29",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000670",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_454a02f2af99cb8e4f3ce7a08d82cfc3",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821466/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'amendement CL16 prévoit que les redevances sont fixées par décret spécifique afin de permettre une plus grande transparence et un avis systématique de la CADA.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821467",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "Paul Molac",
+        "intervenant_slug": "paul-molac",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "32",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "redevance"
+          }
+        ],
+        "timestamp": "93000680",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_a797b9f944bbed1cb915a4565a580fc5",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821467/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Votre souhait, monsieur Molac, est déjà en partie satisfait par l'amendement CL40 et le reste le sera par l'amendement CL38, qui évitera qu'un décret en supprime un autre et que certaines administrations ouvrent un open bar de la redevance.</p><p>Par ailleurs, votre rédaction inclut les collectivités locales dans le décret, ce qui ne serait pas sans poser problème à celles-ci.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821468",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "69",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "redevance"
+          },
+          {
+            "tag": "open"
+          }
+        ],
+        "timestamp": "93000690",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_591d6a7ce646edae8cf75e624c05d65b",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821468/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'amendement CL16 est retiré.</p><p>La Commission adopte l'amendement CL38.</p><p>Elle adopte ensuite l'article 3 modifié.</p><p>Article 4 (art. 16 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal) : Délivrance de licences en vue de la réutilisation des informations publiques</p><p>La Commission examine l'amendement CL19 de M. René Dosière.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821469",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "76",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000700",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_80f921b74b48205c728dc92b150ec970",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821469/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Il s'agit de favoriser un recours beaucoup plus large aux licences.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821470",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "René Dosière",
+        "intervenant_slug": "rene-dosiere",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "13",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000710",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_c322d806a19206f044cc60101e00760b",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821470/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'amendement est satisfait par l'actuelle rédaction de l'article 4.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821471",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "11",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000720",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_77155c1b55c75e464a3720a3cd27077c",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821471/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'amendement est retiré.</p><p>La Commission examine l'amendement CL39 du rapporteur.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821472",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "14",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000730",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_3b9e694b9fc930fcfe5041db4126cef2",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821472/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je propose de supprimer les mots « le cas échéant ». En 2015, les licences doivent être communiquées sous format électronique.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821473",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "22",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "format"
+          }
+        ],
+        "timestamp": "93000740",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_8e8f0e4e2bdf7d065e49e6b26955fc67",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821473/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte l'amendement.</p><p>Elle adopte ensuite l'article 4 modifié.</p><p>Après l'article 4</p><p>La Commission examine l'amendement CL6 de M. Lionel Tardy.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821474",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "29",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000750",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_b7ddd27f3353d019e947a4a98993bf4d",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821474/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je propose une modification rédactionnelle qui va dans le sens de la première version de l'avant-projet de loi numérique. À l'article 16 de la loi de 1978, la mise à disposition des éventuelles licences types n'est pas forcément prévue par voie électronique. Or, dix ans après sa rédaction, les choses ont évolué et une telle mise à disposition se fait sans aucun doute systématiquement de cette manière. Il convient donc de le préciser.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821475",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "LR",
+        "intervenant_nom": "Lionel Tardy",
+        "intervenant_slug": "lionel-tardy",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "80",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000760",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_44afabe096474cf5098f86e286581f63",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821475/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Tandis que l'amendement CL39 voté à l'article 4 prévoit une communication « sous format électronique », le présent amendement écrit « par voie électronique ». Je propose d'en rester à la première rédaction.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821476",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "32",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "format"
+          }
+        ],
+        "timestamp": "93000770",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_6bee9f222f8845ed039f7b754b8210fb",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821476/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission rejette l'amendement.</p><p>Article 5 (art. 17 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal) : Publicité des bases de calcul retenues pour la fixation des redevances</p><p>La Commission examine l'amendement CL23 de M. Paul Molac.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821477",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "59",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000780",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_02a7aba55ca2e374f24b0a91d3f6905c",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821477/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Il s'agit de prévoir que le document fixant les conditions de réutilisation et les bases de calcul des redevances soit publié dans un format ouvert, mais également librement réutilisable. C'est la question des PDF (Portable Document Format) que j'ai soulevée dans un précédent amendement.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821478",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "Paul Molac",
+        "intervenant_slug": "paul-molac",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "52",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "réutilisation"
+          },
+          {
+            "tag": "redevance"
+          },
+          {
+            "tag": "format"
+          }
+        ],
+        "timestamp": "93000790",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_78fbd1122e314b68d307a4bac9f55958",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821478/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>C'est déjà prévu puisque, en tant que document administratif, celui-ci entre dans le droit commun de l'article 10 de la loi de 1978 sur les conditions de réutilisation des informations publiques. L'adoption de l'amendement alourdirait le texte sans apporter de précision utile.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821479",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "46",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "réutilisation"
+          },
+          {
+            "tag": "format"
+          }
+        ],
+        "timestamp": "93000800",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_715206b29bd4ece198248f8b975be467",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821479/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'amendement est retiré.</p><p>La Commission adopte ensuite l'amendement rédactionnel CL28 du rapporteur.</p><p>Puis elle examine l'amendement CL7 de M. Lionel Tardy.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821480",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "28",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000810",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_31d9b2aa88635ed7e43c9776c2b67dff",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821480/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'article 5 prévoit la publication des bases de calcul retenues pour les redevances. C'est une bonne chose, mais nous pourrions aller plus loin en prévoyant que cette publication soit centralisée. Le portail data.gouv.fr serait sans doute l'instrument le plus approprié. Les modalités pourraient être précisées par décret. L'accès à ces données serait ainsi facilité et nous serions parfaitement dans la ligne recommandée par le Conseil national du numérique dans son rapport Ambition numérique, publié en juin.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821481",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "LR",
+        "intervenant_nom": "Lionel Tardy",
+        "intervenant_slug": "lionel-tardy",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "90",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "redevance"
+          },
+          {
+            "tag": "data"
+          }
+        ],
+        "timestamp": "93000820",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_90cb9a65ebbe79ed6d1a8dcb6ed2dcc4",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821481/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La publicité des redevances étant prescrite au niveau législatif, il ne me paraît pas utile de prévoir un décret. Cet amendement inclut les collectivités locales, ce qui n'est pas sans poser problème.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821482",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "40",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "redevance"
+          }
+        ],
+        "timestamp": "93000830",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_e8b4531abaf90c390ef8b8444481ce9a",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821482/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission rejette l'amendement.</p><p>Elle adopte ensuite l'article 5 modifié.</p><p>Après l'article 5</p><p>La Commission examine l'amendement CL20 de M. René Dosière.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821483",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "30",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000840",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_00d654986b1d1f58ab9d55bcac28a165",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821483/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Il s'agit de tirer les conséquences de la directive, qui ne limite plus la mention des voies de recours aux seules décisions défavorables, comme c'est actuellement le cas à l'article 25 de la loi de 1978, mais l'étend à toutes les décisions relatives à la réutilisation.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821484",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "René Dosière",
+        "intervenant_slug": "rene-dosiere",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "49",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "réutilisation"
+          }
+        ],
+        "timestamp": "93000850",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_b64b7988be775e883fa11f1a15f69426",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821484/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'erreur que relève M. Dosière est liée à l'emploi, à l'alinéa 2 de l'article 6, du terme « refus », alors que l'on parle de « décision de refus » dans le cas de l'accès, et de « décision défavorable » dans le cas de la réutilisation. Ce sera corrigé par l'amendement CL29, à l'article 6.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821485",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "55",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "réutilisation"
+          }
+        ],
+        "timestamp": "93000860",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_c206a7e9806a82384a4790f59bd3db33",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821485/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'amendement est retiré.</p><p>Article 6 (art. 25 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal) : Exception à l'obligation de motivation d'une décision défavorable en matière de réutilisation de données publiques fondée sur l'existence d'un droit de propriété intellectuelle</p><p>La Commission adopte l'amendement CL29 du rapporteur.</p><p>Elle adopte ensuite l'article 6 modifié.</p><p>Article 7 (art. 59 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal) : Application outre-mer</p><p>La Commission adopte successivement l'amendement de précision CL41 et les amendements rédactionnels CL42 et CL43 du rapporteur.</p><p>Elle adopte ensuite l'article 7 modifié.</p><p>Article 8 : Application dans le temps</p><p>La Commission examine, en discussion commune, les amendements CL17 de M. Paul Molac et CL44 du rapporteur.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821486",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "168",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000870",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_56ed5b44ca18181cc804eaceb482e3a8",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821486/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cet article prévoit, pour les accords d'exclusivité, des dérogations possibles jusqu'en 2043. Bien que la directive le permette, cela ne nous semble pas acceptable, surtout pour des oeuvres qui relèvent souvent du domaine public. Il importe d'en rester à la limite de dix ans.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821487",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "Paul Molac",
+        "intervenant_slug": "paul-molac",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "47",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "exclusivité"
+          }
+        ],
+        "timestamp": "93000880",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_5013fbeec625730322a6c2a6c4d0190f",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821487/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'amendement de précision CL44 transpose le paragraphe 4 de l'article 11 de la directive de 2003 dans la rédaction résultant de la directive de 2013. L'article 12 de l'ordonnance de 2005 relative à la liberté d'accès aux documents administratifs et à la réutilisation des informations publiques prévoit que tous les accords d'exclusivité existants qui ne relèvent pas de l'exception prévue au premier alinéa de l'article 14 de la loi du 17 juillet 1978 prennent fin à l'échéance du contrat et, au plus tard, le 31 décembre 2008. Le I du présent amendement précise que ce n'est que si l'article 12 de l'ordonnance n'est pas applicable à l'accord en cause, parce qu'il ne relevait pas de la loi de 1978 en 2005, que la date butoir applicable est le 18 juillet 2043. En d'autres termes, en cas de conflit entre ces deux règles d'application de la loi dans le temps, c'est l'article 12 de l'ordonnance de 2005 qui devra prévaloir. Cette solution est similaire à celle retenue par la directive 2003 révisée. L'Europe exprime souvent le souhait que les textes de loi nationaux citent les directives : ce sera le cas avec cet amendement.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821488",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "188",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "réutilisation"
+          },
+          {
+            "tag": "exclusivité"
+          },
+          {
+            "tag": "format"
+          }
+        ],
+        "timestamp": "93000890",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_97e6bdd6483ab439df9d93e5ade59b10",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821488/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je suis favorable à l'amendement du rapporteur.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821489",
+        "intervenant_fonction": "secrétaire d'état chargée de la réforme de l'état et de la simplification",
+        "intervenant_groupe": "",
+        "intervenant_nom": "Clotilde Valter",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "8",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000900",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_e02df234cd3af9866941e14c298920b9",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821489/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'amendement CL17 est retiré.</p><p>La Commission adopte l'amendement CL44.</p><p>Elle examine ensuite l'amendement CL8 de M. Lionel Tardy.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821490",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "24",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000910",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_8def89032c62f9e8bd323bf9de42668e",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821490/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Du retard ayant déjà été pris, autant ne pas faire traîner les choses une fois la loi adoptée. La mise en conformité des licences devrait pouvoir se faire dans les six mois après la publication de la loi, au lieu des douze mois actuellement prévus.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821491",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "LR",
+        "intervenant_nom": "Lionel Tardy",
+        "intervenant_slug": "lionel-tardy",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "52",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000920",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_3aed0f5d5dea446fae928360c0980807",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821491/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Avis défavorable. Si nous rendons applicable une nouvelle règle à un contrat en cours, nous portons atteinte à la liberté contractuelle, constitutionnellement protégée. C'est ce qu'a souligné le Conseil constitutionnel dans son avis sur le projet de loi. Je préfère donc ne pas prendre un risque inutile en réduisant cette durée à six mois.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821492",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "61",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000930",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_c16b6e6acf07228994e871239f14b3d1",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821492/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission rejette l'amendement.</p><p>Elle adopte ensuite l'article 8 modifié.</p><p>Article 9 : Habilitation à intégrer les dispositions de la présente loi dans le code des relations entre le public et les administrations</p><p>La Commission adopte l'amendement rédactionnel CL45 du rapporteur.</p><p>Puis elle adopte l'article 9 modifié.</p><p>La Commission adopte à l'unanimité l'ensemble du projet de loi modifié.</p><p>La séance est levée à 17 heures 50.</p>",
+        "date": "2015-09-29",
+        "heure": "15:00",
+        "id": "821493",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3037"
+          }
+        ],
+        "nbmots": "76",
+        "seance_id": "5495",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 29 septembre 2015 à 15h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "93000940",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_d4bb0641f2c87a143665f3429366ba79",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/821493/json"
+      }
+    }
+  ]
+}

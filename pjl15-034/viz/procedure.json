@@ -28,9 +28,9 @@
     "total_amendements_parlementaire_adoptes": 42,
     "total_days": 152,
     "total_input_articles": 9,
-    "total_intervenants": 24,
-    "total_interventions": 132,
-    "total_mots": 31140,
+    "total_intervenants": 37,
+    "total_interventions": 367,
+    "total_mots": 100489,
     "total_output_articles": 11
   },
   "steps": [
@@ -52,7 +52,11 @@
       "directory": "01_1erelecture_assemblee_commission",
       "echec": null,
       "enddate": "2015-09-29",
+      "has_interventions": true,
       "institution": "assemblee",
+      "intervention_files": [
+        "2015-09-29T15:00_5495"
+      ],
       "nb_amendements": 44,
       "source_url": "http://www.assemblee-nationale.fr/14/ta-commission/r3090-a0.asp",
       "stage": "1ère lecture",
@@ -64,7 +68,11 @@
       "directory": "02_1erelecture_assemblee_hemicycle",
       "echec": null,
       "enddate": "2015-10-06",
+      "has_interventions": true,
       "institution": "assemblee",
+      "intervention_files": [
+        "2015-10-06T15:00_5542"
+      ],
       "nb_amendements": 38,
       "source_url": "http://www.assemblee-nationale.fr/14/ta/ta0593.asp",
       "stage": "1ère lecture",
@@ -126,7 +134,13 @@
       "directory": "07_cmp_assemblee_hemicycle",
       "echec": null,
       "enddate": "2015-12-09",
+      "has_interventions": true,
       "institution": "assemblee",
+      "intervention_files": [
+        "2015-10-06T15:00_5542",
+        "2015-12-09T15:00_5977",
+        "2015-12-09T15:00_5977"
+      ],
       "nb_amendements": 0,
       "source_url": "http://www.assemblee-nationale.fr/14/ta/ta0628.asp",
       "stage": "CMP",

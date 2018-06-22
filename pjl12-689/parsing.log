@@ -66,24 +66,53 @@ Matched an article deleted in this step 19_bis
  - process amendements & interventions
     * step - 1ère lecture depot http://www.assemblee-nationale.fr/14/projets/pl1005.asp
     * step - 1ère lecture commission http://www.assemblee-nationale.fr/14/ta-commission/r1109-a0.asp
-      * downloading amendments: https://nosdeputes.fr/14/amendements/1005/json?cache=5feb2018 for http://www.assemblee-nationale.fr/14/projets/pl1005.asp
+      * downloading amendments: https://2012-2017.nosdeputes.fr/14/amendements/1005/json?cache=5feb2018 for http://www.assemblee-nationale.fr/14/projets/pl1005.asp
         parsing amendments: 243
       * downloading interventions
-        * downloading seances -  https://2012-2017.nosdeputes.fr/seances/1005/json?commission=1
+        * downloading seances -  https://2012-2017.nosdeputes.fr/14/seances/1005/json?commission=1
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/1461/1005/json
+            dumping seance - 2013-06-04T17:30_1461
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/1525/1005/json
+            dumping seance - 2013-06-17T15:00_1525
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/1842/1005/json
+            dumping seance - 2013-09-10T15:00_1842
     * step - 1ère lecture hemicycle http://www.assemblee-nationale.fr/14/ta/ta0162.asp
-      * downloading amendments: https://nosdeputes.fr/14/amendements/1109/json?cache=5feb2018 for http://www.assemblee-nationale.fr/14/ta-commission/r1109-a0.asp
+      * downloading amendments: https://2012-2017.nosdeputes.fr/14/amendements/1109/json?cache=5feb2018 for http://www.assemblee-nationale.fr/14/ta-commission/r1109-a0.asp
         parsing amendments: 410
       * downloading interventions
-        * downloading seances -  https://2012-2017.nosdeputes.fr/seances/1109/json?hemicycle=1
-        * downloading seances -  https://2012-2017.nosdeputes.fr/seances/1005/json?hemicycle=1
+        * downloading seances -  https://2012-2017.nosdeputes.fr/14/seances/1109/json?hemicycle=1
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/1528/1109/json
+            dumping seance - 2013-06-17T16:00_1528
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/1530/1109/json
+            dumping seance - 2013-06-17T21:30_1530
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/1540/1109/json
+            dumping seance - 2013-06-18T21:30_1540
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/1553/1109/json
+            dumping seance - 2013-06-19T21:30_1553
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/1555/1109/json
+            dumping seance - 2013-06-19T15:00_1555
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/1624/1109/json
+            dumping seance - 2013-06-25T15:00_1624
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/1818/1109/json
+            dumping seance - 2013-06-18T15:00_1818
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/1832/1109/json
+            dumping seance - 2013-07-22T21:45_1832
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/1834/1109/json
+            dumping seance - 2013-07-22T17:00_1834
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/2137/1109/json
+            dumping seance - 2013-09-11T15:00_2137
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/2140/1109/json
+            dumping seance - 2013-07-23T15:00_2140
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/2142/1109/json
+            dumping seance - 2013-09-17T15:00_2142
     * step - 1ère lecture depot https://www.senat.fr/leg/pjl12-689.html
     * step - 1ère lecture commission https://www.senat.fr/leg/pjl12-724.html
-      * downloading amendments: https://nossenateurs.fr/amendements/20122013-689/json?cache=5feb2018 for https://www.senat.fr/leg/pjl12-689.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20122013-689/json?cache=5feb2018 for https://www.senat.fr/leg/pjl12-689.html
         parsing amendments: 123
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20122013-689/json?commission=1
     * step - 1ère lecture hemicycle https://www.senat.fr/leg/tas12-193.html
-      * downloading amendments: https://nossenateurs.fr/amendements/20122013-724/json?cache=5feb2018 for https://www.senat.fr/leg/pjl12-724.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20122013-724/json?cache=5feb2018 for https://www.senat.fr/leg/pjl12-724.html
         parsing amendments: 189
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20122013-724/json?hemicycle=1
@@ -94,19 +123,46 @@ Matched an article deleted in this step 19_bis
     * step - CMP commission https://www.senat.fr/leg/pjl12-772.html
     * step - nouv. lect. depot http://www.assemblee-nationale.fr/14/projets/pl1250.asp
     * step - nouv. lect. commission http://www.assemblee-nationale.fr/14/ta-commission/r1280-a0.asp
-      * downloading amendments: https://nosdeputes.fr/14/amendements/1250/json?cache=5feb2018 for http://www.assemblee-nationale.fr/14/projets/pl1250.asp
+      * downloading amendments: https://2012-2017.nosdeputes.fr/14/amendements/1250/json?cache=5feb2018 for http://www.assemblee-nationale.fr/14/projets/pl1250.asp
         parsing amendments: 42
       * downloading interventions
-        * downloading seances -  https://2012-2017.nosdeputes.fr/seances/1250/json?commission=1
+        * downloading seances -  https://2012-2017.nosdeputes.fr/14/seances/1250/json?commission=1
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/1741/1250/json
+            dumping seance - 2013-07-17T14:00_1741
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/1764/1250/json
+            dumping seance - 2013-07-22T16:00_1764
     * step - nouv. lect. hemicycle http://www.assemblee-nationale.fr/14/ta/ta0192.asp
-      * downloading amendments: https://nosdeputes.fr/14/amendements/1280/json?cache=5feb2018 for http://www.assemblee-nationale.fr/14/ta-commission/r1280-a0.asp
+      * downloading amendments: https://2012-2017.nosdeputes.fr/14/amendements/1280/json?cache=5feb2018 for http://www.assemblee-nationale.fr/14/ta-commission/r1280-a0.asp
         parsing amendments: 58
       * downloading interventions
-        * downloading seances -  https://2012-2017.nosdeputes.fr/seances/1280/json?hemicycle=1
-        * downloading seances -  https://2012-2017.nosdeputes.fr/seances/1250/json?hemicycle=1
+        * downloading seances -  https://2012-2017.nosdeputes.fr/14/seances/1280/json?hemicycle=1
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/1528/1280/json
+            dumping seance - 2013-06-17T16:00_1528
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/1530/1280/json
+            dumping seance - 2013-06-17T21:30_1530
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/1540/1280/json
+            dumping seance - 2013-06-18T21:30_1540
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/1553/1280/json
+            dumping seance - 2013-06-19T21:30_1553
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/1555/1280/json
+            dumping seance - 2013-06-19T15:00_1555
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/1624/1280/json
+            dumping seance - 2013-06-25T15:00_1624
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/1818/1280/json
+            dumping seance - 2013-06-18T15:00_1818
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/1832/1280/json
+            dumping seance - 2013-07-22T21:45_1832
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/1834/1280/json
+            dumping seance - 2013-07-22T17:00_1834
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/2137/1280/json
+            dumping seance - 2013-09-11T15:00_2137
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/2140/1280/json
+            dumping seance - 2013-07-23T15:00_2140
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/2142/1280/json
+            dumping seance - 2013-09-17T15:00_2142
     * step - nouv. lect. depot https://www.senat.fr/leg/pjl12-798.html
     * step - nouv. lect. commission https://www.senat.fr/leg/pjl12-803.html
-      * downloading amendments: https://nossenateurs.fr/amendements/20122013-798/json?cache=5feb2018 for https://www.senat.fr/leg/pjl12-798.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20122013-798/json?cache=5feb2018 for https://www.senat.fr/leg/pjl12-798.html
         parsing amendments: 50
 WARNING: amendments ignored (not the right step) 50
       * downloading interventions
@@ -114,7 +170,7 @@ WARNING: amendments ignored (not the right step) 50
            downloading seance -  https://www.nossenateurs.fr/seance/9754/20122013-798/json
             dumping seance - 2013-07-24T2ème réunion_9754
     * step - nouv. lect. hemicycle https://www.senat.fr/leg/tas12-211.html
-      * downloading amendments: https://nossenateurs.fr/amendements/20122013-798/json?cache=5feb2018 for https://www.senat.fr/leg/pjl12-798.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20122013-798/json?cache=5feb2018 for https://www.senat.fr/leg/pjl12-798.html
         parsing amendments: 50
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20122013-798/json?hemicycle=1
@@ -125,16 +181,40 @@ WARNING: amendments ignored (not the right step) 50
     * step - l. définitive depot http://www.assemblee-nationale.fr/14/ta/ta0192.asp
     * step - l. définitive hemicycle http://www.assemblee-nationale.fr/14/ta/ta0208.asp
 [step_logic] l. définitive / hemicycle: fetching last AN hemi or last CMP commission
-      * downloading amendments: https://nosdeputes.fr/14/amendements/TA192/json?cache=5feb2018 for http://www.assemblee-nationale.fr/14/ta/ta0192.asp
- WARNING: TA - trying alternative url too https://nosdeputes.fr/14/amendements/TA0192/json?cache=5feb2018
+      * downloading amendments: https://2012-2017.nosdeputes.fr/14/amendements/TA192/json?cache=5feb2018 for http://www.assemblee-nationale.fr/14/ta/ta0192.asp
+ WARNING: TA - trying alternative url too https://2012-2017.nosdeputes.fr/14/amendements/TA0192/json?cache=5feb2018
         parsing amendments: 3
 WARNING: amendments ignored (not the right step) 1
       * downloading interventions
-        * downloading seances -  https://2012-2017.nosdeputes.fr/seances/TA192/json?hemicycle=1
+        * downloading seances -  https://2012-2017.nosdeputes.fr/14/seances/TA192/json?hemicycle=1
     * step - constitutionnalité None http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2013/2013-676-dc/decision-n-2013-676-dc-du-9-octobre-2013.138228.html
     * step - promulgation None https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028056315&categorieLien=id
  - re-order interventions and correct procedure dates
+INFO: change beginning date of 1 thanks to 2013-06-04T17:30_1461
+INFO: change end date of 1 thanks to 2013-06-17T15:00_1525
+INFO: moves  2013-09-10T15:00_1842  from step 1 to step 13
+INFO: change beginning date of 2 thanks to 2013-06-17T16:00_1528
+INFO: moves  2013-07-22T21:45_1832  from step 2 to step 8
+INFO: moves  2013-07-22T17:00_1834  from step 2 to step 8
+INFO: moves  2013-09-11T15:00_2137  from step 2 to step 13
+INFO: moves  2013-07-23T15:00_2140  from step 2 to step 8
+INFO: moves  2013-09-17T15:00_2142  from step 2 to step 13
 INFO: change beginning date of 5 thanks to 2013-07-09T14:30_9679
+INFO: change end date of 8 thanks to 2013-07-22T16:00_1764
+INFO: change end date of 8 thanks to 2013-07-23T15:00_2140
+ERROR: PB date of 2013-06-17T16:00_1528 , step begins 2013-07-23 and prev date ends 2013-07-23
+ERROR: PB date of 2013-06-17T21:30_1530 , step begins 2013-07-23 and prev date ends 2013-07-23
+ERROR: PB date of 2013-06-18T21:30_1540 , step begins 2013-07-23 and prev date ends 2013-07-23
+ERROR: PB date of 2013-06-19T21:30_1553 , step begins 2013-07-23 and prev date ends 2013-07-23
+ERROR: PB date of 2013-06-19T15:00_1555 , step begins 2013-07-23 and prev date ends 2013-07-23
+ERROR: PB date of 2013-06-25T15:00_1624 , step begins 2013-07-23 and prev date ends 2013-07-23
+ERROR: PB date of 2013-06-18T15:00_1818 , step begins 2013-07-23 and prev date ends 2013-07-23
+INFO: change beginning date of 9 thanks to 2013-07-22T21:45_1832
+INFO: moves  2013-09-11T15:00_2137  from step 9 to step 13
+INFO: moves  2013-09-17T15:00_2142  from step 9 to step 13
+INFO: change end date of 13 thanks to 2013-09-10T15:00_1842
+INFO: change end date of 13 thanks to 2013-09-11T15:00_2137
+INFO: change end date of 13 thanks to 2013-09-17T15:00_2142
  - prepare interventions.json
  - compute stats
   FINISHED - pjl12-689

@@ -1,0 +1,3608 @@
+{
+  "seance": [
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La séance est ouverte à 14 heures 05.</p><p>Présidence de M. Jean-Yves Le Bouillonnec, vice-président.</p><p>La Commission examine en nouvelle lecture, sur le rapport de M. Jean-Jacques Urvoas, le projet de loi organique (n° 1249) et le projet de loi (n° 1250) relatifs à la transparence de la vie publique.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259533",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "53",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P4_280",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000010",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_a6c31c8ffe1f98597867341ed937c381",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259533/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Les deux commissions mixtes paritaires (CMP) qui se sont tenues hier soir ayant échoué, nous sommes saisis en nouvelle lecture du projet de loi organique et du projet de loi relatifs à la transparence de la vie publique tels qu'ils ont été modifiés par le Sénat.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259534",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Yves Le Bouillonnec",
+        "intervenant_slug": "jean-yves-le-bouillonnec",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "49",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P4_280",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000020",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_0665b9c612de323252b7631711766787",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259534/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Les commissions mixtes paritaires qui se sont réunies hier soir n'ont pu aboutir à un accord. L'existence de deux textes a posé une difficulté. Certes, la loi ordinaire a été adoptée par le Sénat avec quelques amendements qui n'auraient pas empêché, selon nous, que les deux chambres s'entendent, mais la suppression de l'article 1er du projet de loi organique posait un tout autre problème. En effet, si cet article n'est pas le coeur du texte, il est au moins l'un de ses deux poumons, et il paraissait difficile d'avancer sur le projet de loi ordinaire isolément.</p><p>L'article 1er du projet de loi organique a donné lieu au Sénat à des débats passionnés et difficiles à suivre en raison de l'adoption de versions successives différentes. Celle retenue initialement par la commission des Lois du Sénat, assez proche de celle adoptée par l'Assemblée nationale, aurait sans doute pu nous permettre d'aboutir à un accord sur la question de la publicité des déclarations de patrimoine, mais l'article a été rejeté en séance publique. Le rapporteur du texte au Sénat, M. Jean-Pierre Sueur, président de la commission des Lois, et moi-même avons estimé que cette suppression restreignait à l'excès les marges de manoeuvre de la CMP ; celle-ci a donc conclu à son échec.</p><p>Malgré cette situation, il m'a semblé utile et de bonne politique, dans l'intérêt de la loi, de reprendre certaines des améliorations rédactionnelles et techniques apportées par le Sénat. Ces éléments constituent l'essentiel de la quarantaine d'amendements que je vous propose. J'ai également retenu certaines innovations introduites par la Chambre haute concernant, d'une part, ce que l'on appelle assez maladroitement « la réserve parlementaire » et, d'autre part, la réutilisation des données publiques contenues dans les déclarations d'intérêts.</p><p>Le Sénat a voté à l'unanimité &#8211; ce qui est suffisamment rare pour être souligné, et pour que l'Assemblée en tienne compte &#8211; la publication de l'utilisation faite de la réserve parlementaire dans la loi. Je vous propose de retenir ce principe que l'Assemblée nationale s'applique déjà à elle-même puisque son président, M. Claude Bartolone, a indiqué qu'il rendrait publiques les données concernant la réserve parlementaire à la fin de l'année. Cette publication ne constitue pas une altération de la souveraineté des chambres, dans la mesure où cette « réserve » prend la forme de crédits gérés principalement par le ministère de l'Intérieur. Cette information a en conséquence toute sa place dans la loi de règlement examinée par les parlementaires au mois de juin.</p><p>En première lecture, plusieurs de nos collègues avaient défendu la réutilisation des données figurant dans les déclarations d'intérêts sous la forme d'open data. Pour ma part, j'étais réticent en raison du risque de voir publier des données personnelles. Le Sénat a retravaillé sur le sujet, et il me semble que les difficultés sont aujourd'hui aplanies. J'ai en conséquence déposé des amendements reprenant la solution adoptée par la Chambre haute.</p><p>Je vous propose évidemment de rétablir l'article 1er de la loi organique tel que nous l'avions voté à l'issue d'un très long débat.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259535",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "569",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P4_280",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "déclaration"
+          },
+          {
+            "tag": "rétablir"
+          },
+          {
+            "tag": "réserve"
+          },
+          {
+            "tag": "adoptée"
+          },
+          {
+            "tag": "haute"
+          }
+        ],
+        "timestamp": "95000030",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_3a8a946bccc41fd2599ff973569f6165",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259535/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Le groupe SRC n'a pas pu déposer des amendements dans les délais brefs qui nous étaient impartis avant cette réunion. D'ici à jeudi, dix-sept heures, nous pourrons toutefois le faire pour la discussion en séance, lundi prochain.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259536",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "René Dosière",
+        "intervenant_slug": "rene-dosiere",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "42",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P4_280",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000040",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_96940c0848b9ec94c77491539b3c67a9",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259536/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je suis évidemment favorable à la publication des éléments relatifs à la réserve parlementaire. Tant qu'elle existe, ses critères de distribution doivent être précisément indiqués, et son emploi doit être transparent. Cependant, en tentant de la réguler et en l'inscrivant pour la première fois dans les textes, ne contribuons-nous pas à la consacrer par la loi ? Ne sommes-nous pas paradoxalement en train d'officialiser une pratique contestable et de rendre plus complexe son éventuelle suppression ?</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259537",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Matthias Fekl",
+        "intervenant_slug": "matthias-fekl",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "81",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P4_280",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "réserve"
+          }
+        ],
+        "timestamp": "95000050",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_d746cb0769a2bbaf46141d90701b3d92",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259537/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Les textes dont nous sommes saisis à l'issue de l'échec des travaux des commissions mixtes paritaires ont été mis en ligne hier soir. La capacité d'amendement des députés était donc&#8230;</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259538",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "34",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P4_280",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000060",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_8a059ca09df133fe7e1317624d5db92f",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259538/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>&#8230;limitée !</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259539",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "René Dosière",
+        "intervenant_slug": "rene-dosiere",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "4",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P4_280",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000070",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_0dae8448cce781ec7c3b3ab74bc72533",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259539/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Il était tout de même possible de déposer des amendements.</p><p>Monsieur Fekl, l'amendement que j'ai déposé ne mentionne pas la « réserve parlementaire » en tant que telle. Notre rédaction couvre néanmoins tous les crédits concernés, d'autant qu'il en existe de différentes sortes dans différents ministères.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259540",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "59",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P4_280",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "réserve"
+          }
+        ],
+        "timestamp": "95000080",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_5470f840c6defedd3380337cf57ea60d",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259540/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission en vient à l'examen des articles du projet de loi organique relatif à la transparence de la vie publique (n° 1249).</p><p>Article 1er A : Définition des conflits d'intérêts applicable aux membres du Parlement</p><p>La Commission est saisie de l'amendement de suppression CL 2 du rapporteur.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259541",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "52",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P4_280",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000090",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_c1e388891bda53dce12e02dd7d97c505",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259541/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'article 1er A introduit par le Sénat vise à définir les conflits d'intérêts applicables aux seuls parlementaires. Il ne me paraît pas utile de le maintenir.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259542",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "32",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P4_280",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000100",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_f1106d9bca8195824a08afdb7da5589f",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259542/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte l'amendement.</p><p>En conséquence l'article 1er A est supprimé.</p><p>Article 1er (supprimé) (art. L.O. 135-1, L.O. 135-2, L.O. 135-3, L.O. 135-4 à L.O. 135-6 [nouveaux], L.O. 136-2 du code électoral) : Déclaration de situation patrimoniale et déclaration d'intérêts et d'activités des députés et sénateurs</p><p>La Commission examine, en discussion commune, les amendements CL 3 du rapporteur et CL 5 de M. François de Rugy.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259543",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "86",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P4_280",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000110",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_efacc153e7046dee6e6c323ac60dc1ab",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259543/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Mon amendement vise à rétablir l'article 1er dans la version adoptée par l'Assemblée nationale en première lecture, moyennant quelques modifications inspirées par les travaux de la commission des Lois du Sénat.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259544",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "38",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P4_280",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "rétablir"
+          },
+          {
+            "tag": "adoptée"
+          }
+        ],
+        "timestamp": "95000120",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_b3cc239e48c3288a001330bdb4885f50",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259544/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Il s'agit de rétablir l'article prévoyant la publicité des déclarations de patrimoine.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259545",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "Paul Molac",
+        "intervenant_slug": "paul-molac",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "17",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P4_280",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "déclaration"
+          },
+          {
+            "tag": "rétablir"
+          }
+        ],
+        "timestamp": "95000130",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_330e26655279ebb359cefba10ed328c0",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259545/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je ne peux qu'être défavorable à l'amendement CL 5, à propos de la publicité, qui rétablit le texte de l'article 1er dans la version du Gouvernement, et non dans celle adoptée par l'Assemblée nationale en première lecture.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259546",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "42",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P4_280",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "rétablit"
+          },
+          {
+            "tag": "adoptée"
+          }
+        ],
+        "timestamp": "95000140",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_91540d59672b25c4bffe9a18f19675c5",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259546/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte l'amendement CL 3.</p><p>En conséquence, l'amendement CL 5 tombe.</p><p>L'article 1er est ainsi rétabli.</p><p>Article 2 (art. L.O. 145, L.O. 146, L.O. 146-1, L.O. 149, L.O. 151-2 et L.O. 151-3 du code électoral) : Incompatibilité du mandat parlementaire avec l'exercice de fonctions de conseil et de fonctions au sein d'entreprises travaillant essentiellement pour des personnes publiques &#8211; suppression des dispositions relatives à la déclaration d'activités extraparlementaires</p><p>La Commission est saisie d'un amendement CL 1 du rapporteur, qui fait l'objet d'un sous-amendement CL 6 de M. François de Rugy.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259547",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "101",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P44_7690",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000150",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_35038b311a7e0178d2ecbaee1bef4c2c",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259547/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Mon amendement rétablit le texte adopté en première lecture par l'Assemblée nationale en intégrant deux apports provenant du Sénat. En effet, la commission des Lois du Sénat a adopté un amendement interdisant à un parlementaire, nommé dans un organisme extraparlementaire, de percevoir toute rémunération, gratification ou indemnité. De la même manière, elle a prévu que les missions confiées par le Gouvernement ne pouvaient donner lieu à rémunération. Ces deux dispositions figurent dans mon amendement.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259548",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "88",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P44_7690",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "rétablit"
+          }
+        ],
+        "timestamp": "95000160",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_bf91f5a69aee6c697bdd785f953e4e0c",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259548/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Mon sous-amendement vise à rendre le mandat parlementaire incompatible avec la présidence d'un établissement public national. Les deux activités ne sont compatibles tant en raison de la charge de travail qu'elles représentent que de potentiels conflits d'intérêts.</p><p>Un amendement ayant le même objet, adopté en première lecture par la commission des Lois de l'Assemblée lors de sa réunion tenue au titre de l'article 88 du Règlement, était tombé en séance publique.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259549",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "Paul Molac",
+        "intervenant_slug": "paul-molac",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "84",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P44_7690",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000170",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_344283de0d82a0f8f7dc42ade40d3122",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259549/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Ce sous-amendement est d'ores et déjà satisfait par le premier alinéa de l'article L.O. 145 du code électoral selon lequel : « Sont incompatibles avec le mandat de député les fonctions de président et de membre de conseil d'administration ainsi que celles de directeur général et de directeur général adjoint exercées dans les entreprises nationales et établissements publics nationaux [&#8230;] ».</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259550",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "68",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P44_7690",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000180",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_abde51a18953f0e53bb74564666788de",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259550/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Le président de notre Commission éclaire nos débats d'une compétence qui permet à chacun de nous d'en comprendre le sens. (Sourires.)</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259551",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Yves Le Bouillonnec",
+        "intervenant_slug": "jean-yves-le-bouillonnec",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "25",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P44_7690",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000190",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_c991f32d821724eb3da36b314b907e8c",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259551/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je retire mon sous-amendement.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259552",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Matthias Fekl",
+        "intervenant_slug": "matthias-fekl",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "6",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P44_7690",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000200",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_9e90cfc5a17d857e5ea6f7845e26ae11",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259552/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Le sous-amendement CL 6 est retiré.</p><p>La Commission adopte l'amendement CL 1.</p><p>L'article 2 est ainsi rédigé.</p><p>Article 2 bis A (supprimé) (art. 4 et 6 de l'ordonnance n° 58-1067 du 7 novembre 1958 portant loi organique sur le Conseil constitutionnel) : Incompatibilités des membres du Conseil constitutionnel</p><p>La Commission maintient la suppression de cet article.</p><p>Article 3 (art. 1er, 4 à 7 de l'ordonnance n° 58-1099 du 17 novembre 1958 portant loi organique pour l'application de l'article 23 de la Constitution) : Indemnités et statut des membres du Gouvernement</p><p>La Commission adopte l'article 3 sans modification.</p><p>Article 4 (tableau annexé à la loi n° 2010-837 du 23 juillet 2010 relative à l'application du cinquième alinéa de l'article 13 de la Constitution) : Avis du Parlement sur l'exercice par le président de la République de son pouvoir de nomination du président de la Haute Autorité pour la transparence de la vie publique</p><p>La Commission maintient la suppression de cet article.</p><p>Article 4 bis A (supprimé) (art. 3 de la loi n° 62-1292 du 6 novembre 1962 relative à l'élection du président de la République au suffrage universel) : Réduction du remboursement des dépenses électorales d'un candidat à l'élection présidentielle en cas d'omission de déclaration de patrimoine ou de déclaration inexacte</p><p>La Commission maintient la suppression de cet article.</p><p>Article 4 ter (art. 54 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances) : Publicité de la réserve parlementaire</p><p>La Commission est saisie d'un amendement CL 4 du rapporteur.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259553",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "262",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P64_11518",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000210",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_76a703a982757d8069be34330091133d",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259553/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cet amendement est relatif à la publicité concernant ce qui est improprement appelé « réserve parlementaire ». Il reprend le dispositif adopté par le Sénat assurant la transparence en apportant plusieurs modifications rédactionnelles, et en prévoyant que la publicité sera assurée concomitamment au dépôt du projet de loi de règlement plutôt qu'au dépôt du projet de loi de finances de l'année.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259554",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "72",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P64_11518",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "réserve"
+          }
+        ],
+        "timestamp": "95000220",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_445bf4a7013bb5355c2a99cb1b3b8f58",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259554/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La question est de savoir comment on doit distribuer l'argent public. On ne connaîtra ici que les sommes attribuées ; la distribution discrétionnaire de l'argent public ne me semble pas être une excellente solution. L'attention s'est focalisée sur la « réserve parlementaire », mais il faut savoir que les ministres distribuent également de l'argent de façon discrétionnaire, de la même façon que les conseillers généraux sur les fonds des conseils généraux. Le problème n'est donc pas réglé avec cet amendement.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259555",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "René Dosière",
+        "intervenant_slug": "rene-dosiere",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "94",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P64_11518",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "réserve"
+          }
+        ],
+        "timestamp": "95000230",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_f802c4774a3ce1dbad4fd199a3d1072a",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259555/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte l'amendement CL 4.</p><p>L'article 4 ter est ainsi rédigé.</p><p>Article 6 (art. 64, 114, 161 et 195 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie) : Coordination avec la loi organique relative à la Nouvelle-Calédonie</p><p>La Commission adopte l'article 6 sans modification.</p><p>Article 7 (art. 109 et 160 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française) : Coordination avec la loi organique relative à la Polynésie française</p><p>La Commission adopte l'article 7 sans modification.</p><p>Article 7 bis (art. L.O. 6221-1, L.O. 6321-1 et L.O. 6431-1 du code général des collectivités territoriales) : Coordination avec les dispositions organiques relatives à Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon</p><p>La Commission adopte l'article 7 bis sans modification.</p><p>Article 8 : Application des dispositions relatives à l'administration fiscale en Nouvelle-Calédonie et dans les collectivités d'outre-mer</p><p>La Commission adopte l'article 8 sans modification.</p><p>Puis elle adopte l'ensemble du projet de loi organique modifié.</p><p>Elle passe ensuite à l'examen des articles du projet de loi relatif à la transparence de la vie publique (n° 1250).</p><p>Chapitre Ier La prévention des conflits d'intérêts et la transparence dans la vie publique</p><p>Article 1er : Obligations générales</p><p>La Commission adopte l'article 1er sans modification.</p><p>Section I Obligations d'abstention</p><p>Article 2 : Définition du conflit d'intérêts et obligations d'abstention</p><p>La Commission est saisie de l'amendement CL 23 du rapporteur.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259556",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "259",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P86_14181",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000240",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_165d503c31e490b7fbe8504952f66186",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259556/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cet amendement rétablit la définition du conflit d'intérêts adoptée en première lecture à l'Assemblée nationale.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259557",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "23",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P86_14181",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "rétablit"
+          },
+          {
+            "tag": "adoptée"
+          }
+        ],
+        "timestamp": "95000250",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_2bf1f8ca1fe4bcfa1bce7993be492c12",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259557/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte l'amendement.</p><p>Elle examine l'amendement CL 22 du rapporteur.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259558",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "14",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P86_14181",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000260",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_f47aa5692f874dc0245b359fbc1ca3b3",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259558/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cet amendement rétablit également une disposition, relative au déport des ministres, adoptée en première lecture par notre assemblée.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259559",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "25",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P86_14181",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "rétablit"
+          },
+          {
+            "tag": "adoptée"
+          }
+        ],
+        "timestamp": "95000270",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_fd7a20033faf3b1778286bb1c3f9760b",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259559/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte l'amendement.</p><p>Elle adopte ensuite l'amendement rédactionnel CL 21 du rapporteur.</p><p>Puis elle adopte l'article 2 modifié.</p><p>Article 2 bis (art. 4 quater [nouveau] de l'ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires) : Définition par les Bureaux des assemblées parlementaires de règles relatives à la prévention des conflits d'intérêts</p><p>La Commission adopte l'article 2 bis sans modification.</p><p>Section II Obligations de déclaration</p><p>Article 3 : Obligation de déclaration de situation patrimoniale et de déclaration d'intérêts des ministres</p><p>La Commission examine l'amendement CL 20 du rapporteur.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259560",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "110",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P98_15266",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000280",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_f740e409cda7a64728355b285bea4ee6",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259560/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Par parallélisme avec la solution retenue à l'article 1er du projet de loi organique, cet amendement rétablit le texte adopté par l'Assemblée nationale en première lecture, moyennant plusieurs modifications. La dénomination « Haute Autorité pour la transparence de la vie publique » est préférée à celle de « Haute Autorité de la transparence de la vie publique », conformément au choix du Sénat.</p><p>La mention des cadeaux, qui n'a pas sa place dans une déclaration d'intérêts, n'est pas reprise, conformément aux voeux de la commission des Lois du Sénat.</p><p>Les intérêts à mentionner sont ceux existants à la date de la nomination au Gouvernement, et non à la date de la déclaration.</p><p>Enfin, il est pris acte de la suppression, votée par le Sénat, de la sanction pénale spécifique aux ministres en cas d'attestation sur l'honneur mensongère.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259561",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "159",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P98_15266",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "haute autorité"
+          },
+          {
+            "tag": "déclaration"
+          },
+          {
+            "tag": "rétablit"
+          },
+          {
+            "tag": "haute"
+          }
+        ],
+        "timestamp": "95000290",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_7aa8c239434d7d07bfb4fce7a8ea2346",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259561/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte l'amendement.</p><p>L'article 3 est ainsi rédigé.</p><p>Article 4 : Publicité de la déclaration de situation patrimoniale et de la déclaration d'intérêts des ministres</p><p>La Commission examine l'amendement CL 19 du rapporteur.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259562",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "43",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P106_16417",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000300",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_42f4d0d3639344956094fe6e7a684a7a",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259562/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>De la même façon, par parallélisme avec la solution retenue à l'article 1er du projet de loi organique, cet amendement rétablit le texte adopté par l'Assemblée nationale en première lecture, moyennant plusieurs modifications. J'ai déjà évoqué le changement de dénomination de la Haute Autorité. Les dispositions relatives à la communication des documents administratifs élaborés ou détenus par la Haute Autorité ne sont pas reprises, cette question étant désormais traitée à l'article 13 bis du texte adopté par le Sénat.</p><p>Plusieurs délais sont modifiés : l'administration fiscale disposera de trente jours, et non de soixante, pour répondre à une demande de la Haute Autorité relative à une déclaration fiscale ; la Haute Autorité exercera son contrôle des déclarations de patrimoine des ministres en trois mois, et non trois semaines.</p><p>Enfin, le caractère réutilisable des données publiques contenues dans les déclarations établies par les ministres, introduit par le Sénat en séance, serait conservé, mais limité aux seules déclarations d'intérêts.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259563",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "183",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P106_16417",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "haute autorité"
+          },
+          {
+            "tag": "déclaration"
+          },
+          {
+            "tag": "rétablit"
+          },
+          {
+            "tag": "haute"
+          }
+        ],
+        "timestamp": "95000310",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_06ac985e304da4381381a1294cfef82d",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259563/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte l'amendement.</p><p>L'article 4 est ainsi rédigé.</p><p>Article 5 : Accès de la Haute Autorité pour la transparence de la vie publique aux informations de nature fiscale</p><p>La Commission examine l'amendement CL 18 du rapporteur.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259564",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "43",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P113_17789",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000320",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_9ecc032022f37b210185b85a48567c5e",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259564/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Il s'agit à nouveau du rétablissement du texte adopté par l'Assemblée en première lecture, à l'exception de ce qui concerne le délai de réponse de l'administration fiscale à la Haute Autorité, réduit de soixante à trente jours.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259565",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "41",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P113_17789",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "haute autorité"
+          },
+          {
+            "tag": "haute"
+          }
+        ],
+        "timestamp": "95000330",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_d1b68a93d145549929976f435647eb44",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259565/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte l'amendement.</p><p>L'article 5 est ainsi rédigé.</p><p>Article 6 : Contrôle de la variation des situations patrimoniales</p><p>La Commission en vient à l'amendement CL 17 du rapporteur.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259566",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "34",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P118_18251",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000340",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_f83162a884dd0779bd05765fc46b4bf2",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259566/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Selon l'alinéa 3 de l'article 6, « la Haute Autorité peut aussi effectuer une déclaration de soupçon auprès du service à compétence nationale TRACFIN ». Il est inutile de mentionner ce qui n'est qu'une faculté dans la loi.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259567",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "40",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P118_18251",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "haute autorité"
+          },
+          {
+            "tag": "déclaration"
+          },
+          {
+            "tag": "haute"
+          }
+        ],
+        "timestamp": "95000350",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_a16cee242f2d89ff08e5a51e91d76695",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259567/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Sommes-nous bien certains que le code monétaire et financier ne comporte pas une liste limitative des personnes ou des autorités qui peuvent effectuer une déclaration de soupçon auprès de TRACFIN ?</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259568",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Marie-Françoise Bechtel",
+        "intervenant_slug": "marie-francoise-bechtel",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "37",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P118_18251",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "déclaration"
+          }
+        ],
+        "timestamp": "95000360",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_82147a524247c1303be606e6d51744b4",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259568/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>À ma connaissance, ne sont cités dans ce code que ceux auxquels il est fait obligation d'effectuer une déclaration de soupçon. Il n'est interdit à personne de transmettre des informations.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259569",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "33",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P118_18251",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "déclaration"
+          }
+        ],
+        "timestamp": "95000370",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_c58d0b749c0220e267e67abf7f146355",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259569/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte l'amendement.</p><p>Elle adopte l'article 6 modifié.</p><p>Article 8 : Vérification de la situation fiscale des ministres</p><p>La Commission adopte l'article 8 sans modification.</p><p>Article 9 : Injonction de la Haute Autorité pour la transparence de la vie publique en cas de conflit d'intérêts</p><p>La Commission adopte l'article 9 sans modification.</p><p>Article 10 : Obligation de déclaration de situation patrimoniale et de déclaration d'intérêts des parlementaires européens, des élus locaux, des membres des cabinets ministériels, des collaborateurs du président de la République et des présidents des assemblées parlementaires, des membres des autorités indépendantes, des titulaires d'emplois à la décision du Gouvernement et des dirigeants d'organismes publics</p><p>La Commission est saisie de l'amendement CL 16 du rapporteur.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259570",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "139",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P129_19824",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000380",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_a707b44ed093f858d4bc306e866332f1",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259570/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cet amendement rétablit les seuils adoptés par l'Assemblée nationale en première lecture pour l'application des obligations déclaratives prévues dans le projet de loi. Nous avons également opéré deux modifications rédactionnelles : le terme « établissement public de coopération intercommunale » est préféré à celui de « groupement de communes », et les termes de recettes « de fonctionnement » sont préférés à ceux de recettes « ordinaires ».</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259571",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "73",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P129_19824",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "rétablit"
+          }
+        ],
+        "timestamp": "95000390",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_4fcd413e6b88ff82b89c90b98e78a8f2",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259571/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La loi sera probablement promulguée avant les municipales. L'obligation de déclaration à la sortie du mandat concernera-t-elle les maires des communes de plus de 20 000 habitants qui n'ont pas fait de déclaration d'entrée &#8211; la mesure n'étant valable jusqu'à aujourd'hui que pour les maires de communes de plus de 30 000 habitants ?</p><p>Le délai de déclaration se situait un ou deux mois avant l'échéance ; il passera à six ou sept mois. Le projet de loi sera sans doute promulgué après l'expiration de ce délai. Or je ne crois pas avoir vu de dispositions transitoires permettant de rendre la situation plus lisible.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259572",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Philippe Houillon",
+        "intervenant_slug": "philippe-houillon",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "110",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P129_19824",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "déclaration"
+          }
+        ],
+        "timestamp": "95000400",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_980409e1f0bd88fc90bf17830cb093b9",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259572/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Le Sénat a prévu, à l'article 23, un allongement des délais afin de prendre ces situations en compte. Nous avions déjà veillé à ce que les obligations déclaratives soient satisfaites largement avant les élections afin de ne pas les perturber.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259573",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "44",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P129_19824",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000410",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_7b92f725dd97e8ff0be6df3660352191",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259573/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Si la loi est promulguée quelques mois avant l'échéance, comment tenir compte des délais prévus ?</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259574",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Philippe Houillon",
+        "intervenant_slug": "philippe-houillon",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "22",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P129_19824",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000420",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_3a0102a535b9c01a4ca605b34b887822",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259574/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Ce cas est traité à l'article 23, qui prévoit que les premières déclarations devront être remises dans les six mois suivant la publication du décret nommant le président de la Haute Autorité.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259575",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "37",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P129_19824",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "haute autorité"
+          },
+          {
+            "tag": "déclaration"
+          },
+          {
+            "tag": "haute"
+          }
+        ],
+        "timestamp": "95000430",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_53bf3cce18c76a834c90dd1a033d8775",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259575/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte l'amendement.</p><p>Puis elle adopte successivement l'amendement rédactionnel CL 15 du rapporteur, et l'amendement de conséquence CL 6 du même auteur.</p><p>Elle adopte enfin l'article 10 modifié.</p><p>Article 11 (supprimé) : Publicité de la déclaration de situation patrimoniale et de la déclaration d'intérêts des parlementaires européens, des élus locaux, des membres des cabinets ministériels, des collaborateurs du président de la République et des présidents des assemblées parlementaires, des membres des autorités indépendantes, des titulaires d'emplois à la décision du Gouvernement et des dirigeants d'organismes publics</p><p>La Commission est saisie d'un amendement CL 24 du rapporteur.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259576",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "116",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P141_22355",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000440",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_ee685d0f1324a1d2af84025e5b5d28b1",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259576/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cet amendement rétablit l'article 11, supprimé par le Sénat, dans la version adoptée par l'Assemblée nationale en première lecture, sous réserve de deux modifications déjà évoquées concernant la dénomination « Haute Autorité pour la transparence de la vie publique », et le caractère réutilisable des données publiques contenues dans les déclarations d'intérêts.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259577",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "66",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P141_22355",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "haute autorité"
+          },
+          {
+            "tag": "déclaration"
+          },
+          {
+            "tag": "rétablit"
+          },
+          {
+            "tag": "réserve"
+          },
+          {
+            "tag": "adoptée"
+          },
+          {
+            "tag": "haute"
+          }
+        ],
+        "timestamp": "95000450",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_08cbf462af47b5060d7a82ba243d2dcb",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259577/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte l'amendement.</p><p>L'article 11 est ainsi rétabli.</p><p>Section II bis Financement de la vie politique</p><p>Article 11 bis A (art. L. 52-8-1 [nouveau] du code électoral) : Interdiction de l'utilisation des dotations versées aux membres du Parlement pour l'exercice de leur mandat à des fins électorales</p><p>La Commission adopte l'amendement de précision CL 1 du rapporteur.</p><p>Puis elle adopte l'article 11 bis A modifié.</p><p>Article 11 bis (art. 9 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique) : Modalités de répartition du financement public des partis politiques</p><p>La Commission adopte successivement l'amendement de précision CL 25 du rapporteur et l'amendement rédactionnel CL 26 du même auteur.</p><p>Elle adopte ensuite l'article 11 bis modifié.</p><p>Article 11 ter (art. 11-4 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique) : Réforme des dons et cotisations aux partis politiques</p><p>La Commission examine l'amendement CL 27 du rapporteur et l'amendement CL 42 de M. François de Rugy, qui peuvent faire l'objet d'une présentation commune.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259578",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "195",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P149_23316",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000460",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_8447618bf9729f8f9c79f5025d08baf5",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259578/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Mon amendement de précision renvoie à l'article 88-3 de la Constitution pour désigner les étrangers électeurs en France, plutôt qu'à « des accords internationaux ou communautaires ».</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259579",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "29",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P149_23316",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000470",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_f1dc6ab4694ac11ee07ff73882f63ae5",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259579/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'amendement CL 42 tend à rectifier une disposition introduite au Sénat et visant à interdire les dons aux partis politiques de la part de toute personne de nationalité étrangère. En effet, s'il est compréhensible de vouloir éviter l'influence de puissances étrangères sur la vie politique de notre pays, il semble que les personnes de nationalité étrangère résidant sur le sol français doivent pouvoir faire des dons.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259580",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "François de Rugy",
+        "intervenant_slug": "francois-de-rugy",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "72",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P149_23316",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000480",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_6d8b5b067d560fe61a3f35f14e0ed8dc",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259580/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Avis défavorable. Je suggère que la possibilité de faire des dons aux partis politiques soit limitée aux personnes qui votent en France &#8211; et donc aussi, en application de l'article 88-3 de la Constitution, aux citoyens de l'Union européenne.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259581",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "44",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P149_23316",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000490",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_49fe2f266ff0395bb2d88bc4022d3f49",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259581/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte l'amendement CL 27.</p><p>Elle rejette ensuite l'amendement CL 42.</p><p>Elle adopte l'article 11 ter modifié.</p><p>Article 11 quater A (art. 11-5 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique) : Sanction de la méconnaissance du plafond de dons et cotisations aux partis politiques</p><p>La Commission est saisie des amendements CL 28 du rapporteur et CL 33 de M. François de Rugy, pouvant faire l'objet d'une présentation commune.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259582",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "84",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P160_25089",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000500",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_9ba2d5143151d11363fe738d55852d79",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259582/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'amendement CL 28 est rédactionnel.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259583",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "7",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P160_25089",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000510",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_1afc07b3b46ae1ebc893e95770b39b5f",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259583/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'amendement CL 33 tend à durcir les peines encourues par les personnes ne respectant pas la législation régissant les dons aux partis politiques.</p><p>Par ailleurs, monsieur le rapporteur, votre amendement CL 27 s'appliquera-t-il aux cotisations aux partis politiques, certains adhérents à ces partis pouvant être de nationalité étrangère ?</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259584",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "François de Rugy",
+        "intervenant_slug": "francois-de-rugy",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "52",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P160_25089",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000520",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_606c2b9e7ec92e275b9a4ae9a62aad6b",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259584/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Avis défavorable à l'amendement CL 33, qui propose de priver des citoyens de leurs droits civiques. Nous avons en effet toujours considéré que cette peine devait s'appliquer uniquement à des élus.</p><p>Quant aux cotisations, elles sont traitées comme les dons déductibles des impôts. La disposition s'applique donc.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259585",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "53",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P160_25089",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000530",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_a2bf98a2574472f70e8a118a602ae220",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259585/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte l'amendement CL 28.</p><p>Puis elle rejette l'amendement CL 33.</p><p>Elle adopte l'article 11 quater A modifié.</p><p>Article 11 quater (art. 11-7, 11-7-1 [nouveau] et 11-8 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique) : Obligations comptables des partis politiques</p><p>La Commission adopte l'amendement de précision CL 29 du rapporteur.</p><p>Puis elle adopte l'article 11 quater modifié.</p><p>Article 11 quinquies : Obligation d'information de TRACFIN par la Commission nationale des comptes de campagne et des financements politiques</p><p>La Commission adopte l'amendement de précision CL 30 du rapporteur.</p><p>Puis elle adopte l'article 11 quinquies modifié.</p><p>Section 3 La Haute Autorité pour la transparence de la vie publique</p><p>Article 12 : Composition et organisation de la Haute Autorité pour la transparence de la vie publique</p><p>La Commission est saisie de l'amendement CL 2 du rapporteur.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259586",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "155",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P178_27139",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000540",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_38d8e41e53834ce2193d3874f317f316",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259586/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission avait complété la composition de la Haute Autorité en prévoyant que les présidents des assemblées parlementaires nommeraient chacun deux personnalités qualifiées. Cette nomination devait en outre être autorisée par la commission des Lois de chaque assemblée, à une majorité renforcée des trois cinquièmes des suffrages exprimés. En séance, je m'étais rangé aux arguments du Gouvernement, proposant de limiter cette composition à une seule personnalité qualifiée par chambre. Le Gouvernement considérait que l'effet vertueux du dispositif risquait d'être compromis, la nécessité de confirmer un binôme de candidats pouvant permettre à la majorité et à l'opposition de s'accorder en nommant chacun un membre et en renonçant ainsi à examiner les garanties en matière de compétence, d'indépendance et de probité de l'autre candidat. Le Sénat étant revenu à deux personnalités, je propose de rétablir le texte adopté par l'Assemblée nationale, qui prévoit la désignation d'une seule personnalité qualifiée par assemblée parlementaire.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259587",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "176",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P178_27139",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "haute autorité"
+          },
+          {
+            "tag": "rétablir"
+          },
+          {
+            "tag": "haute"
+          }
+        ],
+        "timestamp": "95000550",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_4ffea8d758791a57b20e82d1b21ebaa0",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259587/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte l'amendement.</p><p>Puis elle est saisie de l'amendement CL 34 de M. François de Rugy.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259588",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "21",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P178_27139",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000560",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_8d8c1a975fac99b1dd5e9608c4c2572a",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259588/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cet amendement vise à instaurer une limite d'âge au moment de la nomination des membres de la Haute Autorité. La composition de la Haute Autorité fait surtout une place aux membres de hautes juridictions. Il serait bon de diversifier cette composition. La disposition, que je propose et qui existe pour d'autres autorités administratives, permettrait d'éviter que ne siègent essentiellement dans cet organe des personnalités en fin de carrière.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259589",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "François de Rugy",
+        "intervenant_slug": "francois-de-rugy",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "75",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P178_27139",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "haute autorité"
+          },
+          {
+            "tag": "haute"
+          }
+        ],
+        "timestamp": "95000570",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_22b55a884ed5fbb41ac4c1955eb545a3",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259589/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Avis défavorable. Une telle disposition existe en effet pour d'autres autorités &#8211; elle est notamment prévue pour le Conseil supérieur de l'audiovisuel. Je suis toutefois rétif à la fixation d'une limite d'âge. Ce serait en outre un curieux signal, à la veille du débat que nous aurons sans doute à l'automne sur l'âge de départ à la retraite, où nous conclurons peut-être qu'il faut travailler plus longtemps.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259590",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "74",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P178_27139",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000580",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_51593d22208eb07d20fd33fcbc011dc5",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259590/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission rejette l'amendement.</p><p>Elle examine ensuite l'amendement CL 3 du rapporteur.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259591",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "15",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P178_27139",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000590",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_ee983214d7ee1fcf69d7353f8820c99a",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259591/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cet amendement tend à rétablir la rédaction adoptée par notre assemblée.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259592",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "16",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P178_27139",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "tend à rétablir"
+          },
+          {
+            "tag": "rétablir"
+          },
+          {
+            "tag": "adoptée"
+          }
+        ],
+        "timestamp": "95000600",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_0d7f0bf5820a0729bd62fed8dd817609",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259592/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte l'amendement.</p><p>Puis elle examine l'amendement CL 4 du rapporteur.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259593",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "15",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P178_27139",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000610",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_ac20eacd526d03f1702ee9ed25cbaf88",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259593/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Compte tenu de la diminution du nombre des membres de la Haute Autorité, le quorum que prévoit le Sénat risque de paralyser cet organe. L'amendement tend donc à supprimer ce quorum.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259594",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "34",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P178_27139",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "haute autorité"
+          },
+          {
+            "tag": "haute"
+          }
+        ],
+        "timestamp": "95000620",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_c0989d5e9bf3b87fce36357c4c6692b7",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259594/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte l'amendement.</p><p>Elle adopte l'article 12 modifié.</p><p>Article 13 : Missions et saisine de la Haute Autorité pour la transparence de la vie publique</p><p>La Commission est saisie de l'amendement CL 5 du rapporteur.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259595",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "40",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P193_30035",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000630",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_4ef09927a48710ae8190c834273ade10",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259595/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Il s'agit d'un amendement de conséquence du rétablissement du texte de l'article 1er du projet de loi organique dans sa rédaction adoptée par l'Assemblée nationale.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259596",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "32",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P193_30035",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "adoptée"
+          }
+        ],
+        "timestamp": "95000640",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_e0e46dc1b7e7a4e643c28acfa69e08b1",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259596/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte l'amendement.</p><p>Puis elle adopte l'amendement rédactionnel CL 14 du rapporteur.</p><p>Elle est ensuite saisie de l'amendement CL 35 de M. François de Rugy.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259597",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "32",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P193_30035",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000650",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_ca9d67702621c850cb3c71cb9e433504",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259597/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cet amendement vise à exiger que tout représentant d'intérêts publics ou privés &#8211; c'est-à-dire des lobbies &#8211; s'inscrive sur un registre tenu par la Haute Autorité pour la transparence de la vie publique.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259598",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "François de Rugy",
+        "intervenant_slug": "francois-de-rugy",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "37",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P193_30035",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "haute autorité"
+          },
+          {
+            "tag": "haute"
+          }
+        ],
+        "timestamp": "95000660",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_aa8f7a4eed002681fdce8cf59f4e1865",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259598/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Avis défavorable. L'idée d'un registre unique peut apparaître comme une simplification séduisante, mais les règles relatives aux lobbies sont très liées aux structures auxquelles ils s'adressent. Mieux vaut donc laisser à chaque institution la liberté de constituer son propre fichier compte tenu de ses règles et de ses activités propres.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259599",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "60",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P193_30035",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000670",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_ce95d930033115c799b3f795c4ed413b",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259599/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'un des buts de cet amendement est précisément d'éviter de renvoyer chaque institution à une gestion propre. Chacun sait que, en France, les lobbies travaillent davantage à faire pression sur le Gouvernement, voire sur l'administration, que sur le Parlement, car ils savent où se trouve le premier pouvoir de décision et de production législative et réglementaire. Or on a tendance à viser davantage l'Assemblée : notre amendement clarifie les choses en faisant la lumière sur ceux qui officient dans ces lieux de pouvoir, quels qu'ils soient.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259600",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "François de Rugy",
+        "intervenant_slug": "francois-de-rugy",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "92",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P193_30035",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000680",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_d86a10cba9777a8a547b380a29833187",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259600/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Que recouvre la notion de représentant d'« intérêt public » ? Par ailleurs, une association telle que Greenpeace relève-t-elle de la définition que vous donnez des représentants d'intérêts ?</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259601",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Marie-Françoise Bechtel",
+        "intervenant_slug": "marie-francoise-bechtel",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "36",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P193_30035",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000690",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_fe1a2937c6e6a2e38836b63725c169b2",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259601/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La définition doit être aussi large que possible, car certains organismes publics font du lobbying.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259602",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "François de Rugy",
+        "intervenant_slug": "francois-de-rugy",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "18",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P193_30035",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000700",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_03575a0f5ea6d2ad8935c239556f2ec2",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259602/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Lesquels ?</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259603",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Marie-Françoise Bechtel",
+        "intervenant_slug": "marie-francoise-bechtel",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "3",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P193_30035",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000710",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_d489099f65d6b30826a14b759116c535",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259603/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Par exemple l'Office national des forêts, Voies navigables de France, l'École nationale d'administration ou l'Association du corps préfectoral, sans compter les organismes qui se situent également entre le public et le privé, comme EDF.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259604",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "François de Rugy",
+        "intervenant_slug": "francois-de-rugy",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "39",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P193_30035",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000720",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_14ed0d60c9ac200c0cda11e4e96c8ff4",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259604/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Et Greenpeace ?</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259605",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Marie-Françoise Bechtel",
+        "intervenant_slug": "marie-francoise-bechtel",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "4",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P193_30035",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000730",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_90cffe03c8b7b0b5966c4d682db971ff",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259605/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Les arguments de M. de Rugy ne sont pas de nature à me faire modifier mon avis défavorable, et cela d'autant moins que la Haute Autorité pourra émettre des recommandations, dont chaque institution pourra se nourrir pour parvenir à notre objectif commun de réguler le lobbying.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259606",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "48",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P193_30035",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "haute autorité"
+          },
+          {
+            "tag": "haute"
+          }
+        ],
+        "timestamp": "95000740",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_459db316594dbead04de8ef4fe1bdbda",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259606/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission rejette l'amendement.</p><p>Puis elle examine l'amendement CL 7 du rapporteur.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259607",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "15",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P193_30035",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000750",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_0608b9883dbcc90f8f9b81887ebfe001",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259607/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cet amendement tend à supprimer une phrase inutile introduite par le Sénat.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259608",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "14",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P193_30035",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000760",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_326782b07da27ff86a4f2e7e5ec7ef95",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259608/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'ajout du Sénat me semblait renforcer les pouvoirs de contrôle de la Haute Autorité. Je regrette que le rapporteur propose sa suppression.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259609",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "René Dosière",
+        "intervenant_slug": "rene-dosiere",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "26",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P193_30035",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "haute autorité"
+          },
+          {
+            "tag": "haute"
+          }
+        ],
+        "timestamp": "95000770",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_10caa1ec0aba9a648ad390f3f18ffc54",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259609/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Ce « pouvoir de contrôle » est en réalité un pouvoir d'investigation. Il est donc plus conforme de maintenir le principe selon lequel la Haute Autorité demande des informations à l'administration fiscale, plutôt qu'instaurer un pouvoir de consultation de documents dans les locaux de cette dernière.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259610",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "49",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P193_30035",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "haute autorité"
+          },
+          {
+            "tag": "haute"
+          }
+        ],
+        "timestamp": "95000780",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_f12784977ef9aea52b8ccce17d91f548",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259610/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte l'amendement.</p><p>Elle adopte l'article 13 modifié.</p><p>Article 13 bis (art. 6 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal) : Communication des documents administratifs élaborés ou détenus par la Haute autorité pour la transparence de la vie publique</p><p>La Commission adopte l'article 13 bis sans modification.</p><p>Article 13 ter : Obligations de déclaration applicables aux associations de lutte contre la corruption</p><p>La Commission est saisie des amendements identiques CL 8 du rapporteur et CL 36 de M. François de Rugy.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259611",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "109",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P193_30035",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000790",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_2b2e4d02d5d6bbabb5af2f0f83802e2a",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259611/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Ces amendements identiques tendent à supprimer un article ajouté par le Sénat pour indiquer que les associations de lutte contre la corruption devaient s'appliquer à elles-mêmes la transparence qu'elles prônent. Cette disposition est sans rapport avec le texte et les associations faisant appel à la générosité publique sont déjà contrôlées par la Cour des comptes.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259612",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "62",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P193_30035",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000800",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_44cec41a3a650eaaeb15a60b9ff48d3b",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259612/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je souscris à cette analyse pour mon amendement CL 36.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259613",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "François de Rugy",
+        "intervenant_slug": "francois-de-rugy",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "10",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P193_30035",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000810",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_ba5493596a57cf8398eefafb4eb58e6b",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259613/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte les amendements.</p><p>En conséquence, l'article 13 ter est supprimé.</p><p>Article 14 : Communication par la Haute Autorité des cas de manquements constatés aux prescriptions prévues par le présent projet de loi</p><p>La Commission adopte l'article 14 sans modification.</p><p>Article 15 : Contrôle des activités lucratives privées susceptibles d'être exercées par les anciens membres du Gouvernement ou par les anciens titulaires d'une fonction exécutive locale</p><p>La Commission est saisie de l'amendement CL 9 du rapporteur.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259614",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "92",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P223_34824",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000820",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_42034b1d32b9ec05054a5342d354264d",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259614/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Il convient que les limitations que pourrait décider la Haute Autorité pour les activités lucratives privées susceptibles d'être entreprises par les ministres et les responsables exécutifs locaux parallèlement à leurs fonctions prennent fin au maximum trois ans après la fin de ces fonctions.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259615",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "51",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P223_34824",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "haute autorité"
+          },
+          {
+            "tag": "haute"
+          }
+        ],
+        "timestamp": "95000830",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_3866902afed684aecf04b56f8f587043",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259615/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte l'amendement.</p><p>Puis elle adopte l'article 15 modifié.</p><p>Section 5 Protection des lanceurs d'alerte</p><p>Avant l'article 17</p><p>La Commission est saisie des amendements identiques CL 38 de M. François de Rugy et CL 40 du rapporteur.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259616",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "44",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P230_35584",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000840",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_22f1535c23a560c99b3d5f18ae277ba5",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259616/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'amendement CL 38 et, plus encore, l'amendement CL 37 tendent à rétablir dans le texte la protection des lanceurs d'alerte. Nous regrettons que cette protection, qui est une réelle avancée de ce texte, en ait été supprimée. Un dispositif similaire existe dans la loi contre la fraude fiscale et nous voyons tous les jours que cette question mérite que nous prenions des dispositions législatives de protection &#8211; le cas de M. Condamin-Gerbier, incarcéré en Suisse après avoir témoigné devant une commission d'enquête de notre assemblée, invite à protéger le statut de lanceur d'alerte.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259617",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "François de Rugy",
+        "intervenant_slug": "francois-de-rugy",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "102",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P230_35584",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "rétablir"
+          }
+        ],
+        "timestamp": "95000850",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_dfd15db93657941c5d1ba0ef604a5444",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259617/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Mon amendement CL 40, identique à celui de M. de Rugy, tend à rétablir le texte voté par l'Assemblée nationale.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259618",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "21",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P230_35584",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "tend à rétablir"
+          },
+          {
+            "tag": "rétablir"
+          }
+        ],
+        "timestamp": "95000860",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_940a0b5a24c6d74d7224b936c37b02ed",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259618/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte les amendements.</p><p>La division et l'intitulé de la Section 5 sont ainsi rétablis.</p><p>Article 17 (supprimé) : Protection des lanceurs d'alerte </p><p>La Commission est saisie des amendements identiques CL 10 du rapporteur et CL 37 de M. François de Rugy.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259619",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "48",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P237_36659",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000870",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_84a047b52e68da04ed4546383749d538",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259619/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Il s'agit ici, après avoir rétabli le titre de la section par les deux amendements précédents, de rétablir le texte de l'article.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259620",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "29",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P237_36659",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "rétablir"
+          }
+        ],
+        "timestamp": "95000880",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_8d631be3ef9b8ec269e23da2993577b2",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259620/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte les amendements.</p><p>L'article 17 est ainsi rétabli.</p><p>Chapitre II Dispositions pénales</p><p>Article 18 : Infractions pénales liées aux déclarations de situation patrimoniale, aux déclarations d'intérêts et au pouvoir d'injonction de la Haute Autorité pour la transparence de la vie publique</p><p>La Commission est saisie de l'amendement CL 31 du rapporteur.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259621",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "67",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P242_37029",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000890",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_3b9d8b1d430ba5aaa43f2c35c1db9abf",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259621/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cet amendement tend à rétablir, pour l'essentiel, la version du texte adoptée par l'Assemblée nationale</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259622",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "19",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P242_37029",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "tend à rétablir"
+          },
+          {
+            "tag": "rétablir"
+          },
+          {
+            "tag": "adoptée"
+          }
+        ],
+        "timestamp": "95000900",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_4bc55ecd0cdc633978c4fbc789fbc0cc",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259622/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte l'amendement.</p><p>L'article 18 est ainsi rédigé.</p><p>Article 19 (art. 131-26-1 [nouveau] et 432-17 du code pénal, art. L. 17 du code électoral et art. 1741, 1774 et 1837 du code général des impôts) : Création d'une peine complémentaire d'inéligibilité d'une durée maximale de dix ans ou définitive</p><p>La Commission est saisie de l'amendement CL 11 du rapporteur.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259623",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "71",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P248_37770",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000910",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_c4cb42c703ee689697803118b71c1929",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259623/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cet amendement tend à rétablir la peine complémentaire de privation de droits civiques, civils et de famille en répression des délits d'abus de bien social, adoptée par l'Assemblée nationale en première lecture.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259624",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "40",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P248_37770",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "tend à rétablir"
+          },
+          {
+            "tag": "rétablir"
+          },
+          {
+            "tag": "adoptée"
+          }
+        ],
+        "timestamp": "95000920",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_55ca06a1266be0c96c6ee47bd830c3ef",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259624/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte l'amendement.</p><p>Elle adopte l'article 19 modifié.</p><p>Article 19 bis (art. 432-12 du code pénal) : Définition de l'intérêt pouvant ouvrir la sanction de la prise illégale d'intérêts </p><p>La Commission est saisie de l'amendement CL 12 du rapporteur, tendant à la suppression de l'article 19 bis.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259625",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "57",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P253_38292",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000930",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_c476887a522f84e713680c04a4456275",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259625/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cet amendement vise à confirmer la position adoptée par l'Assemblée nationale en première lecture, en supprimant l'article 19 bis.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259626",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "22",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P253_38292",
+        "soussection": "",
+        "tags": [
+          {
+            "tag": "adoptée"
+          }
+        ],
+        "timestamp": "95000940",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_180581a8f0af991d0efc2f28cdaa31d1",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259626/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte l'amendement.</p><p>En conséquence, l'article 19 bis est supprimé.</p><p>Article 20 (art. 432-13 du code pénal) : Aggravation des peines et extension aux anciens ministres et responsables exécutifs locaux des dispositions réprimant la prise illégale d'intérêts d'un agent public rejoignant une entreprise dont il a précédemment assuré la surveillance</p><p>La Commission est saisie de l'amendement CL 39 de M. François de Rugy.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259627",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "78",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P258_38947",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000950",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_ee35001285eeec1752ed976e97bf9619",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259627/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cet amendement a pour objet d'élargir aux membres de cabinets ministériels ou du cabinet du président de la République les obligations relatives aux possibles conflits d'intérêts. On connaît en effet des cas concrets, à commencer par celui de M. Cahuzac, qui a été conseiller d'un ministre.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259628",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "François de Rugy",
+        "intervenant_slug": "francois-de-rugy",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "54",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P258_38947",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000960",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_b2b54f60e0404e2cc1bf9f4c7da4bc11",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259628/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'article 432-13 du code pénal, qui punit le délit de pantouflage, satisfait d'ores et déjà cet amendement. Le rapport Sauvé a en outre précisé que les collaborateurs de cabinet entraient dans le champ des agents des administrations publiques pouvant être incriminés au titre de l'article précité.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259629",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "54",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P258_38947",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000970",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_fa53d8b89c7e96ebfbb988491847bfd8",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259629/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je retire donc mon amendement.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259630",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "François de Rugy",
+        "intervenant_slug": "francois-de-rugy",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "7",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P258_38947",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000980",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_a3ab11172d1b9fa465ea386ec4edc173",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259630/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L'amendement CL 39 est retiré.</p><p>Puis elle adopte l'article 20 sans modification.</p><p>Chapitre III Dispositions finales</p><p>Article 21 (tableau annexé à la loi n° 2010-838 du 23 juillet 2010 relative à l'application du cinquième alinéa de l'article 13 de la Constitution) : Détermination des commissions permanentes compétentes pour rendre l'avis du Parlement sur l'exercice par le président de la République de son pouvoir de nomination du président de la Haute Autorité pour la transparence de la vie publique</p><p>La Commission adopte l'article 21 sans modification.</p><p>Article 22 (art. 1er à 5-1 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique ; art. L. 195, L. 230, L. 340, L. 367 et L. 558-11 du code électoral) : Abrogation des dispositions législatives relatives à la déclaration de patrimoine des membres du Gouvernement et des titulaires de certaines fonctions électives et à la commission pour la transparence financière de la vie politique</p><p>La Commission adopte l'article 22 sans modification.</p><p>Article 22 bis A : Rapport du Gouvernement sur les perspectives de rapprochement de la Commission nationale des comptes de campagne et des financements politiques et de la Haute Autorité pour la transparence de la vie publique</p><p>La Commission adopte l'article 22 bis A sans modification.</p><p>Article 22 bis (art. L. 139 B du livre des procédures fiscales) : Coordination avec le livre des procédures fiscales </p><p>La Commission adopte l'amendement de coordination CL 32 du rapporteur.</p><p>Puis elle adopte l'article 22 bis modifié.</p><p>Article 22 ter (art. 13 de la loi n° 78-17 du janvier 1978 relative à l'informatique, aux fichiers et aux libertés) : Coordination résultant de l'incompatibilité entre le mandat parlementaire et la présidence d'une autorité administrative indépendante</p><p>La Commission adopte l'article 22 ter sans modification.</p><p>Article 23 : Entrée en vigueur de la loi</p><p>La Commission est saisie de l'amendement CL 13 du rapporteur.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259631",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "322",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P272_41240",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95000990",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_8bd8f65d67cc44a75b946dc9d4c4935d",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259631/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cet amendement corrige les références des articles ayant vocation à entrer en vigueur dès la publication du présent texte.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259632",
+        "intervenant_fonction": "rapporteur",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean-Jacques Urvoas",
+        "intervenant_slug": "jean-jacques-urvoas",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "24",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P272_41240",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95001000",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_54f79556b9ee99b5a11ceae176799c56",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259632/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La Commission adopte l'amendement.</p><p>Puis elle adopte l'article 23 modifié.</p><p>Article 23 bis (art. L. 2138-18-1-1 [nouveau], L. 3123-19-3 [nouveau], L. 4135-19-3 [nouveau], L. 4135-19-3 [nouveau] et L. 5211-13-1 du code général des collectivités territoriales) : Encadrement de véhicules et des avantages en nature mis à disposition au sein des collectivités territoriales et des établissements publics de coopération intercommunale</p><p>La Commission adopte l'article 23 bis sans modification.</p><p>Article 24 (art. L. 2123-18-1-1 et L. 5211-13-1 du code général des collectivités territoriales) : Applicabilité des dispositions de la présente loi dans les territoires régis par le principe de spécialité législative</p><p>La Commission adopte l'article 24 sans modification.</p><p>Elle adopte l'ensemble du texte du projet de loi modifié.</p><p>La séance est levée à 15 heures.</p>",
+        "date": "2013-07-17",
+        "heure": "14:00",
+        "id": "259633",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1249"
+          },
+          {
+            "loi": "1250"
+          }
+        ],
+        "nbmots": "153",
+        "seance_id": "1741",
+        "seance_lieu": "Commission des lois constitutionnelles, de la législation et de l'administration générale de la république",
+        "seance_titre": "réunion du 17 juillet 2013 à 14h00",
+        "section": "",
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/12-13/c1213095.asp#P283_42447",
+        "soussection": "",
+        "tags": [],
+        "timestamp": "95001010",
+        "type": "commission",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/1741#inter_bad3eb6e850ca8f598889a0edf7dadd2",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/259633/json"
+      }
+    }
+  ]
+}

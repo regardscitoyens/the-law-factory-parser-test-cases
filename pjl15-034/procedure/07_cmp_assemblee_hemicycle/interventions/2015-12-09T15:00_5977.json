@@ -1,0 +1,844 @@
+{
+  "seance": [
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>gratuité et modalités de la réutilisation des informations du secteur public</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877341",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "15",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681223",
+        "soussection": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "tags": [],
+        "timestamp": "2450",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_0a450e932547e5e04ac2ec5c2d87dedf",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877341/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L’ordre du jour appelle la discussion, sur le rapport de la commission mixte paritaire, du projet de loi relatif à la gratuité et aux modalités de la réutilisation des informations du secteur public (no 3243).</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877342",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "David Habib",
+        "intervenant_slug": "david-habib",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "38",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681225",
+        "soussection": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "tags": [],
+        "timestamp": "2470",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_aa09eb970b367a656c511559474bd60e",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877342/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Présentation</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877343",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "4",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681226",
+        "soussection": "Présentation",
+        "tags": [],
+        "timestamp": "2480",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_559c6eace19a340d2ce3036f33f143b9",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877343/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La parole est à M. Luc Belot, rapporteur de la commission mixte paritaire.</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877344",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "David Habib",
+        "intervenant_slug": "david-habib",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "14",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681227",
+        "soussection": "Présentation",
+        "tags": [],
+        "timestamp": "2490",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_e3ff2e398755bd09d4ef5d606d187c4e",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877344/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Monsieur le président, madame la secrétaire d’État chargée de la réforme de l’État et de la simplification, chers collègues, nous en revenons au projet de transposition de la directive PSI – Public Sector Information – qui, il y a quelques semaines, avait été l’occasion pour nous d’aborder la politique d’open data menée avec ambition par le Gouvernement depuis plusieurs années. Et ce texte va la confirmer tout en étant une bonne introduction au projet de loi pour une République numérique qui occupe nombre d’entre nous depuis trois semaines d’auditions.</p><p>Le principe même du libre accès et de la libre réutilisation des données publiques est un outil essentiel, à la fois un outil de transparence et de démocratie en ce qu’il favorise la concertation et l’ouverture à de nouveaux points de vue. À bien des égards, il renforce la qualité de l’action publique et même du service public. Notre pays est classé à la troisième position dans bon nombre de classements internationaux indépendants. L’ambition de la France demeure particulièrement forte et la directive prévoit d’ailleurs beaucoup d’éléments que notre pays applique déjà depuis longtemps.</p><p>L’Assemblée et le Sénat ont cherché à faire oeuvre utile, proposant des amendements pour améliorer le texte, dans un cadre qui relève uniquement de la transposition de la directive depuis la décision du Conseil constitutionnel du 13 août 2015 sur le volet pénal de la loi portant diverses dispositions d’adaptation au droit de l’Union européenne dans le domaine du développement durable, dite « loi DDADUE ». Dans ces conditions, le travail en commission mixte paritaire s’est très bien déroulé avec les sénateurs ; nous avons pu aborder l’ensemble des points qui restaient en discussion, y compris la question des redevances dont nous avions débattu ici même. Dans un souci d’efficacité et de rapidité, nous avons souhaité aboutir sur ce point conformément à votre engagement, mais je sais que ce sera repris dans le projet de loi pour une République numérique.</p><p>Je vais procéder à un rapide examen des différents articles et de la manière dont nous les avons abordés en CMP.</p><p>À l’article 1erB, relatif à la mise à disposition des informations publiques sous forme électronique, si possible dans un standard ouvert, notre commission mixte paritaire a retenu la version du Sénat, avec une petite simplification rédactionnelle.</p><p>À l’article 1er, nous avons maintenu la version de l’Assemblée nationale qui abroge l’article 11 de la loi relative à la commission d’accès aux documents administratifs, dite « loi CADA ». Il s’agit de l’article qui autorisait les établissements d’enseignement et de recherche ainsi que les organismes culturels à instaurer un régime dérogatoire pour la réutilisation de leurs données publiques. Au regard des évolutions actuelles dans ce domaine, il fallait les faire entrer dans le droit commun prévu par la loi CADA. Je vais juste lever deux ambiguïtés apparues au cours de nos travaux : l’abrogation de l’article 11 de la loi CADA n’aura pas pour effet de rendre communicables ni réutilisables les informations ou documents de recherche inachevés, c’est-à-dire l’ensemble des travaux de recherche qui sont en cours d’élaboration et qui n’ont jamais fait l’objet de publication : c’était un point de vigilance particulier pour les sénateurs. Par ailleurs, les informations sur lesquelles les établissements ou institutions d’enseignement et de recherche détiennent un droit de propriété industrielle ne seront communicables qu’aux intéressés, en application du II de l’article 6 de la loi CADA, car si tel n’était pas le cas, cela porterait atteinte au secret en matière commerciale et industrielle. Par conséquent, ces informations ne seront pas non plus réutilisables au sens de l’article 10 de la même loi.</p><p>L’article 2 limite à dix ans la durée des accords d’exclusivité sauf pour les besoins de la numérisation culturelle. Nous avons retenu la version du Sénat, mais en reprenant une précision rédactionnelle adoptée à l’Assemblée pour viser également les avenants.</p><p>Concernant l’article 3, relatif à la gratuité de la réutilisation des données publiques, la CMP a retenu la version de l’Assemblée tout en intégrant quelques éléments de simplification et de précision proposés par le Sénat.</p><p>À l’article 4, nous en sommes restés à la version de l’Assemblée. Les sénateurs avaient envisagé de rendre obligatoires les licences, mais nous avons jugé que cela complexifiait à bien des égards le système et ne paraissait pas indispensable, ce dont ils sont convenus.</p><p>Les articles 5, 7, 8 et 9 ont été retenus dans la rédaction du Sénat.</p><p>Je conclurai en remerciant tous les collègues présents et Mme la secrétaire d’État pour le travail de qualité que nous avons accompli ensemble avec son cabinet afin que ce texte de loi sur l’open data soit la première étape de la République numérique.</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877345",
+        "intervenant_fonction": "rapporteur de la commission mixte paritaire",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "900",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681228",
+        "soussection": "Présentation",
+        "tags": [],
+        "timestamp": "2500",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_d6659754d0cf5a27e9db7111c080fb54",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877345/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Applaudissements sur les bancs du groupe socialiste, républicain et citoyen.</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877346",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "13",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681228",
+        "soussection": "Présentation",
+        "tags": [],
+        "timestamp": "2510",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_25759fde96ea97b730818c9a4e5aec61",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877346/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La parole est à Mme la secrétaire d’État chargée de la réforme de l’État et de la simplification.</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877347",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "David Habib",
+        "intervenant_slug": "david-habib",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "24",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681239",
+        "soussection": "Présentation",
+        "tags": [],
+        "timestamp": "2530",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_19204bea031843c7152f40839db29429",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877347/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Monsieur le président, monsieur le rapporteur, mesdames, messieurs les députés, nous arrivons aujourd’hui au terme du processus d’examen du texte concernant l’open data, qui consiste en la transposition d’une directive européenne du 26 juin 2013. Je tiens à remercier toutes celles et tous ceux qui ont contribué au travail sur ce projet de loi, à commencer par la commission des lois, y compris bien sûr Luc Belot, votre rapporteur, et Marie-Anne Chapdelaine, mais aussi Lionel Tardy, Paul Molac et tous les autres députés qui ont participé à l’examen de ce texte et aux débats très importants que nous avons eus depuis plusieurs semaines.</p><p>Je voulais aussi vous remercier d’être arrivés, grâce à une implication très forte du rapporteur, à un accord avec le Sénat en CMP. C’est très important car plusieurs questions restaient en suspens et il fallait que cette étape soit franchie pour pouvoir aborder, comme l’a dit Luc Belot, celle de l’examen du texte qui sera présenté début 2016 par Axelle Lemaire concernant la République numérique.</p><p>Cette étape sera franchie grâce à vos travaux.</p><p>Comme l’a indiqué votre rapporteur, le Gouvernement s’est fortement engagé sur les questions liées à l’open data. À chacune de mes interventions dans une assemblée parlementaire, le nombre de jeux de données ouvertes augmente : s’il s’élève aujourd’hui à 21 300, il aura encore progressé lorsque le Parlement sera conduit à réexaminer cette question en janvier 2016. En tout état de cause, c’est avec détermination que nous avons engagé cette action et soutenu le principe de gratuité, tout en formulant des exceptions dans ce texte. Une réflexion est également en cours pour continuer d’avancer.</p><p>Tous ici, nous partageons la conviction que la politique d’open data constitue une chance pour notre économie. C’est un levier de croissance et d’emploi : de nombreuses entreprises se développent grâce à ces ouvertures de données.</p><p>C’est aussi un élément capable de redynamiser notre démocratie. Le Parlement a là un rôle important à jouer : il doit mener une réflexion sur l’action législative dans ce nouveau contexte. L’examen du texte présenté par Axelle Lemaire le permettra.</p><p>C’est enfin – je ne l’oublie pas, ayant en charge la réforme de l’État – un levier important de modernisation de l’État et d’amélioration des services publics, afin de disposer de services publics de grande qualité. Nous avançons vers ce but.</p><p>Au nombre des points qui restaient en suspens entre les deux assemblées figurait d’abord le champ d’application des obligations de rediffusion au secteur de la culture et de la recherche. Le sujet, introduit par le Sénat, avait suscité des inquiétudes. Il semble que les échanges entre les deux assemblées, ainsi que nos discussions lors de l’examen du texte dans chacune des chambres, aient permis de convaincre les sénateurs. Je voulais à ce titre vous remercier du travail accompli.</p><p>Le deuxième point, qui concernait l’obligation de signer une licence pour toute réutilisation d’informations publiques, a également été réglé.</p><p>Comme l’a indiqué votre rapporteur, s’agissant des redevances, dont la directive européenne posait le principe, le Gouvernement a souhaité d’emblée aller plus loin en optant pour la gratuité, les redevances n’étant prévues que dans des cas limités, par des exceptions. Le débat avec le Sénat a permis de progresser sur ce point, en actant que nous irions plus loin que la directive et en posant la gratuité comme principe.</p><p>Le travail a commencé sur ce sujet, notamment en ce qui concerne l’évolution des modèles économiques des services qui fonctionnent encore avec des redevances. Je remercie chacun pour cet acquis du travail parlementaire ainsi que pour ses contributions au débat et ce travail entre les deux assemblées. Il est important de se retrouver, au bon moment, après un débat ouvert, qui a permis des avancées et des ouvertures pour l’avenir. Ces démarches permettront d’aborder, ensemble, l’examen du projet de loi pour une République numérique qu’Axelle Lemaire a présenté ce matin en Conseil des ministres. Vous aurez l’occasion, messieurs et mesdames les députés, de prolonger et d’amplifier ce travail. Aussi, je vous remercie de nouveau pour vos contributions.</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877348",
+        "intervenant_fonction": "secrétaire d’état chargée de la réforme de l’état et de la simplification",
+        "intervenant_groupe": "",
+        "intervenant_nom": "Clotilde Valter",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "776",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681240",
+        "soussection": "Présentation",
+        "tags": [],
+        "timestamp": "2540",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_6a5bbfd6f101213fc52d8c10f4ac78f3",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877348/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Applaudissements sur les bancs du groupe socialiste, républicain et citoyen.</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877349",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "13",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681240",
+        "soussection": "Présentation",
+        "tags": [],
+        "timestamp": "2550",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_a57cd3c85052ab27d4dec70d4fad15c4",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877349/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Discussion générale</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877350",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "6",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681251",
+        "soussection": "Discussion générale",
+        "tags": [],
+        "timestamp": "2580",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_dded18c0e17d3e275dd14ccd489dcddd",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877350/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Dans la discussion générale, la parole est à Mme Marie-Anne Chapdelaine.</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877351",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "David Habib",
+        "intervenant_slug": "david-habib",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "14",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681252",
+        "soussection": "Discussion générale",
+        "tags": [],
+        "timestamp": "2590",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_3aa1cd8db64901067b87eb621822a29b",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877351/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Monsieur le président, madame la secrétaire d’État, monsieur le président de la commission, monsieur le rapporteur, mes chers collègues, « bien informés, les hommes sont des citoyens ; mal informés, ils deviennent des sujets » : cette citation d’Alfred Sauvy, démographe français du XXe siècle, résume l’esprit de l’accès aux données, sujet qui nous réunit une fois encore cet après-midi.</p><p>Le texte que nous sommes sur le point d’adopter est un pas significatif en faveur de la transition numérique. Bien qu’appliquer le régime de l’open data aux informations du secteur public apparaisse comme nécessairement empreint d’innovation, cette volonté de transparence est en réalité soutenue depuis plus de 30 ans. En effet, la liberté d’accès aux documents administratifs a été affirmée par la loi du 17 juillet 1978. C’est l’une des raisons pour lesquelles nous sommes face à un texte aussi consensuel : nous sommes tous animés par la même ambition de transparence, inhérente à toute aspiration républicaine et démocratique.</p><p>Le présent projet de loi a pour objet d’inscrire dans la loi les principes de l’open data, conformément à l’engagement du Gouvernement de respecter les principes essentiels d’ouverture des formats, de gratuité et de liberté de réutilisation des données publiques. Les enjeux de ce texte sont multiples, non seulement sociaux et économiques, mais également démocratiques.</p><p>Sur le plan économique, nous savons que la directive de 2013 a apporté du dynamisme et de la concurrence en matière de réutilisation de l’information du secteur public, tout en facilitant l’accès à ce secteur pour les petites et moyennes entreprises. Les réductions de frais de réutilisation de ces données pourraient faire croître le nombre de réutilisateurs et faire décoller un marché qui aurait un impact économique important pour la France et l’Union européenne.</p><p>Je mentionnerai également les retombées sociales dans le cadre du développement des nouveaux métiers de la donnée. Notons finalement que ce projet de loi contribue à l’amélioration du service public auquel nous sommes tous attachés.</p><p>En outre, la gratuité et l’augmentation des usages non commerciaux des informations du secteur public favorisent la transparence des gouvernements et constituent ainsi des enjeux démocratiques. Après le passage du texte devant le Sénat, le consensus trouvé en commission mixte paritaire me paraît correspondre à l’esprit général que l’Assemblée a voulu insuffler au projet de loi. Je salue à cet égard le travail remarquable de notre rapporteur, Luc Belot. La CMP a ainsi réintroduit dans l’article 2 l’exigence de transparence et de publicité des avenants, et non plus seulement des accords d’exclusivité, comme l’avait formulé le Sénat.</p><p>Quant à l’article 3 du projet de loi, il fixe un principe de gratuité de la réutilisation des informations publiques. Des exceptions sont naturellement prévues. De la même manière, à l’article 4, la CMP a finalement rétabli la version de l’Assemblée.</p><p>L’intérêt de ce texte n’est plus à démontrer, puisqu’il a été adopté à l’unanimité en commission, puis en séance publique. Les membres de la commission mixte paritaire sont également parvenus à un accord, nous amenant à nous prononcer sur un texte extrêmement proche de sa version initiale votée ici même le 6 octobre.</p><p>Je terminerai en citant Tim Berners-Lee, informaticien britannique, mondialement connu comme étant l’inventeur du world wide web au début des années 1990, ce système dont vous ignorez peut-être le nom, mais qui nous permet à tous, aujourd’hui, de naviguer sur la toile : « Si l’on partage des données sur le web, des données publiques, des données scientifiques, des données citoyennes, quelles qu’elles soient, d’autres que nous sauront en tirer des créations merveilleuses que nous n’aurions jamais imaginées. » C’est pourquoi le groupe socialiste, républicain et citoyen votera ce texte.</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877352",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Marie-Anne Chapdelaine",
+        "intervenant_slug": "marie-anne-chapdelaine",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "710",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681253",
+        "soussection": "Discussion générale",
+        "tags": [],
+        "timestamp": "2600",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_291f82aecf4c7e02a994af2ae1f4282f",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877352/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Applaudissements sur les bancs du groupe socialiste, républicain et citoyen.</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877353",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "13",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681253",
+        "soussection": "Discussion générale",
+        "tags": [],
+        "timestamp": "2610",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_f28618efec8059c7ac9161cd6f60c731",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877353/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Bravo !</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877354",
+        "intervenant_fonction": "rapporteur de la commission mixte paritaire",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Luc Belot",
+        "intervenant_slug": "luc-belot",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "3",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681262",
+        "soussection": "Discussion générale",
+        "tags": [],
+        "timestamp": "2630",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_0c8d201547b7db637e928cab1c95c55f",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877354/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La parole est à M. Lionel Tardy.</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877355",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "David Habib",
+        "intervenant_slug": "david-habib",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "8",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681263",
+        "soussection": "Discussion générale",
+        "tags": [],
+        "timestamp": "2640",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_86a00d79b79e5111dcca144445202cbd",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877355/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Monsieur le président, madame la secrétaire d’État, monsieur le président de la commission, monsieur le rapporteur, mes chers collègues, avec cinq mois de retard, nous nous apprêtons à transposer la directive du 26 juin 2013 qui, elle-même, révise la directive PSI. Dans moins d’un mois, nous étudierons le projet de loi pour une République numérique, qui contient une partie entière sur l’ouverture des données publiques. Nous ne cessons de déplorer cette drôle de gestion du calendrier parlementaire, qui rend très difficilement lisible la stratégie numérique de notre pays, et plus particulièrement, sa stratégie en matière d’open data.</p><p>Si le chantier a été ouvert avec ce texte, pour bien des amendements déposés, vous nous avez renvoyés au projet de loi numérique. C’est sans doute la raison pour laquelle, au moment d’adopter ce texte, nous avons l’impression, avant tout, d’une politique de petits pas : on avance un peu, mais on garde l’ambition pour le projet de loi numérique. Et la commission mixte paritaire doit surtout sa belle unanimité au fait que les sujets majeurs sont renvoyés à plus tard.</p><p>Ainsi en est-il de la question centrale des redevances et du principe qui doit être au coeur de la politique d’open data : la gratuité est la règle ; les redevances, l’exception.</p><p>Bien sûr, nous sommes tous ici d’accord pour dire que le libre accès renforcera l’efficacité de l’action publique, et dynamisera la croissance économique. Fondamentalement, pourtant, les députés du groupe Les Républicains ne croient pas qu’inscrire dans la loi le principe de gratuité, en l’assortissant dans le même temps d’exceptions notables, soit le gage d’une vraie politique volontariste en matière d’ouverture et de partage des données publiques. Il faut bien le dire : les sénateurs semblent voir les choses de façon plus restrictive que les députés, si l’on compare les textes issus des deux chambres.</p><p>Heureusement, la CMP a permis de conserver les avancées – relativement modestes par rapport à ce que l’on pouvait attendre de ce texte – que nous avions obtenues en première lecture. C’est ainsi que le projet de loi a conservé : la limitation à 15 ans de la période d’exclusivité pouvant être accordée pour la numérisation de ressources culturelles ; l’obligation d’utiliser une licence lorsque la réutilisation des données est soumise à redevance ; la transparence des redevances, tant sur leur montant que sur les modalités de calcul utilisées ; la révision régulière, tous les cinq ans, des catégories d’administration autorisées à établir des redevances, ainsi que des montants de ces redevances ; l’inscription par décret de la liste des informations ou catégories d’informations qui peuvent donner lieu à l’établissement d’une redevance.</p><p>Il faudra être extrêmement vigilant sur le contenu de ces décrets afin qu’ils ne viennent pas restreindre le principe adopté par le législateur et freiner le mouvement amorcé. Aussi je souhaite, madame la secrétaire d’État, que le Gouvernement s’engage à informer les parlementaires du contenu de ces décrets pendant leur phase de préparation.</p><p>Concernant les points négatifs, le groupe Les Républicains regrette que l’article 1er B ait été voté dans sa version issue du Sénat. Alors que le texte adopté par l’Assemblée nationale imposait à l’administration de mettre à disposition les informations sous forme électronique et faisait du standard ouvert la règle, la version sur laquelle nous voterons dispose que la mise à disposition sous forme électronique n’est pas obligatoire et que, lorsque le format numérique existe, les informations sont mises à disposition, « si possible, dans un standard ouvert ».</p><p>Enfin, la navette – très brève à cause de la procédure accélérée – n’a pas permis d’éclaircir la question de la transparence des accords d’exclusivité prévue à l’alinéa 6 de l’article 2, qui prévoit que « les accords d’exclusivité et leurs avenants sont transparents et rendus publics sous forme électronique ». Cette formulation, toujours assez floue, même si de bonnes raisons le justifient peut-être, est plus restrictive que ce qui avait été envisagé en première lecture.</p><p>Nos objections sont donc les mêmes depuis le début : ce projet de loi se borne à une simple transposition de la directive. Ce n’est pas une mauvaise chose en soi, mais en refusant d’aller au-delà, je crains que le mouvement de l’open data, qui avait besoin d’un coup de fouet pour finir le travail commencé en 2011, ne soit freiné. J’espère me tromper et que vous ne fermerez pas la porte aux propositions qui rouvriront le débat dans quelques semaines à peine, lors de l’examen du projet de loi pour une République numérique. Je vous préviens déjà que nous déposerons des amendements pour aller plus loin que cette directive.</p><p>En résumé, même s’il faut une révolution, et que nous n’avons aujourd’hui qu’une transposition, le groupe Les Républicains votera pour ce projet de loi.</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877356",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "LR",
+        "intervenant_nom": "Lionel Tardy",
+        "intervenant_slug": "lionel-tardy",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "911",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681264",
+        "soussection": "Discussion générale",
+        "tags": [],
+        "timestamp": "2650",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_6efe068cd9ad4f63ddd1b3d8e57834b5",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877356/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La parole est à M. Michel Piron.</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877357",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "David Habib",
+        "intervenant_slug": "david-habib",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "8",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681873",
+        "soussection": "Discussion générale",
+        "tags": [],
+        "timestamp": "2660",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_f32a2c95021efc14f2ce9157dba35329",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877357/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Monsieur le président, madame la secrétaire d’État, monsieur le président de la commission des lois, monsieur le rapporteur, mes chers collègues, le sujet que nous abordons aujourd’hui, l’ouverture des données publiques, est à la fois un enjeu de gouvernance et une opportunité économique. Enjeu de gouvernance, puisque cette ouverture peut contribuer à changer profondément le rapport entre citoyens et décideurs, en assurant une meilleure information des parties prenantes et en instaurant un équilibre des savoirs entre tous les acteurs ; opportunité économique, car, à l’ère du numérique, la réutilisation des données publiques peut être un levier de croissance et de création d’emplois. Cependant, notre législation en la matière est insuffisamment contraignante pour les détenteurs de données publiques ; elle repose essentiellement sur une logique de demande d’accès. Nous devons donc l’adapter afin de développer les potentialités de l’open data.</p><p>Sur la forme, ainsi que nous l’avons indiqué en première lecture, nous aurions préféré aborder le sujet du numérique dans de meilleures conditions, et non pas en trois étapes, avec, d’abord, ce projet de loi, puis le projet de loi « pour une République numérique », enfin le projet de loi « Macron 2 », consacré aux écosystèmes numériques.</p><p>En outre, reconnaissons-le, ce projet de loi n’est qu’un pan de la réforme, une transposition de la directive de 2013, dont l’essentiel des dispositions figure déjà dans la législation française.</p><p>L’exercice est donc relativement limité, puisque, même si le projet de loi va plus loin sur certains points, nous devons suivre la route tracée par la directive du 26 juin 2013, qui modifiait elle-même la directive du 17 novembre 2003, texte fondateur de la réutilisation des informations du secteur public, dite « directive PSI ».</p><p>Nous légiférons, de surcroît, dans l’urgence, sous la menace d’une procédure en manquement.</p><p>Néanmoins, sur le fond, nous approuvons l’objectif de ce texte, qui pose comme principe la gratuité de la réutilisation des informations.</p><p>En première lecture, le projet de loi avait été amélioré sur plusieurs points.</p><p>Un amendement, adopté à l’initiative de notre collègue Bertrand Pancher, prévoyait de rendre public le montant total des redevances perçues par chaque administration. Nous nous félicitons que cet apport ait été maintenu par la commission mixte paritaire.</p><p>En outre, la durée du droit d’exclusivité concernant la numérisation des ressources culturelles a été limitée. Elle pourra être supérieure à dix ans, mais sans dépasser 15 ans. Cette disposition constitue une avancée par rapport au projet de loi initial, qui prévoyait simplement que la période d’exclusivité pourrait, par dérogation, être supérieure à dix ans. Cela n’est pas négligeable.</p><p>En revanche, s’agissant des accords d’exclusivité, nous notons le recul opéré par la commission mixte paritaire. Les accords d’exclusivité accordés à un tiers pour la réutilisation d’informations publiques et les redevances versées aux administrations constituent des exceptions aux principes de gratuité et de mise à disposition publique. En conséquence, il conviendrait de donner aux citoyens un accès libre à toutes les informations relatives à ces exceptions. Pour ce faire, le groupe UDI avait fait adopter une disposition précisant les contours de la publication des accords d’exclusivité. Nous regrettons que cet apport ne figure plus dans le texte.</p><p>Mes chers collègues, vous l’aurez compris, en dépit de ces quelques réserves – ainsi que de la réserve que m’inspire, à titre personnel, l’expression « République numérique », car le numérique n’est jamais qu’un outil supplémentaire au service de ce qui, fort heureusement, lui préexistait largement, à savoir la République, qui n’est ni numérique ni a-numérique : elle est simplement et pleinement la res publica –, ces réserves faites, donc, le groupe UDI votera en faveur de ce projet de loi.</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877358",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UDI",
+        "intervenant_nom": "Michel Piron",
+        "intervenant_slug": "michel-piron",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "703",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681874",
+        "soussection": "Discussion générale",
+        "tags": [],
+        "timestamp": "2670",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_49e6bfa6d58ff5d52aac82c52ee41d76",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877358/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La parole est à Mme Isabelle Attard.</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877359",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "David Habib",
+        "intervenant_slug": "david-habib",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "8",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681885",
+        "soussection": "Discussion générale",
+        "tags": [],
+        "timestamp": "2680",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_a13bab408b6deb8e0240d94ecc060249",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877359/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Monsieur le président, madame la secrétaire d’État, monsieur le président de la commission des lois, monsieur le rapporteur, mes chers collègues, ce projet de loi porte sur la gratuité et les modalités de la réutilisation des informations du secteur public ; il parle en particulier de l’open data, une question que nous suivons attentivement. Un amendement écologiste important a été adopté dans le cadre de la loi portant nouvelle organisation territoriale de la République et le projet de loi sur le numérique viendra en discussion dans l’hémicycle en janvier.</p><p>Nous avons regretté que le texte soit centré sur la question des redevances et qu’il ne parle que très peu de la libération des données, sujet renvoyé au projet de loi sur le numérique. Nous regrettons cette dissociation en deux projets de loi. Le travail parlementaire en a été complexifié et les débats sur les enjeux de l’open data auraient permis de sortir de l’aspect purement technique dans lequel nous enferme la simple transposition d’une directive européenne.</p><p>L’open data est un défi pour notre société, et plus encore pour nos administrations publiques. La France se situe au troisième rang mondial pour l’ouverture et la réutilisation de ses données publiques, selon une étude publiée par une association internationale spécialisée. La législation française satisfait déjà, sur la plupart des points, la directive de l’Union européenne du 26 juin 2013, qui encadre la réutilisation des informations, ainsi que la mise en place de redevances ou la conclusion d’accords d’exclusivité. Néanmoins, plutôt que d’engager l’abandon progressif des redevances, comme le permettait la directive, le Gouvernement a choisi de les entériner. En compensation, le projet affirme bien un principe de gratuité, mais il lui associe plusieurs exceptions. Il s’agit d’une barrière très lourde pour l’accès à ces informations d’intérêt général, alors que ces redevances ne représentent qu’une part très faible des recettes des services publics concernés – elle est de 3 % pour l’Institut national de la statistique et des études économiques et de 5 % pour l’Institut national de l’information géographique et forestière, l’IGN.</p><p>Le projet de loi prévoit également des durées de redevances supérieures à dix ans dans plusieurs cas. Or le rapport Trojette de novembre 2013 sur les exceptions au principe de gratuité des données publiques montre que les redevances handicapent le bon fonctionnement des services publics producteurs de données. Nous regrettons que le Parlement n’ait pas creusé davantage la question des redevances, qui sont appelées à disparaître. Il est indispensable que les opérateurs publics changent de modèle économique.</p><p>Le travail de l’Assemblée, sous l’impulsion du rapporteur, dont nous saluons le travail et le volontarisme, a permis d’améliorer sensiblement le texte sur ces questions. Pour les administrations de l’État, l’obligation d’un décret par nouvelle redevance est réaffirmée dans la loi et s’assortira désormais d’un avis de la CADA. J’espère que ce décret précisera les coûts dont il faudra tenir compte, définira les cas dans lesquels l’administration et les collectivités territoriales pourront recourir à une telle redevance et en encadrera les modalités – d’autant qu’aucune disposition en ce sens n’apparaît clairement dans l’avant-projet de loi Lemaire.</p><p>L’ouverture, gratuite ou à un montant raisonnable, des données publiques entraîne systématiquement des externalités positives et des retombées économiques importantes, en particulier pour les start-up françaises innovantes. À l’inverse, des redevances abusives, qui peuvent atteindre plusieurs millions, empêchent la création d’emplois, alors même que les données concernées dorment dans des tiroirs – réels ou virtuels – et ne profitent à personne. Nous frôlons parfois le ridicule, économiquement parlant…</p><p>L’Assemblée a également adopté un amendement écologiste qui interdira l’établissement de redevance après un accord d’exclusivité. La production des données ayant déjà été financée, l’établissement d’une redevance ne doit pas être possible, notamment pour les données produites par un acteur privé : cela doit être fromage ou dessert.</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877360",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "Isabelle Attard",
+        "intervenant_slug": "isabelle-attard",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "753",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681886",
+        "soussection": "Discussion générale",
+        "tags": [],
+        "timestamp": "2690",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_25ea2c359d514d4db29837818fec2ec6",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877360/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Oh ! Belle métaphore !</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877361",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UDI",
+        "intervenant_nom": "Michel Piron",
+        "intervenant_slug": "michel-piron",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "6",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681893",
+        "soussection": "Discussion générale",
+        "tags": [],
+        "timestamp": "2700",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_763c6ccc1a7e92683bea6f8a9c892fef",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877361/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>A aussi été adopté un amendement visant à définir un format ouvert et réutilisable, qui permettra de sécuriser cette définition.</p><p>Pour toutes les raisons exposées ici, nous soutiendrons, madame la secrétaire d’État, mes chers collègues, ce texte de loi, tout en espérant pouvoir effectuer un travail d’amélioration constructive lors de l’examen à venir du projet de loi sur le numérique.</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877362",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "Isabelle Attard",
+        "intervenant_slug": "isabelle-attard",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "75",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681894",
+        "soussection": "Discussion générale",
+        "tags": [],
+        "timestamp": "2710",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_5a0a129fc572c38a93f5d5523d7f5a6d",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877362/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La parole est à M. Jacques Krabal.</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877363",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "David Habib",
+        "intervenant_slug": "david-habib",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "8",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681896",
+        "soussection": "Discussion générale",
+        "tags": [],
+        "timestamp": "2720",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_e2bb58d98ab9dba4d8d7c201f212fb1f",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877363/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Monsieur le président, madame la secrétaire d’État, monsieur le président de la commission des lois, monsieur le rapporteur, mes chers collègues, nous sommes aujourd’hui réunis pour l’examen du texte, issu de la commission mixte paritaire, relatif à la gratuité et aux modalités de la réutilisation des informations du secteur public. C’est un texte compliqué techniquement et administrativement, mais, comme cela a été dit, il est aussi très important, puisqu’il s’agit de la première pierre de la « République numérique » annoncée ce matin en Conseil des ministres. Or nous sommes tous soucieux que notre pays soit à la pointe du développement de l’économie numérique.</p><p>La pierre angulaire de ce texte est la consécration du principe de la gratuité de l’accès aux données numériques publiques. Pour ce faire, le Gouvernement, afin de changer la législation française en la matière, nous présente un ensemble cohérent de trois textes sur l’open data ; les deux autres seront le projet de loi sur la République numérique et le projet de loi sur l’écosystème numérique. Ces trois textes permettront une réutilisation automatisée des données publiques, dès le recueil et la production des informations, afin d’assurer la fluidité de la circulation de l’information entre le collecteur, le producteur et l’utilisateur. Si nous avons déploré l’absence d’un projet global sur le numérique, nous comprenons toutefois les raisons de ce choix.</p><p>Afin de mettre la législation française en conformité avec nos obligations européennes, le texte qui nous est présenté aujourd’hui transpose la directive du Parlement européen et du Conseil du 26 juin 2013, nous évitant ainsi d’être condamnés à une amende ; se trouvent ainsi modifiées les dispositions de la directive du 17 novembre 2003 concernant la réutilisation des informations du secteur public.</p><p>Le présent texte s’intéresse à toutes les données détenues et créées par l’administration. Il s’agit de tous les documents produits ou reçus par l’État, les collectivités territoriales, ainsi que les autres personnes de droit public ou de droit privé, dans le cadre de l’exercice de leur mission de service public administratif ; ne sont pas concernées les informations issues du service public industriel et commercial. L’objectif est de permettre la réutilisation de ces informations à d’autres fins que celles de la mission de service public pour les besoins de laquelle elles ont été produites ou perçues. Il en va ainsi de la rediffusion de documents produits par l’administration ou de l’utilisation d’informations en vue d’élaborer d’autres produits pour le développement d’une activité économique.</p><p>Déjà, par la loi du 17 juillet 1978 portant diverses mesures d’amélioration des relations entre l’administration et le public et diverses dispositions d’ordre administratif, social et fiscal, la France reconnaissait à toute personne le droit d’obtenir communication des documents détenus par une administration dans le cadre de sa mission de service public, quels que soient leur forme ou leur support. Dès son titre Ier, les principes de la liberté d’accès aux documents administratifs et de la réutilisation des informations publiques étaient posés. La directive du 26 juin 2003 avait par la suite doté la France d’un véritable droit à la réutilisation des informations publiques.</p><p>Le but du présent texte est de permettre la mise à disposition d’office des documents au public, c’est-à-dire en dehors de toute demande d’information adressée à l’administration. Cet accès facilité est une chance pour l’administration dans le cadre de sa recherche d’efficacité, d’effectivité et de rentabilité. Ouvrir à tous les données ne comportant pas d’informations à caractère personnel ou protégé avant même qu’une demande ne soit formulée épargnera en effet à l’administration la répétition d’opérations de communication individuelle et limitera ainsi les coûts pour le contribuable.</p><p>En tant que rapporteur pour avis de la commission du développement durable sur le programme no 170, « Météorologie », j’émettrais cependant une objection – pour ne pas dire une critique.</p><p>Cette politique d’ouverture permettra de développer de la valeur, de la richesse et aussi du partage. À titre d’exemple, c’est en partie grâce à l’échange de données météorologiques que le système d’alertes précoces appelé « CREWS », dont j’ai assisté au lancement dans le cadre de la COP21, a vu le jour, à la suite d’une étroite collaboration entre la France, qui fut le moteur, l’Australie, l’Allemagne, le Luxembourg, les Pays-Bas, le Japon et le Royaume-Uni. Il permettra d’informer, de prévenir et de préserver les territoires les plus menacés par la montée des océans consécutive au dérèglement climatique, donc de sauver des vies humaines.</p><p>Toutefois, la mise à disposition gratuite de données qui, pour certaines d’entre elles, étaient payantes, va provoquer une perte de revenus immédiate pour plusieurs opérateurs, comme Météo-France. Or, dans le même temps, l’afflux de demandes obligera ceux-ci à mettre en place des infrastructures de transmission adaptées. Madame la secrétaire d’État, pourriez-vous nous dire, soit aujourd’hui, soit ultérieurement, comment l’État prendra sa part des coûts induits, vu le contexte budgétaire difficile que connaissent de nombreuses agences publiques, dont Météo-France ?</p><p>Le groupe radical, républicain, démocrate et progressiste votera néanmoins le présent projet de loi, car, comme le disait dans l’Épître à Huet Jean de La Fontaine – né à Château-Thierry : « Ne pas louer son siècle est parler à des sourds. »</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877364",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "RRDP",
+        "intervenant_nom": "Jacques Krabal",
+        "intervenant_slug": "jacques-krabal",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "1007",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681897",
+        "soussection": "Discussion générale",
+        "tags": [],
+        "timestamp": "2730",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_a4f552a65ddb155839cd5e499a6217c6",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877364/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La discussion générale est close.</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877365",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "David Habib",
+        "intervenant_slug": "david-habib",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "9",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681907",
+        "soussection": "Discussion générale",
+        "tags": [],
+        "timestamp": "2740",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_2a1849573e5b6224243262c07178fcb0",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877365/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Vote sur l’ensemble</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877366",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "6",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681908",
+        "soussection": "Vote sur l'ensemble",
+        "tags": [],
+        "timestamp": "2750",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_2d565d2453205b8355b330d616b14d95",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877366/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je mets aux voix l’ensemble du projet de loi, compte tenu du texte de la commission mixte paritaire.</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877367",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "David Habib",
+        "intervenant_slug": "david-habib",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "21",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681909",
+        "soussection": "Vote sur l'ensemble",
+        "tags": [],
+        "timestamp": "2760",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_224d2c0f5d4d46a16649065a2563020b",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877367/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L’ensemble du projet de loi est adopté.</p>",
+        "date": "2015-12-09",
+        "heure": "15:00",
+        "id": "877368",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "3243"
+          }
+        ],
+        "nbmots": "10",
+        "seance_id": "5977",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 9 décembre 2015 à 15h00",
+        "section": "Gratuité et modalités de la réutilisation des informations du secteur public",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160082.asp#P681909",
+        "soussection": "Vote sur l'ensemble",
+        "tags": [],
+        "timestamp": "2770",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_5084ea800ca8af6730dd5f1018ea0a33",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/877368/json"
+      }
+    }
+  ]
+}

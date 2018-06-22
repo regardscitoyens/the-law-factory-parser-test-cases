@@ -46,7 +46,7 @@ WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 17 octies B <-> 74 360 Vs 250 
  - process amendements & interventions
     * step - 1ère lecture depot https://www.senat.fr/leg/pjl09-200.html
     * step - 1ère lecture commission https://www.senat.fr/leg/pjl09-437.html
-      * downloading amendments: https://nossenateurs.fr/amendements/20092010-200/json?cache=5feb2018 for https://www.senat.fr/leg/pjl09-200.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20092010-200/json?cache=5feb2018 for https://www.senat.fr/leg/pjl09-200.html
         parsing amendments: 0
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20092010-200/json?commission=1
@@ -62,7 +62,7 @@ WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 17 octies B <-> 74 360 Vs 250 
            downloading seance -  https://www.nossenateurs.fr/seance/4949/20092010-200/json
            downloading seance -  https://www.nossenateurs.fr/seance/5013/20092010-200/json
     * step - 1ère lecture hemicycle https://www.senat.fr/leg/tas09-112.html
-      * downloading amendments: https://nossenateurs.fr/amendements/20092010-437/json?cache=5feb2018 for https://www.senat.fr/leg/pjl09-437.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20092010-437/json?cache=5feb2018 for https://www.senat.fr/leg/pjl09-437.html
         parsing amendments: 680
 WARNING: no groupe found for http://www.nossenateurs.fr/amendement/20092010-437/324
       * downloading interventions
@@ -87,67 +87,67 @@ WARNING: no groupe found for http://www.nossenateurs.fr/amendement/20092010-437/
             dumping seance - 2010-05-19T21:30_707
     * step - 1ère lecture depot http://www.assemblee-nationale.fr/13/projets/pl2559.asp
     * step - 1ère lecture commission http://www.assemblee-nationale.fr/13/ta-commission/r2636-a0.asp
-      * downloading amendments: https://nosdeputes.fr/13/amendements/2559/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/projets/pl2559.asp
+      * downloading amendments: https://2007-2012.nosdeputes.fr/13/amendements/2559/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/projets/pl2559.asp
         parsing amendments: 0
       * downloading interventions
-        * downloading seances -  https://2007-2012.nosdeputes.fr/seances/2559/json?commission=1
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/3688/2559/json
+        * downloading seances -  https://2007-2012.nosdeputes.fr/13/seances/2559/json?commission=1
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/3688/2559/json
             dumping seance - 2010-06-02T09:30_3688
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/3704/2559/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/3704/2559/json
             dumping seance - 2010-06-02T16:00_3704
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/3723/2559/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/3723/2559/json
             dumping seance - 2010-06-09T09:30_3723
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/3730/2559/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/3730/2559/json
             dumping seance - 2010-06-08T17:00_3730
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/3737/2559/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/3737/2559/json
             dumping seance - 2010-06-10T10:00_3737
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/3741/2559/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/3741/2559/json
             dumping seance - 2010-06-02T21:00_3741
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/3757/2559/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/3757/2559/json
             dumping seance - 2010-06-16T10:00_3757
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/3769/2559/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/3769/2559/json
             dumping seance - 2010-06-16T18:00_3769
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/3770/2559/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/3770/2559/json
             dumping seance - 2010-06-16T21:45_3770
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/3771/2559/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/3771/2559/json
             dumping seance - 2010-06-17T10:00_3771
     * step - 1ère lecture hemicycle http://www.assemblee-nationale.fr/13/ta/ta0510.asp
-      * downloading amendments: https://nosdeputes.fr/13/amendements/2636/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/ta-commission/r2636-a0.asp
+      * downloading amendments: https://2007-2012.nosdeputes.fr/13/amendements/2636/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/ta-commission/r2636-a0.asp
         parsing amendments: 1246
       * downloading interventions
-        * downloading seances -  https://2007-2012.nosdeputes.fr/seances/2636/json?hemicycle=1
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/3815/2636/json
+        * downloading seances -  https://2007-2012.nosdeputes.fr/13/seances/2636/json?hemicycle=1
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/3815/2636/json
             dumping seance - 2010-06-29T15:00_3815
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/3820/2636/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/3820/2636/json
             dumping seance - 2010-06-29T21:45_3820
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/3822/2636/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/3822/2636/json
             dumping seance - 2010-06-30T15:00_3822
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/3836/2636/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/3836/2636/json
             dumping seance - 2010-06-30T21:30_3836
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/3995/2636/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/3995/2636/json
             dumping seance - 2010-07-02T09:30_3995
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/3997/2636/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/3997/2636/json
             dumping seance - 2010-07-06T15:00_3997
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/3998/2636/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/3998/2636/json
             dumping seance - 2010-07-02T21:30_3998
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/3999/2636/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/3999/2636/json
             dumping seance - 2010-07-01T09:30_3999
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/4001/2636/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/4001/2636/json
             dumping seance - 2010-07-01T21:30_4001
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/4002/2636/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/4002/2636/json
             dumping seance - 2010-07-02T15:30_4002
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/4006/2636/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/4006/2636/json
             dumping seance - 2010-07-01T15:00_4006
     * step - CMP commission https://www.senat.fr/rap/l09-654/l09-6542.html
     * step - CMP hemicycle http://www.assemblee-nationale.fr/13/ta/ta0522.asp
-      * downloading amendments: https://nosdeputes.fr/13/amendements/2723/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/rapports/r2723.asp
+      * downloading amendments: https://2007-2012.nosdeputes.fr/13/amendements/2723/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/rapports/r2723.asp
         parsing amendments: 0
       * downloading interventions
-        * downloading seances -  https://2007-2012.nosdeputes.fr/seances/2723/json?hemicycle=1
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/4011/2723/json
+        * downloading seances -  https://2007-2012.nosdeputes.fr/13/seances/2723/json?hemicycle=1
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/4011/2723/json
             dumping seance - 2010-07-12T21:30_4011
     * step - CMP hemicycle https://www.senat.fr/leg/tas09-156.html
-      * downloading amendments: https://nossenateurs.fr/amendements/20092010-654/json?cache=5feb2018 for https://www.senat.fr/rap/l09-654/l09-6542.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20092010-654/json?cache=5feb2018 for https://www.senat.fr/rap/l09-654/l09-6542.html
         parsing amendments: 0
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20092010-654/json?hemicycle=1

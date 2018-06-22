@@ -1,0 +1,2506 @@
+{
+  "seance": [
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>transparence de la vie publique</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360708",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "7",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31699",
+        "soussection": "Transparence de la vie publique",
+        "tags": [],
+        "timestamp": "4250",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_01b964b7c98077f96b8d84bc5992adc0",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360708/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L’ordre du jour appelle les explications de vote communes et les votes par scrutin public sur le projet de loi relatif à la transparence de la vie publique (no 1335) et le projet de loi organique relatif à la transparence de la vie publique (no 1334).</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360709",
+        "intervenant_fonction": "présidente",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Claude Bartolone",
+        "intervenant_slug": "claude-bartolone",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "45",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31701",
+        "soussection": "Transparence de la vie publique",
+        "tags": [],
+        "timestamp": "4270",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_0d82718215055dceed5e6362266450dc",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360709/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Explications de vote communes</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360710",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "6",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31702",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4280",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_a7db090d350b9453f102e507e1e6eaaf",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360710/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Dans les explications de vote, la parole est à M. Guy Geoffroy, pour le groupe Union pour un Mouvement Populaire.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360711",
+        "intervenant_fonction": "présidente",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Claude Bartolone",
+        "intervenant_slug": "claude-bartolone",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "21",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31703",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4290",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_833dac7e995e6275ae9868a53481b0af",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360711/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Madame la présidente, monsieur le ministre, mes chers collègues, nous voici donc arrivés à la dernière étape d’un marathon bien chaotique, le vote par notre assemblée – seule contre tous, mais elle a le dernier mot – de deux textes, dont vous reconnaissiez vous-même, monsieur le ministre, qu’ils devraient s’appeler les « lois Cahuzac ».</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360712",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Guy Geoffroy",
+        "intervenant_slug": "guy-geoffroy",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "61",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31704",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4300",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_9fa0465c372cb855052cefdf5b70444c",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360712/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Les lois Guéant !</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360713",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Nicolas Bays",
+        "intervenant_slug": "nicolas-bays",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "6",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31771",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4310",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_67f8d8a0070b7bf7ef43b3913c67f522",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360713/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>À moins d’un sursaut de la part de quelques membres de la majorité, ils seront votés, et à travers eux, vous aurez commis au moins trois fautes.</p><p>À l’égard de nos concitoyens, d’abord. Après l’affaire Cahuzac, vous avez voulu leur faire croire que grâce à ces deux projets de loi, tout serait réglé. Vous leur avez menti : l’affaire Cahuzac, ce n’est ni la turpitude d’un élu dans l’exercice de ses fonctions ni le fait – tout scandaleux qu’il soit – qu’un ministre en charge de la lutte contre la fraude fiscale soit le champion de cette fraude. Non, l’affaire Cahuzac, c’est un homme, appelé à exercer des responsabilités publiques, qui a perdu ses repères, s’est trahi lui-même, a trahi la confiance des siens et celle des électeurs. Vous avez annoncé à nos concitoyens que grâce à ces lois, il n’y aurait plus jamais d’ « affaire Cahuzac ».</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360714",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Guy Geoffroy",
+        "intervenant_slug": "guy-geoffroy",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "163",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31705",
+        "soussection": "Explications de vote communes",
+        "tags": [
+          {
+            "tag": "fraude"
+          }
+        ],
+        "timestamp": "4320",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_6fdfdc15750acb6c96dd866d5902d0d0",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360714/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>les lois Sarkozy !</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360715",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Nicolas Bays",
+        "intervenant_slug": "nicolas-bays",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "5",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31773",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4330",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_3d43ff1509e1c47ab5c07e198360b614",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360715/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La deuxième faute, monsieur le ministre, vous l’avez commise à l’égard des élus de la République. Croyant vous sortir du guêpier de l’affaire Cahuzac aux yeux d’une opinion que vous vouliez brosser dans le sens du poil, vous avez adressé un message de défiance, de mépris et d’irrespect à leur égard.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360716",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Guy Geoffroy",
+        "intervenant_slug": "guy-geoffroy",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "61",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31706",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4340",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_f404cc62fa5f6237615f72976926a599",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360716/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Applaudissements sur les bancs du groupe UMP.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360717",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "9",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31706",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4350",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_19dab085785712614b1c07697f74f794",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360717/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Vous avez voulu qu’ils soient les parias de l’affaire Cahuzac ; vous avez voulu les montrer du doigt et faire d’eux les boucs émissaires de ce que vous n’aviez pas su gérer au sein de votre Gouvernement et de votre majorité.</p><p>Je veux dire ce que vous n’avez jamais dit : 99,9 % des élus de la République sont des femmes et des hommes tout entiers tournés vers le bien public !</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360718",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Guy Geoffroy",
+        "intervenant_slug": "guy-geoffroy",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "79",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31706",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4360",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_4ab8dbb121f6b6efdf18526253dc0c13",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360718/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Applaudissements sur les bancs du groupe UMP.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360719",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "9",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31706",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4370",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_60fa77b962a5f291e29b2b36b243ec0e",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360719/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Par ces textes, et je veux le dire à nos concitoyens, monsieur le ministre, vous donnez d’eux une image déformée, injuste et imméritée.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360720",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Guy Geoffroy",
+        "intervenant_slug": "guy-geoffroy",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "29",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31706",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4380",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_bb11b6b506960382ba826b69cabc7d92",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360720/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Très bien !</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360721",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Jacques Myard",
+        "intervenant_slug": "jacques-myard",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "5",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31774",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4390",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_82788cd7915c060a3d21be8de05e6b22",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360721/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La troisième faute que vous ayez commise, monsieur le ministre, l’a été à l’égard de la démocratie. Au motif de la transparence, au travers d’une déclaration de patrimoine qui sera édulcorée aux yeux de nos concitoyens et d’une déclaration d’intérêts – vaine à partir du moment où vous créez le statut officiel de délateur de la République – vous détruisez les fondements de la démocratie représentative. (Applaudissements sur les bancs du groupe UMP.)</p><p>Le texte sur le non-cumul, d’autres que vous avez concoctés, les tripatouillages électoraux auxquels vous avez participé, tous vont dans le même sens : faire en sorte que ce soient les partis qui gouvernent la France et non plus le peuple, au travers de ses représentants. Les « lois Cahuzac », monsieur le ministre, sont des lois contre la transparence ; elles sont néfastes pour notre démocratie ; elles sont inutiles et dangereuses pour la République. C’est la raison pour laquelle le groupe UMP, avec beaucoup de détermination, refuse de les voter !</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360722",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Guy Geoffroy",
+        "intervenant_slug": "guy-geoffroy",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "187",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31708",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4400",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_7d091cb7e128da3c4f342f7faf3d16b4",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360722/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Applaudissements sur les bancs du groupe UMP.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360723",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "9",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31708",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4410",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_9065128dfad8cf6e2d6d61f1eec61653",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360723/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La parole est à M. Yannick Favennec, pour le groupe UDI.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360724",
+        "intervenant_fonction": "présidente",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Claude Bartolone",
+        "intervenant_slug": "claude-bartolone",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "12",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31710",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4430",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_0525fa0023b11182e2283e25ae605879",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360724/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Madame la présidente, monsieur le ministre, mes chers collègues, au cours des trois lectures, nous avons largement détaillé nos arguments ; je limiterai donc mon intervention aux raisons principales qui fondent notre refus de voter ce texte.</p><p>Si ce projet de loi comporte quelques avancées, elles sont bien insuffisantes au regard des nombreuses erreurs, voire des graves défauts, qu’il contient. Un projet de loi n’est acceptable que s’il remplit les objectifs que se sont fixés ses auteurs. En l’espèce, quels étaient-ils ? Au lendemain de l’affaire Cahuzac, vous disiez, monsieur le ministre, vouloir restaurer la confiance de nos concitoyens envers les élus. Vous affirmiez votre intention de renforcer la démocratie et de redonner du crédit à la parole publique. Au lieu de cela, vous avez rejeté la faute d’un seul sur la grande majorité des élus, notamment par des obligations déclaratives qui, si elles ne s’accompagnent pas de moyens renforcés de prévention des conflits d’intérêts, ne nous prémuniront en rien d’une nouvelle affaire.</p><p>Pourtant, loin de nous enfermer dans une posture d’opposants systématiques, nous avons été les premiers à reconnaître la nécessité de voter une loi améliorant la transparence de la vie publique et de renforcer la prévention des conflits d’intérêts. Nous n’avons jamais nié qu’il était temps de mettre fin à des situations dont la démocratie s’accommodait mal.</p><p>C’est pourquoi nous approuvons certaines mesures relatives aux incompatibilités entre l’exercice d’un mandat et les activités privées, comme le conseil ou certaines fonctions dans des entreprises ayant intérêt avec l’État. Je pense aussi aux quelques dispositions qui ont enrichi le texte au cours des différentes lectures, comme la publication de la réserve parlementaire ou l’extension des contrôles sur le patrimoine des exécutifs locaux. Mais au-delà de ces rares motifs de satisfaction, vos propositions, monsieur le ministre, ne sont pas à la hauteur de nos attentes.</p><p>Rendre les déclarations des élus consultables en préfecture ne présente aucun bénéfice ni pour le législateur, ni pour la justice, ni pour nos concitoyens, ni même pour notre démocratie. Le vrai sujet n’est pas l’exhibition du patrimoine, mais le contrôle de son évolution. C’est pourquoi nous sommes favorables à la création d’une haute autorité, dotée de moyens de contrôle et d’investigation suffisants.</p><p>Mais l’option de la consultation en préfecture ne va pas au bout de sa logique. Soit l’on considère que la question est l’évolution du patrimoine et des moyens de contrôle de la haute autorité, et dans ce cas, la publication est inutile, soit l’on privilégie la publication du patrimoine, et dans ce cas, il faut avoir le courage d’aller jusqu’au bout et, notamment, de soumettre les candidats aux mêmes règles que les élus, ainsi que nous le proposions par voie d’amendement.</p><p>Autre erreur, et non des moindres, la protection des lanceurs d’alerte. À travers cette mesure, vous instaurerez des délateurs en puissance, qui seront source de déstabilisation et de pressions en tous genres.</p><p>Enfin, dernière erreur, pour nous fondamentale : l’interdiction pour tout parlementaire de commencer à exercer une activité professionnelle qui n’était pas la sienne avant le début de son mandat. Vous auriez pu saisir l’occasion de renforcer l’égal accès aux fonctions publiques électives, notamment en prévoyant, au-delà d’un premier mandat, l’interdiction pour un parlementaire, issu de la fonction publique et se faisant réélire, de réintégrer la fonction publique. Au lieu de cela, vous avez introduit une disposition qui sera à coup sûr préjudiciable à l’oxygénation et au renouvellement de la classe politique.</p><p>Parce que nous refusons d’être les complices d’une opération de diversion et que nous considérons que la confiance repose d’abord et avant tout sur la capacité des élus à respecter leurs engagements, nous nous abstiendrons majoritairement sur ce texte.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360725",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UDI",
+        "intervenant_nom": "Yannick Favennec",
+        "intervenant_slug": "yannick-favennec",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "720",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31711",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4440",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_9e3b7da7b3f15167f012332b48a74e82",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360725/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Applaudissements sur quelques bancs du groupe UDI.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360726",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "9",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31711",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4450",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_8367d3ae8450fb9ff5329ff5ed7226cb",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360726/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La parole est à M. François de Rugy, pour le groupe écologiste.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360727",
+        "intervenant_fonction": "présidente",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Claude Bartolone",
+        "intervenant_slug": "claude-bartolone",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "14",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31775",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4470",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_58e331486ead425eb6768994f6015bfb",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360727/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Madame la présidente, monsieur le ministre, monsieur le président de la commission et rapporteur, chers collègues, au moment où nous nous apprêtons à adopter la loi sur la transparence de la vie politique, je voudrais appeler votre attention sur un fait : depuis le début de cette année, douze personnalités politiques – de droite comme de gauche – ont fait l’objet de condamnations dans des affaires de délinquance financière ou de probité. Ce chiffre vient rappeler l’urgence qu’il y a à nous doter d’un cadre juridique plus ferme, qui anticipe et sanctionne ce type de dérives. Il y va de la légitimité et de la crédibilité de l’action publique. Il y va également de la restauration du contrat de confiance qui devrait lier les élus et les citoyens.</p><p>L’histoire se souviendra qu’en 2010, au moment de l’affaire Woerth-Bettencourt, la droite n’avait pas jugé nécessaire de légiférer dans le sens d’une plus grande transparence de la vie politique, contrairement à un engagement qui avait été pris,…</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360728",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "François de Rugy",
+        "intervenant_slug": "francois-de-rugy",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "187",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31776",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4480",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_16c1c3e5838eef27c0ac09cebe6cff54",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360728/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Protestations sur les bancs du groupe UMP</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360729",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "9",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31776",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4490",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_ad6f6e4923217eadffb42f8ee66debcd",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360729/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>L’affaire n’est pas jugée ! C’est scandaleux !</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360730",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UDI",
+        "intervenant_nom": "François Sauvadet",
+        "intervenant_slug": "francois-sauvadet",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "12",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31778",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4510",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_2f032a8ac165d375162bab75a2c91b7e",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360730/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>…puisqu’une commission sur la lutte contre les conflits d’intérêts avait été réunie à cette époque. Elle retiendra également qu’en 2013, suite à l’affaire Cahuzac, notre majorité aura su réagir. Monsieur le ministre, mes chers collègues, un élément de ce texte toutefois nous déçoit : il s’agit, vous le savez, de la question de la publication du patrimoine des élus. Le Gouvernement et le Président de la République, après avoir pris un premier engagement, ont reculé – cet engagement était d’ailleurs inscrit dans le texte que le Gouvernement avait lui-même présenté. La disposition – ubuesque selon nous – de publication non publiable ne saurait rester en l’état. Tout d’abord, parce qu’elle fait entrer dans le champ pénal la divulgation de tout ou partie des déclarations, ce qui constitue, ni plus ni moins, une restriction du droit existant. Ensuite, parce qu’elle semble juridiquement contestable au regard de notre jurisprudence et du droit européen. Enfin, parce qu’elle recrée malheureusement les conditions d’un climat de suspicion généralisé que ce texte devait initialement permettre de dissiper.</p><p>Concernant l’encadrement du lobbying, nous ne sommes pas parvenus à harmoniser les dispositifs de contrôle dont nous disposons aujourd’hui, en plaçant sous la responsabilité de la Haute autorité le registre des représentants d’intérêts. Le risque de confusion des intérêts privés et de l’intérêt général n’est pas tolérable et met en péril l’esprit même de la République. A l’avenir, nous devrons impérativement et sans aucun doute revenir sur ces deux points. Mais le texte que nous votons aujourd’hui constitue indiscutablement un progrès. En nous soumettant au printemps dernier le projet le plus ambitieux qu’un pouvoir en place ait jamais proposé sur ces questions de transparence et de lutte contre les conflits d’intérêts,…</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360731",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "François de Rugy",
+        "intervenant_slug": "francois-de-rugy",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "338",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31779",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4520",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_e6f397d63ab7c97cb06e88984361319d",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360731/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>C’est de la désinformation ! Des mensonges !</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360732",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UDI",
+        "intervenant_nom": "François Sauvadet",
+        "intervenant_slug": "francois-sauvadet",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "10",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31781",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4530",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_c7aebf0aecd44f4edaa835026f0e967b",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360732/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>…le Gouvernement nous a donné les moyens d’obtenir des avancées concrètes dont nous lui savons gré. La clarification des incompatibilités professionnelles et l’interdiction, pour un parlementaire, de présider une autorité administrative indépendante ou un établissement public national permettront de renforcer la lutte contre les conflits d’intérêts. Je voudrais également dire quelques mots sur la protection des lanceurs d’alerte – disposition tant critiquée par certains de nos collègues de l’opposition.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360733",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "François de Rugy",
+        "intervenant_slug": "francois-de-rugy",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "84",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31782",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4540",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_2e2816105e035c415a1652f1868df390",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360733/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>C’est une honte !</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360734",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UDI",
+        "intervenant_nom": "François Sauvadet",
+        "intervenant_slug": "francois-sauvadet",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "6",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31783",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4550",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_9065e64815166ed56a5ab64637832f66",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360734/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Protéger celles et ceux qui signalent une situation anormale devrait faire l’unanimité parmi nous.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360735",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "François de Rugy",
+        "intervenant_slug": "francois-de-rugy",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "18",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31784",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4560",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_95d15b5c7d634bd351917f19b996783d",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360735/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Exclamations sur les bancs du groupe UMP.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360736",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "9",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31784",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4570",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_e7a087dece4843d994cafaba92e4c4a1",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360736/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Cette disposition existe déjà dans notre législation, pour protéger les simples témoins ou ceux que l’on appelle les repentis. Pourquoi ce qui serait valable dans le cas de la lutte contre la délinquance ne le serait-il pas quand il s’agit de délinquance financière et politique ? (Exclamations sur les bancs du groupe UMP. – Applaudissements sur plusieurs bancs du groupe SRC.)</p><p>Enfin la création d’une Haute autorité, dotée de moyens importants, garantira un cadre légal et institutionnel à la transparence de la vie politique. La transmission des déclarations d’intérêts, qui seront en libre accès – ce que j’approuve parfaitement – et même en open data grâce à un amendement écologiste adopté par le Sénat, assurera aux citoyens une plus grande visibilité et une plus grande transparence de l’action publique.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360737",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "François de Rugy",
+        "intervenant_slug": "francois-de-rugy",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "150",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31784",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4580",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_65f0b903d447c26e57780d5148200a79",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360737/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je suis par ailleurs ravi de retrouver dans ce texte un meilleur encadrement des dons – cela devrait vous parler, mes chers collègues de l’opposition</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360738",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "28",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31784",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4590",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_adc94e8cc3c7736ec3dd1f7e45818a69",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360738/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Protestations sur les bancs UMP</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360739",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "7",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31784",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4600",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_46a89b3db1a51900f07821a2da61e74e",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360739/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>–…</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360740",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "2",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31784",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4610",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_bea7e691b1a862efc45d7f12b5803cb9",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360740/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Nous sommes un grand parti, nous !</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360741",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Julien Aubert",
+        "intervenant_slug": "julien-aubert",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "8",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31787",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4620",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_03597938a8534338e30809d75f9be8f5",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360741/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>…et des rattachements aux partis politiques, dispositif présent dans une proposition de loi que j’avais portée en 2010, une année après que la majorité UMP l’eut refusée à mes collègues socialistes.</p><p>Enfin, des amendements écologistes et socialistes adoptés au Sénat ou à l’Assemblée nationale viennent encadrer les instruments financiers à la disposition des parlementaires que sont l’indemnité de représentation et de frais de mandat et la réserve parlementaire. Ces mesures constituent de réelles avancées qui transformeront en profondeur l’exercice de la fonction politique. Le groupe écologiste les soutiendra en votant ce texte.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360742",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "ECOLO",
+        "intervenant_nom": "François de Rugy",
+        "intervenant_slug": "francois-de-rugy",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "110",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31788",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4630",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_36eab8d1cfb1ee63ec10ff38bf815e8f",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360742/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Applaudissements sur les bancs du groupe écologiste.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360743",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "9",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31788",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4640",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_8737fcd2b4effc4e2d6bc94ba2f2c0eb",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360743/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.</p><p>La parole est à M. Joël Giraud, pour le groupe radical, républicain, démocrate et progressiste.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360744",
+        "intervenant_fonction": "présidente",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Claude Bartolone",
+        "intervenant_slug": "claude-bartolone",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "33",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31888",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4660",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_6d6c382b87ee2020341c1b81c0808300",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360744/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Nous voilà arrivés au terme de l’examen du projet de loi organique relatif à la transparence de la vie publique. Des centaines d’heures de discussion autour de ce texte, né sous des auspices peu propices, nous ne retiendrons que de bien légères améliorations ou corrections. Nous retiendrons surtout ce sentiment de grande confusion et de précipitation qui risquent malheureusement de fragiliser nos institutions et notre démocratie au moment même où il aurait fallu montrer notre capacité à réformer et à moderniser dans la sérénité et la transparence. (Applaudissements sur quelques bancs du groupe UMP.)</p><p>Ce débat aura eu le mérite de montrer qu’il n’y a pas d’un côté les gentils pour la transparence et de l’autre les méchants contre la transparence,…</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360745",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "RRDP",
+        "intervenant_nom": "Joël Giraud",
+        "intervenant_slug": "joel-giraud",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "142",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31791",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4670",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_737fcc620bdc1184d2e682404564d1d0",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360745/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Très bien !</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360746",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Guy Geoffroy",
+        "intervenant_slug": "guy-geoffroy",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "5",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31793",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4680",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_4325138d14f278cc66e2f4548384dc2f",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360746/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>…et qu’il faut toujours se méfier des donneurs de leçon. Si la transparence est une exigence démocratique et citoyenne nécessaire, elle ne peut exister sans cohérence. Il en va de notre responsabilité de parlementaires de veiller à ce que les textes que nous rédigeons, discutons et votons soient en cohérence avec notre Constitution et avec nos droits les plus fondamentaux. Le principe de la repentance pour autrui ou de l’autoflagellation ne peut être le moteur du travail parlementaire.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360747",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "RRDP",
+        "intervenant_nom": "Joël Giraud",
+        "intervenant_slug": "joel-giraud",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "88",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31794",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4690",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_70444c1317a5eb995c54626bf6c1a598",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360747/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Excellent !</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360748",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Antoine Herth",
+        "intervenant_slug": "antoine-herth",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "3",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31795",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4700",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_59d43997a1dd8f8588e51169a3981353",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360748/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Parce que l’un des membres du Gouvernement a fauté, menti et trahi, il faudrait instaurer de la méfiance et faire peser une présomption de culpabilité collective sur tous les élus de la nation ?</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360749",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "RRDP",
+        "intervenant_nom": "Joël Giraud",
+        "intervenant_slug": "joel-giraud",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "38",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31796",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4710",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_5cc86767676b4c2beab484fc29d0a16f",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360749/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Très bien !</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360750",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Dominique Dord",
+        "intervenant_slug": "dominique-dord",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "5",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31877",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4720",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_2c135458dd220a7455fa6db7807846d3",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360750/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>De l’antiparlementarisme servi sur un plateau par les représentants de la nation eux-mêmes ! Et de l’autoflagellation au masochisme, il n’y a qu’un pas.</p><p>Sur le fond, je veux relever plusieurs points du texte avec lesquels nous sommes en désaccord. Tout d’abord, la composition de l’Autorité de contrôle dont ne feront partie que deux personnalités qualifiées – contrairement aux préconisations du rapport Jospin – est révélatrice de la persistance de la défiance envers les parlementaires. Avec mes collègues du groupe, engagés depuis toujours pour la séparation des pouvoirs, nous espérons que ce texte marqué par l’excès de zèle et l’émotion ne se retournera pas contre ceux qui l’ont écrit, défendu et voté.Cette méthode révèle une défiance envers les parlementaires qui ne peut que nourrir et exacerber la montée des populismes.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360751",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "RRDP",
+        "intervenant_nom": "Joël Giraud",
+        "intervenant_slug": "joel-giraud",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "163",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31797",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4730",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_a622e81962bb0cdcb370b23330b8e894",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360751/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Applaudissements sur plusieurs bancs du groupe UMP.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360752",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "9",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31797",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4740",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_9ed6c80f49fbc254138ebbd8991e6a1e",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360752/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Nous soutenons fermement l’idée qu’il nous faut nous engager dans la voie de la transparence de la vie publique. Nous avions, dès la fin des années 1970, déposé une proposition de loi en ce sens et cosigné avec nos collègues socialistes une proposition de loi en 1994. Auditionnés par la commission Sauvé en 2010, nous avions préconisé le renforcement des obligations déclaratives des élus et des pouvoirs de contrôle de la commission pour la transparence financière de la vie publique. Nous n’avons pas attendu le coup de projecteur de l’affaire Cahuzac pour nous exprimer.</p><p>Nous voudrions pouvoir reconnaître sur le fond les quelques avancées du texte concernant le meilleur contrôle des obligations déclaratives et le renforcement du rôle de la commission, mais nous regrettons profondément les déséquilibres qu’il induit, jugés dangereux et contraires au respect de la liberté et de la vie privée des élus. Oui à la transparence, non à la démagogie et à l’hypocrisie ! Aucune obligation de déclaration de patrimoine, aussi exhaustive soit-elle, ne pourra jamais garantir l’intégrité des élus, car elle pourra toujours être mensongère. Cela aurait dû être la grande leçon de l’affaire Cahuzac ! C’est pour cette raison précise que nous avons défendu, durant toute la discussion, le principe d’une publication au Journal officiel en cas de déclaration incomplète ou mensongère. Nous regrettons que cette position n’ait pas été suivie.</p><p>Notre dernier point de désaccord concerne la protection des lanceurs d’alerte. Cette question importante figure dans le texte relatif à la fraude fiscale, qui est à l’ordre du jour de notre assemblée. Sa rédaction, au sortir des travaux du Sénat, nous paraît plus acceptable : aussi ne pouvons-nous que déplorer le manque d’articulation entre les deux textes. L’introduction d’un nouveau concept, à savoir le renversement de la charge de la preuve, nous fait craindre des effets pervers sur lesquels s’interroge également Jean-Pierre Sueur, le rapporteur du texte au Sénat et président de la commission des lois. La sagesse aurait été de revoir notre copie afin que nous n’ouvrions pas la porte à la culture de la dénonciation et de l’approximation qui se fera au détriment de la justice.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360753",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "RRDP",
+        "intervenant_nom": "Joël Giraud",
+        "intervenant_slug": "joel-giraud",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "406",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31797",
+        "soussection": "Explications de vote communes",
+        "tags": [
+          {
+            "tag": "fraude"
+          }
+        ],
+        "timestamp": "4750",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_34e0fc16ea3e9139f96831bf82fbab0f",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360753/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Applaudissements sur les bancs des groupes RRDP et UDI.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360754",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "11",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31797",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4760",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_3cc577d3edda4a39ed89bb3387cecdf2",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360754/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Vous aurez compris, monsieur le ministre, que malgré l’estime que nous portons à votre action, les députés radicaux de gauche et apparentés voteront, dans leur grande majorité, contre ces textes. Nous le ferons à regret, avec le sentiment que, dans notre combat pour la transparence de la démocratie et la déontologie, il y aura eu un rendez-vous important manqué, mais avec la certitude qu’il y va de notre démocratie parlementaire. Légiférer dans de telles conditions et dans la confusion de l’urgence médiatique ne peut donner de bons résultats.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360755",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "RRDP",
+        "intervenant_nom": "Joël Giraud",
+        "intervenant_slug": "joel-giraud",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "101",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31797",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4770",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_221a85cdf54655a3bbce06c1d6320e39",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360755/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Très bien !</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360756",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Julien Aubert",
+        "intervenant_slug": "julien-aubert",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "5",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31802",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4780",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_fa5b1ba9df7af1324fa742e1f7010685",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360756/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Tel est le sens de notre vote, que nous voulons responsable. Nous espérons être entendus afin que l’élaboration des prochains textes de cette importance puisse se faire dans des conditions plus satisfaisantes et surtout plus dignes.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360757",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "RRDP",
+        "intervenant_nom": "Joël Giraud",
+        "intervenant_slug": "joel-giraud",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "40",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31803",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4790",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_1293cd56bbf05b2d8c769d6ed3b37f34",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360757/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Applaudissements sur les bancs des groupes RRDP et UDI et sur quelques bancs du groupe UMP.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360758",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "18",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31803",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4800",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_616629c8a273ad812875d5bde33aea90",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360758/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La parole est à M. Marc Dolez, pour le groupe de la Gauche démocrate et républicaine.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360759",
+        "intervenant_fonction": "présidente",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Claude Bartolone",
+        "intervenant_slug": "claude-bartolone",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "19",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31804",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4820",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_e5a0061ffc9032eee05ee35dee122a74",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360759/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Madame la présidente, monsieur le ministre, monsieur le président de la commission des lois, mes chers collègues, à l’occasion de cette lecture définitive, notre groupe confirme l’appréciation positive portée sur ces deux projets de loi qui instaurent de nouvelles règles et procédures destinées à garantir l’exercice impartial des charges publiques.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360760",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "GDR",
+        "intervenant_nom": "Marc Dolez",
+        "intervenant_slug": "marc-dolez",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "62",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31805",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4830",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_24bbe4d25575337727c2cda943adff28",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360760/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Très bien !</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360761",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Jean Glavany",
+        "intervenant_slug": "jean-glavany",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "5",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31806",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4840",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_d82eec5d25f7362eaa62d42474fd90f9",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360761/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Tout d’abord, l’introduction d’une définition claire et précise de la notion de conflit d’intérêts constitue une avancée notable, qui offrira une base juridique solide à l’élaboration d’une véritable politique de prévention des conflits. Ensuite, la généralisation et la précision du contenu des déclarations d’intérêts et de patrimoine favoriseront l’efficacité des dispositifs proposés. S’agissant notamment des déclarations de patrimoine des membres du Parlement et des présidents d’exécutifs locaux, le droit de consultation en préfecture ouvert à tout citoyen constitue le point d’équilibre qui permet de concilier transparence et respect de la vie privée. Nous soutenons également la création de la Haute autorité pour la transparence de la vie publique qui aura un rôle essentiel et qui constituera la pierre angulaire du mécanisme de contrôle, puisqu’elle contrôlera systématiquement les déclarations lors de leur dépôt. Elle se verra dotée d’un pouvoir d’injonction, en cas de déclaration tardive ou incomplète, et pourra, dans ces cas, demander à l’administration fiscale d’exercer son droit de communication.</p><p>Nous sommes satisfaits que le débat parlementaire ait permis de renforcer les pouvoirs de cette Haute autorité, mais nous soulignons à nouveau la nécessité de lui attribuer tous les moyens nécessaires à l’accomplissement de sa mission. Nous approuvons aussi les dispositions du projet de loi organique qui renforce les règles d’incompatibilité professionnelle applicables aux parlementaires. Enfin, nous soutenons le durcissement des sanctions pénales applicables aux élus, avec des peines d’inéligibilité pouvant aller jusqu’à dix ans. Pour conclure, les députés du groupe GDR considèrent que la mise en place de ces dispositifs de prévention, de contrôle et de sanction favorisera la transparence de la vie publique</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360762",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "GDR",
+        "intervenant_nom": "Marc Dolez",
+        "intervenant_slug": "marc-dolez",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "325",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31807",
+        "soussection": "Explications de vote communes",
+        "tags": [
+          {
+            "tag": "l’administration"
+          }
+        ],
+        "timestamp": "4850",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_29f80733b787aee5b4b328ddf031ccfe",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360762/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Exclamations sur les bancs du groupe UMP</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360763",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "9",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31807",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4860",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_db48aac88e40a32a2d23adbcf7851c8a",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360763/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>et contribuera à retisser les liens de confiance avec nos concitoyens. C’est pour toutes ces raisons qu’ils voteront en faveur de ces deux projets de loi.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360764",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "GDR",
+        "intervenant_nom": "Marc Dolez",
+        "intervenant_slug": "marc-dolez",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "29",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31807",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4870",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_3e16aa4cb140774137f2c7a270854843",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360764/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Applaudissements sur les bancs du groupe GDRplusieurs bancs du groupe SRC.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360765",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "13",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31807",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4880",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_bcfdd718cb78d6a04a3b2bfb4e085dfd",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360765/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La parole est à M. René Dosière, pour le groupe socialiste, républicain et citoyen.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360766",
+        "intervenant_fonction": "présidente",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Claude Bartolone",
+        "intervenant_slug": "claude-bartolone",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "17",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31809",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4910",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_4f498a6ec0e1252d6b772d0e71f4141e",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360766/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Madame la présidente, monsieur le ministre, monsieur le rapporteur et président de la commission des lois, mes chers collègues, voici un texte qui aura suscité, ici et là, beaucoup de démagogie.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360767",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "René Dosière",
+        "intervenant_slug": "rene-dosiere",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "37",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31810",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4920",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_d6053d27569f2cd1dc839eb2a3841aff",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360767/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Exclamations sur les bancs du groupe UMP.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360768",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "9",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31810",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4930",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_629db1ae772a712f7229244e0014d646",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360768/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Or la guerre contre la démagogie est la plus dure de toutes les guerres, disait déjà Charles Péguy. C’est pourquoi il est utile de rappeler les progrès apportés par ce texte.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360769",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "René Dosière",
+        "intervenant_slug": "rene-dosiere",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "39",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31810",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4940",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_3a6cc45fad303c404461d45bc9270080",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360769/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Exclamations sur les bancs du groupe UMP.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360770",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "9",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31810",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4950",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_c67dba2c3005d8e2e454f38b0ec4dfe0",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360770/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Pour la première fois, les conflits d’intérêts entrent dans notre législation et des dispositions sont prises de sorte à ce que 9 000 élus nationaux et locaux et responsables publics évitent toute interférence entre l’intérêt général et les intérêts privés.</p><p>S’agissant des parlementaires, certaines activités sont désormais interdites – celles relatives au conseil, à la médiation ou à l’arbitrage notamment. Quant aux patrimoines, ils seront désormais vérifiés, contrôlés et rendus publics dans le respect de la vie privée : l’enrichissement indu sera sanctionné.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360771",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "René Dosière",
+        "intervenant_slug": "rene-dosiere",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "106",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31810",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4960",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_6a7f006359c3144043740fd4456ba819",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360771/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Et vos droits d’auteur ?</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360772",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Christian Jacob",
+        "intervenant_slug": "christian-jacob",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "7",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31813",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4970",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_24a5be773df7fe171c99b27ae4cb078d",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360772/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Celui de chacun des candidats à l’élection présidentielle sera vérifié et rendu public. Concernant le financement de la vie politique, il est mis un terme au détournement de la législation qui favorisait le développement des micro-partis.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360773",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "René Dosière",
+        "intervenant_slug": "rene-dosiere",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "43",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31814",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4980",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_e648d80cbae36caf925ae3f63b7d374e",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360773/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Faites ce que je dis, mais pas ce que je fais !</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360774",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Christian Jacob",
+        "intervenant_slug": "christian-jacob",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "13",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31815",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "4990",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_626a25b9aa09e6450ad23888a3eda01d",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360774/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Un plafonnement global et annuel des dons est désormais fixé. Enfin, la réserve parlementaire sera intégralement rendue publique. Voilà quelques aspects importants de ce grand texte de modernisation et de moralisation de notre vie politique. Mes chers collègues, compte tenu de la globalisation de l’économie mondiale et de la construction chaotique de l’Union européenne, les Français peuvent comprendre que les résultats des politiques gouvernementales soient contrastés ; en revanche, ils n’acceptent pas que les responsables publics – et en particulier leurs élus – ne soient pas exemplaires dans leur comportement public…</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360775",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "René Dosière",
+        "intervenant_slug": "rene-dosiere",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "101",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31816",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "5000",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_cfd17c5fbc565ecce31dc20d001f5f5e",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360775/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La gauche est bien placée pour parler de cela !</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360776",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Christian Jacob",
+        "intervenant_slug": "christian-jacob",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "12",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31817",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "5010",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_5fe527dc16d511f10e762bbfd89fc765",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360776/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>…et réclament plus de modestie dans leur train de vie.</p><p>C’est pourquoi ces textes, initiés par le Président de la République…</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360777",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "René Dosière",
+        "intervenant_slug": "rene-dosiere",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "30",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31818",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "5020",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_5052d4419da26361a35d0f6310266b56",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360777/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Qui a nommé Cahuzac !</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360778",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Philippe Meunier",
+        "intervenant_slug": "philippe-meunier",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "6",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31886",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "5030",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_447f359f09fb5150935e2cd0ba469371",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360778/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>…et mis en oeuvre par vous, monsieur le ministre des relations avec le Parlement avec le concours efficace de notre rapporteur, président de la commission des lois, constitue une avancée significative dans la république exemplaire souhaitée par le chef de l’État.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360779",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "René Dosière",
+        "intervenant_slug": "rene-dosiere",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "48",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31887",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "5040",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_ef644eab21bbd1ca820578362df328e9",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360779/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Exclamations sur les bancs du groupe UMP.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360780",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "9",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31887",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "5050",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_912281b9970801577b576b61d280c0f6",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360780/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>C’est donc avec enthousiasme que le groupe SRC votera ces projets de loi.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360781",
+        "intervenant_fonction": "",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "René Dosière",
+        "intervenant_slug": "rene-dosiere",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "16",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31887",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "5060",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_b9b60289b4f20e7b4f0b721e5bf85850",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360781/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Applaudissements sur les bancs du groupe SRC.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360782",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "9",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31887",
+        "soussection": "Explications de vote communes",
+        "tags": [],
+        "timestamp": "5070",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_9c8cfcf4493d2e1008cf23fce209ba98",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360782/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Votes sur l’ensemble</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360783",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "6",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31880",
+        "soussection": "Votes sur l'ensemble",
+        "tags": [],
+        "timestamp": "5100",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_be097145cb400a83c7d8f94914707154",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360783/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Je mets aux voix l’ensemble du projet de loi relatif à la transparence de la vie publique tel qu’il résulte du texte voté par l’Assemblée nationale en nouvelle lecture.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360784",
+        "intervenant_fonction": "présidente",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Claude Bartolone",
+        "intervenant_slug": "claude-bartolone",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "35",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31881",
+        "soussection": "Votes sur l'ensemble",
+        "tags": [],
+        "timestamp": "5110",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_4eb2283e53c30e776487022a4b0a3f43",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360784/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Il est procédé au scrutin.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360785",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "8",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31881",
+        "soussection": "Votes sur l'ensemble",
+        "tags": [],
+        "timestamp": "5120",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_be642c123432398754018509551be0ce",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360785/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Voici le résultat du scrutin :</p><p>Nombre de votants: 514 Nombre de suffrages exprimés: 487 Majorité absolue: 244 Pour l’adoption: 291 contre: 196 (Le projet de loi est adopté.)</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360786",
+        "intervenant_fonction": "présidente",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Claude Bartolone",
+        "intervenant_slug": "claude-bartolone",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "30",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31881",
+        "soussection": "Votes sur l'ensemble",
+        "tags": [],
+        "timestamp": "5130",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_3fd2e700d77da8648f42cc0d6858fa54",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360786/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Nous allons maintenant procéder au scrutin public sur l’ensemble du projet de loi organique relatif à la transparence de la vie publique tel qu’il résulte du texte voté par l’Assemblée nationale en nouvelle lecture.</p><p>Je rappelle que l’adoption de ce projet de loi organique nécessite la majorité des membres composant l’Assemblée, soit 289 voix.</p><p>Le scrutin public se déroule dans les salons voisins de l’hémicycle. Il est annoncé dans l’enceinte de l’Assemblée nationale et ouvert pour une durée de trente minutes.</p><p>La séance est suspendue.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360787",
+        "intervenant_fonction": "présidente",
+        "intervenant_groupe": "SRC",
+        "intervenant_nom": "Claude Bartolone",
+        "intervenant_slug": "claude-bartolone",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "109",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31885",
+        "soussection": "Votes sur l'ensemble",
+        "tags": [],
+        "timestamp": "5140",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_796c0a73a08f7a4cdd43b5bfbc8c39f1",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360787/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La séance, suspendue à 17 heures 15, est reprise à 17 heures 45.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360788",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "10",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31885",
+        "soussection": "Votes sur l'ensemble",
+        "tags": [],
+        "timestamp": "5150",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_ee1e35741619514f98c8efe893315b2d",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360788/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>La séance est reprise.</p><p>Voici le résultat du scrutin :</p><p>Nombre de votants 554</p><p>Nombre de suffrages exprimés 529</p><p>Majorité absolue 289</p><p>Pour l’adoption 324</p><p>Contre 205</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360789",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "39",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31885",
+        "soussection": "Votes sur l'ensemble",
+        "tags": [],
+        "timestamp": "5170",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_72998d409740ad52052ad3c06553fc31",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360789/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>Le projet de loi organique est adopté.</p>",
+        "date": "2013-09-17",
+        "heure": "15:00",
+        "id": "360790",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "1334"
+          }
+        ],
+        "nbmots": "9",
+        "seance_id": "2142",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "séance en hémicycle du 17 septembre 2013 à 15h00",
+        "section": "Transparence de la vie publique",
+        "source": "http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133011.asp#P31885",
+        "soussection": "Votes sur l'ensemble",
+        "tags": [],
+        "timestamp": "5180",
+        "type": "loi",
+        "url_nosdeputes": "https://2012-2017.nosdeputes.fr/14/seance/2142#inter_64c95d8c0ffdddfa9cf28ba6abc937ab",
+        "url_nosdeputes_api": "https://2012-2017.nosdeputes.fr/api/document/Intervention/360790/json"
+      }
+    }
+  ]
+}

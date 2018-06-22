@@ -45,7 +45,7 @@ pjl16-581
  - process amendements & interventions
     * step - 1ère lecture depot https://www.senat.fr/leg/pjl16-581.html
     * step - 1ère lecture commission https://www.senat.fr/leg/pjl16-609.html
-      * downloading amendments: https://nossenateurs.fr/amendements/20162017-581/json?cache=5feb2018 for https://www.senat.fr/leg/pjl16-581.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20162017-581/json?cache=5feb2018 for https://www.senat.fr/leg/pjl16-581.html
         parsing amendments: 131
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20162017-581/json?commission=1
@@ -55,7 +55,7 @@ pjl16-581
            downloading seance -  https://www.nossenateurs.fr/seance/16424/20162017-581/json
            downloading seance -  https://www.nossenateurs.fr/seance/16425/20162017-581/json
     * step - 1ère lecture hemicycle https://www.senat.fr/leg/tas16-113.html
-      * downloading amendments: https://nossenateurs.fr/amendements/20162017-609/json?cache=5feb2018 for https://www.senat.fr/leg/pjl16-609.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20162017-609/json?cache=5feb2018 for https://www.senat.fr/leg/pjl16-609.html
         parsing amendments: 276
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20162017-609/json?hemicycle=1
@@ -67,33 +67,110 @@ pjl16-581
             dumping seance - 2017-07-12T14:30_16433
     * step - 1ère lecture depot http://www.assemblee-nationale.fr/15/projets/pl0098.asp
     * step - 1ère lecture commission http://www.assemblee-nationale.fr/15/ta-commission/r0106-a0.asp
-      * downloading amendments: https://nosdeputes.fr/15/amendements/98/json?cache=5feb2018 for http://www.assemblee-nationale.fr/15/projets/pl0098.asp
+      * downloading amendments: https://2017-2022.nosdeputes.fr/15/amendements/98/json?cache=5feb2018 for http://www.assemblee-nationale.fr/15/projets/pl0098.asp
         parsing amendments: 193
       * downloading interventions
-        * downloading seances -  https://2017-2022.nosdeputes.fr/seances/98/json?commission=1
+        * downloading seances -  https://2017-2022.nosdeputes.fr/15/seances/98/json?commission=1
     * step - 1ère lecture hemicycle http://www.assemblee-nationale.fr/15/ta/ta0008.asp
-      * downloading amendments: https://nosdeputes.fr/15/amendements/106/json?cache=5feb2018 for http://www.assemblee-nationale.fr/15/ta-commission/r0106-a0.asp
+      * downloading amendments: https://2017-2022.nosdeputes.fr/15/amendements/106/json?cache=5feb2018 for http://www.assemblee-nationale.fr/15/ta-commission/r0106-a0.asp
         parsing amendments: 590
       * downloading interventions
-        * downloading seances -  https://2017-2022.nosdeputes.fr/seances/106/json?hemicycle=1
-        * downloading seances -  https://2017-2022.nosdeputes.fr/seances/98/json?hemicycle=1
+        * downloading seances -  https://2017-2022.nosdeputes.fr/15/seances/106/json?hemicycle=1
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/101/106/json
+            dumping seance - 2017-07-25T15:00_101
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/102/106/json
+            dumping seance - 2017-07-25T21:30_102
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/103/106/json
+            dumping seance - 2017-07-26T15:00_103
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/104/106/json
+            dumping seance - 2017-07-26T21:30_104
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/105/106/json
+            dumping seance - 2017-07-27T09:30_105
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/106/106/json
+            dumping seance - 2017-07-27T15:00_106
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/111/106/json
+            dumping seance - 2017-07-27T21:30_111
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/112/106/json
+            dumping seance - 2017-07-28T09:30_112
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/113/106/json
+            dumping seance - 2017-07-28T15:15_113
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/114/106/json
+            dumping seance - 2017-07-28T21:50_114
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/126/106/json
+            dumping seance - 2017-08-03T09:30_126
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/127/106/json
+            dumping seance - 2017-08-03T15:00_127
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/131/106/json
+            dumping seance - 2017-08-09T15:00_131
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/84/106/json
+            dumping seance - 2017-07-24T16:00_84
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/85/106/json
+            dumping seance - 2017-07-24T21:30_85
     * step - CMP commission https://www.senat.fr/leg/pjl16-700.html
     * step - CMP hemicycle https://www.senat.fr/leg/tas16-126.html
-      * downloading amendments: https://nossenateurs.fr/amendements/20162017-700/json?cache=5feb2018 for https://www.senat.fr/leg/pjl16-700.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20162017-700/json?cache=5feb2018 for https://www.senat.fr/leg/pjl16-700.html
         parsing amendments: 4
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20162017-700/json?hemicycle=1
            downloading seance -  https://www.nossenateurs.fr/seance/16546/20162017-700/json
             dumping seance - 2017-08-02T16:00_16546
     * step - CMP hemicycle http://www.assemblee-nationale.fr/15/ta/ta0016.asp
-      * downloading amendments: https://nosdeputes.fr/15/amendements/120/json?cache=5feb2018 for http://www.assemblee-nationale.fr/15/ta-commission/r0120-a0.asp
+      * downloading amendments: https://2017-2022.nosdeputes.fr/15/amendements/120/json?cache=5feb2018 for http://www.assemblee-nationale.fr/15/ta-commission/r0120-a0.asp
         parsing amendments: 4
       * downloading interventions
-        * downloading seances -  https://2017-2022.nosdeputes.fr/seances/120/json?hemicycle=1
+        * downloading seances -  https://2017-2022.nosdeputes.fr/15/seances/120/json?hemicycle=1
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/101/120/json
+            dumping seance - 2017-07-25T15:00_101
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/102/120/json
+            dumping seance - 2017-07-25T21:30_102
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/103/120/json
+            dumping seance - 2017-07-26T15:00_103
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/104/120/json
+            dumping seance - 2017-07-26T21:30_104
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/105/120/json
+            dumping seance - 2017-07-27T09:30_105
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/106/120/json
+            dumping seance - 2017-07-27T15:00_106
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/111/120/json
+            dumping seance - 2017-07-27T21:30_111
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/112/120/json
+            dumping seance - 2017-07-28T09:30_112
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/113/120/json
+            dumping seance - 2017-07-28T15:15_113
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/114/120/json
+            dumping seance - 2017-07-28T21:50_114
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/126/120/json
+            dumping seance - 2017-08-03T09:30_126
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/127/120/json
+            dumping seance - 2017-08-03T15:00_127
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/131/120/json
+            dumping seance - 2017-08-09T15:00_131
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/84/120/json
+            dumping seance - 2017-07-24T16:00_84
+           downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/85/120/json
+            dumping seance - 2017-07-24T21:30_85
     * step - constitutionnalité None http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2017/2017-752-dc/decision-n-2017-752-dc-du-8-septembre-2017.149701.html
     * step - promulgation None https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035567974&categorieLien=id
  - re-order interventions and correct procedure dates
 INFO: change beginning date of 2 thanks to 2017-07-10T16:00_16415
+INFO: change beginning date of 5 thanks to 2017-07-25T15:00_101
+INFO: moves  2017-08-03T09:30_126  from step 5 to step 8
+INFO: moves  2017-08-03T15:00_127  from step 5 to step 8
+INFO: moves  2017-08-09T15:00_131  from step 5 to step 8
+INFO: change beginning date of 5 thanks to 2017-07-24T16:00_84
+ERROR: PB date of 2017-07-24T16:00_84 , step begins 2017-08-03 and prev date ends 2017-08-02
+ERROR: PB date of 2017-07-24T21:30_85 , step begins 2017-08-03 and prev date ends 2017-08-02
+ERROR: PB date of 2017-07-25T15:00_101 , step begins 2017-08-03 and prev date ends 2017-08-02
+ERROR: PB date of 2017-07-25T21:30_102 , step begins 2017-08-03 and prev date ends 2017-08-02
+ERROR: PB date of 2017-07-26T15:00_103 , step begins 2017-08-03 and prev date ends 2017-08-02
+ERROR: PB date of 2017-07-26T21:30_104 , step begins 2017-08-03 and prev date ends 2017-08-02
+ERROR: PB date of 2017-07-27T09:30_105 , step begins 2017-08-03 and prev date ends 2017-08-02
+ERROR: PB date of 2017-07-27T15:00_106 , step begins 2017-08-03 and prev date ends 2017-08-02
+ERROR: PB date of 2017-07-27T21:30_111 , step begins 2017-08-03 and prev date ends 2017-08-02
+ERROR: PB date of 2017-07-28T09:30_112 , step begins 2017-08-03 and prev date ends 2017-08-02
+ERROR: PB date of 2017-07-28T15:15_113 , step begins 2017-08-03 and prev date ends 2017-08-02
+ERROR: PB date of 2017-07-28T21:50_114 , step begins 2017-08-03 and prev date ends 2017-08-02
+INFO: change end date of 8 thanks to 2017-08-09T15:00_131
  - prepare interventions.json
  - compute stats
   FINISHED - pjl16-581

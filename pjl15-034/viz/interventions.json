@@ -1,4 +1,954 @@
 {
+  "01_1erelecture_assemblee_commission": {
+    "divisions": {
+      "Commission des lois constitutionnelles <br/> réunion du 29 septembre 2015 à 15h00": {
+        "first_date": "2015-09-29",
+        "groupes": {
+          "ECOLO": {
+            "nb_intervs": 9,
+            "nb_mots": 703,
+            "orateurs": {
+              "paul molac": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_863750ab8d62dc83ee8d1f6d005b4b4b",
+                "nb_intervs": 9,
+                "nb_mots": 703
+              }
+            }
+          },
+          "Gouvernement": {
+            "nb_intervs": 7,
+            "nb_mots": 1216,
+            "orateurs": {
+              "clotilde valter": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_40984239e7b34a19e4015e4d9e055267",
+                "nb_intervs": 7,
+                "nb_mots": 1216
+              }
+            }
+          },
+          "LR": {
+            "nb_intervs": 12,
+            "nb_mots": 1089,
+            "orateurs": {
+              "lionel tardy": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_e614c097b65b07d3c623e6d8c4fff5fc",
+                "nb_intervs": 12,
+                "nb_mots": 1089
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 3,
+            "nb_mots": 146,
+            "orateurs": {
+              "jean-jacques urvoas": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_e3768dc72541c07427868f9e8e714606",
+                "nb_intervs": 3,
+                "nb_mots": 146
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 27,
+            "nb_mots": 2715,
+            "orateurs": {
+              "luc belot": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_0f8f5ef55a28d64177b293056ef48920",
+                "nb_intervs": 27,
+                "nb_mots": 2715
+              }
+            }
+          },
+          "SRC": {
+            "nb_intervs": 5,
+            "nb_mots": 263,
+            "orateurs": {
+              "rené dosière": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_bc8d1ac5a87c8e6cf7a1d9b67e87dc15",
+                "nb_intervs": 5,
+                "nb_mots": 263
+              }
+            }
+          },
+          "UDI": {
+            "nb_intervs": 5,
+            "nb_mots": 957,
+            "orateurs": {
+              "bertrand pancher": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_fd0aa218988696010f95989028f401c1",
+                "nb_intervs": 5,
+                "nb_mots": 957
+              }
+            }
+          }
+        },
+        "last_date": "2015-09-29",
+        "link": "https://2012-2017.nosdeputes.fr/14/seance/5495#inter_e2249e4137e48041ca05a6082e534748",
+        "order": 1,
+        "source": "http://www.assemblee-nationale.fr/14/cr-cloi/14-15/c1415093.asp#P16_521",
+        "total_intervs": 68,
+        "total_mots": 7089
+      }
+    },
+    "groupes": {
+      "ECOLO": {
+        "color": "rgb(0,230,30)",
+        "link": "https://2012-2017.nosdeputes.fr/groupe/ECOLO",
+        "nom": "Écologiste",
+        "order": 13
+      },
+      "Gouvernement": {
+        "color": "#cccbb3",
+        "link": "",
+        "nom": "Gouvernement",
+        "order": 60
+      },
+      "LR": {
+        "color": "rgb(30,30,200)",
+        "link": "https://2012-2017.nosdeputes.fr/groupe/LR",
+        "nom": "Les républicains",
+        "order": 18
+      },
+      "Présidence": {
+        "color": "#bfbbcc",
+        "link": "",
+        "nom": "Présidence",
+        "order": 0
+      },
+      "Rapporteurs": {
+        "color": "#b9ccc0",
+        "link": "",
+        "nom": "Rapporteurs",
+        "order": 50
+      },
+      "SRC": {
+        "color": "rgb(255,50,190)",
+        "link": "https://2012-2017.nosdeputes.fr/groupe/SRC",
+        "nom": "Socialiste, républicain et citoyen",
+        "order": 11
+      },
+      "UDI": {
+        "color": "rgb(30,180,255)",
+        "link": "https://2012-2017.nosdeputes.fr/groupe/UDI",
+        "nom": "Union des démocrates et indépendants",
+        "order": 15
+      }
+    },
+    "orateurs": {
+      "bertrand pancher": {
+        "color": "rgb(30,180,255)",
+        "fonction": "",
+        "groupe": "UDI",
+        "link": "https://2012-2017.nosdeputes.fr/bertrand-pancher",
+        "nom": "Bertrand Pancher",
+        "photo": "https://2012-2017.nosdeputes.fr/depute/photo/bertrand-pancher"
+      },
+      "clotilde valter": {
+        "color": "#888888",
+        "fonction": "secrétaire d'état chargée de la réforme de l'état et de la simplification",
+        "groupe": "",
+        "link": "",
+        "nom": "Clotilde Valter",
+        "photo": ""
+      },
+      "jean-jacques urvoas": {
+        "color": "rgb(255,50,190)",
+        "fonction": "président",
+        "groupe": "SRC",
+        "link": "https://2012-2017.nosdeputes.fr/jean-jacques-urvoas",
+        "nom": "Jean-Jacques Urvoas",
+        "photo": "https://2012-2017.nosdeputes.fr/depute/photo/jean-jacques-urvoas"
+      },
+      "lionel tardy": {
+        "color": "rgb(30,30,200)",
+        "fonction": "",
+        "groupe": "LR",
+        "link": "https://2012-2017.nosdeputes.fr/lionel-tardy",
+        "nom": "Lionel Tardy",
+        "photo": "https://2012-2017.nosdeputes.fr/depute/photo/lionel-tardy"
+      },
+      "luc belot": {
+        "color": "rgb(255,50,190)",
+        "fonction": "rapporteur",
+        "groupe": "SRC",
+        "link": "https://2012-2017.nosdeputes.fr/luc-belot",
+        "nom": "Luc Belot",
+        "photo": "https://2012-2017.nosdeputes.fr/depute/photo/luc-belot"
+      },
+      "paul molac": {
+        "color": "rgb(0,230,30)",
+        "fonction": "",
+        "groupe": "ECOLO",
+        "link": "https://2012-2017.nosdeputes.fr/paul-molac",
+        "nom": "Paul Molac",
+        "photo": "https://2012-2017.nosdeputes.fr/depute/photo/paul-molac"
+      },
+      "rené dosière": {
+        "color": "rgb(255,50,190)",
+        "fonction": "",
+        "groupe": "SRC",
+        "link": "https://2012-2017.nosdeputes.fr/rene-dosiere",
+        "nom": "René Dosière",
+        "photo": "https://2012-2017.nosdeputes.fr/depute/photo/rene-dosiere"
+      }
+    }
+  },
+  "02_1erelecture_assemblee_hemicycle": {
+    "divisions": {
+      "Après l'article 8": {
+        "first_date": "2015-10-06",
+        "groupes": {
+          "ECOLO": {
+            "nb_intervs": 1,
+            "nb_mots": 224,
+            "orateurs": {
+              "isabelle attard": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_624bd25819698dfdbc754b7a175ebb56",
+                "nb_intervs": 1,
+                "nb_mots": 224
+              }
+            }
+          },
+          "Gouvernement": {
+            "nb_intervs": 1,
+            "nb_mots": 73,
+            "orateurs": {
+              "clotilde valter": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_3293c6f9b344c12bf2bcd7bf663d45e9",
+                "nb_intervs": 1,
+                "nb_mots": 73
+              }
+            }
+          },
+          "LR": {
+            "nb_intervs": 1,
+            "nb_mots": 189,
+            "orateurs": {
+              "lionel tardy": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_4279d6f48bffef993a70c36b7009dedd",
+                "nb_intervs": 1,
+                "nb_mots": 189
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 4,
+            "nb_mots": 115,
+            "orateurs": {
+              "david habib": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_f66f1face7361285dac590f69a2f2d57",
+                "nb_intervs": 4,
+                "nb_mots": 115
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 1,
+            "nb_mots": 136,
+            "orateurs": {
+              "luc belot": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_ea62f5aa0fc90aec0f0302ac6eaacec4",
+                "nb_intervs": 1,
+                "nb_mots": 136
+              }
+            }
+          }
+        },
+        "last_date": "2015-10-06",
+        "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_709cd2f8ebd68df0f5bc076b768b3168",
+        "order": 14,
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160006.asp#P610672",
+        "total_intervs": 8,
+        "total_mots": 737
+      },
+      "Article 1er b": {
+        "first_date": "2015-10-06",
+        "groupes": {
+          "ECOLO": {
+            "nb_intervs": 1,
+            "nb_mots": 108,
+            "orateurs": {
+              "paul molac": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_97e9d4dd66fae127ef58c0388a628a9c",
+                "nb_intervs": 1,
+                "nb_mots": 108
+              }
+            }
+          },
+          "Gouvernement": {
+            "nb_intervs": 4,
+            "nb_mots": 320,
+            "orateurs": {
+              "clotilde valter": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_d548d3f58655a134965baace1eeca3bc",
+                "nb_intervs": 4,
+                "nb_mots": 320
+              }
+            }
+          },
+          "LR": {
+            "nb_intervs": 1,
+            "nb_mots": 128,
+            "orateurs": {
+              "lionel tardy": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_056d5fd7a9afa7ce6c090c7db54b7b05",
+                "nb_intervs": 1,
+                "nb_mots": 128
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 9,
+            "nb_mots": 189,
+            "orateurs": {
+              "david habib": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_63891ee342e345730af3811d61c13cf1",
+                "nb_intervs": 9,
+                "nb_mots": 189
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 3,
+            "nb_mots": 301,
+            "orateurs": {
+              "luc belot": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_69911560ac9b087d5c312029d421145e",
+                "nb_intervs": 3,
+                "nb_mots": 301
+              }
+            }
+          }
+        },
+        "last_date": "2015-10-06",
+        "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_95cf8245bc77eee31ea01c40447f792a",
+        "order": 6,
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160006.asp#P610377",
+        "total_intervs": 18,
+        "total_mots": 1046
+      },
+      "Article 2": {
+        "first_date": "2015-10-06",
+        "groupes": {
+          "Gouvernement": {
+            "nb_intervs": 2,
+            "nb_mots": 126,
+            "orateurs": {
+              "clotilde valter": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_14256a5ce9a5c97e37f110edf2706c92",
+                "nb_intervs": 2,
+                "nb_mots": 126
+              }
+            }
+          },
+          "LR": {
+            "nb_intervs": 2,
+            "nb_mots": 651,
+            "orateurs": {
+              "lionel tardy": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_06dbc4f948e590622b7859043c05cc86",
+                "nb_intervs": 2,
+                "nb_mots": 651
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 8,
+            "nb_mots": 111,
+            "orateurs": {
+              "david habib": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_cc814145d027b29b49cd8ba18107a32c",
+                "nb_intervs": 8,
+                "nb_mots": 111
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 2,
+            "nb_mots": 554,
+            "orateurs": {
+              "luc belot": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_1f7211fa66980b34e7d282915d4e5302",
+                "nb_intervs": 2,
+                "nb_mots": 554
+              }
+            }
+          },
+          "UDI": {
+            "nb_intervs": 2,
+            "nb_mots": 216,
+            "orateurs": {
+              "bertrand pancher": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_f21a454f038fc20825ac6fc68e9188f6",
+                "nb_intervs": 2,
+                "nb_mots": 216
+              }
+            }
+          }
+        },
+        "last_date": "2015-10-06",
+        "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_f4a4269884ec90d089d24e0c7ebae10f",
+        "order": 8,
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160006.asp#P610409",
+        "total_intervs": 16,
+        "total_mots": 1658
+      },
+      "Article 3": {
+        "first_date": "2015-10-06",
+        "groupes": {
+          "ECOLO": {
+            "nb_intervs": 8,
+            "nb_mots": 628,
+            "orateurs": {
+              "isabelle attard": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_72e157c36df7d8abbc325f2b115b5a0f",
+                "nb_intervs": 7,
+                "nb_mots": 624
+              },
+              "paul molac": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_0c124c975956f4b937bdbf823874abcc",
+                "nb_intervs": 1,
+                "nb_mots": 4
+              }
+            }
+          },
+          "Gouvernement": {
+            "nb_intervs": 9,
+            "nb_mots": 974,
+            "orateurs": {
+              "clotilde valter": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_49c30e53e2c16c8f6c3f678bdfb1c239",
+                "nb_intervs": 9,
+                "nb_mots": 974
+              }
+            }
+          },
+          "LR": {
+            "nb_intervs": 12,
+            "nb_mots": 1156,
+            "orateurs": {
+              "lionel tardy": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_ecbdd31ee80d5912ef6c9a3451be7402",
+                "nb_intervs": 12,
+                "nb_mots": 1156
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 37,
+            "nb_mots": 496,
+            "orateurs": {
+              "david habib": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_3add5db9fe454f005268da2dfa2de6d0",
+                "nb_intervs": 37,
+                "nb_mots": 496
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 15,
+            "nb_mots": 2941,
+            "orateurs": {
+              "luc belot": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_81d8e3edc4535774d31a2b106222d648",
+                "nb_intervs": 15,
+                "nb_mots": 2941
+              }
+            }
+          },
+          "SRC": {
+            "nb_intervs": 1,
+            "nb_mots": 310,
+            "orateurs": {
+              "rené dosière": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_2fd4c2c94ebb58e20c558be34388d2e2",
+                "nb_intervs": 1,
+                "nb_mots": 310
+              }
+            }
+          },
+          "UDI": {
+            "nb_intervs": 3,
+            "nb_mots": 260,
+            "orateurs": {
+              "bertrand pancher": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_3423e373f8c8727fffbc3669972aa84d",
+                "nb_intervs": 3,
+                "nb_mots": 260
+              }
+            }
+          }
+        },
+        "last_date": "2015-10-06",
+        "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_5a3738f5cf0daabb50ce99b8becafe09",
+        "order": 9,
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160006.asp#P610449",
+        "total_intervs": 85,
+        "total_mots": 6765
+      },
+      "Article 4": {
+        "first_date": "2015-10-06",
+        "groupes": {
+          "Gouvernement": {
+            "nb_intervs": 1,
+            "nb_mots": 37,
+            "orateurs": {
+              "clotilde valter": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_b57987ba31e1400d0184e2c2623c1723",
+                "nb_intervs": 1,
+                "nb_mots": 37
+              }
+            }
+          },
+          "LR": {
+            "nb_intervs": 1,
+            "nb_mots": 203,
+            "orateurs": {
+              "lionel tardy": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_19fb8457e06f94d2929b9b2be0c19a4b",
+                "nb_intervs": 1,
+                "nb_mots": 203
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 3,
+            "nb_mots": 30,
+            "orateurs": {
+              "david habib": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_ac17ac0520048a2de15e9e90abd0a89c",
+                "nb_intervs": 3,
+                "nb_mots": 30
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 1,
+            "nb_mots": 83,
+            "orateurs": {
+              "luc belot": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_c4214f6e2bf9448910ef9ad559078d22",
+                "nb_intervs": 1,
+                "nb_mots": 83
+              }
+            }
+          }
+        },
+        "last_date": "2015-10-06",
+        "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_95faef65f42f3d8058848980a184b18f",
+        "order": 10,
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160006.asp#P610612",
+        "total_intervs": 6,
+        "total_mots": 353
+      },
+      "Article 5": {
+        "first_date": "2015-10-06",
+        "groupes": {
+          "Gouvernement": {
+            "nb_intervs": 2,
+            "nb_mots": 48,
+            "orateurs": {
+              "clotilde valter": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_db7589623ad0037b78b456b70cb7df57",
+                "nb_intervs": 2,
+                "nb_mots": 48
+              }
+            }
+          },
+          "LR": {
+            "nb_intervs": 1,
+            "nb_mots": 139,
+            "orateurs": {
+              "lionel tardy": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_c59cfe92e3e23e4c8d1c063b8817b1fe",
+                "nb_intervs": 1,
+                "nb_mots": 139
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 6,
+            "nb_mots": 60,
+            "orateurs": {
+              "david habib": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_4971925e3dc7b70f023c464da3cceb71",
+                "nb_intervs": 6,
+                "nb_mots": 60
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 2,
+            "nb_mots": 118,
+            "orateurs": {
+              "luc belot": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_98b1d68951faddb2b3162979c7e13d16",
+                "nb_intervs": 2,
+                "nb_mots": 118
+              }
+            }
+          },
+          "SRC": {
+            "nb_intervs": 1,
+            "nb_mots": 4,
+            "orateurs": {
+              "rené dosière": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_97af89bb5fbc281ad3d4ddb8664fd8c6",
+                "nb_intervs": 1,
+                "nb_mots": 4
+              }
+            }
+          },
+          "UDI": {
+            "nb_intervs": 1,
+            "nb_mots": 103,
+            "orateurs": {
+              "bertrand pancher": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_8ae0fe9ee669789ebb59125701f469db",
+                "nb_intervs": 1,
+                "nb_mots": 103
+              }
+            }
+          }
+        },
+        "last_date": "2015-10-06",
+        "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_1509f91b8d75deb5285d4ae53303dd08",
+        "order": 11,
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160006.asp#P610625",
+        "total_intervs": 13,
+        "total_mots": 472
+      },
+      "Article 8": {
+        "first_date": "2015-10-06",
+        "groupes": {
+          "Gouvernement": {
+            "nb_intervs": 3,
+            "nb_mots": 37,
+            "orateurs": {
+              "clotilde valter": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_c8fbd5e1c6ed57c1049ecda03a21b07b",
+                "nb_intervs": 3,
+                "nb_mots": 37
+              }
+            }
+          },
+          "LR": {
+            "nb_intervs": 2,
+            "nb_mots": 199,
+            "orateurs": {
+              "lionel tardy": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_807f5df44ccc06458d600de5b77ad136",
+                "nb_intervs": 2,
+                "nb_mots": 199
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 7,
+            "nb_mots": 102,
+            "orateurs": {
+              "david habib": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_ae6ce9f718c600f3c66a8f20b65b2014",
+                "nb_intervs": 7,
+                "nb_mots": 102
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 2,
+            "nb_mots": 247,
+            "orateurs": {
+              "luc belot": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_3f5adb2e4b34b645af9b6898756daadd",
+                "nb_intervs": 2,
+                "nb_mots": 247
+              }
+            }
+          }
+        },
+        "last_date": "2015-10-06",
+        "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_a8d73c7d905610440f341be8925503a2",
+        "order": 13,
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160006.asp#P610648",
+        "total_intervs": 14,
+        "total_mots": 585
+      },
+      "Discussion générale": {
+        "first_date": "2015-10-06",
+        "groupes": {
+          "ECOLO": {
+            "nb_intervs": 1,
+            "nb_mots": 1654,
+            "orateurs": {
+              "paul molac": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_f8a4214451b0fc2ac769f316b5e912ce",
+                "nb_intervs": 1,
+                "nb_mots": 1654
+              }
+            }
+          },
+          "LR": {
+            "nb_intervs": 2,
+            "nb_mots": 3281,
+            "orateurs": {
+              "lionel tardy": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_38ab00b4b7ae1926f797829b933649b3",
+                "nb_intervs": 1,
+                "nb_mots": 2150
+              },
+              "patrice martin-lalande": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_aee56d5a540f00de68e710722aef8f98",
+                "nb_intervs": 1,
+                "nb_mots": 1131
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 7,
+            "nb_mots": 64,
+            "orateurs": {
+              "david habib": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_7e65eff4d7bf58ef3ffa20d9d6e4956d",
+                "nb_intervs": 7,
+                "nb_mots": 64
+              }
+            }
+          },
+          "RRDP": {
+            "nb_intervs": 1,
+            "nb_mots": 1549,
+            "orateurs": {
+              "jacques moignard": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_dbbb3f9600ed15920ec22281c9d04ced",
+                "nb_intervs": 1,
+                "nb_mots": 1549
+              }
+            }
+          },
+          "SRC": {
+            "nb_intervs": 1,
+            "nb_mots": 1949,
+            "orateurs": {
+              "rené dosière": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_b2ad67231c40928e0c4efeebc42c5a5e",
+                "nb_intervs": 1,
+                "nb_mots": 1949
+              }
+            }
+          },
+          "UDI": {
+            "nb_intervs": 1,
+            "nb_mots": 1574,
+            "orateurs": {
+              "bertrand pancher": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_71feca07acef5acb2faad8b918d6a55e",
+                "nb_intervs": 1,
+                "nb_mots": 1574
+              }
+            }
+          }
+        },
+        "last_date": "2015-10-06",
+        "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_d529e3a347adf7648859303ed496d4c3",
+        "order": 3,
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160006.asp#P610342",
+        "total_intervs": 13,
+        "total_mots": 10071
+      },
+      "Présentation": {
+        "first_date": "2015-10-06",
+        "groupes": {
+          "Gouvernement": {
+            "nb_intervs": 2,
+            "nb_mots": 1934,
+            "orateurs": {
+              "clotilde valter": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_fb4b77f98ceac66ada0be0c2d541c61d",
+                "nb_intervs": 2,
+                "nb_mots": 1934
+              }
+            }
+          },
+          "LR": {
+            "nb_intervs": 2,
+            "nb_mots": 13,
+            "orateurs": {
+              "lionel tardy": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_c0eca2af40480569c375151ba24df911",
+                "nb_intervs": 1,
+                "nb_mots": 7
+              },
+              "patrice martin-lalande": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_38ab7d5abc475559e5751a48ffc5ffd6",
+                "nb_intervs": 1,
+                "nb_mots": 6
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 2,
+            "nb_mots": 54,
+            "orateurs": {
+              "david habib": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_df3a1edbb649d95d92d6dea3ee56f9cf",
+                "nb_intervs": 2,
+                "nb_mots": 54
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 1,
+            "nb_mots": 1505,
+            "orateurs": {
+              "luc belot": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_39f00c5d6469a20b4f4b5131bdfa5f37",
+                "nb_intervs": 1,
+                "nb_mots": 1505
+              }
+            }
+          }
+        },
+        "last_date": "2015-10-06",
+        "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_9aaf8deb52bab69fc0cea5a250a96473",
+        "order": 2,
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160006.asp#P610068",
+        "total_intervs": 7,
+        "total_mots": 3506
+      }
+    },
+    "groupes": {
+      "ECOLO": {
+        "color": "rgb(0,230,30)",
+        "link": "https://2012-2017.nosdeputes.fr/groupe/ECOLO",
+        "nom": "Écologiste",
+        "order": 13
+      },
+      "Gouvernement": {
+        "color": "#cccbb3",
+        "link": "",
+        "nom": "Gouvernement",
+        "order": 60
+      },
+      "LR": {
+        "color": "rgb(30,30,200)",
+        "link": "https://2012-2017.nosdeputes.fr/groupe/LR",
+        "nom": "Les républicains",
+        "order": 18
+      },
+      "Présidence": {
+        "color": "#bfbbcc",
+        "link": "",
+        "nom": "Présidence",
+        "order": 0
+      },
+      "RRDP": {
+        "color": "rgb(250,195,132)",
+        "link": "https://2012-2017.nosdeputes.fr/groupe/RRDP",
+        "nom": "Radical, républicain, démocrate et progressiste",
+        "order": 14
+      },
+      "Rapporteurs": {
+        "color": "#b9ccc0",
+        "link": "",
+        "nom": "Rapporteurs",
+        "order": 50
+      },
+      "SRC": {
+        "color": "rgb(255,50,190)",
+        "link": "https://2012-2017.nosdeputes.fr/groupe/SRC",
+        "nom": "Socialiste, républicain et citoyen",
+        "order": 11
+      },
+      "UDI": {
+        "color": "rgb(30,180,255)",
+        "link": "https://2012-2017.nosdeputes.fr/groupe/UDI",
+        "nom": "Union des démocrates et indépendants",
+        "order": 15
+      }
+    },
+    "orateurs": {
+      "bertrand pancher": {
+        "color": "rgb(30,180,255)",
+        "fonction": "",
+        "groupe": "UDI",
+        "link": "https://2012-2017.nosdeputes.fr/bertrand-pancher",
+        "nom": "Bertrand Pancher",
+        "photo": "https://2012-2017.nosdeputes.fr/depute/photo/bertrand-pancher"
+      },
+      "clotilde valter": {
+        "color": "#888888",
+        "fonction": "secrétaire d’état chargée de la réforme de l’état et de la simplification",
+        "groupe": "",
+        "link": "",
+        "nom": "Clotilde Valter",
+        "photo": ""
+      },
+      "david habib": {
+        "color": "rgb(255,50,190)",
+        "fonction": "président",
+        "groupe": "SRC",
+        "link": "https://2012-2017.nosdeputes.fr/david-habib",
+        "nom": "David Habib",
+        "photo": "https://2012-2017.nosdeputes.fr/depute/photo/david-habib"
+      },
+      "isabelle attard": {
+        "color": "rgb(0,230,30)",
+        "fonction": "",
+        "groupe": "ECOLO",
+        "link": "https://2012-2017.nosdeputes.fr/isabelle-attard",
+        "nom": "Isabelle Attard",
+        "photo": "https://2012-2017.nosdeputes.fr/depute/photo/isabelle-attard"
+      },
+      "jacques moignard": {
+        "color": "rgb(250,195,132)",
+        "fonction": "",
+        "groupe": "RRDP",
+        "link": "https://2012-2017.nosdeputes.fr/jacques-moignard",
+        "nom": "Jacques Moignard",
+        "photo": "https://2012-2017.nosdeputes.fr/depute/photo/jacques-moignard"
+      },
+      "lionel tardy": {
+        "color": "rgb(30,30,200)",
+        "fonction": "",
+        "groupe": "LR",
+        "link": "https://2012-2017.nosdeputes.fr/lionel-tardy",
+        "nom": "Lionel Tardy",
+        "photo": "https://2012-2017.nosdeputes.fr/depute/photo/lionel-tardy"
+      },
+      "luc belot": {
+        "color": "rgb(255,50,190)",
+        "fonction": "rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République",
+        "groupe": "SRC",
+        "link": "https://2012-2017.nosdeputes.fr/luc-belot",
+        "nom": "Luc Belot",
+        "photo": "https://2012-2017.nosdeputes.fr/depute/photo/luc-belot"
+      },
+      "patrice martin-lalande": {
+        "color": "rgb(30,30,200)",
+        "fonction": "",
+        "groupe": "LR",
+        "link": "https://2012-2017.nosdeputes.fr/patrice-martin-lalande",
+        "nom": "Patrice Martin-Lalande",
+        "photo": "https://2012-2017.nosdeputes.fr/depute/photo/patrice-martin-lalande"
+      },
+      "paul molac": {
+        "color": "rgb(0,230,30)",
+        "fonction": "",
+        "groupe": "ECOLO",
+        "link": "https://2012-2017.nosdeputes.fr/paul-molac",
+        "nom": "Paul Molac",
+        "photo": "https://2012-2017.nosdeputes.fr/depute/photo/paul-molac"
+      },
+      "rené dosière": {
+        "color": "rgb(255,50,190)",
+        "fonction": "",
+        "groupe": "SRC",
+        "link": "https://2012-2017.nosdeputes.fr/rene-dosiere",
+        "nom": "René Dosière",
+        "photo": "https://2012-2017.nosdeputes.fr/depute/photo/rene-dosiere"
+      }
+    }
+  },
   "05_1erelecture_senat_hemicycle": {
     "divisions": {
       "Adoption en procédure accélérée d'un projet de loi dans le texte de la commission modifié": {
@@ -840,6 +1790,817 @@
         "link": "https://www.nossenateurs.fr/thierry-foucaud",
         "nom": "Thierry Foucaud",
         "photo": "https://www.nossenateurs.fr/senateur/photo/thierry-foucaud"
+      }
+    }
+  },
+  "07_cmp_assemblee_hemicycle": {
+    "divisions": {
+      "Après l'article 8": {
+        "first_date": "2015-10-06",
+        "groupes": {
+          "ECOLO": {
+            "nb_intervs": 1,
+            "nb_mots": 224,
+            "orateurs": {
+              "isabelle attard": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_624bd25819698dfdbc754b7a175ebb56",
+                "nb_intervs": 1,
+                "nb_mots": 224
+              }
+            }
+          },
+          "Gouvernement": {
+            "nb_intervs": 1,
+            "nb_mots": 73,
+            "orateurs": {
+              "clotilde valter": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_3293c6f9b344c12bf2bcd7bf663d45e9",
+                "nb_intervs": 1,
+                "nb_mots": 73
+              }
+            }
+          },
+          "LR": {
+            "nb_intervs": 1,
+            "nb_mots": 189,
+            "orateurs": {
+              "lionel tardy": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_4279d6f48bffef993a70c36b7009dedd",
+                "nb_intervs": 1,
+                "nb_mots": 189
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 4,
+            "nb_mots": 115,
+            "orateurs": {
+              "david habib": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_f66f1face7361285dac590f69a2f2d57",
+                "nb_intervs": 4,
+                "nb_mots": 115
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 1,
+            "nb_mots": 136,
+            "orateurs": {
+              "luc belot": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_ea62f5aa0fc90aec0f0302ac6eaacec4",
+                "nb_intervs": 1,
+                "nb_mots": 136
+              }
+            }
+          }
+        },
+        "last_date": "2015-10-06",
+        "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_709cd2f8ebd68df0f5bc076b768b3168",
+        "order": 14,
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160006.asp#P610672",
+        "total_intervs": 8,
+        "total_mots": 737
+      },
+      "Article 1er b": {
+        "first_date": "2015-10-06",
+        "groupes": {
+          "ECOLO": {
+            "nb_intervs": 1,
+            "nb_mots": 108,
+            "orateurs": {
+              "paul molac": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_97e9d4dd66fae127ef58c0388a628a9c",
+                "nb_intervs": 1,
+                "nb_mots": 108
+              }
+            }
+          },
+          "Gouvernement": {
+            "nb_intervs": 4,
+            "nb_mots": 320,
+            "orateurs": {
+              "clotilde valter": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_d548d3f58655a134965baace1eeca3bc",
+                "nb_intervs": 4,
+                "nb_mots": 320
+              }
+            }
+          },
+          "LR": {
+            "nb_intervs": 1,
+            "nb_mots": 128,
+            "orateurs": {
+              "lionel tardy": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_056d5fd7a9afa7ce6c090c7db54b7b05",
+                "nb_intervs": 1,
+                "nb_mots": 128
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 9,
+            "nb_mots": 189,
+            "orateurs": {
+              "david habib": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_63891ee342e345730af3811d61c13cf1",
+                "nb_intervs": 9,
+                "nb_mots": 189
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 3,
+            "nb_mots": 301,
+            "orateurs": {
+              "luc belot": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_69911560ac9b087d5c312029d421145e",
+                "nb_intervs": 3,
+                "nb_mots": 301
+              }
+            }
+          }
+        },
+        "last_date": "2015-10-06",
+        "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_95cf8245bc77eee31ea01c40447f792a",
+        "order": 6,
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160006.asp#P610377",
+        "total_intervs": 18,
+        "total_mots": 1046
+      },
+      "Article 2": {
+        "first_date": "2015-10-06",
+        "groupes": {
+          "Gouvernement": {
+            "nb_intervs": 2,
+            "nb_mots": 126,
+            "orateurs": {
+              "clotilde valter": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_14256a5ce9a5c97e37f110edf2706c92",
+                "nb_intervs": 2,
+                "nb_mots": 126
+              }
+            }
+          },
+          "LR": {
+            "nb_intervs": 2,
+            "nb_mots": 651,
+            "orateurs": {
+              "lionel tardy": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_06dbc4f948e590622b7859043c05cc86",
+                "nb_intervs": 2,
+                "nb_mots": 651
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 8,
+            "nb_mots": 111,
+            "orateurs": {
+              "david habib": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_cc814145d027b29b49cd8ba18107a32c",
+                "nb_intervs": 8,
+                "nb_mots": 111
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 2,
+            "nb_mots": 554,
+            "orateurs": {
+              "luc belot": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_1f7211fa66980b34e7d282915d4e5302",
+                "nb_intervs": 2,
+                "nb_mots": 554
+              }
+            }
+          },
+          "UDI": {
+            "nb_intervs": 2,
+            "nb_mots": 216,
+            "orateurs": {
+              "bertrand pancher": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_f21a454f038fc20825ac6fc68e9188f6",
+                "nb_intervs": 2,
+                "nb_mots": 216
+              }
+            }
+          }
+        },
+        "last_date": "2015-10-06",
+        "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_f4a4269884ec90d089d24e0c7ebae10f",
+        "order": 8,
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160006.asp#P610409",
+        "total_intervs": 16,
+        "total_mots": 1658
+      },
+      "Article 3": {
+        "first_date": "2015-10-06",
+        "groupes": {
+          "ECOLO": {
+            "nb_intervs": 8,
+            "nb_mots": 628,
+            "orateurs": {
+              "isabelle attard": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_72e157c36df7d8abbc325f2b115b5a0f",
+                "nb_intervs": 7,
+                "nb_mots": 624
+              },
+              "paul molac": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_0c124c975956f4b937bdbf823874abcc",
+                "nb_intervs": 1,
+                "nb_mots": 4
+              }
+            }
+          },
+          "Gouvernement": {
+            "nb_intervs": 9,
+            "nb_mots": 974,
+            "orateurs": {
+              "clotilde valter": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_49c30e53e2c16c8f6c3f678bdfb1c239",
+                "nb_intervs": 9,
+                "nb_mots": 974
+              }
+            }
+          },
+          "LR": {
+            "nb_intervs": 12,
+            "nb_mots": 1156,
+            "orateurs": {
+              "lionel tardy": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_ecbdd31ee80d5912ef6c9a3451be7402",
+                "nb_intervs": 12,
+                "nb_mots": 1156
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 37,
+            "nb_mots": 496,
+            "orateurs": {
+              "david habib": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_3add5db9fe454f005268da2dfa2de6d0",
+                "nb_intervs": 37,
+                "nb_mots": 496
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 15,
+            "nb_mots": 2941,
+            "orateurs": {
+              "luc belot": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_81d8e3edc4535774d31a2b106222d648",
+                "nb_intervs": 15,
+                "nb_mots": 2941
+              }
+            }
+          },
+          "SRC": {
+            "nb_intervs": 1,
+            "nb_mots": 310,
+            "orateurs": {
+              "rené dosière": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_2fd4c2c94ebb58e20c558be34388d2e2",
+                "nb_intervs": 1,
+                "nb_mots": 310
+              }
+            }
+          },
+          "UDI": {
+            "nb_intervs": 3,
+            "nb_mots": 260,
+            "orateurs": {
+              "bertrand pancher": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_3423e373f8c8727fffbc3669972aa84d",
+                "nb_intervs": 3,
+                "nb_mots": 260
+              }
+            }
+          }
+        },
+        "last_date": "2015-10-06",
+        "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_5a3738f5cf0daabb50ce99b8becafe09",
+        "order": 9,
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160006.asp#P610449",
+        "total_intervs": 85,
+        "total_mots": 6765
+      },
+      "Article 4": {
+        "first_date": "2015-10-06",
+        "groupes": {
+          "Gouvernement": {
+            "nb_intervs": 1,
+            "nb_mots": 37,
+            "orateurs": {
+              "clotilde valter": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_b57987ba31e1400d0184e2c2623c1723",
+                "nb_intervs": 1,
+                "nb_mots": 37
+              }
+            }
+          },
+          "LR": {
+            "nb_intervs": 1,
+            "nb_mots": 203,
+            "orateurs": {
+              "lionel tardy": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_19fb8457e06f94d2929b9b2be0c19a4b",
+                "nb_intervs": 1,
+                "nb_mots": 203
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 3,
+            "nb_mots": 30,
+            "orateurs": {
+              "david habib": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_ac17ac0520048a2de15e9e90abd0a89c",
+                "nb_intervs": 3,
+                "nb_mots": 30
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 1,
+            "nb_mots": 83,
+            "orateurs": {
+              "luc belot": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_c4214f6e2bf9448910ef9ad559078d22",
+                "nb_intervs": 1,
+                "nb_mots": 83
+              }
+            }
+          }
+        },
+        "last_date": "2015-10-06",
+        "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_95faef65f42f3d8058848980a184b18f",
+        "order": 10,
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160006.asp#P610612",
+        "total_intervs": 6,
+        "total_mots": 353
+      },
+      "Article 5": {
+        "first_date": "2015-10-06",
+        "groupes": {
+          "Gouvernement": {
+            "nb_intervs": 2,
+            "nb_mots": 48,
+            "orateurs": {
+              "clotilde valter": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_db7589623ad0037b78b456b70cb7df57",
+                "nb_intervs": 2,
+                "nb_mots": 48
+              }
+            }
+          },
+          "LR": {
+            "nb_intervs": 1,
+            "nb_mots": 139,
+            "orateurs": {
+              "lionel tardy": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_c59cfe92e3e23e4c8d1c063b8817b1fe",
+                "nb_intervs": 1,
+                "nb_mots": 139
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 6,
+            "nb_mots": 60,
+            "orateurs": {
+              "david habib": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_4971925e3dc7b70f023c464da3cceb71",
+                "nb_intervs": 6,
+                "nb_mots": 60
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 2,
+            "nb_mots": 118,
+            "orateurs": {
+              "luc belot": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_98b1d68951faddb2b3162979c7e13d16",
+                "nb_intervs": 2,
+                "nb_mots": 118
+              }
+            }
+          },
+          "SRC": {
+            "nb_intervs": 1,
+            "nb_mots": 4,
+            "orateurs": {
+              "rené dosière": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_97af89bb5fbc281ad3d4ddb8664fd8c6",
+                "nb_intervs": 1,
+                "nb_mots": 4
+              }
+            }
+          },
+          "UDI": {
+            "nb_intervs": 1,
+            "nb_mots": 103,
+            "orateurs": {
+              "bertrand pancher": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_8ae0fe9ee669789ebb59125701f469db",
+                "nb_intervs": 1,
+                "nb_mots": 103
+              }
+            }
+          }
+        },
+        "last_date": "2015-10-06",
+        "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_1509f91b8d75deb5285d4ae53303dd08",
+        "order": 11,
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160006.asp#P610625",
+        "total_intervs": 13,
+        "total_mots": 472
+      },
+      "Article 8": {
+        "first_date": "2015-10-06",
+        "groupes": {
+          "Gouvernement": {
+            "nb_intervs": 3,
+            "nb_mots": 37,
+            "orateurs": {
+              "clotilde valter": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_c8fbd5e1c6ed57c1049ecda03a21b07b",
+                "nb_intervs": 3,
+                "nb_mots": 37
+              }
+            }
+          },
+          "LR": {
+            "nb_intervs": 2,
+            "nb_mots": 199,
+            "orateurs": {
+              "lionel tardy": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_807f5df44ccc06458d600de5b77ad136",
+                "nb_intervs": 2,
+                "nb_mots": 199
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 7,
+            "nb_mots": 102,
+            "orateurs": {
+              "david habib": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_ae6ce9f718c600f3c66a8f20b65b2014",
+                "nb_intervs": 7,
+                "nb_mots": 102
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 2,
+            "nb_mots": 247,
+            "orateurs": {
+              "luc belot": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_3f5adb2e4b34b645af9b6898756daadd",
+                "nb_intervs": 2,
+                "nb_mots": 247
+              }
+            }
+          }
+        },
+        "last_date": "2015-10-06",
+        "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_a8d73c7d905610440f341be8925503a2",
+        "order": 13,
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160006.asp#P610648",
+        "total_intervs": 14,
+        "total_mots": 585
+      },
+      "Discussion générale": {
+        "first_date": "2015-10-06",
+        "groupes": {
+          "ECOLO": {
+            "nb_intervs": 5,
+            "nb_mots": 3310,
+            "orateurs": {
+              "isabelle attard": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_25ea2c359d514d4db29837818fec2ec6",
+                "nb_intervs": 4,
+                "nb_mots": 1656
+              },
+              "paul molac": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_f8a4214451b0fc2ac769f316b5e912ce",
+                "nb_intervs": 1,
+                "nb_mots": 1654
+              }
+            }
+          },
+          "LR": {
+            "nb_intervs": 4,
+            "nb_mots": 5103,
+            "orateurs": {
+              "lionel tardy": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_38ab00b4b7ae1926f797829b933649b3",
+                "nb_intervs": 3,
+                "nb_mots": 3972
+              },
+              "patrice martin-lalande": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_aee56d5a540f00de68e710722aef8f98",
+                "nb_intervs": 1,
+                "nb_mots": 1131
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 19,
+            "nb_mots": 174,
+            "orateurs": {
+              "david habib": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_7e65eff4d7bf58ef3ffa20d9d6e4956d",
+                "nb_intervs": 19,
+                "nb_mots": 174
+              }
+            }
+          },
+          "RRDP": {
+            "nb_intervs": 3,
+            "nb_mots": 3563,
+            "orateurs": {
+              "jacques krabal": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_a4f552a65ddb155839cd5e499a6217c6",
+                "nb_intervs": 2,
+                "nb_mots": 2014
+              },
+              "jacques moignard": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_dbbb3f9600ed15920ec22281c9d04ced",
+                "nb_intervs": 1,
+                "nb_mots": 1549
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 2,
+            "nb_mots": 6,
+            "orateurs": {
+              "luc belot": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_0c8d201547b7db637e928cab1c95c55f",
+                "nb_intervs": 2,
+                "nb_mots": 6
+              }
+            }
+          },
+          "SRC": {
+            "nb_intervs": 3,
+            "nb_mots": 3369,
+            "orateurs": {
+              "marie-anne chapdelaine": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_291f82aecf4c7e02a994af2ae1f4282f",
+                "nb_intervs": 2,
+                "nb_mots": 1420
+              },
+              "rené dosière": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_b2ad67231c40928e0c4efeebc42c5a5e",
+                "nb_intervs": 1,
+                "nb_mots": 1949
+              }
+            }
+          },
+          "UDI": {
+            "nb_intervs": 5,
+            "nb_mots": 2992,
+            "orateurs": {
+              "bertrand pancher": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_71feca07acef5acb2faad8b918d6a55e",
+                "nb_intervs": 1,
+                "nb_mots": 1574
+              },
+              "michel piron": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5977#inter_49e6bfa6d58ff5d52aac82c52ee41d76",
+                "nb_intervs": 4,
+                "nb_mots": 1418
+              }
+            }
+          }
+        },
+        "last_date": "2015-12-09",
+        "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_d529e3a347adf7648859303ed496d4c3",
+        "order": 3,
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160006.asp#P610342",
+        "total_intervs": 41,
+        "total_mots": 18517
+      },
+      "Présentation": {
+        "first_date": "2015-10-06",
+        "groupes": {
+          "Gouvernement": {
+            "nb_intervs": 4,
+            "nb_mots": 3486,
+            "orateurs": {
+              "clotilde valter": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_fb4b77f98ceac66ada0be0c2d541c61d",
+                "nb_intervs": 4,
+                "nb_mots": 3486
+              }
+            }
+          },
+          "LR": {
+            "nb_intervs": 2,
+            "nb_mots": 13,
+            "orateurs": {
+              "lionel tardy": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_c0eca2af40480569c375151ba24df911",
+                "nb_intervs": 1,
+                "nb_mots": 7
+              },
+              "patrice martin-lalande": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_38ab7d5abc475559e5751a48ffc5ffd6",
+                "nb_intervs": 1,
+                "nb_mots": 6
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 6,
+            "nb_mots": 130,
+            "orateurs": {
+              "david habib": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_df3a1edbb649d95d92d6dea3ee56f9cf",
+                "nb_intervs": 6,
+                "nb_mots": 130
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 3,
+            "nb_mots": 3305,
+            "orateurs": {
+              "luc belot": {
+                "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_39f00c5d6469a20b4f4b5131bdfa5f37",
+                "nb_intervs": 3,
+                "nb_mots": 3305
+              }
+            }
+          }
+        },
+        "last_date": "2015-12-09",
+        "link": "https://2012-2017.nosdeputes.fr/14/seance/5542#inter_9aaf8deb52bab69fc0cea5a250a96473",
+        "order": 2,
+        "source": "http://www.assemblee-nationale.fr/14/cri/2015-2016/20160006.asp#P610068",
+        "total_intervs": 15,
+        "total_mots": 6934
+      }
+    },
+    "groupes": {
+      "ECOLO": {
+        "color": "rgb(0,230,30)",
+        "link": "https://2012-2017.nosdeputes.fr/groupe/ECOLO",
+        "nom": "Écologiste",
+        "order": 13
+      },
+      "Gouvernement": {
+        "color": "#cccbb3",
+        "link": "",
+        "nom": "Gouvernement",
+        "order": 60
+      },
+      "LR": {
+        "color": "rgb(30,30,200)",
+        "link": "https://2012-2017.nosdeputes.fr/groupe/LR",
+        "nom": "Les républicains",
+        "order": 18
+      },
+      "Présidence": {
+        "color": "#bfbbcc",
+        "link": "",
+        "nom": "Présidence",
+        "order": 0
+      },
+      "RRDP": {
+        "color": "rgb(250,195,132)",
+        "link": "https://2012-2017.nosdeputes.fr/groupe/RRDP",
+        "nom": "Radical, républicain, démocrate et progressiste",
+        "order": 14
+      },
+      "Rapporteurs": {
+        "color": "#b9ccc0",
+        "link": "",
+        "nom": "Rapporteurs",
+        "order": 50
+      },
+      "SRC": {
+        "color": "rgb(255,50,190)",
+        "link": "https://2012-2017.nosdeputes.fr/groupe/SRC",
+        "nom": "Socialiste, républicain et citoyen",
+        "order": 11
+      },
+      "UDI": {
+        "color": "rgb(30,180,255)",
+        "link": "https://2012-2017.nosdeputes.fr/groupe/UDI",
+        "nom": "Union des démocrates et indépendants",
+        "order": 15
+      }
+    },
+    "orateurs": {
+      "bertrand pancher": {
+        "color": "rgb(30,180,255)",
+        "fonction": "",
+        "groupe": "UDI",
+        "link": "https://2012-2017.nosdeputes.fr/bertrand-pancher",
+        "nom": "Bertrand Pancher",
+        "photo": "https://2012-2017.nosdeputes.fr/depute/photo/bertrand-pancher"
+      },
+      "clotilde valter": {
+        "color": "#888888",
+        "fonction": "secrétaire d’état chargée de la réforme de l’état et de la simplification",
+        "groupe": "",
+        "link": "",
+        "nom": "Clotilde Valter",
+        "photo": ""
+      },
+      "david habib": {
+        "color": "rgb(255,50,190)",
+        "fonction": "président",
+        "groupe": "SRC",
+        "link": "https://2012-2017.nosdeputes.fr/david-habib",
+        "nom": "David Habib",
+        "photo": "https://2012-2017.nosdeputes.fr/depute/photo/david-habib"
+      },
+      "isabelle attard": {
+        "color": "rgb(0,230,30)",
+        "fonction": "",
+        "groupe": "ECOLO",
+        "link": "https://2012-2017.nosdeputes.fr/isabelle-attard",
+        "nom": "Isabelle Attard",
+        "photo": "https://2012-2017.nosdeputes.fr/depute/photo/isabelle-attard"
+      },
+      "jacques krabal": {
+        "color": "rgb(250,195,132)",
+        "fonction": "",
+        "groupe": "RRDP",
+        "link": "https://2012-2017.nosdeputes.fr/jacques-krabal",
+        "nom": "Jacques Krabal",
+        "photo": "https://2012-2017.nosdeputes.fr/depute/photo/jacques-krabal"
+      },
+      "jacques moignard": {
+        "color": "rgb(250,195,132)",
+        "fonction": "",
+        "groupe": "RRDP",
+        "link": "https://2012-2017.nosdeputes.fr/jacques-moignard",
+        "nom": "Jacques Moignard",
+        "photo": "https://2012-2017.nosdeputes.fr/depute/photo/jacques-moignard"
+      },
+      "lionel tardy": {
+        "color": "rgb(30,30,200)",
+        "fonction": "",
+        "groupe": "LR",
+        "link": "https://2012-2017.nosdeputes.fr/lionel-tardy",
+        "nom": "Lionel Tardy",
+        "photo": "https://2012-2017.nosdeputes.fr/depute/photo/lionel-tardy"
+      },
+      "luc belot": {
+        "color": "rgb(255,50,190)",
+        "fonction": "rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République",
+        "groupe": "SRC",
+        "link": "https://2012-2017.nosdeputes.fr/luc-belot",
+        "nom": "Luc Belot",
+        "photo": "https://2012-2017.nosdeputes.fr/depute/photo/luc-belot"
+      },
+      "marie-anne chapdelaine": {
+        "color": "rgb(255,50,190)",
+        "fonction": "",
+        "groupe": "SRC",
+        "link": "https://2012-2017.nosdeputes.fr/marie-anne-chapdelaine",
+        "nom": "Marie-Anne Chapdelaine",
+        "photo": "https://2012-2017.nosdeputes.fr/depute/photo/marie-anne-chapdelaine"
+      },
+      "michel piron": {
+        "color": "rgb(30,180,255)",
+        "fonction": "",
+        "groupe": "UDI",
+        "link": "https://2012-2017.nosdeputes.fr/michel-piron",
+        "nom": "Michel Piron",
+        "photo": "https://2012-2017.nosdeputes.fr/depute/photo/michel-piron"
+      },
+      "patrice martin-lalande": {
+        "color": "rgb(30,30,200)",
+        "fonction": "",
+        "groupe": "LR",
+        "link": "https://2012-2017.nosdeputes.fr/patrice-martin-lalande",
+        "nom": "Patrice Martin-Lalande",
+        "photo": "https://2012-2017.nosdeputes.fr/depute/photo/patrice-martin-lalande"
+      },
+      "paul molac": {
+        "color": "rgb(0,230,30)",
+        "fonction": "",
+        "groupe": "ECOLO",
+        "link": "https://2012-2017.nosdeputes.fr/paul-molac",
+        "nom": "Paul Molac",
+        "photo": "https://2012-2017.nosdeputes.fr/depute/photo/paul-molac"
+      },
+      "rené dosière": {
+        "color": "rgb(255,50,190)",
+        "fonction": "",
+        "groupe": "SRC",
+        "link": "https://2012-2017.nosdeputes.fr/rene-dosiere",
+        "nom": "René Dosière",
+        "photo": "https://2012-2017.nosdeputes.fr/depute/photo/rene-dosiere"
       }
     }
   },

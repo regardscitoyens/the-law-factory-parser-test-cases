@@ -50,68 +50,68 @@ WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 25 <-> 27 20 Vs 285 chars, sim
  - process amendements & interventions
     * step - 1ère lecture depot http://www.assemblee-nationale.fr/13/projets/pl0820.asp
     * step - 1ère lecture commission http://www.assemblee-nationale.fr/13/rapports/r0892.asp
-      * downloading amendments: https://nosdeputes.fr/13/amendements/820/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/projets/pl0820.asp
+      * downloading amendments: https://2007-2012.nosdeputes.fr/13/amendements/820/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/projets/pl0820.asp
         parsing amendments: 631
 WARNING: amendments ignored (not the right step) 631
       * downloading interventions
-        * downloading seances -  https://2007-2012.nosdeputes.fr/seances/820/json?commission=1
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/1050/820/json
+        * downloading seances -  https://2007-2012.nosdeputes.fr/13/seances/820/json?commission=1
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/1050/820/json
             dumping seance - 2008-05-06T16:15_1050
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/1280/820/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/1280/820/json
             dumping seance - 2008-05-20T14:45_1280
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/1305/820/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/1305/820/json
             dumping seance - 2008-05-14T16:15_1305
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/1456/820/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/1456/820/json
             dumping seance - 2008-05-13T16:30_1456
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/1462/820/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/1462/820/json
             dumping seance - 2008-05-13T17:15_1462
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/1469/820/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/1469/820/json
             dumping seance - 2008-05-14T09:30_1469
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/2430/820/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/2430/820/json
             dumping seance - 2008-05-14T10:00_2430
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/2534/820/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/2534/820/json
             dumping seance - 2008-05-13T11:30_2534
     * step - 1ère lecture hemicycle http://www.assemblee-nationale.fr/13/ta/ta0150.asp
-      * downloading amendments: https://nosdeputes.fr/13/amendements/820/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/projets/pl0820.asp
+      * downloading amendments: https://2007-2012.nosdeputes.fr/13/amendements/820/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/projets/pl0820.asp
         parsing amendments: 631
       * downloading interventions
-        * downloading seances -  https://2007-2012.nosdeputes.fr/seances/820/json?hemicycle=1
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/103/820/json
+        * downloading seances -  https://2007-2012.nosdeputes.fr/13/seances/820/json?hemicycle=1
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/103/820/json
             dumping seance - 2008-05-28T15:00_103
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/131/820/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/131/820/json
             dumping seance - 2008-05-29T15:00_131
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/138/820/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/138/820/json
             dumping seance - 2008-06-03T15:00_138
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/181/820/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/181/820/json
             dumping seance - 2008-05-21T21:30_181
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/231/820/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/231/820/json
             dumping seance - 2008-05-27T15:00_231
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/291/820/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/291/820/json
             dumping seance - 2008-05-22T21:30_291
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/346/820/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/346/820/json
             dumping seance - 2008-05-20T21:30_346
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/355/820/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/355/820/json
             dumping seance - 2008-05-22T15:00_355
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/358/820/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/358/820/json
             dumping seance - 2008-05-28T21:30_358
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/378/820/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/378/820/json
             dumping seance - 2008-05-21T15:00_378
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/420/820/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/420/820/json
             dumping seance - 2008-05-27T21:30_420
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/436/820/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/436/820/json
             dumping seance - 2008-05-26T21:30_436
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/546/820/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/546/820/json
             dumping seance - 2008-05-29T10:45_546
     * step - 1ère lecture depot https://www.senat.fr/leg/pjl07-365.html
     * step - 1ère lecture commission https://www.senat.fr/rap/l07-387/l07-387.html
-      * downloading amendments: https://nossenateurs.fr/amendements/20072008-365/json?cache=5feb2018 for https://www.senat.fr/leg/pjl07-365.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20072008-365/json?cache=5feb2018 for https://www.senat.fr/leg/pjl07-365.html
         parsing amendments: 495
 WARNING: amendments ignored (not the right step) 495
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20072008-365/json?commission=1
            downloading seance -  https://www.nossenateurs.fr/seance/3324/20072008-365/json
     * step - 1ère lecture hemicycle https://www.senat.fr/leg/tas07-116.html
-      * downloading amendments: https://nossenateurs.fr/amendements/20072008-365/json?cache=5feb2018 for https://www.senat.fr/leg/pjl07-365.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20072008-365/json?cache=5feb2018 for https://www.senat.fr/leg/pjl07-365.html
         parsing amendments: 495
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20072008-365/json?hemicycle=1
@@ -136,37 +136,37 @@ WARNING: amendments ignored (not the right step) 495
             dumping seance - 2008-06-24T16:00_770
     * step - 2ème lecture depot http://www.assemblee-nationale.fr/13/projets/pl0993.asp
     * step - 2ème lecture commission http://www.assemblee-nationale.fr/13/rapports/r1009.asp
-      * downloading amendments: https://nosdeputes.fr/13/amendements/993/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/projets/pl0993.asp
+      * downloading amendments: https://2007-2012.nosdeputes.fr/13/amendements/993/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/projets/pl0993.asp
         parsing amendments: 324
 WARNING: amendments ignored (not the right step) 324
       * downloading interventions
-        * downloading seances -  https://2007-2012.nosdeputes.fr/seances/993/json?commission=1
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/1216/993/json
+        * downloading seances -  https://2007-2012.nosdeputes.fr/13/seances/993/json?commission=1
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/1216/993/json
             dumping seance - 2008-07-08T14:30_1216
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/1505/993/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/1505/993/json
             dumping seance - 2008-07-02T10:00_1505
     * step - 2ème lecture hemicycle http://www.assemblee-nationale.fr/13/ta/ta0172.asp
-      * downloading amendments: https://nosdeputes.fr/13/amendements/993/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/projets/pl0993.asp
+      * downloading amendments: https://2007-2012.nosdeputes.fr/13/amendements/993/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/projets/pl0993.asp
         parsing amendments: 324
       * downloading interventions
-        * downloading seances -  https://2007-2012.nosdeputes.fr/seances/993/json?hemicycle=1
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/273/993/json
+        * downloading seances -  https://2007-2012.nosdeputes.fr/13/seances/993/json?hemicycle=1
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/273/993/json
             dumping seance - 2008-07-09T21:30_273
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/526/993/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/526/993/json
             dumping seance - 2008-07-08T21:30_526
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/597/993/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/597/993/json
             dumping seance - 2008-07-08T15:00_597
-           downloading seance -  https://2007-2012.nosdeputes.fr/seance/73/993/json
+           downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/73/993/json
             dumping seance - 2008-07-09T16:30_73
     * step - 2ème lecture depot https://www.senat.fr/leg/pjl07-459.html
     * step - 2ème lecture commission https://www.senat.fr/rap/l07-463/l07-463.html
-      * downloading amendments: https://nossenateurs.fr/amendements/20072008-459/json?cache=5feb2018 for https://www.senat.fr/leg/pjl07-459.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20072008-459/json?cache=5feb2018 for https://www.senat.fr/leg/pjl07-459.html
         parsing amendments: 137
 WARNING: amendments ignored (not the right step) 137
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20072008-459/json?commission=1
     * step - 2ème lecture hemicycle https://www.senat.fr/leg/tas07-137.html
-      * downloading amendments: https://nossenateurs.fr/amendements/20072008-459/json?cache=5feb2018 for https://www.senat.fr/leg/pjl07-459.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20072008-459/json?cache=5feb2018 for https://www.senat.fr/leg/pjl07-459.html
         parsing amendments: 137
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20072008-459/json?hemicycle=1

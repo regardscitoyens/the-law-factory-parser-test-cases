@@ -43,20 +43,25 @@ WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 1er B <-> 2 377 Vs 228 chars, 
  - process amendements & interventions
     * step - 1ère lecture depot http://www.assemblee-nationale.fr/14/projets/pl3037.asp
     * step - 1ère lecture commission http://www.assemblee-nationale.fr/14/ta-commission/r3090-a0.asp
-      * downloading amendments: https://nosdeputes.fr/14/amendements/3037/json?cache=5feb2018 for http://www.assemblee-nationale.fr/14/projets/pl3037.asp
+      * downloading amendments: https://2012-2017.nosdeputes.fr/14/amendements/3037/json?cache=5feb2018 for http://www.assemblee-nationale.fr/14/projets/pl3037.asp
         parsing amendments: 44
       * downloading interventions
-        * downloading seances -  https://2012-2017.nosdeputes.fr/seances/3037/json?commission=1
+        * downloading seances -  https://2012-2017.nosdeputes.fr/14/seances/3037/json?commission=1
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/5495/3037/json
+            dumping seance - 2015-09-29T15:00_5495
     * step - 1ère lecture hemicycle http://www.assemblee-nationale.fr/14/ta/ta0593.asp
-      * downloading amendments: https://nosdeputes.fr/14/amendements/3090/json?cache=5feb2018 for http://www.assemblee-nationale.fr/14/ta-commission/r3090-a0.asp
+      * downloading amendments: https://2012-2017.nosdeputes.fr/14/amendements/3090/json?cache=5feb2018 for http://www.assemblee-nationale.fr/14/ta-commission/r3090-a0.asp
         parsing amendments: 39
 WARNING: amendments ignored (not the right step) 1
       * downloading interventions
-        * downloading seances -  https://2012-2017.nosdeputes.fr/seances/3090/json?hemicycle=1
-        * downloading seances -  https://2012-2017.nosdeputes.fr/seances/3037/json?hemicycle=1
+        * downloading seances -  https://2012-2017.nosdeputes.fr/14/seances/3090/json?hemicycle=1
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/5542/3090/json
+            dumping seance - 2015-10-06T15:00_5542
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/5977/3090/json
+            dumping seance - 2015-12-09T15:00_5977
     * step - 1ère lecture depot https://www.senat.fr/leg/pjl15-034.html
     * step - 1ère lecture commission https://www.senat.fr/leg/pjl15-094.html
-      * downloading amendments: https://nossenateurs.fr/amendements/20152016-034/json?cache=5feb2018 for https://www.senat.fr/leg/pjl15-034.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20152016-034/json?cache=5feb2018 for https://www.senat.fr/leg/pjl15-034.html
         parsing amendments: 13
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20152016-034/json?commission=1
@@ -65,7 +70,7 @@ WARNING: amendments ignored (not the right step) 1
            downloading seance -  https://www.nossenateurs.fr/seance/13503/20152016-034/json
            downloading seance -  https://www.nossenateurs.fr/seance/13570/20152016-034/json
     * step - 1ère lecture hemicycle https://www.senat.fr/leg/tas15-023.html
-      * downloading amendments: https://nossenateurs.fr/amendements/20152016-094/json?cache=5feb2018 for https://www.senat.fr/leg/pjl15-094.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20152016-094/json?cache=5feb2018 for https://www.senat.fr/leg/pjl15-094.html
         parsing amendments: 22
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20152016-094/json?hemicycle=1
@@ -73,12 +78,16 @@ WARNING: amendments ignored (not the right step) 1
             dumping seance - 2015-10-26T16:00_13559
     * step - CMP commission https://www.senat.fr/leg/pjl15-189.html
     * step - CMP hemicycle http://www.assemblee-nationale.fr/14/ta/ta0628.asp
-      * downloading amendments: https://nosdeputes.fr/14/amendements/3243/json?cache=5feb2018 for http://www.assemblee-nationale.fr/14/ta-commission/r3243-a0.asp
+      * downloading amendments: https://2012-2017.nosdeputes.fr/14/amendements/3243/json?cache=5feb2018 for http://www.assemblee-nationale.fr/14/ta-commission/r3243-a0.asp
         parsing amendments: 0
       * downloading interventions
-        * downloading seances -  https://2012-2017.nosdeputes.fr/seances/3243/json?hemicycle=1
+        * downloading seances -  https://2012-2017.nosdeputes.fr/14/seances/3243/json?hemicycle=1
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/5542/3243/json
+            dumping seance - 2015-10-06T15:00_5542
+           downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/5977/3243/json
+            dumping seance - 2015-12-09T15:00_5977
     * step - CMP hemicycle https://www.senat.fr/leg/tas15-063.html
-      * downloading amendments: https://nossenateurs.fr/amendements/20152016-189/json?cache=5feb2018 for https://www.senat.fr/leg/pjl15-189.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20152016-189/json?cache=5feb2018 for https://www.senat.fr/leg/pjl15-189.html
         parsing amendments: 0
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20152016-189/json?hemicycle=1
@@ -86,6 +95,8 @@ WARNING: amendments ignored (not the right step) 1
             dumping seance - 2015-12-17T10:30_13966
     * step - promulgation None https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000031701525&categorieLien=id
  - re-order interventions and correct procedure dates
+INFO: moves  2015-12-09T15:00_5977  from step 2 to step 7
+ERROR: PB date of 2015-10-06T15:00_5542 , step begins 2015-12-09 and prev date ends 2015-11-24
  - prepare interventions.json
  - compute stats
   FINISHED - pjl15-034

@@ -27,9 +27,9 @@
     "total_amendements_parlementaire_adoptes": 217,
     "total_days": 172,
     "total_input_articles": 5,
-    "total_intervenants": 75,
-    "total_interventions": 1917,
-    "total_mots": 194483,
+    "total_intervenants": 222,
+    "total_interventions": 10509,
+    "total_mots": 737883,
     "total_output_articles": 16
   },
   "steps": [
@@ -46,24 +46,38 @@
       "step": "depot"
     },
     {
-      "date": "2013-06-05",
+      "date": "2013-06-04",
       "debats_order": 1,
       "directory": "01_1erelecture_assemblee_commission",
       "echec": null,
-      "enddate": "2013-06-05",
+      "enddate": "2013-06-17",
+      "has_interventions": true,
       "institution": "assemblee",
+      "intervention_files": [
+        "2013-06-04T17:30_1461",
+        "2013-06-17T15:00_1525"
+      ],
       "nb_amendements": 89,
       "source_url": "http://www.assemblee-nationale.fr/14/ta-commission/r1108-a0.asp",
       "stage": "1ère lecture",
       "step": "commission"
     },
     {
-      "date": "2013-06-25",
+      "date": "2013-06-17",
       "debats_order": 2,
       "directory": "02_1erelecture_assemblee_hemicycle",
       "echec": null,
       "enddate": "2013-06-25",
+      "has_interventions": true,
       "institution": "assemblee",
+      "intervention_files": [
+        "2013-06-17T21:30_1530",
+        "2013-06-18T15:00_1818",
+        "2013-06-18T21:30_1540",
+        "2013-06-19T15:00_1555",
+        "2013-06-19T21:30_1553",
+        "2013-06-25T15:00_1624"
+      ],
       "nb_amendements": 382,
       "source_url": "http://www.assemblee-nationale.fr/14/ta/ta0161.asp",
       "stage": "1ère lecture",
@@ -163,20 +177,40 @@
       "debats_order": 10,
       "directory": "10_nouv.lect._assemblee_commission",
       "echec": null,
-      "enddate": "2013-07-17",
+      "enddate": "2013-07-23",
+      "has_interventions": true,
       "institution": "assemblee",
+      "intervention_files": [
+        "2013-07-17T14:00_1741",
+        "2013-07-22T16:00_1764",
+        "2013-07-22T17:00_1834",
+        "2013-07-22T21:45_1832",
+        "2013-07-23T15:00_2140"
+      ],
       "nb_amendements": 6,
       "source_url": "http://www.assemblee-nationale.fr/14/ta-commission/r1279-a0.asp",
       "stage": "nouv. lect.",
       "step": "commission"
     },
     {
-      "date": "2013-07-23",
+      "date": "2013-07-22",
       "debats_order": 11,
       "directory": "11_nouv.lect._assemblee_hemicycle",
       "echec": null,
       "enddate": "2013-07-23",
+      "has_interventions": true,
       "institution": "assemblee",
+      "intervention_files": [
+        "2013-06-17T21:30_1530",
+        "2013-06-18T15:00_1818",
+        "2013-06-18T21:30_1540",
+        "2013-06-19T15:00_1555",
+        "2013-06-19T21:30_1553",
+        "2013-06-25T15:00_1624",
+        "2013-07-22T17:00_1834",
+        "2013-07-22T21:45_1832",
+        "2013-07-23T15:00_2140"
+      ],
       "nb_amendements": 37,
       "source_url": "http://www.assemblee-nationale.fr/14/ta/ta0191.asp",
       "stage": "nouv. lect.",
@@ -224,8 +258,15 @@
       "date": "2013-07-26",
       "debats_order": null,
       "directory": "15_l.définitive_assemblee_depot",
-      "enddate": "2013-07-26",
+      "enddate": "2013-09-17",
+      "has_interventions": true,
       "institution": "assemblee",
+      "intervention_files": [
+        "2013-09-11T15:00_2137",
+        "2013-09-11T15:00_2137",
+        "2013-09-17T15:00_2142",
+        "2013-09-17T15:00_2142"
+      ],
       "source_url": "http://www.assemblee-nationale.fr/14/ta/ta0191.asp",
       "stage": "l. définitive",
       "step": "depot"
