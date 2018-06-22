@@ -1,0 +1,698 @@
+{
+  "api_root_url": "https://2017-2022.nosdeputes.fr/api/document/Amendement/",
+  "groupes": {
+    "LC": {
+      "color": "rgb(30,180,255)",
+      "link": "https://2017-2022.nosdeputes.fr/groupe/LC",
+      "nom": "Les Constructifs : Républicains, UDI, Indépendants",
+      "order": 15
+    },
+    "LFI": {
+      "color": "rgb(204,42,70)",
+      "link": "https://2017-2022.nosdeputes.fr/groupe/LFI",
+      "nom": "La France Insoumise",
+      "order": 10
+    },
+    "LR": {
+      "color": "rgb(30,30,200)",
+      "link": "https://2017-2022.nosdeputes.fr/groupe/LR",
+      "nom": "Les Républicains",
+      "order": 17
+    },
+    "LREM": {
+      "color": "rgb(232,197,5)",
+      "link": "https://2017-2022.nosdeputes.fr/groupe/LREM",
+      "nom": "La République En Marche",
+      "order": 13
+    },
+    "NG": {
+      "color": "rgb(255,50,190)",
+      "link": "https://2017-2022.nosdeputes.fr/groupe/NG",
+      "nom": "Nouvelle Gauche",
+      "order": 12
+    },
+    "NI": {
+      "color": "rgb(165,165,165)",
+      "link": "https://2017-2022.nosdeputes.fr/groupe/NI",
+      "nom": "Députés Non Inscrits",
+      "order": 18
+    }
+  },
+  "id_step": "09_nouv.lect._assemblee_hemicycle",
+  "sujets": {
+    "Article 12": {
+      "amendements": [
+        {
+          "aut": "Mme Batho, …",
+          "date": "2017-08-03",
+          "groupe": "NG",
+          "id_api": "2152",
+          "numero": "53",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Batho, …",
+          "date": "2017-08-03",
+          "groupe": "NG",
+          "id_api": "2102",
+          "numero": "59",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Batho, …",
+          "date": "2017-08-03",
+          "groupe": "NG",
+          "id_api": "2131",
+          "numero": "60",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-03",
+          "groupe": "LREM",
+          "id_api": "2168",
+          "numero": "73",
+          "sort": "adopté"
+        }
+      ],
+      "order": 200,
+      "titre": "Article 12"
+    },
+    "Article 13": {
+      "amendements": [
+        {
+          "aut": "Mme Obono, …",
+          "date": "2017-08-03",
+          "groupe": "LFI",
+          "id_api": "2121",
+          "numero": "27",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 210,
+      "titre": "Article 13"
+    },
+    "Article 16": {
+      "amendements": [
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-03",
+          "groupe": "LREM",
+          "id_api": "2171",
+          "numero": "74",
+          "sort": "adopté"
+        }
+      ],
+      "order": 240,
+      "titre": "Article 16"
+    },
+    "Article 17": {
+      "amendements": [
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-03",
+          "groupe": "LREM",
+          "id_api": "2170",
+          "numero": "47",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-03",
+          "groupe": "LREM",
+          "id_api": "2118",
+          "numero": "48",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-03",
+          "groupe": "LREM",
+          "id_api": "2154",
+          "numero": "49",
+          "sort": "adopté"
+        }
+      ],
+      "order": 250,
+      "titre": "Article 17"
+    },
+    "Article 18": {
+      "amendements": [
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-03",
+          "groupe": "LREM",
+          "id_api": "2132",
+          "numero": "50",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-03",
+          "groupe": "LREM",
+          "id_api": "2139",
+          "numero": "51",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-03",
+          "groupe": "LREM",
+          "id_api": "2157",
+          "numero": "52",
+          "sort": "adopté"
+        }
+      ],
+      "order": 260,
+      "titre": "Article 18"
+    },
+    "Article 19": {
+      "amendements": [
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-03",
+          "groupe": "LREM",
+          "id_api": "2169",
+          "numero": "75",
+          "sort": "adopté"
+        }
+      ],
+      "order": 270,
+      "titre": "Article 19"
+    },
+    "Article 2": {
+      "amendements": [
+        {
+          "aut": "Mme Obono, …",
+          "date": "2017-08-03",
+          "groupe": "LFI",
+          "id_api": "2126",
+          "numero": "24",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Le Fur, …",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2104",
+          "numero": "69",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 40,
+      "titre": "Article 2"
+    },
+    "Article 5": {
+      "amendements": [
+        {
+          "aut": "M. Bernalicis, …",
+          "date": "2017-08-03",
+          "groupe": "LFI",
+          "id_api": "2128",
+          "numero": "25",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Batho, …",
+          "date": "2017-08-03",
+          "groupe": "NG",
+          "id_api": "2105",
+          "numero": "31",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Batho, …",
+          "date": "2017-08-03",
+          "groupe": "NG",
+          "id_api": "2167",
+          "numero": "32",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Batho, …",
+          "date": "2017-08-03",
+          "groupe": "NG",
+          "id_api": "2129",
+          "numero": "36",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Batho, …",
+          "date": "2017-08-03",
+          "groupe": "NG",
+          "id_api": "2123",
+          "numero": "37",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Batho, …",
+          "date": "2017-08-03",
+          "groupe": "NG",
+          "id_api": "2141",
+          "numero": "38",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Batho, …",
+          "date": "2017-08-03",
+          "groupe": "NG",
+          "id_api": "2133",
+          "numero": "42",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Batho, …",
+          "date": "2017-08-03",
+          "groupe": "NG",
+          "id_api": "2164",
+          "numero": "62",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 80,
+      "titre": "Article 5"
+    },
+    "Article 6 bis": {
+      "amendements": [
+        {
+          "aut": "Mme Batho, …",
+          "date": "2017-08-03",
+          "groupe": "NG",
+          "id_api": "2117",
+          "numero": "44",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Batho, …",
+          "date": "2017-08-03",
+          "groupe": "NG",
+          "id_api": "2147",
+          "numero": "45",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Potier, …",
+          "date": "2017-08-03",
+          "groupe": "NG",
+          "id_api": "2138",
+          "numero": "55",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Potier, …",
+          "date": "2017-08-03",
+          "groupe": "NG",
+          "id_api": "2144",
+          "numero": "56",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Untermaier, …",
+          "date": "2017-08-03",
+          "groupe": "NG",
+          "id_api": "2106",
+          "numero": "57",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Batho, …",
+          "date": "2017-08-03",
+          "groupe": "NG",
+          "id_api": "2151",
+          "numero": "63",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-03",
+          "groupe": "LREM",
+          "id_api": "2109",
+          "numero": "65",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Forteza, …",
+          "date": "2017-08-03",
+          "groupe": "LREM",
+          "id_api": "2140",
+          "numero": "68",
+          "sort": "adopté"
+        }
+      ],
+      "order": 100,
+      "titre": "Article 6 bis"
+    },
+    "Article 9": {
+      "amendements": [
+        {
+          "aut": "M. Boucard",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2166",
+          "numero": "3",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Larrivé",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2162",
+          "numero": "5",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Le Fur, …",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2124",
+          "numero": "6",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Breton, …",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2153",
+          "numero": "7",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Breton, …",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2099",
+          "numero": "8",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Breton, …",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2163",
+          "numero": "9",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Larrivé",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2112",
+          "numero": "10",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Larrivé",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2149",
+          "numero": "11",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Saddier, …",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2161",
+          "numero": "13",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Saddier, …",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2142",
+          "numero": "15",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Saddier, …",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2134",
+          "numero": "16",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Saddier, …",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2150",
+          "numero": "17",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Viala, …",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2156",
+          "numero": "20",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Viala, …",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2108",
+          "numero": "21",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Viala, …",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2125",
+          "numero": "22",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bazin",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2135",
+          "numero": "29",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bazin",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2127",
+          "numero": "30",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Meyer Habib",
+          "date": "2017-08-03",
+          "groupe": "LC",
+          "id_api": "2159",
+          "numero": "33",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Meyer Habib",
+          "date": "2017-08-03",
+          "groupe": "LC",
+          "id_api": "2120",
+          "numero": "34",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Gomès, …",
+          "date": "2017-08-03",
+          "groupe": "LC",
+          "id_api": "2103",
+          "numero": "35",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Viala, …",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2130",
+          "numero": "39",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Viala, …",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2114",
+          "numero": "40",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Ménard",
+          "date": "2017-08-03",
+          "groupe": "NI",
+          "id_api": "2155",
+          "numero": "41",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Untermaier, …",
+          "date": "2017-08-03",
+          "groupe": "NG",
+          "id_api": "2165",
+          "numero": "54",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Le Fur",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2110",
+          "numero": "58",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Zumkeller, …",
+          "date": "2017-08-03",
+          "groupe": "LC",
+          "id_api": "2115",
+          "numero": "61",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Diard",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2146",
+          "numero": "64",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Jean-Pierre Vigier",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2158",
+          "numero": "66",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Jean-Pierre Vigier",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2119",
+          "numero": "67",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Rabault, …",
+          "date": "2017-08-03",
+          "groupe": "NG",
+          "id_api": "2148",
+          "numero": "70",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Rabault, …",
+          "date": "2017-08-03",
+          "groupe": "NG",
+          "id_api": "2100",
+          "numero": "71",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Rabault, …",
+          "date": "2017-08-03",
+          "groupe": "NG",
+          "id_api": "2137",
+          "numero": "72",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 140,
+      "titre": "Article 9"
+    },
+    "Article 9 bis": {
+      "amendements": [
+        {
+          "aut": "M. Pradié, …",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2107",
+          "numero": "4",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Le Fur, …",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2122",
+          "numero": "12",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Le Fur, …",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2160",
+          "numero": "18",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Viala, …",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2113",
+          "numero": "23",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bernalicis, …",
+          "date": "2017-08-03",
+          "groupe": "LFI",
+          "id_api": "2136",
+          "numero": "26",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 150,
+      "titre": "Article 9 bis"
+    },
+    "Article 9 ter": {
+      "amendements": [
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-03",
+          "groupe": "LREM",
+          "id_api": "2101",
+          "numero": "1",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-03",
+          "groupe": "LREM",
+          "id_api": "2145",
+          "numero": "2",
+          "sort": "adopté"
+        }
+      ],
+      "order": 160,
+      "titre": "Article 9 ter"
+    },
+    "Avant l'article 9": {
+      "amendements": [
+        {
+          "aut": "M. Saddier, …",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2116",
+          "numero": "14",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Le Fur, …",
+          "date": "2017-08-03",
+          "groupe": "LR",
+          "id_api": "2143",
+          "numero": "28",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 139,
+      "titre": "Avant l'article 9"
+    }
+  }
+}

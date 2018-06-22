@@ -1,0 +1,844 @@
+{
+  "api_root_url": "https://www.nossenateurs.fr/api/document/Amendement/",
+  "groupes": {
+    "CRC": {
+      "color": "rgb(255,30,30)",
+      "link": "https://www.nossenateurs.fr/groupe/CRC",
+      "nom": "Communiste, Républicain, Citoyen et des Sénateurs du Parti de Gauche",
+      "order": 11
+    },
+    "Gouvernement": {
+      "color": "#cccbb3",
+      "link": "",
+      "nom": "Gouvernement",
+      "order": 60
+    },
+    "LREM": {
+      "color": "rgb(232,197,5)",
+      "link": "https://www.nossenateurs.fr/groupe/LREM",
+      "nom": "La République en Marche",
+      "order": 18
+    },
+    "RDSE": {
+      "color": "rgb(250,195,132)",
+      "link": "https://www.nossenateurs.fr/groupe/RDSE",
+      "nom": "Rassemblement Démocratique et Social européen",
+      "order": 17
+    },
+    "SOC": {
+      "color": "rgb(255,50,190)",
+      "link": "https://www.nossenateurs.fr/groupe/SOC",
+      "nom": "Socialiste et républicain",
+      "order": 14
+    },
+    "UC": {
+      "color": "rgb(130,140,255)",
+      "link": "https://www.nossenateurs.fr/groupe/UC",
+      "nom": "Union Centriste",
+      "order": 20
+    },
+    "UMP": {
+      "color": "rgb(30,30,200)",
+      "link": "https://www.nossenateurs.fr/groupe/UMP",
+      "nom": "Union pour un Mouvement Populaire",
+      "order": 23
+    }
+  },
+  "id_step": "02_1erelecture_senat_hemicycle",
+  "sujets": {
+    "Après l'article 14": {
+      "amendements": [
+        {
+          "aut": "M. Maurey, …",
+          "date": "2017-07-10",
+          "groupe": "UC",
+          "id_api": "130990",
+          "numero": "15",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Maurey, …",
+          "date": "2017-07-10",
+          "groupe": "UC",
+          "id_api": "130991",
+          "numero": "16",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Kaltenbach",
+          "date": "2017-07-07",
+          "groupe": "SOC",
+          "id_api": "130933",
+          "numero": "22",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Kaltenbach",
+          "date": "2017-07-07",
+          "groupe": "SOC",
+          "id_api": "130934",
+          "numero": "23",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme S. Robert, …",
+          "date": "2017-07-10",
+          "groupe": "SOC",
+          "id_api": "130995",
+          "numero": "24",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Assouline",
+          "date": "2017-07-10",
+          "groupe": "SOC",
+          "id_api": "131027",
+          "numero": "60",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 22,
+      "titre": "Après l'article 14"
+    },
+    "Après l'article 1er": {
+      "amendements": [
+        {
+          "aut": "Mmes Assassi, …",
+          "date": "2017-07-10",
+          "groupe": "CRC",
+          "id_api": "131011",
+          "numero": "40",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Assassi, …",
+          "date": "2017-07-11",
+          "groupe": "CRC",
+          "id_api": "131349",
+          "numero": "86",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 3,
+      "titre": "Après l'article 1er"
+    },
+    "Après l'article 2": {
+      "amendements": [
+        {
+          "aut": "Mme Lienemann, …",
+          "date": "2017-07-10",
+          "groupe": "SOC",
+          "id_api": "130982",
+          "numero": "2",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Lienemann, …",
+          "date": "2017-07-07",
+          "groupe": "SOC",
+          "id_api": "130925",
+          "numero": "3",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Vasselle, …",
+          "date": "2017-07-10",
+          "groupe": "UMP",
+          "id_api": "130983",
+          "numero": "5",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Cabanel, …",
+          "date": "2017-07-10",
+          "groupe": "SOC",
+          "id_api": "130988",
+          "numero": "13",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Garriaud-Maylam",
+          "date": "2017-07-10",
+          "groupe": "UMP",
+          "id_api": "131028",
+          "numero": "61",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 6,
+      "titre": "Après l'article 2"
+    },
+    "Après l'article 2 bis": {
+      "amendements": [
+        {
+          "aut": "MM. Delahaye, …",
+          "date": "2017-07-10",
+          "groupe": "UC",
+          "id_api": "131016",
+          "numero": "47",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 7,
+      "titre": "Après l'article 2 bis"
+    },
+    "Après l'article 3": {
+      "amendements": [
+        {
+          "aut": "Mmes Assassi, …",
+          "date": "2017-07-10",
+          "groupe": "CRC",
+          "id_api": "131013",
+          "numero": "44",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Zocchetto",
+          "date": "2017-07-10",
+          "groupe": "UC",
+          "id_api": "131015",
+          "numero": "46",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 9,
+      "titre": "Après l'article 3"
+    },
+    "Après l'article 4": {
+      "amendements": [
+        {
+          "aut": "Mme Laborde, …",
+          "date": "2017-07-10",
+          "groupe": "RDSE",
+          "id_api": "131048",
+          "numero": "85",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 10,
+      "titre": "Après l'article 4"
+    },
+    "Après l'article 6": {
+      "amendements": [
+        {
+          "aut": "MM. Bonhomme, …",
+          "date": "2017-07-10",
+          "groupe": "UMP",
+          "id_api": "130984",
+          "numero": "7",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Bonhomme, …",
+          "date": "2017-07-11",
+          "groupe": "UMP",
+          "id_api": "131347",
+          "numero": "10",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Doligé, …",
+          "date": "2017-07-10",
+          "groupe": "UMP",
+          "id_api": "131033",
+          "numero": "67",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 12,
+      "titre": "Après l'article 6"
+    },
+    "Après l'article 8": {
+      "amendements": [
+        {
+          "aut": "MM. P. Dominati, …",
+          "date": "2017-07-10",
+          "groupe": "UMP",
+          "id_api": "130981",
+          "numero": "1",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Bonhomme, …",
+          "date": "2017-07-10",
+          "groupe": "UMP",
+          "id_api": "131024",
+          "numero": "55",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Garriaud-Maylam",
+          "date": "2017-07-10",
+          "groupe": "UMP",
+          "id_api": "131029",
+          "numero": "62",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Éblé, …",
+          "date": "2017-07-10",
+          "groupe": "SOC",
+          "id_api": "131030",
+          "numero": "63",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-07-12",
+          "groupe": "UMP",
+          "id_api": "131394",
+          "numero": "88",
+          "sort": "adopté"
+        }
+      ],
+      "order": 14,
+      "titre": "Après l'article 8"
+    },
+    "Après l'article 9 quater": {
+      "amendements": [
+        {
+          "aut": "M. Zocchetto, …",
+          "date": "2017-07-12",
+          "groupe": "UC",
+          "id_api": "131391",
+          "numero": "79",
+          "sort": "adopté"
+        }
+      ],
+      "order": 19,
+      "titre": "Après l'article 9 quater"
+    },
+    "Article 10": {
+      "amendements": [
+        {
+          "aut": "",
+          "date": "2017-07-10",
+          "groupe": "Gouvernement",
+          "id_api": "131039",
+          "numero": "73",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 20,
+      "titre": "Article 10"
+    },
+    "Article 12": {
+      "amendements": [
+        {
+          "aut": "MM. Bonhomme, …",
+          "date": "2017-07-11",
+          "groupe": "UMP",
+          "id_api": "131346",
+          "numero": "9",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 21,
+      "titre": "Article 12"
+    },
+    "Article 1er": {
+      "amendements": [
+        {
+          "aut": "M. Grand",
+          "date": "2017-07-06",
+          "groupe": "UMP",
+          "id_api": "130880",
+          "numero": "6",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Marie, …",
+          "date": "2017-07-12",
+          "groupe": "SOC",
+          "id_api": "131386",
+          "numero": "31",
+          "sort": "adopté"
+        },
+        {
+          "aut": "MM. Marie, …",
+          "date": "2017-07-10",
+          "groupe": "SOC",
+          "id_api": "131003",
+          "numero": "32",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-07-12",
+          "groupe": "UMP",
+          "id_api": "131393",
+          "numero": "87",
+          "sort": "adopté"
+        }
+      ],
+      "order": 2,
+      "titre": "Article 1er"
+    },
+    "Article 2": {
+      "amendements": [
+        {
+          "aut": "",
+          "date": "2017-07-10",
+          "groupe": "Gouvernement",
+          "id_api": "131036",
+          "numero": "70",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-07-12",
+          "groupe": "UMP",
+          "id_api": "131396",
+          "numero": "90",
+          "sort": "adopté"
+        }
+      ],
+      "order": 5,
+      "titre": "Article 2"
+    },
+    "Article 3": {
+      "amendements": [
+        {
+          "aut": "Mme S. Robert, …",
+          "date": "2017-07-10",
+          "groupe": "SOC",
+          "id_api": "131004",
+          "numero": "33",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 8,
+      "titre": "Article 3"
+    },
+    "Article 5": {
+      "amendements": [
+        {
+          "aut": "Mme Lienemann, …",
+          "date": "2017-07-07",
+          "groupe": "SOC",
+          "id_api": "130926",
+          "numero": "4",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Kaltenbach",
+          "date": "2017-07-07",
+          "groupe": "SOC",
+          "id_api": "130931",
+          "numero": "19",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Richard, …",
+          "date": "2017-07-12",
+          "groupe": "LREM",
+          "id_api": "131384",
+          "numero": "25",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mmes Assassi, …",
+          "date": "2017-07-10",
+          "groupe": "CRC",
+          "id_api": "131000",
+          "numero": "29",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Botrel, …",
+          "date": "2017-07-10",
+          "groupe": "SOC",
+          "id_api": "131005",
+          "numero": "34",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Yonnet, …",
+          "date": "2017-07-10",
+          "groupe": "SOC",
+          "id_api": "131006",
+          "numero": "35",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Assouline",
+          "date": "2017-07-10",
+          "groupe": "SOC",
+          "id_api": "131026",
+          "numero": "59",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 11,
+      "titre": "Article 5"
+    },
+    "Article 7": {
+      "amendements": [
+        {
+          "aut": "MM. Bonhomme, …",
+          "date": "2017-07-11",
+          "groupe": "UMP",
+          "id_api": "131345",
+          "numero": "8",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Doligé, …",
+          "date": "2017-07-10",
+          "groupe": "UMP",
+          "id_api": "131031",
+          "numero": "65",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Doligé, …",
+          "date": "2017-07-10",
+          "groupe": "UMP",
+          "id_api": "131032",
+          "numero": "66",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 13,
+      "titre": "Article 7"
+    },
+    "Article 9": {
+      "amendements": [
+        {
+          "aut": "M. Grand",
+          "date": "2017-07-06",
+          "groupe": "UMP",
+          "id_api": "130885",
+          "numero": "11",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Cabanel, …",
+          "date": "2017-07-10",
+          "groupe": "SOC",
+          "id_api": "130989",
+          "numero": "14",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Maurey, …",
+          "date": "2017-07-10",
+          "groupe": "UC",
+          "id_api": "130992",
+          "numero": "17",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Delcros, …",
+          "date": "2017-07-12",
+          "groupe": "UC",
+          "id_api": "131385",
+          "numero": "26",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Assassi",
+          "date": "2017-07-10",
+          "groupe": "CRC",
+          "id_api": "130998",
+          "numero": "27",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Duranton",
+          "date": "2017-07-10",
+          "groupe": "UMP",
+          "id_api": "131001",
+          "numero": "30",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bigot, …",
+          "date": "2017-07-10",
+          "groupe": "SOC",
+          "id_api": "131007",
+          "numero": "36",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mmes Conway-Mouret, …",
+          "date": "2017-07-12",
+          "groupe": "SOC",
+          "id_api": "131387",
+          "numero": "37",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Sueur, …",
+          "date": "2017-07-12",
+          "groupe": "SOC",
+          "id_api": "131388",
+          "numero": "39",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Deromedi, …",
+          "date": "2017-07-10",
+          "groupe": "UMP",
+          "id_api": "131012",
+          "numero": "41",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Marie",
+          "date": "2017-07-10",
+          "groupe": "SOC",
+          "id_api": "131014",
+          "numero": "45",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. M. Mercier, …",
+          "date": "2017-07-10",
+          "groupe": "UC",
+          "id_api": "131017",
+          "numero": "48",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Longeot, …",
+          "date": "2017-07-10",
+          "groupe": "UC",
+          "id_api": "131018",
+          "numero": "49",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Yung",
+          "date": "2017-07-10",
+          "groupe": "LREM",
+          "id_api": "131021",
+          "numero": "52",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Deromedi, …",
+          "date": "2017-07-12",
+          "groupe": "UMP",
+          "id_api": "131389",
+          "numero": "53",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Chasseing, …",
+          "date": "2017-07-12",
+          "groupe": "UMP",
+          "id_api": "131390",
+          "numero": "54",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Bonhomme",
+          "date": "2017-07-10",
+          "groupe": "UMP",
+          "id_api": "131025",
+          "numero": "58",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Doligé, …",
+          "date": "2017-07-10",
+          "groupe": "UMP",
+          "id_api": "131034",
+          "numero": "68",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "",
+          "date": "2017-07-10",
+          "groupe": "Gouvernement",
+          "id_api": "131037",
+          "numero": "71",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "MM. Gremillet, …",
+          "date": "2017-07-10",
+          "groupe": "UMP",
+          "id_api": "131041",
+          "numero": "76",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Arnell, …",
+          "date": "2017-07-10",
+          "groupe": "RDSE",
+          "id_api": "131043",
+          "numero": "80",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Laborde, …",
+          "date": "2017-07-10",
+          "groupe": "RDSE",
+          "id_api": "131044",
+          "numero": "81",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Laborde, …",
+          "date": "2017-07-10",
+          "groupe": "RDSE",
+          "id_api": "131045",
+          "numero": "82",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Bertrand, …",
+          "date": "2017-07-12",
+          "groupe": "RDSE",
+          "id_api": "131392",
+          "numero": "83",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Laborde, …",
+          "date": "2017-07-10",
+          "groupe": "RDSE",
+          "id_api": "131047",
+          "numero": "84",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-07-13",
+          "groupe": "UMP",
+          "id_api": "131404",
+          "numero": "91",
+          "sort": "adopté"
+        }
+      ],
+      "order": 15,
+      "titre": "Article 9"
+    },
+    "Article 9 bis": {
+      "amendements": [
+        {
+          "aut": "M. Maurey, …",
+          "date": "2017-07-10",
+          "groupe": "UC",
+          "id_api": "130993",
+          "numero": "18",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "Mme Assassi",
+          "date": "2017-07-10",
+          "groupe": "CRC",
+          "id_api": "130999",
+          "numero": "28",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Marie, …",
+          "date": "2017-07-10",
+          "groupe": "SOC",
+          "id_api": "131009",
+          "numero": "38",
+          "sort": "adopté"
+        }
+      ],
+      "order": 16,
+      "titre": "Article 9 bis"
+    },
+    "Article 9 quater": {
+      "amendements": [
+        {
+          "aut": "",
+          "date": "2017-07-10",
+          "groupe": "Gouvernement",
+          "id_api": "131038",
+          "numero": "72",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 18,
+      "titre": "Article 9 quater"
+    },
+    "Article 9 ter": {
+      "amendements": [
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-07-13",
+          "groupe": "UMP",
+          "id_api": "131403",
+          "numero": "89",
+          "sort": "adopté"
+        }
+      ],
+      "order": 17,
+      "titre": "Article 9 ter"
+    },
+    "Avant l'article 2": {
+      "amendements": [
+        {
+          "aut": "M. Kaltenbach",
+          "date": "2017-07-11",
+          "groupe": "SOC",
+          "id_api": "131348",
+          "numero": "20",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 4,
+      "titre": "Avant l'article 2"
+    },
+    "Avant le chapitre 1er": {
+      "amendements": [
+        {
+          "aut": "MM. J.L. Dupont, …",
+          "date": "2017-07-10",
+          "groupe": "UC",
+          "id_api": "131019",
+          "numero": "50",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. J.L. Dupont, …",
+          "date": "2017-07-10",
+          "groupe": "UC",
+          "id_api": "131020",
+          "numero": "51",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 0,
+      "titre": "Avant le chapitre 1er"
+    },
+    "Titre": {
+      "amendements": [
+        {
+          "aut": "MM. Cabanel, …",
+          "date": "2017-07-06",
+          "groupe": "SOC",
+          "id_api": "130886",
+          "numero": "12",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "MM. Doligé, …",
+          "date": "2017-07-10",
+          "groupe": "UMP",
+          "id_api": "131035",
+          "numero": "69",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "",
+          "date": "2017-07-10",
+          "groupe": "Gouvernement",
+          "id_api": "131040",
+          "numero": "74",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 1,
+      "titre": "Titre"
+    }
+  }
+}

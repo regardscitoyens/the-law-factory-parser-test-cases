@@ -1,0 +1,70 @@
+{
+  "api_root_url": "https://www.nossenateurs.fr/api/document/Amendement/",
+  "groupes": {
+    "Gouvernement": {
+      "color": "#cccbb3",
+      "link": "",
+      "nom": "Gouvernement",
+      "order": 60
+    }
+  },
+  "id_step": "12_nouv.lect._senat_hemicycle",
+  "sujets": {
+    "Article 13": {
+      "amendements": [
+        {
+          "aut": "",
+          "date": "2017-08-04",
+          "groupe": "Gouvernement",
+          "id_api": "131991",
+          "numero": "4",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 220,
+      "titre": "Article 13"
+    },
+    "Article 8 bis": {
+      "amendements": [
+        {
+          "aut": "",
+          "date": "2017-08-04",
+          "groupe": "Gouvernement",
+          "id_api": "131988",
+          "numero": "1",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 130,
+      "titre": "Article 8 bis"
+    },
+    "Article 9": {
+      "amendements": [
+        {
+          "aut": "",
+          "date": "2017-08-04",
+          "groupe": "Gouvernement",
+          "id_api": "131989",
+          "numero": "2",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 150,
+      "titre": "Article 9"
+    },
+    "Article 9 bis": {
+      "amendements": [
+        {
+          "aut": "",
+          "date": "2017-08-04",
+          "groupe": "Gouvernement",
+          "id_api": "131990",
+          "numero": "3",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 160,
+      "titre": "Article 9 bis"
+    }
+  }
+}

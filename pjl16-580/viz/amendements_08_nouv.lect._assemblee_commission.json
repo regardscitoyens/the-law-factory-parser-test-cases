@@ -1,0 +1,462 @@
+{
+  "api_root_url": "https://2017-2022.nosdeputes.fr/api/document/Amendement/",
+  "groupes": {
+    "LFI": {
+      "color": "rgb(204,42,70)",
+      "link": "https://2017-2022.nosdeputes.fr/groupe/LFI",
+      "nom": "La France Insoumise",
+      "order": 10
+    },
+    "LR": {
+      "color": "rgb(30,30,200)",
+      "link": "https://2017-2022.nosdeputes.fr/groupe/LR",
+      "nom": "Les Républicains",
+      "order": 17
+    },
+    "LREM": {
+      "color": "rgb(232,197,5)",
+      "link": "https://2017-2022.nosdeputes.fr/groupe/LREM",
+      "nom": "La République En Marche",
+      "order": 13
+    }
+  },
+  "id_step": "08_nouv.lect._assemblee_commission",
+  "sujets": {
+    "Article 12": {
+      "amendements": [
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-01",
+          "groupe": "LREM",
+          "id_api": "2058",
+          "numero": "CL12",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-01",
+          "groupe": "LREM",
+          "id_api": "2059",
+          "numero": "CL10",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-01",
+          "groupe": "LREM",
+          "id_api": "2069",
+          "numero": "CL11",
+          "sort": "adopté"
+        }
+      ],
+      "order": 230,
+      "titre": "Article 12"
+    },
+    "Article 13": {
+      "amendements": [
+        {
+          "aut": "Mme Obono, …",
+          "date": "2017-08-02",
+          "groupe": "LFI",
+          "id_api": "2089",
+          "numero": "CL47",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 240,
+      "titre": "Article 13"
+    },
+    "Article 16": {
+      "amendements": [
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-01",
+          "groupe": "LREM",
+          "id_api": "2051",
+          "numero": "CL14",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-01",
+          "groupe": "LREM",
+          "id_api": "2055",
+          "numero": "CL15",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-01",
+          "groupe": "LREM",
+          "id_api": "2060",
+          "numero": "CL16",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-01",
+          "groupe": "LREM",
+          "id_api": "2061",
+          "numero": "CL13",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-01",
+          "groupe": "LREM",
+          "id_api": "2067",
+          "numero": "CL17",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-01",
+          "groupe": "LREM",
+          "id_api": "2071",
+          "numero": "CL19",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-01",
+          "groupe": "LREM",
+          "id_api": "2073",
+          "numero": "CL18",
+          "sort": "adopté"
+        }
+      ],
+      "order": 270,
+      "titre": "Article 16"
+    },
+    "Article 19": {
+      "amendements": [
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-01",
+          "groupe": "LREM",
+          "id_api": "2053",
+          "numero": "CL20",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-01",
+          "groupe": "LREM",
+          "id_api": "2054",
+          "numero": "CL24",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-01",
+          "groupe": "LREM",
+          "id_api": "2064",
+          "numero": "CL21",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-01",
+          "groupe": "LREM",
+          "id_api": "2066",
+          "numero": "CL22",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-01",
+          "groupe": "LREM",
+          "id_api": "2068",
+          "numero": "CL25",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-01",
+          "groupe": "LREM",
+          "id_api": "2070",
+          "numero": "CL23",
+          "sort": "adopté"
+        }
+      ],
+      "order": 300,
+      "titre": "Article 19"
+    },
+    "Article 2": {
+      "amendements": [
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-02",
+          "groupe": "LREM",
+          "id_api": "2091",
+          "numero": "CL38",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Obono, …",
+          "date": "2017-08-02",
+          "groupe": "LFI",
+          "id_api": "2093",
+          "numero": "CL39",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 60,
+      "titre": "Article 2"
+    },
+    "Article 2 bis A": {
+      "amendements": [
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-02",
+          "groupe": "LREM",
+          "id_api": "2092",
+          "numero": "CL37",
+          "sort": "adopté"
+        }
+      ],
+      "order": 70,
+      "titre": "Article 2 bis A"
+    },
+    "Article 5": {
+      "amendements": [
+        {
+          "aut": "M. Bernalicis, …",
+          "date": "2017-08-02",
+          "groupe": "LFI",
+          "id_api": "2090",
+          "numero": "CL42",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 100,
+      "titre": "Article 5"
+    },
+    "Article 6 bis": {
+      "amendements": [
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-01",
+          "groupe": "LREM",
+          "id_api": "2063",
+          "numero": "CL3",
+          "sort": "adopté"
+        }
+      ],
+      "order": 120,
+      "titre": "Article 6 bis"
+    },
+    "Article 8 ter": {
+      "amendements": [
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-01",
+          "groupe": "LREM",
+          "id_api": "2052",
+          "numero": "CL4",
+          "sort": "adopté"
+        }
+      ],
+      "order": 160,
+      "titre": "Article 8 ter"
+    },
+    "Article 9": {
+      "amendements": [
+        {
+          "aut": "M. Saddier, …",
+          "date": "2017-08-01",
+          "groupe": "LR",
+          "id_api": "2074",
+          "numero": "CL31",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Saddier, …",
+          "date": "2017-08-01",
+          "groupe": "LR",
+          "id_api": "2075",
+          "numero": "CL29",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-01",
+          "groupe": "LREM",
+          "id_api": "2076",
+          "numero": "CL26",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Bazin",
+          "date": "2017-08-01",
+          "groupe": "LR",
+          "id_api": "2077",
+          "numero": "CL34",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Bazin",
+          "date": "2017-08-01",
+          "groupe": "LR",
+          "id_api": "2078",
+          "numero": "CL35",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Saddier, …",
+          "date": "2017-08-01",
+          "groupe": "LR",
+          "id_api": "2079",
+          "numero": "CL33",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Dalloz",
+          "date": "2017-08-01",
+          "groupe": "LR",
+          "id_api": "2080",
+          "numero": "CL28",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Saddier, …",
+          "date": "2017-08-01",
+          "groupe": "LR",
+          "id_api": "2081",
+          "numero": "CL32",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Gosselin, …",
+          "date": "2017-08-01",
+          "groupe": "LR",
+          "id_api": "2082",
+          "numero": "CL2",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Gosselin, …",
+          "date": "2017-08-01",
+          "groupe": "LR",
+          "id_api": "2083",
+          "numero": "CL1",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "Mme Dalloz",
+          "date": "2017-08-01",
+          "groupe": "LR",
+          "id_api": "2085",
+          "numero": "CL27",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. Larrivé",
+          "date": "2017-08-02",
+          "groupe": "LR",
+          "id_api": "2087",
+          "numero": "CL51",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Larrivé",
+          "date": "2017-08-02",
+          "groupe": "LR",
+          "id_api": "2088",
+          "numero": "CL50",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. Larrivé",
+          "date": "2017-08-02",
+          "groupe": "LR",
+          "id_api": "2094",
+          "numero": "CL52",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 170,
+      "titre": "Article 9"
+    },
+    "Article 9 bis": {
+      "amendements": [
+        {
+          "aut": "M. Bernalicis, …",
+          "date": "2017-08-02",
+          "groupe": "LFI",
+          "id_api": "2086",
+          "numero": "CL44",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 180,
+      "titre": "Article 9 bis"
+    },
+    "Article 9 ter": {
+      "amendements": [
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-01",
+          "groupe": "LREM",
+          "id_api": "2057",
+          "numero": "CL8",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-01",
+          "groupe": "LREM",
+          "id_api": "2062",
+          "numero": "CL9",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-01",
+          "groupe": "LREM",
+          "id_api": "2065",
+          "numero": "CL7",
+          "sort": "adopté"
+        },
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-01",
+          "groupe": "LREM",
+          "id_api": "2072",
+          "numero": "CL6",
+          "sort": "adopté"
+        }
+      ],
+      "order": 190,
+      "titre": "Article 9 ter"
+    },
+    "Avant l'article 9": {
+      "amendements": [
+        {
+          "aut": "M. Saddier, …",
+          "date": "2017-08-01",
+          "groupe": "LR",
+          "id_api": "2084",
+          "numero": "CL30",
+          "sort": "rejeté"
+        }
+      ],
+      "order": 169,
+      "titre": "Avant l'article 9"
+    },
+    "Avant l'article 9 bis": {
+      "amendements": [
+        {
+          "aut": "Mme Braun-Pivet",
+          "date": "2017-08-01",
+          "groupe": "LREM",
+          "id_api": "2056",
+          "numero": "CL5",
+          "sort": "adopté"
+        }
+      ],
+      "order": 179,
+      "titre": "Avant l'article 9 bis"
+    }
+  }
+}

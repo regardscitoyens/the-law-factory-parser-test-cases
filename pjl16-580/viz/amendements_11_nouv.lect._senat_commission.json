@@ -1,0 +1,380 @@
+{
+  "api_root_url": "https://www.nossenateurs.fr/api/document/Amendement/",
+  "groupes": {
+    "SOC": {
+      "color": "rgb(255,50,190)",
+      "link": "https://www.nossenateurs.fr/groupe/SOC",
+      "nom": "Socialiste et républicain",
+      "order": 14
+    },
+    "UC": {
+      "color": "rgb(130,140,255)",
+      "link": "https://www.nossenateurs.fr/groupe/UC",
+      "nom": "Union Centriste",
+      "order": 20
+    },
+    "UMP": {
+      "color": "rgb(30,30,200)",
+      "link": "https://www.nossenateurs.fr/groupe/UMP",
+      "nom": "Union pour un Mouvement Populaire",
+      "order": 23
+    }
+  },
+  "id_step": "11_nouv.lect._senat_commission",
+  "sujets": {
+    "Article 11": {
+      "amendements": [
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-08-04",
+          "groupe": "UMP",
+          "id_api": "131965",
+          "numero": "COM-11",
+          "sort": "adopté"
+        }
+      ],
+      "order": 190,
+      "titre": "Article 11"
+    },
+    "Article 12": {
+      "amendements": [
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-08-04",
+          "groupe": "UMP",
+          "id_api": "131966",
+          "numero": "COM-12",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-08-04",
+          "groupe": "UMP",
+          "id_api": "131967",
+          "numero": "COM-13",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-08-04",
+          "groupe": "UMP",
+          "id_api": "131968",
+          "numero": "COM-14",
+          "sort": "adopté"
+        }
+      ],
+      "order": 200,
+      "titre": "Article 12"
+    },
+    "Article 13": {
+      "amendements": [
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-08-04",
+          "groupe": "UMP",
+          "id_api": "131969",
+          "numero": "COM-15",
+          "sort": "adopté"
+        }
+      ],
+      "order": 210,
+      "titre": "Article 13"
+    },
+    "Article 16": {
+      "amendements": [
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-08-04",
+          "groupe": "UMP",
+          "id_api": "131970",
+          "numero": "COM-16",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-08-04",
+          "groupe": "UMP",
+          "id_api": "131971",
+          "numero": "COM-17",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-08-04",
+          "groupe": "UMP",
+          "id_api": "131972",
+          "numero": "COM-18",
+          "sort": "adopté"
+        }
+      ],
+      "order": 240,
+      "titre": "Article 16"
+    },
+    "Article 17": {
+      "amendements": [
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-08-04",
+          "groupe": "UMP",
+          "id_api": "131973",
+          "numero": "COM-19",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-08-04",
+          "groupe": "UMP",
+          "id_api": "131974",
+          "numero": "COM-20",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-08-04",
+          "groupe": "UMP",
+          "id_api": "131975",
+          "numero": "COM-21",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-08-04",
+          "groupe": "UMP",
+          "id_api": "131976",
+          "numero": "COM-22",
+          "sort": "adopté"
+        }
+      ],
+      "order": 250,
+      "titre": "Article 17"
+    },
+    "Article 18": {
+      "amendements": [
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-08-04",
+          "groupe": "UMP",
+          "id_api": "131977",
+          "numero": "COM-23",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-08-04",
+          "groupe": "UMP",
+          "id_api": "131978",
+          "numero": "COM-24",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-08-04",
+          "groupe": "UMP",
+          "id_api": "131979",
+          "numero": "COM-25",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-08-04",
+          "groupe": "UMP",
+          "id_api": "131980",
+          "numero": "COM-26",
+          "sort": "adopté"
+        }
+      ],
+      "order": 260,
+      "titre": "Article 18"
+    },
+    "Article 19": {
+      "amendements": [
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-08-04",
+          "groupe": "UMP",
+          "id_api": "131981",
+          "numero": "COM-27",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-08-04",
+          "groupe": "UMP",
+          "id_api": "131982",
+          "numero": "COM-28",
+          "sort": "adopté"
+        }
+      ],
+      "order": 270,
+      "titre": "Article 19"
+    },
+    "Article 1er": {
+      "amendements": [
+        {
+          "aut": "MM. Marie, …",
+          "date": "2017-08-04",
+          "groupe": "SOC",
+          "id_api": "131957",
+          "numero": "COM-3",
+          "sort": "adopté"
+        }
+      ],
+      "order": 10,
+      "titre": "Article 1er"
+    },
+    "Article 2 A": {
+      "amendements": [
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-08-04",
+          "groupe": "UMP",
+          "id_api": "131958",
+          "numero": "COM-4",
+          "sort": "adopté"
+        }
+      ],
+      "order": 30,
+      "titre": "Article 2 A"
+    },
+    "Article 5": {
+      "amendements": [
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-08-04",
+          "groupe": "UMP",
+          "id_api": "131959",
+          "numero": "COM-5",
+          "sort": "adopté"
+        }
+      ],
+      "order": 80,
+      "titre": "Article 5"
+    },
+    "Article 8 bis": {
+      "amendements": [
+        {
+          "aut": "M. Leconte",
+          "date": "2017-08-04",
+          "groupe": "SOC",
+          "id_api": "131955",
+          "numero": "COM-1",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-08-04",
+          "groupe": "UMP",
+          "id_api": "131960",
+          "numero": "COM-6",
+          "sort": "adopté"
+        }
+      ],
+      "order": 120,
+      "titre": "Article 8 bis"
+    },
+    "Article 8 ter": {
+      "amendements": [
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-08-04",
+          "groupe": "UMP",
+          "id_api": "131961",
+          "numero": "COM-7",
+          "sort": "adopté"
+        }
+      ],
+      "order": 130,
+      "titre": "Article 8 ter"
+    },
+    "Article 9": {
+      "amendements": [
+        {
+          "aut": "MM. Leconte, …",
+          "date": "2017-08-04",
+          "groupe": "SOC",
+          "id_api": "131956",
+          "numero": "COM-2",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-08-04",
+          "groupe": "UMP",
+          "id_api": "131962",
+          "numero": "COM-8",
+          "sort": "adopté"
+        },
+        {
+          "aut": "M. L. Hervé",
+          "date": "2017-08-04",
+          "groupe": "UC",
+          "id_api": "131983",
+          "numero": "COM-29",
+          "sort": "rejeté"
+        },
+        {
+          "aut": "M. L. Hervé",
+          "date": "2017-08-04",
+          "groupe": "UC",
+          "id_api": "131984",
+          "numero": "COM-30",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. L. Hervé",
+          "date": "2017-08-04",
+          "groupe": "UC",
+          "id_api": "131985",
+          "numero": "COM-31",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. L. Hervé",
+          "date": "2017-08-04",
+          "groupe": "UC",
+          "id_api": "131986",
+          "numero": "COM-32",
+          "sort": "non-voté"
+        },
+        {
+          "aut": "M. L. Hervé",
+          "date": "2017-08-04",
+          "groupe": "UC",
+          "id_api": "131987",
+          "numero": "COM-33",
+          "sort": "non-voté"
+        }
+      ],
+      "order": 140,
+      "titre": "Article 9"
+    },
+    "Article 9 bis": {
+      "amendements": [
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-08-04",
+          "groupe": "UMP",
+          "id_api": "131963",
+          "numero": "COM-9",
+          "sort": "adopté"
+        }
+      ],
+      "order": 150,
+      "titre": "Article 9 bis"
+    },
+    "Article 9 ter": {
+      "amendements": [
+        {
+          "aut": "M. Bas, …",
+          "date": "2017-08-04",
+          "groupe": "UMP",
+          "id_api": "131964",
+          "numero": "COM-10",
+          "sort": "adopté"
+        }
+      ],
+      "order": 160,
+      "titre": "Article 9 ter"
+    }
+  }
+}

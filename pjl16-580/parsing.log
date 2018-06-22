@@ -1,0 +1,144 @@
+======
+pjl16-580
+ -= DOSLEG URL: http://www.senat.fr/dossier-legislatif/pjl16-580.html =-
+  [] download SENAT version
+  [] parse SENAT version
+  [] download AN version
+  [] parse AN version
+## WARNING ### FOUND ANOTHER DOSLEG INSIDE THE DOSLEG
+## WARNING ### MERGING http://www.assemblee-nationale.fr/15/dossiers/retablissement_confiance_action_publique.asp WITH PREVIOUS WORKS http://www.assemblee-nationale.fr/14/dossiers/retablissement_confiance_action_publique.asp
+## WARNING ### MERGING http://www.assemblee-nationale.fr/15/dossiers/retablissement_confiance_action_publique.asp WITH PREVIOUS WORKS http://www.assemblee-nationale.fr/14/dossiers/confiance_action_publique.asp
+     WARNING: TOOK FIRST DOSLEG BUT THERE ARE 2 OF THEM
+        title: projet de loi organique pour la confiance dans la vie politique
+  [] parse the texts
+** parsing texts
+    ^ text:  https://www.senat.fr/leg/pjl16-580.html
+    ^ text:  https://www.senat.fr/leg/pjl16-608.html
+    ^ text:  https://www.senat.fr/leg/tas16-114.html
+    ^ text:  http://www.assemblee-nationale.fr/15/projets/pl0099.asp
+    ^ text:  http://www.assemblee-nationale.fr/15/ta-commission/r0105-a0.asp
+    ^ text:  http://www.assemblee-nationale.fr/15/ta/ta0009.asp
+    ^ text:  https://www.senat.fr/leg/pjl16-702.html
+    ^ text:  http://www.assemblee-nationale.fr/15/projets/pl0122.asp
+    ^ text:  http://www.assemblee-nationale.fr/15/ta-commission/r0124-a0.asp
+    ^ text:  http://www.assemblee-nationale.fr/15/ta/ta0017.asp
+    ^ text:  https://www.senat.fr/leg/pjl16-707.html
+    ^ text:  https://www.senat.fr/leg/pjl16-709.html
+    ^ text:  https://www.senat.fr/leg/tas16-128.html
+    ^ text:  http://www.assemblee-nationale.fr/15/ta/ta0017.asp
+    ^ text:  http://www.assemblee-nationale.fr/15/ta/ta0018.asp
+    ^ text:  http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2017/2017-753-dc/decision-n-2017-753-dc-du-8-septembre-2017.149689.html
+    ^ text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035567936&categorieLien=id
+    ^ complete text:  https://www.senat.fr/leg/pjl16-580.html
+    ^ complete text:  https://www.senat.fr/leg/pjl16-608.html
+    ^ complete text:  https://www.senat.fr/leg/tas16-114.html
+    ^ complete text:  http://www.assemblee-nationale.fr/15/projets/pl0099.asp
+    ^ complete text:  http://www.assemblee-nationale.fr/15/ta-commission/r0105-a0.asp
+    ^ complete text:  http://www.assemblee-nationale.fr/15/ta/ta0009.asp
+    ^ complete text:  https://www.senat.fr/leg/pjl16-702.html
+    ^ complete text:  http://www.assemblee-nationale.fr/15/projets/pl0122.asp
+    ^ complete text:  http://www.assemblee-nationale.fr/15/ta-commission/r0124-a0.asp
+    ^ complete text:  http://www.assemblee-nationale.fr/15/ta/ta0017.asp
+    ^ complete text:  https://www.senat.fr/leg/pjl16-707.html
+    ^ complete text:  https://www.senat.fr/leg/pjl16-709.html
+    ^ complete text:  https://www.senat.fr/leg/tas16-128.html
+    ^ complete text:  http://www.assemblee-nationale.fr/15/ta/ta0017.asp
+[step_logic] l. définitive / depot: fetching last AN hemi or last CMP commission
+    ^ complete text:  http://www.assemblee-nationale.fr/15/ta/ta0018.asp
+[step_logic] l. définitive / hemicycle: fetching last AN hemi or last CMP commission
+WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 9 quater <-> 17 1353 Vs 198 chars, similarity; 0.13
+    ^ complete text:  http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2017/2017-753-dc/decision-n-2017-753-dc-du-8-septembre-2017.149689.html
+    ^ complete text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035567936&categorieLien=id
+  [] format data for the frontend
+     writing to: pjl16-580_tmp
+ - process article versions
+      * preparing articles for step 00_1erelecture_senat_depot
+      * preparing articles for step 01_1erelecture_senat_commission
+      * preparing articles for step 02_1erelecture_senat_hemicycle
+      * preparing articles for step 04_1erelecture_assemblee_commission
+      * preparing articles for step 05_1erelecture_assemblee_hemicycle
+      * preparing articles for step 06_cmp_cmp_commission
+      * preparing articles for step 08_nouv.lect._assemblee_commission
+      * preparing articles for step 09_nouv.lect._assemblee_hemicycle
+      * preparing articles for step 11_nouv.lect._senat_commission
+      * preparing articles for step 12_nouv.lect._senat_hemicycle
+      * preparing articles for step 14_l.définitive_assemblee_hemicycle
+Matched an article deleted in this step 8_bis
+      * preparing articles for step 15_constitutionnalité_conseilconstitutionnel_
+ - process amendements & interventions
+    * step - 1ère lecture depot https://www.senat.fr/leg/pjl16-580.html
+    * step - 1ère lecture commission https://www.senat.fr/leg/pjl16-608.html
+      * downloading amendments: https://nossenateurs.fr/amendements/20162017-580/json?cache=5feb2018 for https://www.senat.fr/leg/pjl16-580.html
+        parsing amendments: 90
+      * downloading interventions
+        * downloading seances -  https://www.nossenateurs.fr/seances/20162017-580/json?commission=1
+           downloading seance -  https://www.nossenateurs.fr/seance/16399/20162017-580/json
+           downloading seance -  https://www.nossenateurs.fr/seance/16424/20162017-580/json
+           downloading seance -  https://www.nossenateurs.fr/seance/16425/20162017-580/json
+    * step - 1ère lecture hemicycle https://www.senat.fr/leg/tas16-114.html
+      * downloading amendments: https://nossenateurs.fr/amendements/20162017-608/json?cache=5feb2018 for https://www.senat.fr/leg/pjl16-608.html
+        parsing amendments: 82
+      * downloading interventions
+        * downloading seances -  https://www.nossenateurs.fr/seances/20162017-608/json?hemicycle=1
+           downloading seance -  https://www.nossenateurs.fr/seance/16415/20162017-608/json
+            dumping seance - 2017-07-10T16:00_16415
+           downloading seance -  https://www.nossenateurs.fr/seance/16431/20162017-608/json
+            dumping seance - 2017-07-11T14:15_16431
+           downloading seance -  https://www.nossenateurs.fr/seance/16433/20162017-608/json
+            dumping seance - 2017-07-12T14:30_16433
+           downloading seance -  https://www.nossenateurs.fr/seance/16435/20162017-608/json
+            dumping seance - 2017-07-13T09:30_16435
+    * step - 1ère lecture depot http://www.assemblee-nationale.fr/15/projets/pl0099.asp
+    * step - 1ère lecture commission http://www.assemblee-nationale.fr/15/ta-commission/r0105-a0.asp
+      * downloading amendments: https://nosdeputes.fr/15/amendements/99/json?cache=5feb2018 for http://www.assemblee-nationale.fr/15/projets/pl0099.asp
+        parsing amendments: 144
+      * downloading interventions
+        * downloading seances -  https://2017-2022.nosdeputes.fr/seances/99/json?commission=1
+    * step - 1ère lecture hemicycle http://www.assemblee-nationale.fr/15/ta/ta0009.asp
+      * downloading amendments: https://nosdeputes.fr/15/amendements/105/json?cache=5feb2018 for http://www.assemblee-nationale.fr/15/ta-commission/r0105-a0.asp
+        parsing amendments: 349
+      * downloading interventions
+        * downloading seances -  https://2017-2022.nosdeputes.fr/seances/105/json?hemicycle=1
+        * downloading seances -  https://2017-2022.nosdeputes.fr/seances/99/json?hemicycle=1
+    * step - CMP commission https://www.senat.fr/leg/pjl16-702.html
+    * step - nouv. lect. depot http://www.assemblee-nationale.fr/15/projets/pl0122.asp
+    * step - nouv. lect. commission http://www.assemblee-nationale.fr/15/ta-commission/r0124-a0.asp
+      * downloading amendments: https://nosdeputes.fr/15/amendements/122/json?cache=5feb2018 for http://www.assemblee-nationale.fr/15/projets/pl0122.asp
+        parsing amendments: 44
+      * downloading interventions
+        * downloading seances -  https://2017-2022.nosdeputes.fr/seances/122/json?commission=1
+        * downloading seances -  https://2017-2022.nosdeputes.fr/seances/105/json?commission=1
+    * step - nouv. lect. hemicycle http://www.assemblee-nationale.fr/15/ta/ta0017.asp
+      * downloading amendments: https://nosdeputes.fr/15/amendements/124/json?cache=5feb2018 for http://www.assemblee-nationale.fr/15/ta-commission/r0124-a0.asp
+        parsing amendments: 72
+      * downloading interventions
+        * downloading seances -  https://2017-2022.nosdeputes.fr/seances/124/json?hemicycle=1
+        * downloading seances -  https://2017-2022.nosdeputes.fr/seances/122/json?hemicycle=1
+    * step - nouv. lect. depot https://www.senat.fr/leg/pjl16-707.html
+    * step - nouv. lect. commission https://www.senat.fr/leg/pjl16-709.html
+      * downloading amendments: https://nossenateurs.fr/amendements/20162017-707/json?cache=5feb2018 for https://www.senat.fr/leg/pjl16-707.html
+        parsing amendments: 33
+      * downloading interventions
+        * downloading seances -  https://www.nossenateurs.fr/seances/20162017-707/json?commission=1
+    * step - nouv. lect. hemicycle https://www.senat.fr/leg/tas16-128.html
+      * downloading amendments: https://nossenateurs.fr/amendements/20162017-709/json?cache=5feb2018 for https://www.senat.fr/leg/pjl16-709.html
+        parsing amendments: 4
+      * downloading interventions
+        * downloading seances -  https://www.nossenateurs.fr/seances/20162017-709/json?hemicycle=1
+           downloading seance -  https://www.nossenateurs.fr/seance/16548/20162017-709/json
+            dumping seance - 2017-08-04T15:00_16548
+    * step - l. définitive depot http://www.assemblee-nationale.fr/15/ta/ta0017.asp
+    * step - l. définitive hemicycle http://www.assemblee-nationale.fr/15/ta/ta0018.asp
+[step_logic] l. définitive / hemicycle: fetching last AN hemi or last CMP commission
+      * downloading amendments: https://nosdeputes.fr/15/amendements/TA17/json?cache=5feb2018 for http://www.assemblee-nationale.fr/15/ta/ta0017.asp
+ WARNING: TA - trying alternative url too https://nosdeputes.fr/15/amendements/TA0017/json?cache=5feb2018
+        parsing amendments: 24
+      * downloading interventions
+        * downloading seances -  https://2017-2022.nosdeputes.fr/seances/TA17/json?hemicycle=1
+    * step - constitutionnalité None http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2017/2017-753-dc/decision-n-2017-753-dc-du-8-septembre-2017.149689.html
+    * step - promulgation None https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035567936&categorieLien=id
+ - re-order interventions and correct procedure dates
+INFO: change beginning date of 2 thanks to 2017-07-10T16:00_16415
+ - prepare interventions.json
+ - compute stats
+  FINISHED - pjl16-580
