@@ -3,6 +3,72 @@
     {
       "intervention": {
         "amendements": [],
+        "contenu": "<p>Opposition à une discussion selon la procédure d'examen simplifiée</p>",
+        "date": "2008-07-09",
+        "heure": "16:30",
+        "id": "31755",
+        "intervenant_fonction": null,
+        "intervenant_groupe": "",
+        "intervenant_nom": "",
+        "intervenant_slug": "",
+        "lois": [
+          {
+            "loi": "993"
+          },
+          {
+            "loi": "1009"
+          }
+        ],
+        "nbmots": "12",
+        "seance_id": "73",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "réunion du 9 juillet 2008 à 16h30",
+        "section": "Opposition à une discussion selon la procédure d'examen simplifiée",
+        "source": "http://www.assemblee-nationale.fr/13/cri/2007-2008-extra/20081012.asp#P62_2093",
+        "soussection": "Opposition à une discussion selon la procédure d'examen simplifiée",
+        "tags": [],
+        "timestamp": "30",
+        "type": "loi",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/73#inter_f5b76db40d612e31caba892f0912255a",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/31755/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
+        "contenu": "<p>J'informe l'Assemblée que le groupe socialiste, radical, citoyen et divers gauche a fait opposition à la discussion selon la procédure d'examen simplifiée du projet de loi adopté par le Sénat, autorisant l'approbation du protocole facultatif se rapportant à la convention contre la torture et autres peines et traitements inhumains ou dégradants.</p>",
+        "date": "2008-07-09",
+        "heure": "16:30",
+        "id": "31756",
+        "intervenant_fonction": "président",
+        "intervenant_groupe": "UMP",
+        "intervenant_nom": "Bernard Accoyer",
+        "intervenant_slug": "bernard-accoyer",
+        "lois": [
+          {
+            "loi": "993"
+          },
+          {
+            "loi": "1009"
+          }
+        ],
+        "nbmots": "56",
+        "seance_id": "73",
+        "seance_lieu": "Hémicycle",
+        "seance_titre": "réunion du 9 juillet 2008 à 16h30",
+        "section": "Opposition à une discussion selon la procédure d'examen simplifiée",
+        "source": "http://www.assemblee-nationale.fr/13/cri/2007-2008-extra/20081012.asp#P65_2545",
+        "soussection": "Opposition à une discussion selon la procédure d'examen simplifiée",
+        "tags": [],
+        "timestamp": "40",
+        "type": "loi",
+        "url_nosdeputes": "https://2007-2012.nosdeputes.fr/seance/73#inter_a67e1272551cd66f54f6f20ceaa13d0f",
+        "url_nosdeputes_api": "https://2007-2012.nosdeputes.fr/api/document/Intervention/31756/json"
+      }
+    },
+    {
+      "intervention": {
+        "amendements": [],
         "contenu": "<p>Modernisation des institutions  de la Ve République</p>",
         "date": "2008-07-09",
         "heure": "16:30",
