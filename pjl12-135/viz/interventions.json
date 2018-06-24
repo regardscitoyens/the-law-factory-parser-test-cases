@@ -1,0 +1,218 @@
+{
+  "05_1erelecture_senat_hemicycle": {
+    "divisions": {
+      "Adoption définitive de deux projets de loi dans le texte de la commission": {
+        "first_date": "2013-02-07",
+        "groupes": {
+          "Auditionnés": {
+            "nb_intervs": 2,
+            "nb_mots": 1430,
+            "orateurs": {
+              "pascal canfin": {
+                "link": "http://www.nossenateurs.fr/seance/8935#inter_2b531d2b45fa6140c1d5533448a0bd4a",
+                "nb_intervs": 2,
+                "nb_mots": 1430
+              }
+            }
+          },
+          "CRC": {
+            "nb_intervs": 2,
+            "nb_mots": 1462,
+            "orateurs": {
+              "michel billout": {
+                "link": "http://www.nossenateurs.fr/seance/8935#inter_4e968e23569f9684833b96282c6c52c0",
+                "nb_intervs": 2,
+                "nb_mots": 1462
+              }
+            }
+          },
+          "ECOLO": {
+            "nb_intervs": 1,
+            "nb_mots": 1412,
+            "orateurs": {
+              "kalliopi ango ela": {
+                "link": "http://www.nossenateurs.fr/seance/8935#inter_5afae11fa8c33c94b1557f5ffb7c8661",
+                "nb_intervs": 1,
+                "nb_mots": 1412
+              }
+            }
+          },
+          "Présidence": {
+            "nb_intervs": 7,
+            "nb_mots": 248,
+            "orateurs": {
+              "bariza khiari": {
+                "link": "http://www.nossenateurs.fr/seance/8935#inter_8192ec05bd89b06fdaa798342825ac80",
+                "nb_intervs": 7,
+                "nb_mots": 248
+              }
+            }
+          },
+          "RDSE": {
+            "nb_intervs": 2,
+            "nb_mots": 1111,
+            "orateurs": {
+              "yvon collin": {
+                "link": "http://www.nossenateurs.fr/seance/8935#inter_a375c29eb4d76a26760f01441d4cad29",
+                "nb_intervs": 2,
+                "nb_mots": 1111
+              }
+            }
+          },
+          "Rapporteurs": {
+            "nb_intervs": 2,
+            "nb_mots": 1420,
+            "orateurs": {
+              "michèle andré": {
+                "link": "http://www.nossenateurs.fr/seance/8935#inter_d536c258c1134c2d67d35c31ee0a2f01",
+                "nb_intervs": 2,
+                "nb_mots": 1420
+              }
+            }
+          }
+        },
+        "last_date": "2013-02-07",
+        "link": "http://www.nossenateurs.fr/seance/8935#inter_b08290f833cb745d60dedd5caa094762",
+        "order": 2,
+        "source": "http://www.senat.fr/seances/s201302/s20130207/s20130207_mono.html#Niv2_Adoption_definitive_de_deux_projT",
+        "total_intervs": 16,
+        "total_mots": 7083
+      },
+      "Article unique": {
+        "first_date": "2013-02-07",
+        "groupes": {
+          "Présidence": {
+            "nb_intervs": 3,
+            "nb_mots": 133,
+            "orateurs": {
+              "bariza khiari": {
+                "link": "http://www.nossenateurs.fr/seance/8935#inter_31f9e608e12c1d1b7302c10a95b55348",
+                "nb_intervs": 3,
+                "nb_mots": 133
+              }
+            }
+          },
+          "UMP": {
+            "nb_intervs": 1,
+            "nb_mots": 520,
+            "orateurs": {
+              "rené beaumont": {
+                "link": "http://www.nossenateurs.fr/seance/8935#inter_33ee644339b39e373aa46ec9260aa9b5",
+                "nb_intervs": 1,
+                "nb_mots": 520
+              }
+            }
+          }
+        },
+        "last_date": "2013-02-07",
+        "link": "http://www.nossenateurs.fr/seance/8935#inter_2a77b350e2e9387ee143ad1bd36a878e",
+        "order": 4,
+        "source": "http://www.senat.fr/seances/s201302/s20130207/s20130207_mono.html#RU",
+        "total_intervs": 4,
+        "total_mots": 653
+      }
+    },
+    "groupes": {
+      "Auditionnés": {
+        "color": "#ccb7b6",
+        "link": "",
+        "nom": "Auditionnés",
+        "order": 70
+      },
+      "CRC": {
+        "color": "rgb(255,30,30)",
+        "link": "https://www.nossenateurs.fr/groupe/CRC",
+        "nom": "Communiste, Républicain, Citoyen et des Sénateurs du Parti de Gauche",
+        "order": 11
+      },
+      "ECOLO": {
+        "color": "rgb(0,230,30)",
+        "link": "https://www.nossenateurs.fr/groupe/ECOLO",
+        "nom": "Écologiste",
+        "order": 16
+      },
+      "Présidence": {
+        "color": "#bfbbcc",
+        "link": "",
+        "nom": "Présidence",
+        "order": 0
+      },
+      "RDSE": {
+        "color": "rgb(250,195,132)",
+        "link": "https://www.nossenateurs.fr/groupe/RDSE",
+        "nom": "Rassemblement Démocratique et Social européen",
+        "order": 17
+      },
+      "Rapporteurs": {
+        "color": "#b9ccc0",
+        "link": "",
+        "nom": "Rapporteurs",
+        "order": 50
+      },
+      "UMP": {
+        "color": "rgb(30,30,200)",
+        "link": "https://www.nossenateurs.fr/groupe/UMP",
+        "nom": "Union pour un Mouvement Populaire",
+        "order": 23
+      }
+    },
+    "orateurs": {
+      "bariza khiari": {
+        "color": "rgb(255,50,190)",
+        "fonction": "présidente",
+        "groupe": "SOC",
+        "link": "https://www.nossenateurs.fr/bariza-khiari",
+        "nom": "Bariza Khiari",
+        "photo": "https://www.nossenateurs.fr/senateur/photo/bariza-khiari"
+      },
+      "kalliopi ango ela": {
+        "color": "rgb(0,230,30)",
+        "fonction": "",
+        "groupe": "ECOLO",
+        "link": "https://www.nossenateurs.fr/kalliopi-ango-ela",
+        "nom": "Kalliopi Ango Ela",
+        "photo": "https://www.nossenateurs.fr/senateur/photo/kalliopi-ango-ela"
+      },
+      "michel billout": {
+        "color": "rgb(255,30,30)",
+        "fonction": "",
+        "groupe": "CRC",
+        "link": "https://www.nossenateurs.fr/michel-billout",
+        "nom": "Michel Billout",
+        "photo": "https://www.nossenateurs.fr/senateur/photo/michel-billout"
+      },
+      "michèle andré": {
+        "color": "rgb(255,50,190)",
+        "fonction": "rapporteur",
+        "groupe": "SOC",
+        "link": "https://www.nossenateurs.fr/michele-andre",
+        "nom": "Michèle André",
+        "photo": "https://www.nossenateurs.fr/senateur/photo/michele-andre"
+      },
+      "pascal canfin": {
+        "color": "#888888",
+        "fonction": "",
+        "groupe": "",
+        "link": "",
+        "nom": "Pascal Canfin",
+        "photo": ""
+      },
+      "rené beaumont": {
+        "color": "rgb(30,30,200)",
+        "fonction": "",
+        "groupe": "UMP",
+        "link": "https://www.nossenateurs.fr/rene-beaumont",
+        "nom": "René Beaumont",
+        "photo": "https://www.nossenateurs.fr/senateur/photo/rene-beaumont"
+      },
+      "yvon collin": {
+        "color": "rgb(250,195,132)",
+        "fonction": "",
+        "groupe": "RDSE",
+        "link": "https://www.nossenateurs.fr/yvon-collin",
+        "nom": "Yvon Collin",
+        "photo": "https://www.nossenateurs.fr/senateur/photo/yvon-collin"
+      }
+    }
+  }
+}
