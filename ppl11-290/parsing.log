@@ -26,7 +26,7 @@ ppl11-290
     ^ text:  https://www.senat.fr/leg/tas11-101.html
     ^ text:  http://www.assemblee-nationale.fr/13/propositions/pion4425.asp
     ^ text:  http://www.assemblee-nationale.fr/13/ta/ta0874.asp
-    ^ text:  http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2012/2012-650-dc/decision-n-2012-650-dc-du-15-mars-2012.105010.html
+    ^ text:  https://www.conseil-constitutionnel.fr/decision/2012/2012650DC.htm
     ^ text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000025540947&categorieLien=id
     ^ complete text:  http://www.assemblee-nationale.fr/13/propositions/pion3991.asp
     ^ complete text:  http://www.assemblee-nationale.fr/13/ta-commission/r4157-a0.asp
@@ -45,7 +45,7 @@ ppl11-290
 [step_logic] l. définitive / depot: fetching last AN hemi or last CMP commission
     ^ complete text:  http://www.assemblee-nationale.fr/13/ta/ta0874.asp
 [step_logic] l. définitive / hemicycle: fetching last AN hemi or last CMP commission
-    ^ complete text:  http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2012/2012-650-dc/decision-n-2012-650-dc-du-15-mars-2012.105010.html
+    ^ complete text:  https://www.conseil-constitutionnel.fr/decision/2012/2012650DC.htm
     ^ complete text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000025540947&categorieLien=id
   [] format data for the frontend
      writing to: ppl11-290_tmp
@@ -134,7 +134,7 @@ WARNING: amendments ignored (not the right step) 1
         * downloading seances -  https://2007-2012.nosdeputes.fr/13/seances/4425/json?hemicycle=1
            downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/6105/4425/json
             dumping seance - 2012-02-29T21:45_6105
-    * step - constitutionnalité None http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2012/2012-650-dc/decision-n-2012-650-dc-du-15-mars-2012.105010.html
+    * step - constitutionnalité None https://www.conseil-constitutionnel.fr/decision/2012/2012650DC.htm
     * step - promulgation None https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000025540947&categorieLien=id
  - re-order interventions and correct procedure dates
  - prepare interventions.json

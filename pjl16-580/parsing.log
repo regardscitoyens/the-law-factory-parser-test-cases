@@ -27,7 +27,7 @@ pjl16-580
     ^ text:  https://www.senat.fr/leg/tas16-128.html
     ^ text:  http://www.assemblee-nationale.fr/15/ta/ta0017.asp
     ^ text:  http://www.assemblee-nationale.fr/15/ta/ta0018.asp
-    ^ text:  http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2017/2017-753-dc/decision-n-2017-753-dc-du-8-septembre-2017.149689.html
+    ^ text:  https://www.conseil-constitutionnel.fr/decision/2017/2017753DC.htm
     ^ text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035567936&categorieLien=id
     ^ complete text:  https://www.senat.fr/leg/pjl16-580.html
     ^ complete text:  https://www.senat.fr/leg/pjl16-608.html
@@ -47,7 +47,7 @@ pjl16-580
     ^ complete text:  http://www.assemblee-nationale.fr/15/ta/ta0018.asp
 [step_logic] l. définitive / hemicycle: fetching last AN hemi or last CMP commission
 WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 9 quater <-> 17 1353 Vs 198 chars, similarity; 0.13
-    ^ complete text:  http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2017/2017-753-dc/decision-n-2017-753-dc-du-8-septembre-2017.149689.html
+    ^ complete text:  https://www.conseil-constitutionnel.fr/decision/2017/2017753DC.htm
     ^ complete text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035567936&categorieLien=id
   [] format data for the frontend
      writing to: pjl16-580_tmp
@@ -193,7 +193,7 @@ Matched an article deleted in this step 8_bis
         parsing amendments: 24
       * downloading interventions
         * downloading seances -  https://2017-2022.nosdeputes.fr/15/seances/TA17/json?hemicycle=1
-    * step - constitutionnalité None http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2017/2017-753-dc/decision-n-2017-753-dc-du-8-septembre-2017.149689.html
+    * step - constitutionnalité None https://www.conseil-constitutionnel.fr/decision/2017/2017753DC.htm
     * step - promulgation None https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035567936&categorieLien=id
  - re-order interventions and correct procedure dates
 INFO: change beginning date of 2 thanks to 2017-07-10T16:00_16415
