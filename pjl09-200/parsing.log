@@ -64,7 +64,7 @@ WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 17 octies B <-> 74 360 Vs 250 
     * step - 1ère lecture hemicycle https://www.senat.fr/leg/tas09-112.html
       * downloading amendments: https://www.nossenateurs.fr/amendements/20092010-437/json?cache=5feb2018 for https://www.senat.fr/leg/pjl09-437.html
         parsing amendments: 680
-WARNING: no groupe found for http://www.nossenateurs.fr/amendement/20092010-437/324
+WARNING: no groupe found for https://www.nossenateurs.fr/amendement/20092010-437/324
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20092010-437/json?hemicycle=1
            downloading seance -  https://www.nossenateurs.fr/seance/1129/20092010-437/json
