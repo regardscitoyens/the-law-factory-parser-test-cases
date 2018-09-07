@@ -45,7 +45,7 @@ pjl16-581
  - process amendements & interventions
     * step - 1ère lecture depot https://www.senat.fr/leg/pjl16-581.html
     * step - 1ère lecture commission https://www.senat.fr/leg/pjl16-609.html
-      * downloading amendments: https://www.nossenateurs.fr/amendements/20162017-581/json?cache=5feb2018 for https://www.senat.fr/leg/pjl16-581.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20162017-581/json?cache=lfdll-prod for https://www.senat.fr/leg/pjl16-581.html
         parsing amendments: 131
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20162017-581/json?commission=1
@@ -55,7 +55,7 @@ pjl16-581
            downloading seance -  https://www.nossenateurs.fr/seance/16424/20162017-581/json
            downloading seance -  https://www.nossenateurs.fr/seance/16425/20162017-581/json
     * step - 1ère lecture hemicycle https://www.senat.fr/leg/tas16-113.html
-      * downloading amendments: https://www.nossenateurs.fr/amendements/20162017-609/json?cache=5feb2018 for https://www.senat.fr/leg/pjl16-609.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20162017-609/json?cache=lfdll-prod for https://www.senat.fr/leg/pjl16-609.html
         parsing amendments: 276
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20162017-609/json?hemicycle=1
@@ -67,12 +67,12 @@ pjl16-581
             dumping seance - 2017-07-12T14:30_16433
     * step - 1ère lecture depot http://www.assemblee-nationale.fr/15/projets/pl0098.asp
     * step - 1ère lecture commission http://www.assemblee-nationale.fr/15/ta-commission/r0106-a0.asp
-      * downloading amendments: https://2017-2022.nosdeputes.fr/15/amendements/98/json?cache=5feb2018 for http://www.assemblee-nationale.fr/15/projets/pl0098.asp
+      * downloading amendments: https://2017-2022.nosdeputes.fr/15/amendements/98/json?cache=lfdll-prod for http://www.assemblee-nationale.fr/15/projets/pl0098.asp
         parsing amendments: 193
       * downloading interventions
         * downloading seances -  https://2017-2022.nosdeputes.fr/15/seances/98/json?commission=1
     * step - 1ère lecture hemicycle http://www.assemblee-nationale.fr/15/ta/ta0008.asp
-      * downloading amendments: https://2017-2022.nosdeputes.fr/15/amendements/106/json?cache=5feb2018 for http://www.assemblee-nationale.fr/15/ta-commission/r0106-a0.asp
+      * downloading amendments: https://2017-2022.nosdeputes.fr/15/amendements/106/json?cache=lfdll-prod for http://www.assemblee-nationale.fr/15/ta-commission/r0106-a0.asp
         parsing amendments: 590
       * downloading interventions
         * downloading seances -  https://2017-2022.nosdeputes.fr/15/seances/106/json?hemicycle=1
@@ -108,14 +108,14 @@ pjl16-581
             dumping seance - 2017-07-24T21:30_85
     * step - CMP commission https://www.senat.fr/leg/pjl16-700.html
     * step - CMP hemicycle https://www.senat.fr/leg/tas16-126.html
-      * downloading amendments: https://www.nossenateurs.fr/amendements/20162017-700/json?cache=5feb2018 for https://www.senat.fr/leg/pjl16-700.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20162017-700/json?cache=lfdll-prod for https://www.senat.fr/leg/pjl16-700.html
         parsing amendments: 4
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20162017-700/json?hemicycle=1
            downloading seance -  https://www.nossenateurs.fr/seance/16546/20162017-700/json
             dumping seance - 2017-08-02T16:00_16546
     * step - CMP hemicycle http://www.assemblee-nationale.fr/15/ta/ta0016.asp
-      * downloading amendments: https://2017-2022.nosdeputes.fr/15/amendements/120/json?cache=5feb2018 for http://www.assemblee-nationale.fr/15/ta-commission/r0120-a0.asp
+      * downloading amendments: https://2017-2022.nosdeputes.fr/15/amendements/120/json?cache=lfdll-prod for http://www.assemblee-nationale.fr/15/ta-commission/r0120-a0.asp
         parsing amendments: 4
       * downloading interventions
         * downloading seances -  https://2017-2022.nosdeputes.fr/15/seances/120/json?hemicycle=1

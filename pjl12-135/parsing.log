@@ -34,12 +34,12 @@ pjl12-135
  - process amendements & interventions
     * step - 1ère lecture depot http://www.assemblee-nationale.fr/14/projets/pl0307.asp
     * step - 1ère lecture commission http://www.assemblee-nationale.fr/14/rapports/r0406.asp
-      * downloading amendments: https://2012-2017.nosdeputes.fr/14/amendements/307/json?cache=5feb2018 for http://www.assemblee-nationale.fr/14/projets/pl0307.asp
+      * downloading amendments: https://2012-2017.nosdeputes.fr/14/amendements/307/json?cache=lfdll-prod for http://www.assemblee-nationale.fr/14/projets/pl0307.asp
         parsing amendments: 0
       * downloading interventions
         * downloading seances -  https://2012-2017.nosdeputes.fr/14/seances/307/json?commission=1
     * step - 1ère lecture hemicycle http://www.assemblee-nationale.fr/14/ta/ta0035.asp
-      * downloading amendments: https://2012-2017.nosdeputes.fr/14/amendements/406/json?cache=5feb2018 for http://www.assemblee-nationale.fr/14/rapports/r0406.asp
+      * downloading amendments: https://2012-2017.nosdeputes.fr/14/amendements/406/json?cache=lfdll-prod for http://www.assemblee-nationale.fr/14/rapports/r0406.asp
         parsing amendments: 0
       * downloading interventions
         * downloading seances -  https://2012-2017.nosdeputes.fr/14/seances/406/json?hemicycle=1
@@ -47,13 +47,13 @@ pjl12-135
             dumping seance - 2012-11-19T17:00_514
     * step - 1ère lecture depot https://www.senat.fr/leg/pjl12-135.html
     * step - 1ère lecture commission https://www.senat.fr/leg/pjl12-314.html
-      * downloading amendments: https://www.nossenateurs.fr/amendements/20122013-135/json?cache=5feb2018 for https://www.senat.fr/leg/pjl12-135.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20122013-135/json?cache=lfdll-prod for https://www.senat.fr/leg/pjl12-135.html
         parsing amendments: 0
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20122013-135/json?commission=1
            downloading seance -  https://www.nossenateurs.fr/seance/8906/20122013-135/json
     * step - 1ère lecture hemicycle https://www.senat.fr/leg/tas12-095.html
-      * downloading amendments: https://www.nossenateurs.fr/amendements/20122013-314/json?cache=5feb2018 for https://www.senat.fr/leg/pjl12-314.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20122013-314/json?cache=lfdll-prod for https://www.senat.fr/leg/pjl12-314.html
         parsing amendments: 0
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20122013-314/json?hemicycle=1

@@ -68,7 +68,7 @@ Matched an article deleted in this step 8_bis
  - process amendements & interventions
     * step - 1ère lecture depot https://www.senat.fr/leg/pjl16-580.html
     * step - 1ère lecture commission https://www.senat.fr/leg/pjl16-608.html
-      * downloading amendments: https://www.nossenateurs.fr/amendements/20162017-580/json?cache=5feb2018 for https://www.senat.fr/leg/pjl16-580.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20162017-580/json?cache=lfdll-prod for https://www.senat.fr/leg/pjl16-580.html
         parsing amendments: 90
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20162017-580/json?commission=1
@@ -76,7 +76,7 @@ Matched an article deleted in this step 8_bis
            downloading seance -  https://www.nossenateurs.fr/seance/16424/20162017-580/json
            downloading seance -  https://www.nossenateurs.fr/seance/16425/20162017-580/json
     * step - 1ère lecture hemicycle https://www.senat.fr/leg/tas16-114.html
-      * downloading amendments: https://www.nossenateurs.fr/amendements/20162017-608/json?cache=5feb2018 for https://www.senat.fr/leg/pjl16-608.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20162017-608/json?cache=lfdll-prod for https://www.senat.fr/leg/pjl16-608.html
         parsing amendments: 82
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20162017-608/json?hemicycle=1
@@ -90,12 +90,12 @@ Matched an article deleted in this step 8_bis
             dumping seance - 2017-07-13T09:30_16435
     * step - 1ère lecture depot http://www.assemblee-nationale.fr/15/projets/pl0099.asp
     * step - 1ère lecture commission http://www.assemblee-nationale.fr/15/ta-commission/r0105-a0.asp
-      * downloading amendments: https://2017-2022.nosdeputes.fr/15/amendements/99/json?cache=5feb2018 for http://www.assemblee-nationale.fr/15/projets/pl0099.asp
+      * downloading amendments: https://2017-2022.nosdeputes.fr/15/amendements/99/json?cache=lfdll-prod for http://www.assemblee-nationale.fr/15/projets/pl0099.asp
         parsing amendments: 144
       * downloading interventions
         * downloading seances -  https://2017-2022.nosdeputes.fr/15/seances/99/json?commission=1
     * step - 1ère lecture hemicycle http://www.assemblee-nationale.fr/15/ta/ta0009.asp
-      * downloading amendments: https://2017-2022.nosdeputes.fr/15/amendements/105/json?cache=5feb2018 for http://www.assemblee-nationale.fr/15/ta-commission/r0105-a0.asp
+      * downloading amendments: https://2017-2022.nosdeputes.fr/15/amendements/105/json?cache=lfdll-prod for http://www.assemblee-nationale.fr/15/ta-commission/r0105-a0.asp
         parsing amendments: 349
       * downloading interventions
         * downloading seances -  https://2017-2022.nosdeputes.fr/15/seances/105/json?hemicycle=1
@@ -132,13 +132,13 @@ Matched an article deleted in this step 8_bis
     * step - CMP commission https://www.senat.fr/leg/pjl16-702.html
     * step - nouv. lect. depot http://www.assemblee-nationale.fr/15/projets/pl0122.asp
     * step - nouv. lect. commission http://www.assemblee-nationale.fr/15/ta-commission/r0124-a0.asp
-      * downloading amendments: https://2017-2022.nosdeputes.fr/15/amendements/122/json?cache=5feb2018 for http://www.assemblee-nationale.fr/15/projets/pl0122.asp
+      * downloading amendments: https://2017-2022.nosdeputes.fr/15/amendements/122/json?cache=lfdll-prod for http://www.assemblee-nationale.fr/15/projets/pl0122.asp
         parsing amendments: 44
       * downloading interventions
         * downloading seances -  https://2017-2022.nosdeputes.fr/15/seances/122/json?commission=1
         * downloading seances -  https://2017-2022.nosdeputes.fr/15/seances/105/json?commission=1
     * step - nouv. lect. hemicycle http://www.assemblee-nationale.fr/15/ta/ta0017.asp
-      * downloading amendments: https://2017-2022.nosdeputes.fr/15/amendements/124/json?cache=5feb2018 for http://www.assemblee-nationale.fr/15/ta-commission/r0124-a0.asp
+      * downloading amendments: https://2017-2022.nosdeputes.fr/15/amendements/124/json?cache=lfdll-prod for http://www.assemblee-nationale.fr/15/ta-commission/r0124-a0.asp
         parsing amendments: 72
       * downloading interventions
         * downloading seances -  https://2017-2022.nosdeputes.fr/15/seances/124/json?hemicycle=1
@@ -174,12 +174,12 @@ Matched an article deleted in this step 8_bis
             dumping seance - 2017-07-24T21:30_85
     * step - nouv. lect. depot https://www.senat.fr/leg/pjl16-707.html
     * step - nouv. lect. commission https://www.senat.fr/leg/pjl16-709.html
-      * downloading amendments: https://www.nossenateurs.fr/amendements/20162017-707/json?cache=5feb2018 for https://www.senat.fr/leg/pjl16-707.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20162017-707/json?cache=lfdll-prod for https://www.senat.fr/leg/pjl16-707.html
         parsing amendments: 33
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20162017-707/json?commission=1
     * step - nouv. lect. hemicycle https://www.senat.fr/leg/tas16-128.html
-      * downloading amendments: https://www.nossenateurs.fr/amendements/20162017-709/json?cache=5feb2018 for https://www.senat.fr/leg/pjl16-709.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20162017-709/json?cache=lfdll-prod for https://www.senat.fr/leg/pjl16-709.html
         parsing amendments: 4
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20162017-709/json?hemicycle=1
@@ -188,8 +188,8 @@ Matched an article deleted in this step 8_bis
     * step - l. définitive depot http://www.assemblee-nationale.fr/15/ta/ta0017.asp
     * step - l. définitive hemicycle http://www.assemblee-nationale.fr/15/ta/ta0018.asp
 [step_logic] l. définitive / hemicycle: fetching last AN hemi or last CMP commission
-      * downloading amendments: https://2017-2022.nosdeputes.fr/15/amendements/TA17/json?cache=5feb2018 for http://www.assemblee-nationale.fr/15/ta/ta0017.asp
- WARNING: TA - trying alternative url too https://2017-2022.nosdeputes.fr/15/amendements/TA0017/json?cache=5feb2018
+      * downloading amendments: https://2017-2022.nosdeputes.fr/15/amendements/TA17/json?cache=lfdll-prod for http://www.assemblee-nationale.fr/15/ta/ta0017.asp
+ WARNING: TA - trying alternative url too https://2017-2022.nosdeputes.fr/15/amendements/TA0017/json?cache=lfdll-prod
         parsing amendments: 24
       * downloading interventions
         * downloading seances -  https://2017-2022.nosdeputes.fr/15/seances/TA17/json?hemicycle=1

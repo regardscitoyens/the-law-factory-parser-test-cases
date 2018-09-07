@@ -71,7 +71,7 @@ Matched an article deleted in this step 1er_A
  - process amendements & interventions
     * step - 1ère lecture depot http://www.assemblee-nationale.fr/14/projets/pl1004.asp
     * step - 1ère lecture commission http://www.assemblee-nationale.fr/14/ta-commission/r1108-a0.asp
-      * downloading amendments: https://2012-2017.nosdeputes.fr/14/amendements/1004/json?cache=5feb2018 for http://www.assemblee-nationale.fr/14/projets/pl1004.asp
+      * downloading amendments: https://2012-2017.nosdeputes.fr/14/amendements/1004/json?cache=lfdll-prod for http://www.assemblee-nationale.fr/14/projets/pl1004.asp
         parsing amendments: 89
       * downloading interventions
         * downloading seances -  https://2012-2017.nosdeputes.fr/14/seances/1004/json?commission=1
@@ -80,7 +80,7 @@ Matched an article deleted in this step 1er_A
            downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/1525/1004/json
             dumping seance - 2013-06-17T15:00_1525
     * step - 1ère lecture hemicycle http://www.assemblee-nationale.fr/14/ta/ta0161.asp
-      * downloading amendments: https://2012-2017.nosdeputes.fr/14/amendements/1108/json?cache=5feb2018 for http://www.assemblee-nationale.fr/14/ta-commission/r1108-a0.asp
+      * downloading amendments: https://2012-2017.nosdeputes.fr/14/amendements/1108/json?cache=lfdll-prod for http://www.assemblee-nationale.fr/14/ta-commission/r1108-a0.asp
         parsing amendments: 382
       * downloading interventions
         * downloading seances -  https://2012-2017.nosdeputes.fr/14/seances/1108/json?hemicycle=1
@@ -108,27 +108,27 @@ Matched an article deleted in this step 1er_A
             dumping seance - 2013-09-17T15:00_2142
     * step - 1ère lecture depot https://www.senat.fr/leg/pjl12-688.html
     * step - 1ère lecture commission https://www.senat.fr/leg/pjl12-723.html
-      * downloading amendments: https://www.nossenateurs.fr/amendements/20122013-688/json?cache=5feb2018 for https://www.senat.fr/leg/pjl12-688.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20122013-688/json?cache=lfdll-prod for https://www.senat.fr/leg/pjl12-688.html
         parsing amendments: 237
 WARNING: amendments ignored (not the right step) 185
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20122013-688/json?commission=1
     * step - 1ère lecture hemicycle None
-      * downloading amendments: https://www.nossenateurs.fr/amendements/20122013-723/json?cache=5feb2018 for https://www.senat.fr/leg/pjl12-723.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20122013-723/json?cache=lfdll-prod for https://www.senat.fr/leg/pjl12-723.html
         parsing amendments: 130
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20122013-723/json?hemicycle=1
            downloading seance -  https://www.nossenateurs.fr/seance/9679/20122013-723/json
             dumping seance - 2013-07-09T14:30_9679
     * step - 1ère lecture commission https://www.senat.fr/leg/pjl12-732.html
-      * downloading amendments: https://www.nossenateurs.fr/amendements/20122013-688/json?cache=5feb2018 for https://www.senat.fr/leg/pjl12-688.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20122013-688/json?cache=lfdll-prod for https://www.senat.fr/leg/pjl12-688.html
         parsing amendments: 237
 WARNING: amendments ignored (not the right step) 185
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20122013-688/json?commission=1
         * downloading seances -  https://www.nossenateurs.fr/seances/20122013-723/json?commission=1
     * step - 1ère lecture hemicycle https://www.senat.fr/leg/tas12-192.html
-      * downloading amendments: https://www.nossenateurs.fr/amendements/20122013-688/json?cache=5feb2018 for https://www.senat.fr/leg/pjl12-688.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20122013-688/json?cache=lfdll-prod for https://www.senat.fr/leg/pjl12-688.html
         parsing amendments: 237
 WARNING: amendments ignored (not the right step) 52
       * downloading interventions
@@ -142,7 +142,7 @@ WARNING: amendments ignored (not the right step) 52
     * step - CMP commission https://www.senat.fr/leg/pjl12-771.html
     * step - nouv. lect. depot http://www.assemblee-nationale.fr/14/projets/pl1249.asp
     * step - nouv. lect. commission http://www.assemblee-nationale.fr/14/ta-commission/r1279-a0.asp
-      * downloading amendments: https://2012-2017.nosdeputes.fr/14/amendements/1249/json?cache=5feb2018 for http://www.assemblee-nationale.fr/14/projets/pl1249.asp
+      * downloading amendments: https://2012-2017.nosdeputes.fr/14/amendements/1249/json?cache=lfdll-prod for http://www.assemblee-nationale.fr/14/projets/pl1249.asp
         parsing amendments: 6
       * downloading interventions
         * downloading seances -  https://2012-2017.nosdeputes.fr/14/seances/1249/json?commission=1
@@ -151,7 +151,7 @@ WARNING: amendments ignored (not the right step) 52
            downloading seance -  https://2012-2017.nosdeputes.fr/14/seance/1764/1249/json
             dumping seance - 2013-07-22T16:00_1764
     * step - nouv. lect. hemicycle http://www.assemblee-nationale.fr/14/ta/ta0191.asp
-      * downloading amendments: https://2012-2017.nosdeputes.fr/14/amendements/1279/json?cache=5feb2018 for http://www.assemblee-nationale.fr/14/ta-commission/r1279-a0.asp
+      * downloading amendments: https://2012-2017.nosdeputes.fr/14/amendements/1279/json?cache=lfdll-prod for http://www.assemblee-nationale.fr/14/ta-commission/r1279-a0.asp
         parsing amendments: 37
       * downloading interventions
         * downloading seances -  https://2012-2017.nosdeputes.fr/14/seances/1279/json?hemicycle=1
@@ -179,13 +179,13 @@ WARNING: amendments ignored (not the right step) 52
             dumping seance - 2013-09-17T15:00_2142
     * step - nouv. lect. depot https://www.senat.fr/leg/pjl12-797.html
     * step - nouv. lect. commission https://www.senat.fr/leg/pjl12-802.html
-      * downloading amendments: https://www.nossenateurs.fr/amendements/20122013-797/json?cache=5feb2018 for https://www.senat.fr/leg/pjl12-797.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20122013-797/json?cache=lfdll-prod for https://www.senat.fr/leg/pjl12-797.html
         parsing amendments: 48
 WARNING: amendments ignored (not the right step) 48
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20122013-797/json?commission=1
     * step - nouv. lect. hemicycle https://www.senat.fr/leg/tas12-210.html
-      * downloading amendments: https://www.nossenateurs.fr/amendements/20122013-797/json?cache=5feb2018 for https://www.senat.fr/leg/pjl12-797.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20122013-797/json?cache=lfdll-prod for https://www.senat.fr/leg/pjl12-797.html
         parsing amendments: 48
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20122013-797/json?hemicycle=1
@@ -194,8 +194,8 @@ WARNING: amendments ignored (not the right step) 48
     * step - l. définitive depot http://www.assemblee-nationale.fr/14/ta/ta0191.asp
     * step - l. définitive hemicycle http://www.assemblee-nationale.fr/14/ta/ta0209.asp
 [step_logic] l. définitive / hemicycle: fetching last AN hemi or last CMP commission
-      * downloading amendments: https://2012-2017.nosdeputes.fr/14/amendements/TA191/json?cache=5feb2018 for http://www.assemblee-nationale.fr/14/ta/ta0191.asp
- WARNING: TA - trying alternative url too https://2012-2017.nosdeputes.fr/14/amendements/TA0191/json?cache=5feb2018
+      * downloading amendments: https://2012-2017.nosdeputes.fr/14/amendements/TA191/json?cache=lfdll-prod for http://www.assemblee-nationale.fr/14/ta/ta0191.asp
+ WARNING: TA - trying alternative url too https://2012-2017.nosdeputes.fr/14/amendements/TA0191/json?cache=lfdll-prod
         parsing amendments: 4
 WARNING: amendments ignored (not the right step) 3
       * downloading interventions

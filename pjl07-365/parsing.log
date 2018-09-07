@@ -50,7 +50,7 @@ WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 25 <-> 27 20 Vs 285 chars, sim
  - process amendements & interventions
     * step - 1ère lecture depot http://www.assemblee-nationale.fr/13/projets/pl0820.asp
     * step - 1ère lecture commission http://www.assemblee-nationale.fr/13/rapports/r0892.asp
-      * downloading amendments: https://2007-2012.nosdeputes.fr/13/amendements/820/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/projets/pl0820.asp
+      * downloading amendments: https://2007-2012.nosdeputes.fr/13/amendements/820/json?cache=lfdll-prod for http://www.assemblee-nationale.fr/13/projets/pl0820.asp
         parsing amendments: 631
 WARNING: amendments ignored (not the right step) 631
       * downloading interventions
@@ -72,7 +72,7 @@ WARNING: amendments ignored (not the right step) 631
            downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/2534/820/json
             dumping seance - 2008-05-13T11:30_2534
     * step - 1ère lecture hemicycle http://www.assemblee-nationale.fr/13/ta/ta0150.asp
-      * downloading amendments: https://2007-2012.nosdeputes.fr/13/amendements/820/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/projets/pl0820.asp
+      * downloading amendments: https://2007-2012.nosdeputes.fr/13/amendements/820/json?cache=lfdll-prod for http://www.assemblee-nationale.fr/13/projets/pl0820.asp
         parsing amendments: 631
       * downloading interventions
         * downloading seances -  https://2007-2012.nosdeputes.fr/13/seances/820/json?hemicycle=1
@@ -104,14 +104,14 @@ WARNING: amendments ignored (not the right step) 631
             dumping seance - 2008-05-29T10:45_546
     * step - 1ère lecture depot https://www.senat.fr/leg/pjl07-365.html
     * step - 1ère lecture commission https://www.senat.fr/rap/l07-387/l07-387.html
-      * downloading amendments: https://www.nossenateurs.fr/amendements/20072008-365/json?cache=5feb2018 for https://www.senat.fr/leg/pjl07-365.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20072008-365/json?cache=lfdll-prod for https://www.senat.fr/leg/pjl07-365.html
         parsing amendments: 495
 WARNING: amendments ignored (not the right step) 495
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20072008-365/json?commission=1
            downloading seance -  https://www.nossenateurs.fr/seance/3324/20072008-365/json
     * step - 1ère lecture hemicycle https://www.senat.fr/leg/tas07-116.html
-      * downloading amendments: https://www.nossenateurs.fr/amendements/20072008-365/json?cache=5feb2018 for https://www.senat.fr/leg/pjl07-365.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20072008-365/json?cache=lfdll-prod for https://www.senat.fr/leg/pjl07-365.html
         parsing amendments: 495
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20072008-365/json?hemicycle=1
@@ -136,7 +136,7 @@ WARNING: amendments ignored (not the right step) 495
             dumping seance - 2008-06-24T16:00_770
     * step - 2ème lecture depot http://www.assemblee-nationale.fr/13/projets/pl0993.asp
     * step - 2ème lecture commission http://www.assemblee-nationale.fr/13/rapports/r1009.asp
-      * downloading amendments: https://2007-2012.nosdeputes.fr/13/amendements/993/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/projets/pl0993.asp
+      * downloading amendments: https://2007-2012.nosdeputes.fr/13/amendements/993/json?cache=lfdll-prod for http://www.assemblee-nationale.fr/13/projets/pl0993.asp
         parsing amendments: 324
 WARNING: amendments ignored (not the right step) 324
       * downloading interventions
@@ -146,7 +146,7 @@ WARNING: amendments ignored (not the right step) 324
            downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/1505/993/json
             dumping seance - 2008-07-02T10:00_1505
     * step - 2ème lecture hemicycle http://www.assemblee-nationale.fr/13/ta/ta0172.asp
-      * downloading amendments: https://2007-2012.nosdeputes.fr/13/amendements/993/json?cache=5feb2018 for http://www.assemblee-nationale.fr/13/projets/pl0993.asp
+      * downloading amendments: https://2007-2012.nosdeputes.fr/13/amendements/993/json?cache=lfdll-prod for http://www.assemblee-nationale.fr/13/projets/pl0993.asp
         parsing amendments: 324
       * downloading interventions
         * downloading seances -  https://2007-2012.nosdeputes.fr/13/seances/993/json?hemicycle=1
@@ -160,13 +160,13 @@ WARNING: amendments ignored (not the right step) 324
             dumping seance - 2008-07-09T16:30_73
     * step - 2ème lecture depot https://www.senat.fr/leg/pjl07-459.html
     * step - 2ème lecture commission https://www.senat.fr/rap/l07-463/l07-463.html
-      * downloading amendments: https://www.nossenateurs.fr/amendements/20072008-459/json?cache=5feb2018 for https://www.senat.fr/leg/pjl07-459.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20072008-459/json?cache=lfdll-prod for https://www.senat.fr/leg/pjl07-459.html
         parsing amendments: 137
 WARNING: amendments ignored (not the right step) 137
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20072008-459/json?commission=1
     * step - 2ème lecture hemicycle https://www.senat.fr/leg/tas07-137.html
-      * downloading amendments: https://www.nossenateurs.fr/amendements/20072008-459/json?cache=5feb2018 for https://www.senat.fr/leg/pjl07-459.html
+      * downloading amendments: https://www.nossenateurs.fr/amendements/20072008-459/json?cache=lfdll-prod for https://www.senat.fr/leg/pjl07-459.html
         parsing amendments: 137
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20072008-459/json?hemicycle=1
