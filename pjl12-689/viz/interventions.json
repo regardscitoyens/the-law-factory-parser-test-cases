@@ -385,7 +385,8 @@
         "nom": "Sébastien Denaja",
         "photo": "https://2012-2017.nosdeputes.fr/depute/photo/sebastien-denaja"
       }
-    }
+    },
+    "total_seances": 1
   },
   "02_1erelecture_assemblee_hemicycle": {
     "divisions": {
@@ -5796,7 +5797,8 @@
         "nom": "Élisabeth Guigou",
         "photo": "https://2012-2017.nosdeputes.fr/depute/photo/elisabeth-guigou"
       }
-    }
+    },
+    "total_seances": 7
   },
   "05_1erelecture_senat_hemicycle": {
     "divisions": {
@@ -9189,7 +9191,8 @@
         "nom": "Éric Doligé",
         "photo": "https://www.nossenateurs.fr/senateur/photo/eric-dolige"
       }
-    }
+    },
+    "total_seances": 2
   },
   "08_nouv.lect._assemblee_commission": {
     "divisions": {
@@ -11494,7 +11497,8 @@
         "nom": "Éric Alauzet",
         "photo": "https://2012-2017.nosdeputes.fr/depute/photo/eric-alauzet"
       }
-    }
+    },
+    "total_seances": 5
   },
   "09_nouv.lect._assemblee_hemicycle": {
     "divisions": {
@@ -17908,7 +17912,8 @@
         "nom": "Éric Alauzet",
         "photo": "https://2012-2017.nosdeputes.fr/depute/photo/eric-alauzet"
       }
-    }
+    },
+    "total_seances": 10
   },
   "11_nouv.lect._senat_commission": {
     "divisions": {
@@ -18129,7 +18134,8 @@
         "nom": "Pierre-Yves Collombat",
         "photo": "https://www.nossenateurs.fr/senateur/photo/pierre-yves-collombat"
       }
-    }
+    },
+    "total_seances": 1
   },
   "12_nouv.lect._senat_hemicycle": {
     "divisions": {
@@ -20279,7 +20285,8 @@
         "nom": "Éliane Assassi",
         "photo": "https://www.nossenateurs.fr/senateur/photo/eliane-assassi"
       }
-    }
+    },
+    "total_seances": 2
   },
   "13_l.définitive_assemblee_depot": {
     "divisions": {
@@ -21181,6 +21188,7 @@
         "nom": "Yves Albarello",
         "photo": "https://2012-2017.nosdeputes.fr/depute/photo/yves-albarello"
       }
-    }
+    },
+    "total_seances": 3
   }
 }

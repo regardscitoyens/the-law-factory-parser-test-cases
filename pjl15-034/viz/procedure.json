@@ -32,7 +32,10 @@
     "total_intervenants": 37,
     "total_interventions": 367,
     "total_mots": 100489,
-    "total_output_articles": 11
+    "total_output_articles": 11,
+    "total_seances": 6,
+    "total_seances_assemblee": 4,
+    "total_seances_senat": 2
   },
   "steps": [
     {

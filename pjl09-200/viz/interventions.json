@@ -6282,7 +6282,8 @@
         "nom": "Évelyne Didier",
         "photo": "https://www.nossenateurs.fr/senateur/photo/evelyne-didier"
       }
-    }
+    },
+    "total_seances": 9
   },
   "04_1erelecture_assemblee_commission": {
     "divisions": {
@@ -8689,7 +8690,8 @@
         "nom": "Yves Cochet",
         "photo": "https://2007-2012.nosdeputes.fr/depute/photo/yves-cochet"
       }
-    }
+    },
+    "total_seances": 10
   },
   "05_1erelecture_assemblee_hemicycle": {
     "divisions": {
@@ -16921,7 +16923,8 @@
         "nom": "Yves Jego",
         "photo": "https://2007-2012.nosdeputes.fr/depute/photo/yves-jego"
       }
-    }
+    },
+    "total_seances": 11
   },
   "07_cmp_assemblee_hemicycle": {
     "divisions": {
@@ -17296,7 +17299,8 @@
         "nom": "Patrick Ollier",
         "photo": "https://2007-2012.nosdeputes.fr/depute/photo/patrick-ollier"
       }
-    }
+    },
+    "total_seances": 1
   },
   "08_cmp_senat_hemicycle": {
     "divisions": {
@@ -17670,6 +17674,7 @@
         "nom": "Yvon Collin",
         "photo": "https://www.nossenateurs.fr/senateur/photo/yvon-collin"
       }
-    }
+    },
+    "total_seances": 1
   }
 }

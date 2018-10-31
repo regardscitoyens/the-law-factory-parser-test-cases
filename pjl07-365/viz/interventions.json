@@ -1404,7 +1404,8 @@
         "nom": "élisabeth Flüry-Hérard",
         "photo": ""
       }
-    }
+    },
+    "total_seances": 8
   },
   "02_1erelecture_assemblee_hemicycle": {
     "divisions": {
@@ -10414,7 +10415,8 @@
         "nom": "Étienne Blanc",
         "photo": "https://2007-2012.nosdeputes.fr/depute/photo/etienne-blanc"
       }
-    }
+    },
+    "total_seances": 13
   },
   "05_1erelecture_senat_hemicycle": {
     "divisions": {
@@ -16372,7 +16374,8 @@
         "nom": "Éric Doligé",
         "photo": "https://www.nossenateurs.fr/senateur/photo/eric-dolige"
       }
-    }
+    },
+    "total_seances": 8
   },
   "07_2emelecture_assemblee_commission": {
     "divisions": {
@@ -16659,7 +16662,8 @@
         "nom": "Noël Mamère",
         "photo": "https://2007-2012.nosdeputes.fr/depute/photo/noel-mamere"
       }
-    }
+    },
+    "total_seances": 1
   },
   "08_2emelecture_assemblee_hemicycle": {
     "divisions": {
@@ -21854,7 +21858,8 @@
         "nom": "Émile Blessig",
         "photo": "https://2007-2012.nosdeputes.fr/depute/photo/emile-blessig"
       }
-    }
+    },
+    "total_seances": 4
   },
   "11_2emelecture_senat_hemicycle": {
     "divisions": {
@@ -23792,6 +23797,7 @@
         "nom": "Éliane Assassi",
         "photo": "https://www.nossenateurs.fr/senateur/photo/eliane-assassi"
       }
-    }
+    },
+    "total_seances": 2
   }
 }

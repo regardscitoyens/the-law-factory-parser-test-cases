@@ -117,7 +117,8 @@
         "nom": "Michel Magras",
         "photo": "https://www.nossenateurs.fr/senateur/photo/michel-magras"
       }
-    }
+    },
+    "total_seances": 2
   },
   "02_1erelecture_senat_hemicycle": {
     "divisions": {
@@ -802,7 +803,8 @@
         "nom": "Sophie Joissains",
         "photo": "https://www.nossenateurs.fr/senateur/photo/sophie-joissains"
       }
-    }
+    },
+    "total_seances": 2
   },
   "04_1erelecture_assemblee_commission": {
     "divisions": {
@@ -1813,7 +1815,8 @@
         "nom": "Yves Nicolin",
         "photo": "https://2007-2012.nosdeputes.fr/depute/photo/yves-nicolin"
       }
-    }
+    },
+    "total_seances": 6
   },
   "05_1erelecture_assemblee_hemicycle": {
     "divisions": {
@@ -6532,7 +6535,8 @@
         "nom": "Éric Raoult",
         "photo": "https://2007-2012.nosdeputes.fr/depute/photo/eric-raoult"
       }
-    }
+    },
+    "total_seances": 13
   },
   "07_cmp_senat_hemicycle": {
     "divisions": {
@@ -6879,7 +6883,8 @@
         "nom": "Serge Lagauche",
         "photo": "https://www.nossenateurs.fr/senateur/photo/serge-lagauche"
       }
-    }
+    },
+    "total_seances": 1
   },
   "08_cmp_assemblee_hemicycle": {
     "divisions": {
@@ -7513,7 +7518,8 @@
         "nom": "Yves Albarello",
         "photo": "https://2007-2012.nosdeputes.fr/depute/photo/yves-albarello"
       }
-    }
+    },
+    "total_seances": 1
   },
   "10_nouv.lect._assemblee_commission": {
     "divisions": {
@@ -7901,7 +7907,8 @@
         "nom": "Yves Nicolin",
         "photo": "https://2007-2012.nosdeputes.fr/depute/photo/yves-nicolin"
       }
-    }
+    },
+    "total_seances": 1
   },
   "11_nouv.lect._assemblee_hemicycle": {
     "divisions": {
@@ -10962,7 +10969,8 @@
         "nom": "Éric Straumann",
         "photo": "https://2007-2012.nosdeputes.fr/depute/photo/eric-straumann"
       }
-    }
+    },
+    "total_seances": 7
   },
   "13_nouv.lect._senat_commission": {
     "divisions": {
@@ -11149,7 +11157,8 @@
         "nom": "Serge Lagauche",
         "photo": "https://www.nossenateurs.fr/senateur/photo/serge-lagauche"
       }
-    }
+    },
+    "total_seances": 2
   },
   "14_nouv.lect._senat_hemicycle": {
     "divisions": {
@@ -11962,6 +11971,7 @@
         "nom": "Sophie Joissains",
         "photo": "https://www.nossenateurs.fr/senateur/photo/sophie-joissains"
       }
-    }
+    },
+    "total_seances": 1
   }
 }

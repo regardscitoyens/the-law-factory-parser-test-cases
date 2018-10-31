@@ -3536,7 +3536,8 @@
         "nom": "Éric Doligé",
         "photo": "https://www.nossenateurs.fr/senateur/photo/eric-dolige"
       }
-    }
+    },
+    "total_seances": 3
   },
   "05_1erelecture_assemblee_hemicycle": {
     "divisions": {
@@ -18918,7 +18919,8 @@
         "nom": "Éric Woerth",
         "photo": "https://2017-2022.nosdeputes.fr/depute/photo/eric-woerth"
       }
-    }
+    },
+    "total_seances": 12
   },
   "07_cmp_senat_hemicycle": {
     "divisions": {
@@ -19265,7 +19267,8 @@
         "nom": "Yves Daudigny",
         "photo": "https://www.nossenateurs.fr/senateur/photo/yves-daudigny"
       }
-    }
+    },
+    "total_seances": 1
   },
   "08_cmp_assemblee_hemicycle": {
     "divisions": {
@@ -37036,6 +37039,7 @@
         "nom": "Éric Woerth",
         "photo": "https://2017-2022.nosdeputes.fr/depute/photo/eric-woerth"
       }
-    }
+    },
+    "total_seances": 15
   }
 }

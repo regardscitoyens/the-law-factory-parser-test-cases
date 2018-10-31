@@ -191,7 +191,8 @@
         "nom": "René Dosière",
         "photo": "https://2012-2017.nosdeputes.fr/depute/photo/rene-dosiere"
       }
-    }
+    },
+    "total_seances": 1
   },
   "02_1erelecture_assemblee_hemicycle": {
     "divisions": {
@@ -947,7 +948,8 @@
         "nom": "René Dosière",
         "photo": "https://2012-2017.nosdeputes.fr/depute/photo/rene-dosiere"
       }
-    }
+    },
+    "total_seances": 1
   },
   "05_1erelecture_senat_hemicycle": {
     "divisions": {
@@ -1791,7 +1793,8 @@
         "nom": "Thierry Foucaud",
         "photo": "https://www.nossenateurs.fr/senateur/photo/thierry-foucaud"
       }
-    }
+    },
+    "total_seances": 1
   },
   "07_cmp_assemblee_hemicycle": {
     "divisions": {
@@ -2602,7 +2605,8 @@
         "nom": "René Dosière",
         "photo": "https://2012-2017.nosdeputes.fr/depute/photo/rene-dosiere"
       }
-    }
+    },
+    "total_seances": 2
   },
   "08_cmp_senat_hemicycle": {
     "divisions": {
@@ -2847,6 +2851,7 @@
         "nom": "Éric Bocquet",
         "photo": "https://www.nossenateurs.fr/senateur/photo/eric-bocquet"
       }
-    }
+    },
+    "total_seances": 1
   }
 }

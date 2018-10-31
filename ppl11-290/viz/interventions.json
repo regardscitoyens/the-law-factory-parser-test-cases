@@ -258,7 +258,8 @@
         "nom": "Éric Diard",
         "photo": "https://2007-2012.nosdeputes.fr/depute/photo/eric-diard"
       }
-    }
+    },
+    "total_seances": 1
   },
   "02_1erelecture_assemblee_hemicycle": {
     "divisions": {
@@ -1523,7 +1524,8 @@
         "nom": "Éric Diard",
         "photo": "https://2007-2012.nosdeputes.fr/depute/photo/eric-diard"
       }
-    }
+    },
+    "total_seances": 2
   },
   "05_1erelecture_senat_hemicycle": {
     "divisions": {
@@ -2383,7 +2385,8 @@
         "nom": "Éliane Assassi",
         "photo": "https://www.nossenateurs.fr/senateur/photo/eliane-assassi"
       }
-    }
+    },
+    "total_seances": 1
   },
   "09_nouv.lect._assemblee_hemicycle": {
     "divisions": {
@@ -3089,7 +3092,8 @@
         "nom": "Éric Diard",
         "photo": "https://2007-2012.nosdeputes.fr/depute/photo/eric-diard"
       }
-    }
+    },
+    "total_seances": 1
   },
   "12_nouv.lect._senat_hemicycle": {
     "divisions": {
@@ -3932,7 +3936,8 @@
         "nom": "Élisabeth Lamure",
         "photo": "https://www.nossenateurs.fr/senateur/photo/elisabeth-lamure"
       }
-    }
+    },
+    "total_seances": 2
   },
   "14_l.définitive_assemblee_hemicycle": {
     "divisions": {
@@ -4435,6 +4440,7 @@
         "nom": "Éric Diard",
         "photo": "https://2007-2012.nosdeputes.fr/depute/photo/eric-diard"
       }
-    }
+    },
+    "total_seances": 1
   }
 }

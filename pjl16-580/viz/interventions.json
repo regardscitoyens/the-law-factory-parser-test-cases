@@ -4507,7 +4507,8 @@
         "nom": "Éric Doligé",
         "photo": "https://www.nossenateurs.fr/senateur/photo/eric-dolige"
       }
-    }
+    },
+    "total_seances": 4
   },
   "05_1erelecture_assemblee_hemicycle": {
     "divisions": {
@@ -19889,7 +19890,8 @@
         "nom": "Éric Woerth",
         "photo": "https://2017-2022.nosdeputes.fr/depute/photo/eric-woerth"
       }
-    }
+    },
+    "total_seances": 12
   },
   "08_nouv.lect._assemblee_commission": {
     "divisions": {
@@ -22793,7 +22795,8 @@
         "nom": "Éric Coquerel",
         "photo": "https://2017-2022.nosdeputes.fr/depute/photo/eric-coquerel"
       }
-    }
+    },
+    "total_seances": 2
   },
   "09_nouv.lect._assemblee_hemicycle": {
     "divisions": {
@@ -39862,7 +39865,8 @@
         "nom": "Éric Woerth",
         "photo": "https://2017-2022.nosdeputes.fr/depute/photo/eric-woerth"
       }
-    }
+    },
+    "total_seances": 14
   },
   "13_l.définitive_assemblee_depot": {
     "divisions": {
@@ -41275,6 +41279,7 @@
         "nom": "Éric Ciotti",
         "photo": "https://2017-2022.nosdeputes.fr/depute/photo/eric-ciotti"
       }
-    }
+    },
+    "total_seances": 1
   }
 }
