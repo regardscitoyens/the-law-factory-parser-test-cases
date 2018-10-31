@@ -16,6 +16,7 @@
   "stats": {
     "echecs_procedure": 0,
     "input_text_length": 71555,
+    "last_stage": "CMP",
     "output_text_length": 141957,
     "ratio_articles_growth": 2.4285714285714284,
     "ratio_texte_modif": 0.5608489060671608,
