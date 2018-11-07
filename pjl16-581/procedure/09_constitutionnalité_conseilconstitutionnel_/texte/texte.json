@@ -19,7 +19,7 @@
         "015": "\"10° Les délits prévus aux articles L. 241-3 et L. 242-6 du code de commerce, ainsi que leur recel ou leur blanchiment ;",
         "016": "\"11° Les délits prévus à l'article L. 113-1 du code électoral et à l'article 11-5 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique ;",
         "017": "\"12° Les délits prévus au I de l'article LO 135-1 du code électoral et à l'article 26 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique ;",
-        "018": "[Dispositions déclarées non conformes à la Constitution par la décision n° 2017-752 DC du 8 septembre 2017. ]",
+        "018": "(Censuré)",
         "019": "\"14° Le délit de participation à une association de malfaiteurs prévu à l'article 450-1 du présent code, lorsqu'il a pour objet un crime ou un délit mentionné aux 1° à 13° du présent II.",
         "020": "\"III. - Toutefois, la juridiction peut, par une décision spécialement motivée, décider de ne pas prononcer la peine prévue par le présent article, en considération des circonstances de l'infraction et de la personnalité de son auteur.\" ;",
         "021": "2° Le dernier alinéa des articles 432-17 et 433-22 est supprimé ;",
@@ -43,7 +43,6 @@
         "article 11-5 de la loi n° 88-227 du 11 mars 1988",
         "I de l'article LO 135-1 du code électoral",
         "article 26 de la loi n° 2013-907 du 11 octobre 2013",
-        "Constitution",
         "code de procédure pénale",
         "articles 131-26-1 et 131-26-2 du code pénal",
         "loi n° 2017-1339 du 15 septembre 2017"
@@ -139,15 +138,13 @@
     },
     {
       "alineas": {
-        "001": "[Dispositions déclarées non conformes à la Constitution par la décision n° 2017-752 DC du 8 septembre 2017. ]"
+        "001": "(Censuré)"
       },
-      "liens": [
-        "Constitution"
-      ],
+      "liens": [],
       "newtitre": "7",
       "order": 7,
       "section": "T2",
-      "statut": "none",
+      "statut": "supprimé",
       "titre": "2 ter E",
       "type": "article"
     },
@@ -178,15 +175,13 @@
     },
     {
       "alineas": {
-        "001": "[Dispositions déclarées non conformes à la Constitution par la décision n° 2017-752 DC du 8 septembre 2017. ]"
+        "001": "(Censuré)"
       },
-      "liens": [
-        "Constitution"
-      ],
+      "liens": [],
       "newtitre": "9",
       "order": 9,
       "section": "T2 bis",
-      "statut": "none",
+      "statut": "supprimé",
       "titre": "2 quater",
       "type": "article"
     },
@@ -227,12 +222,10 @@
         "013": "4° L'enfant, le frère ou la soeur des personnes mentionnées au 3° du présent II ;",
         "014": "5° Le frère ou la soeur de la personne mentionnée au 1° du I.",
         "015": "III. - Lorsqu'un membre de cabinet ministériel a un lien familial au sens des I ou II avec un autre membre du Gouvernement, il en informe sans délai le membre du Gouvernement dont il est le collaborateur et la Haute Autorité pour la transparence de la vie publique.",
-        "016": "[Dispositions déclarées non conformes à la Constitution par la décision n° 2017-752 DC du 8 septembre 2017. ]",
-        "017": "V. - Les II, III [Dispositions déclarées non conformes à la Constitution par la décision n° 2017-752 DC du 8 septembre 2017. ] du présent article s'appliquent sans préjudice des articles 432-10 à 432-13 et 432-15 du code pénal."
+        "016": "(Censuré)",
+        "017": "V. - Les II, III (Censuré) du présent article s'appliquent sans préjudice des articles 432-10 à 432-13 et 432-15 du code pénal."
       },
       "liens": [
-        "Constitution",
-        "Constitution",
         "articles 432-10 à 432-13 et 432-15 du code pénal"
       ],
       "newtitre": "11",
@@ -327,8 +320,8 @@
         "015": "\"3° Son ancien conjoint, la personne ayant été liée à elle par un pacte civil de solidarité ou son ancien concubin ;",
         "016": "\"4° L'enfant, le frère ou la soeur des personnes mentionnées au 3° du présent III ;",
         "017": "\"5° Le frère ou la soeur des personnes mentionnées au 1° du I.",
-        "018": "[Dispositions déclarées non conformes à la Constitution par la décision n° 2017-752 DC du 8 septembre 2017. ]",
-        "019": "\"V. - Les II, III [Dispositions déclarées non conformes à la Constitution par la décision n° 2017-752 DC du 8 septembre 2017. ] du présent article s'appliquent sans préjudice des articles 432-10 à 432-13 et 432-15 du code pénal.\" ;",
+        "018": "(Censuré)",
+        "019": "\"V. - Les II, III (Censuré) du présent article s'appliquent sans préjudice des articles 432-10 à 432-13 et 432-15 du code pénal.\" ;",
         "020": "3° Le deuxième alinéa est ainsi modifié :",
         "021": "a) Au début, est ajoutée la mention : \"VI. -\" ;",
         "022": "b) Les mots : \"à ces emplois\" sont remplacés par les mots : \"aux emplois mentionnés au premier alinéa du I\".",
@@ -337,8 +330,6 @@
       "liens": [
         "article 110 de la loi n° 84-53 du 26 janvier 1984",
         "article 11 de la loi n° 2013-907 du 11 octobre 2013",
-        "Constitution",
-        "Constitution",
         "articles 432-10 à 432-13 et 432-15 du code pénal",
         "I à VI de l'article 110 de la loi n° 84-53 du 26 janvier 1984"
       ],
@@ -367,8 +358,8 @@
         "014": "\"3° Son ancien conjoint, la personne ayant été liée à lui par un pacte civil de solidarité ou son ancien concubin ;",
         "015": "\"4° L'enfant, le frère ou la soeur des personnes mentionnées au 3° du présent II ;",
         "016": "\"5° Le frère ou la soeur des personnes mentionnées au 1° du I.",
-        "017": "[Dispositions déclarées non conformes à la Constitution par la décision n° 2017-752 DC du 8 septembre 2017. ]",
-        "018": "\"IV. - Les II [Dispositions déclarées non conformes à la Constitution par la décision n° 2017-752 DC du 8 septembre 2017. ] du présent article s'appliquent sans préjudice des articles 432-10 à 432-13 et 432-15 du code pénal.\" ;",
+        "017": "(Censuré)",
+        "018": "\"IV. - Les II (Censuré) du présent article s'appliquent sans préjudice des articles 432-10 à 432-13 et 432-15 du code pénal.\" ;",
         "019": "2° La section 2 du chapitre III du titre VI est complétée par un article L. 163-14-4 ainsi rédigé :",
         "020": "\"Art. L. 163-14-4. - Il est interdit au président d'un syndicat de communes de compter parmi les membres de son cabinet :",
         "021": "\"1° Son conjoint, partenaire lié par un pacte civil de solidarité ou concubin ;",
@@ -383,8 +374,6 @@
         "livre Ier du code des communes de la Nouvelle-Calédonie",
         "II de l'article 110 de la loi n° 84-53 du 26 janvier 1984",
         "article 11 de la loi n° 2013-907 du 11 octobre 2013",
-        "Constitution",
-        "Constitution",
         "articles 432-10 à 432-13 et 432-15 du code pénal",
         "II de l'article 110 de la loi n° 84-53 du 26 janvier 1984"
       ],
@@ -414,16 +403,14 @@
         "015": "\"3° Son ancien conjoint, la personne ayant été liée à lui par un pacte civil de solidarité ou son ancien concubin ;",
         "016": "\"4° L'enfant, le frère ou la soeur des personnes mentionnées au 3° du présent III ;",
         "017": "\"5° Le frère ou la soeur des personnes mentionnées au 1° du II.",
-        "018": "[Dispositions déclarées non conformes à la Constitution par la décision n° 2017-752 DC du 8 septembre 2017. ]",
-        "019": "\"V. - Les III [Dispositions déclarées non conformes à la Constitution par la décision n° 2017-752 DC du 8 septembre 2017. ] du présent article s'appliquent sans préjudice des articles 432-10 à 432-13 et 432-15 du code pénal.\" ;",
+        "018": "(Censuré)",
+        "019": "\"V. - Les III (Censuré) du présent article s'appliquent sans préjudice des articles 432-10 à 432-13 et 432-15 du code pénal.\" ;",
         "020": "3° Le début du deuxième alinéa est ainsi rédigé : \"VI. - Les fonctions des collaborateurs de cabinet prennent … (le reste sans changement).\""
       },
       "liens": [
         "article 72-6 de l'ordonnance n° 2005-10 du 4 janvier 2005",
         "II de l'article 110 de la loi n° 84-53 du 26 janvier 1984",
         "article 11 de la loi n° 2013-907 du 11 octobre 2013",
-        "Constitution",
-        "Constitution",
         "articles 432-10 à 432-13 et 432-15 du code pénal"
       ],
       "newtitre": "17",
@@ -551,15 +538,13 @@
     },
     {
       "alineas": {
-        "001": "[Dispositions déclarées non conformes à la Constitution par la décision n° 2017-752 DC du 8 septembre 2017. ]"
+        "001": "(Censuré)"
       },
-      "liens": [
-        "Constitution"
-      ],
+      "liens": [],
       "newtitre": "23",
       "order": 23,
       "section": "T4 bis",
-      "statut": "none",
+      "statut": "supprimé",
       "titre": "7 ter B",
       "type": "article"
     },

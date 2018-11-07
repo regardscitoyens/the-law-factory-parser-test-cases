@@ -17,9 +17,9 @@
     "echecs_procedure": 0,
     "input_text_length": 71555,
     "last_stage": "CMP",
-    "output_text_length": 141957,
+    "output_text_length": 139557,
     "ratio_articles_growth": 2.4285714285714284,
-    "ratio_texte_modif": 0.5608489060671608,
+    "ratio_texte_modif": 0.5532083920124219,
     "total_amendements": 1198,
     "total_amendements_adoptes": 218,
     "total_amendements_deputes": 787,
@@ -273,7 +273,6 @@
     "livre des procédures fiscales",
     "code monétaire et financier",
     "code de commerce",
-    "constitution",
     "code de la défense",
     "code de justice administrative",
     "code des juridictions financières",
@@ -281,6 +280,7 @@
     "code du travail",
     "code de la sécurité sociale",
     "code des relations entre le public et l'administration",
+    "constitution",
     "code général des collectivités territoriales"
   ],
   "themes": [

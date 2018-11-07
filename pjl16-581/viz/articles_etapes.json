@@ -631,8 +631,8 @@
           "diff": "both",
           "directory": "09_constitutionnalité_conseilconstitutionnel_",
           "id_step": "09_constitutionnalité_conseilconstitutionnel_",
-          "length": 4069,
-          "n_diff": 0.03174083769633507,
+          "length": 3969,
+          "n_diff": 0.03722002635046118,
           "status": "none"
         }
       ],
@@ -1087,13 +1087,13 @@
           "status": "none"
         },
         {
-          "diff": "add",
+          "diff": "rem",
           "directory": "09_constitutionnalité_conseilconstitutionnel_",
           "id_step": "09_constitutionnalité_conseilconstitutionnel_",
-          "length": 109,
-          "n_diff": 0.9029535864978903,
+          "length": 0,
+          "n_diff": 0,
           "newnum": "9",
-          "status": "none"
+          "status": "sup"
         }
       ],
       "titre": "2 quater"
@@ -1357,13 +1357,13 @@
           "status": "none"
         },
         {
-          "diff": "both",
+          "diff": "rem",
           "directory": "09_constitutionnalité_conseilconstitutionnel_",
           "id_step": "09_constitutionnalité_conseilconstitutionnel_",
-          "length": 109,
-          "n_diff": 0.8552036199095022,
+          "length": 0,
+          "n_diff": 0,
           "newnum": "7",
-          "status": "none"
+          "status": "sup"
         }
       ],
       "titre": "2 ter E"
@@ -1442,8 +1442,8 @@
           "diff": "both",
           "directory": "09_constitutionnalité_conseilconstitutionnel_",
           "id_step": "09_constitutionnalité_conseilconstitutionnel_",
-          "length": 2264,
-          "n_diff": 0.19458946369245378,
+          "length": 2064,
+          "n_diff": 0.24062648315140012,
           "newnum": "11",
           "status": "none"
         }
@@ -1746,8 +1746,8 @@
           "diff": "both",
           "directory": "09_constitutionnalité_conseilconstitutionnel_",
           "id_step": "09_constitutionnalité_conseilconstitutionnel_",
-          "length": 2965,
-          "n_diff": 0.13682564503518369,
+          "length": 2765,
+          "n_diff": 0.17240031274433154,
           "newnum": "15",
           "status": "none"
         }
@@ -1804,8 +1804,8 @@
           "diff": "both",
           "directory": "09_constitutionnalité_conseilconstitutionnel_",
           "id_step": "09_constitutionnalité_conseilconstitutionnel_",
-          "length": 3489,
-          "n_diff": 0.11223458038422651,
+          "length": 3289,
+          "n_diff": 0.14324233232221095,
           "newnum": "16",
           "status": "none"
         }
@@ -1862,8 +1862,8 @@
           "diff": "both",
           "directory": "09_constitutionnalité_conseilconstitutionnel_",
           "id_step": "09_constitutionnalité_conseilconstitutionnel_",
-          "length": 2833,
-          "n_diff": 0.1469763716459752,
+          "length": 2633,
+          "n_diff": 0.184621545855026,
           "newnum": "17",
           "status": "none"
         }
@@ -2393,13 +2393,13 @@
           "status": "none"
         },
         {
-          "diff": "both",
+          "diff": "rem",
           "directory": "09_constitutionnalité_conseilconstitutionnel_",
           "id_step": "09_constitutionnalité_conseilconstitutionnel_",
-          "length": 109,
-          "n_diff": 0.7133333333333334,
+          "length": 0,
+          "n_diff": 0,
           "newnum": "23",
-          "status": "none"
+          "status": "sup"
         }
       ],
       "titre": "7 ter B"
