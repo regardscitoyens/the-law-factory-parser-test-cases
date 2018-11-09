@@ -18,7 +18,7 @@
           "directory": "01_1erelecture_assemblee_commission",
           "id_step": "01_1erelecture_assemblee_commission",
           "length": 13777,
-          "n_diff": 0.479705476300046,
+          "n_diff": 0.47955801104972373,
           "status": "none"
         },
         {
@@ -26,7 +26,7 @@
           "directory": "02_1erelecture_assemblee_hemicycle",
           "id_step": "02_1erelecture_assemblee_hemicycle",
           "length": 15160,
-          "n_diff": 0.0979868014368056,
+          "n_diff": 0.0980277452782885,
           "status": "none"
         },
         {
@@ -34,7 +34,7 @@
           "directory": "04_1erelecture_senat_commission",
           "id_step": "04_1erelecture_senat_commission",
           "length": 13728,
-          "n_diff": 0.44524266978531446,
+          "n_diff": 0.44501086411499247,
           "status": "none"
         },
         {
@@ -58,7 +58,7 @@
           "directory": "11_nouv.lect._assemblee_hemicycle",
           "id_step": "11_nouv.lect._assemblee_hemicycle",
           "length": 17228,
-          "n_diff": 0.11482132396016398,
+          "n_diff": 0.11492821564605915,
           "status": "none"
         },
         {
@@ -66,7 +66,7 @@
           "directory": "14_nouv.lect._senat_hemicycle",
           "id_step": "14_nouv.lect._senat_hemicycle",
           "length": 16614,
-          "n_diff": 0.08714118336262444,
+          "n_diff": 0.08694696747729269,
           "status": "none"
         },
         {
@@ -74,7 +74,7 @@
           "directory": "16_l.définitive_assemblee_hemicycle",
           "id_step": "16_l.définitive_assemblee_hemicycle",
           "length": 17215,
-          "n_diff": 0.08748810308221688,
+          "n_diff": 0.08729403149029658,
           "status": "none"
         },
         {
@@ -82,7 +82,7 @@
           "directory": "17_constitutionnalité_conseilconstitutionnel_",
           "id_step": "17_constitutionnalité_conseilconstitutionnel_",
           "length": 17043,
-          "n_diff": 0.008712204407350432,
+          "n_diff": 0.008421823507872572,
           "status": "none"
         }
       ],
@@ -154,7 +154,7 @@
           "directory": "01_1erelecture_assemblee_commission",
           "id_step": "01_1erelecture_assemblee_commission",
           "length": 2667,
-          "n_diff": 0.5203252032520325,
+          "n_diff": 0.5206106870229008,
           "status": "none"
         },
         {
@@ -162,7 +162,7 @@
           "directory": "02_1erelecture_assemblee_hemicycle",
           "id_step": "02_1erelecture_assemblee_hemicycle",
           "length": 3619,
-          "n_diff": 0.34335560504825535,
+          "n_diff": 0.344225770516153,
           "status": "none"
         },
         {
@@ -170,7 +170,7 @@
           "directory": "04_1erelecture_senat_commission",
           "id_step": "04_1erelecture_senat_commission",
           "length": 5434,
-          "n_diff": 0.3967551622418879,
+          "n_diff": 0.39670437776684697,
           "status": "none"
         },
         {
@@ -178,7 +178,7 @@
           "directory": "07_1erelecture_senat_hemicycle",
           "id_step": "07_1erelecture_senat_hemicycle",
           "length": 5769,
-          "n_diff": 0.066836262719704,
+          "n_diff": 0.06665123813931961,
           "status": "none"
         },
         {
@@ -186,7 +186,7 @@
           "directory": "10_nouv.lect._assemblee_commission",
           "id_step": "10_nouv.lect._assemblee_commission",
           "length": 4335,
-          "n_diff": 0.3462072155411656,
+          "n_diff": 0.3462161536681324,
           "status": "none"
         },
         {
@@ -194,7 +194,7 @@
           "directory": "11_nouv.lect._assemblee_hemicycle",
           "id_step": "11_nouv.lect._assemblee_hemicycle",
           "length": 4736,
-          "n_diff": 0.09982983550765745,
+          "n_diff": 0.09988649262202043,
           "status": "none"
         },
         {
@@ -210,7 +210,7 @@
           "directory": "16_l.définitive_assemblee_hemicycle",
           "id_step": "16_l.définitive_assemblee_hemicycle",
           "length": 4560,
-          "n_diff": 0.016449234259784506,
+          "n_diff": 0.016458569807037415,
           "status": "none"
         },
         {
@@ -218,7 +218,7 @@
           "directory": "17_constitutionnalité_conseilconstitutionnel_",
           "id_step": "17_constitutionnalité_conseilconstitutionnel_",
           "length": 3637,
-          "n_diff": 0.20868065536073588,
+          "n_diff": 0.2079976985040276,
           "status": "none"
         }
       ],
@@ -734,7 +734,7 @@
           "directory": "04_1erelecture_senat_commission",
           "id_step": "04_1erelecture_senat_commission",
           "length": 453,
-          "n_diff": 0.415625,
+          "n_diff": 0.4137931034482759,
           "status": "none"
         },
         {
@@ -742,7 +742,7 @@
           "directory": "07_1erelecture_senat_hemicycle",
           "id_step": "07_1erelecture_senat_hemicycle",
           "length": 251,
-          "n_diff": 0.415625,
+          "n_diff": 0.4137931034482759,
           "status": "none"
         },
         {
