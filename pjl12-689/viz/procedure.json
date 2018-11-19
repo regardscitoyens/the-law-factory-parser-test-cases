@@ -14,11 +14,13 @@
   "senat_id": "pjl12-689",
   "short_title": "Transparence de la vie publique",
   "stats": {
+    "censored_articles": 0,
     "echecs_procedure": 2,
     "input_text_length": 30576,
     "last_stage": "l. définitive",
     "output_text_length": 55694,
     "output_text_length_before_CC": 56867,
+    "partially_censored_articles": 3,
     "ratio_articles_growth": 1.4583333333333333,
     "ratio_texte_modif": 0.5337174138578019,
     "total_amendements": 1117,

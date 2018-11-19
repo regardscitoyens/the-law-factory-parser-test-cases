@@ -15,11 +15,13 @@
   "senat_id": "pjl07-405",
   "short_title": "Internet",
   "stats": {
+    "censored_articles": 0,
     "echecs_procedure": 1,
     "input_text_length": 29281,
     "last_stage": "nouv. lect.",
     "output_text_length": 59497,
     "output_text_length_before_CC": 72582,
+    "partially_censored_articles": 4,
     "ratio_articles_growth": 2.5454545454545454,
     "ratio_texte_modif": 0.6635433517510871,
     "total_amendements": 898,

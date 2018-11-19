@@ -14,11 +14,13 @@
   "senat_id": "pjl16-580",
   "short_title": "Confiance dans la vie politique (texte organique)",
   "stats": {
+    "censored_articles": 4,
     "echecs_procedure": 1,
     "input_text_length": 10091,
     "last_stage": "l. définitive",
     "output_text_length": 37892,
     "output_text_length_before_CC": 49956,
+    "partially_censored_articles": 8,
     "ratio_articles_growth": 1.9285714285714286,
     "ratio_texte_modif": 0.7778591399281054,
     "total_amendements": 842,
