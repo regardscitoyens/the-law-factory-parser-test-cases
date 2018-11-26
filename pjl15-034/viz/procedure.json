@@ -16,6 +16,7 @@
   "short_title": "Réutilisation des informations du secteur public",
   "stats": {
     "attached_law_proposals": 0,
+    "depots_in_institutions": 3,
     "echecs_procedure": 0,
     "input_text_length": 6520,
     "last_institution": "CMP",
@@ -23,6 +24,7 @@
     "output_text_length": 8051,
     "ratio_articles_growth": 1.2222222222222223,
     "ratio_texte_modif": 0.4493833852825586,
+    "texts_produced": 8,
     "total_amendements": 117,
     "total_amendements_adoptes": 53,
     "total_amendements_deputes": 82,

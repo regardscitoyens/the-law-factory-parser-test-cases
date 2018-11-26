@@ -16,6 +16,7 @@
   "stats": {
     "attached_law_proposals": 0,
     "censored_articles": 3,
+    "depots_in_institutions": 7,
     "echecs_procedure": 2,
     "fully_censored_articles": 0,
     "input_text_length": 30576,
@@ -25,6 +26,7 @@
     "output_text_length_before_CC": 56867,
     "ratio_articles_growth": 1.4583333333333333,
     "ratio_texte_modif": 0.5337174138578019,
+    "texts_produced": 12,
     "total_amendements": 1117,
     "total_amendements_adoptes": 375,
     "total_amendements_deputes": 755,

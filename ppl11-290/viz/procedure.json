@@ -14,6 +14,7 @@
   "short_title": "Transport aérien de passagers",
   "stats": {
     "attached_law_proposals": 0,
+    "depots_in_institutions": 7,
     "echecs_procedure": 5,
     "input_text_length": 3774,
     "last_institution": "assemblee",
@@ -21,6 +22,7 @@
     "output_text_length": 10211,
     "ratio_articles_growth": 1.25,
     "ratio_texte_modif": 0.802163183870629,
+    "texts_produced": 12,
     "total_amendements": 92,
     "total_amendements_adoptes": 20,
     "total_amendements_deputes": 50,
