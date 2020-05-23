@@ -1,6 +1,6 @@
 {
-  "assemblee_id": "15-confiance_action_publique",
-  "assemblee_legislature": 15,
+  "assemblee_id": "14-confiance_action_publique",
+  "assemblee_legislature": 14,
   "assemblee_slug": "confiance_action_publique",
   "beginning": "2017-06-14",
   "end": "2017-09-16",
@@ -23,7 +23,7 @@
     "input_text_word_count": 6098,
     "last_institution": "CMP",
     "last_stage": "CMP",
-    "output_text_before_CC_length": 73589,
+    "output_text_before_CC_length": 73616,
     "output_text_before_CC_word_count": 12658,
     "output_text_length": 69707,
     "output_text_word_count": 11943,
@@ -115,7 +115,7 @@
       "directory": "03_1erelecture_assemblee_depot",
       "enddate": "2017-07-13",
       "institution": "assemblee",
-      "source_url": "http://www.assemblee-nationale.fr/15/projets/pl0098.asp",
+      "source_url": "http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15B0098.html",
       "stage": "1ère lecture",
       "step": "depot"
     },
@@ -127,7 +127,7 @@
       "enddate": "2017-07-20",
       "institution": "assemblee",
       "nb_amendements": 193,
-      "source_url": "http://www.assemblee-nationale.fr/15/ta-commission/r0106-a0.asp",
+      "source_url": "http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15BTC0106.html",
       "stage": "1ère lecture",
       "step": "commission"
     },
@@ -154,12 +154,12 @@
         "2017-07-28T21:50_114"
       ],
       "nb_amendements": 590,
-      "source_url": "http://www.assemblee-nationale.fr/15/ta/ta0008.asp",
+      "source_url": "http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15BTA0008.html",
       "stage": "1ère lecture",
       "step": "hemicycle"
     },
     {
-      "cmp_commission_other_url": "http://www.assemblee-nationale.fr/15/ta-commission/r0120-a0.asp",
+      "cmp_commission_other_url": "http://www.assemblee-nationale.fr/dyn/opendata/RAPPANR5L15B0120.html",
       "date": "2017-08-01",
       "debats_order": 6,
       "directory": "06_cmp_cmp_commission",
@@ -215,7 +215,7 @@
         "2017-08-09T15:00_131"
       ],
       "nb_amendements": 4,
-      "source_url": "http://www.assemblee-nationale.fr/15/ta/ta0016.asp",
+      "source_url": "http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15BTA0016.html",
       "stage": "CMP",
       "step": "hemicycle"
     },

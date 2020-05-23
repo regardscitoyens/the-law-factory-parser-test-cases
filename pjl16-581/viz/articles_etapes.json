@@ -303,7 +303,7 @@
           "diff": "none",
           "directory": "08_cmp_assemblee_hemicycle",
           "id_step": "08_cmp_assemblee_hemicycle",
-          "length": 5170,
+          "length": 5171,
           "n_diff": 0,
           "newnum": "31",
           "status": "none"
@@ -883,7 +883,7 @@
           "diff": "none",
           "directory": "08_cmp_assemblee_hemicycle",
           "id_step": "08_cmp_assemblee_hemicycle",
-          "length": 665,
+          "length": 666,
           "n_diff": 0,
           "newnum": "6",
           "status": "none"
@@ -1081,7 +1081,7 @@
           "diff": "none",
           "directory": "08_cmp_assemblee_hemicycle",
           "id_step": "08_cmp_assemblee_hemicycle",
-          "length": 951,
+          "length": 953,
           "n_diff": 0,
           "newnum": "9",
           "status": "none"
@@ -1165,7 +1165,7 @@
           "diff": "rem",
           "directory": "04_1erelecture_assemblee_commission",
           "id_step": "04_1erelecture_assemblee_commission",
-          "length": 1160,
+          "length": 1168,
           "n_diff": 0.22289156626506024,
           "status": "none"
         },
@@ -1173,7 +1173,7 @@
           "diff": "none",
           "directory": "05_1erelecture_assemblee_hemicycle",
           "id_step": "05_1erelecture_assemblee_hemicycle",
-          "length": 1160,
+          "length": 1168,
           "n_diff": 0,
           "status": "none"
         },
@@ -1197,7 +1197,7 @@
           "diff": "none",
           "directory": "08_cmp_assemblee_hemicycle",
           "id_step": "08_cmp_assemblee_hemicycle",
-          "length": 1160,
+          "length": 1168,
           "n_diff": 0,
           "newnum": "8",
           "status": "none"
@@ -2091,7 +2091,7 @@
           "diff": "add",
           "directory": "08_cmp_assemblee_hemicycle",
           "id_step": "08_cmp_assemblee_hemicycle",
-          "length": 1869,
+          "length": 1870,
           "n_diff": 0.0013404825737265424,
           "newnum": "20",
           "status": "none"
@@ -2191,7 +2191,7 @@
           "diff": "add",
           "directory": "05_1erelecture_assemblee_hemicycle",
           "id_step": "05_1erelecture_assemblee_hemicycle",
-          "length": 4719,
+          "length": 4720,
           "n_diff": 1,
           "status": "new"
         },
@@ -2437,7 +2437,7 @@
           "diff": "both",
           "directory": "04_1erelecture_assemblee_commission",
           "id_step": "04_1erelecture_assemblee_commission",
-          "length": 9574,
+          "length": 9576,
           "n_diff": 0.023405109000936175,
           "status": "none"
         },
@@ -2445,7 +2445,7 @@
           "diff": "rem",
           "directory": "05_1erelecture_assemblee_hemicycle",
           "id_step": "05_1erelecture_assemblee_hemicycle",
-          "length": 9860,
+          "length": 9862,
           "n_diff": 0.0335970943053574,
           "status": "none"
         },
@@ -2469,7 +2469,7 @@
           "diff": "add",
           "directory": "08_cmp_assemblee_hemicycle",
           "id_step": "08_cmp_assemblee_hemicycle",
-          "length": 9734,
+          "length": 9737,
           "n_diff": 0.0006559097468188391,
           "newnum": "25",
           "status": "none"
@@ -2543,7 +2543,7 @@
           "diff": "both",
           "directory": "04_1erelecture_assemblee_commission",
           "id_step": "04_1erelecture_assemblee_commission",
-          "length": 8277,
+          "length": 8282,
           "n_diff": 0.0108541764983483,
           "status": "none"
         },
@@ -2551,7 +2551,7 @@
           "diff": "rem",
           "directory": "05_1erelecture_assemblee_hemicycle",
           "id_step": "05_1erelecture_assemblee_hemicycle",
-          "length": 8481,
+          "length": 8488,
           "n_diff": 0.03178746928746934,
           "status": "none"
         },
@@ -2575,7 +2575,7 @@
           "diff": "both",
           "directory": "08_cmp_assemblee_hemicycle",
           "id_step": "08_cmp_assemblee_hemicycle",
-          "length": 8898,
+          "length": 8905,
           "n_diff": 0.00029205607476634476,
           "newnum": "26",
           "status": "none"
@@ -2673,7 +2673,7 @@
           "diff": "none",
           "directory": "08_cmp_assemblee_hemicycle",
           "id_step": "08_cmp_assemblee_hemicycle",
-          "length": 3409,
+          "length": 3413,
           "n_diff": 0,
           "newnum": "27",
           "status": "none"
@@ -2739,11 +2739,11 @@
         "type": "Titre"
       },
       "04_1erelecture_assemblee_commission": {
-        "title": "Dispositions relatives à la peine d'inéligibilité en cas de crimes ou de manquements à la probité",
+        "title": "Dispositions relativesà la peine d'inéligibilité en cas de crimesou de manquements à la probité",
         "type": "Titre"
       },
       "05_1erelecture_assemblee_hemicycle": {
-        "title": "Dispositions relatives à la peine d'inéligibilité en cas de crimes ou de manquements à la probité",
+        "title": "Dispositions relativesà la peine d'inéligibilité en cas de crimesou de manquements à la probité",
         "type": "Titre"
       },
       "06_cmp_cmp_commission": {
@@ -2755,7 +2755,7 @@
         "type": "Titre"
       },
       "08_cmp_assemblee_hemicycle": {
-        "title": "Dispositions relatives à la peine d'inéligibilité en cas de crimes ou de manquements à la probité",
+        "title": "Dispositions relativesà la peine d'inéligibilité en cas de crimesou de manquements à la probité",
         "type": "Titre"
       },
       "09_constitutionnalité_conseilconstitutionnel_": {
@@ -2777,11 +2777,11 @@
         "type": "Titre"
       },
       "04_1erelecture_assemblee_commission": {
-        "title": "Dispositions relatives à la prévention des conflits d'intérêts",
+        "title": "Dispositions relatives à la préventiondes conflits d'intérêts",
         "type": "Titre"
       },
       "05_1erelecture_assemblee_hemicycle": {
-        "title": "Dispositions relatives à la prévention des conflits d'intérêts",
+        "title": "Dispositions relatives à la préventiondes conflits d'intérêts",
         "type": "Titre"
       },
       "06_cmp_cmp_commission": {
