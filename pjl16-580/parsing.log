@@ -30,7 +30,7 @@ pjl16-580
     ^ text:  https://www.senat.fr/leg/pjl16-707.html
     ^ text:  https://www.senat.fr/leg/pjl16-709.html
     ^ text:  https://www.senat.fr/leg/tas16-128.html
-    ^ text:  http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15B0126.html
+    ^ text:  http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15BTA0017.html
     ^ text:  http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15BTA0018.html
     ^ text:  https://www.conseil-constitutionnel.fr/decision/2017/2017753DC.htm
     ^ text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035567936&categorieLien=id
@@ -47,7 +47,7 @@ pjl16-580
     ^ complete text:  https://www.senat.fr/leg/pjl16-707.html
     ^ complete text:  https://www.senat.fr/leg/pjl16-709.html
     ^ complete text:  https://www.senat.fr/leg/tas16-128.html
-    ^ complete text:  http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15B0126.html
+    ^ complete text:  http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15BTA0017.html
 [step_logic] l. définitive / depot: fetching last AN hemi or last CMP commission
     ^ complete text:  http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15BTA0018.html
 [step_logic] l. définitive / hemicycle: fetching last AN hemi or last CMP commission
@@ -190,13 +190,14 @@ Matched an article deleted in this step 8_bis
         * downloading seances -  https://www.nossenateurs.fr/seances/20162017-709/json?hemicycle=1
            downloading seance -  https://www.nossenateurs.fr/seance/16548/20162017-709/json
             dumping seance - 2017-08-04T15:00_16548
-    * step - l. définitive depot http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15B0126.html
+    * step - l. définitive depot http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15BTA0017.html
     * step - l. définitive hemicycle http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15BTA0018.html
 [step_logic] l. définitive / hemicycle: fetching last AN hemi or last CMP commission
-      * downloading amendments: https://2017-2022.nosdeputes.fr/15/amendements/126/json?cache=lfdll-prod for http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15B0126.html
-        parsing amendments: 0
+      * downloading amendments: https://2017-2022.nosdeputes.fr/15/amendements/TA17/json?cache=lfdll-prod for http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15BTA0017.html
+ WARNING: TA - trying alternative url too https://2017-2022.nosdeputes.fr/15/amendements/TA0017/json?cache=lfdll-prod
+        parsing amendments: 24
       * downloading interventions
-        * downloading seances -  https://2017-2022.nosdeputes.fr/15/seances/126/json?hemicycle=1
+        * downloading seances -  https://2017-2022.nosdeputes.fr/15/seances/TA17/json?hemicycle=1
     * step - constitutionnalité None https://www.conseil-constitutionnel.fr/decision/2017/2017753DC.htm
     * step - promulgation None https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035567936&categorieLien=id
  - re-order interventions and correct procedure dates

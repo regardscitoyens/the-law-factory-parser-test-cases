@@ -13,7 +13,7 @@
         "009": "\"La déclaration d'intérêts et d'activités ne comporte pas les informations mentionnées au 10° du III du même article L. O. 135-1.\" ;",
         "010": "a bis) Au début du dixième alinéa du même I, sont ajoutés les mots : \"Les déclarations d'intérêts et d'activités et\" ;",
         "011": "b) L'avant-dernier alinéa du même I est complété par une phrase ainsi rédigée :",
-        "012": "\"Trente jours après son dépôt, cette déclaration est rendue publique, dans les limites définies au III du même article L. O. 135-2, par la Haute Autorité pour la transparence de la vie publique qui l'assortit d'un avis par lequel elle apprécie, après avoir mis l'intéressé à même de présenter ses observations, l'exhaustivité, l'exactitude et la sincérité de la déclaration et la variation de la situation patrimoniale entre le début et la fin de l'exercice des fonctions présidentielles telle qu'elle résulte des déclarations, des observations que le déclarant a pu lui adresser ou des autres éléments dont elle dispose.\" ;",
+        "012": "\"Trente jours après son dépôt, cette déclaration est rendue publique, dans les limites définies au III du même article L. O. 135-2, par la Haute Autorité pour la transparence de la vie publique qui l'assortit d'un avis par lequel elle apprécie, après avoir mis l'intéressé à même de présenter ses observations, la variation de la situation patrimoniale entre le début et la fin de l'exercice des fonctions présidentielles telle qu'elle résulte des déclarations, des observations que le déclarant a pu lui adresser ou des autres éléments dont elle dispose.\" ;",
         "013": "b bis) (Supprimé)",
         "014": "c) Au quatrième alinéa du II, la référence : \"de l'article L. 52-8\" est remplacée par les références : \"des articles L. 52-7-1 et L. 52-8\" ;",
         "015": "d) Au neuvième alinéa du même II, la seconde occurrence du mot : \"quatrième\" est remplacée par le mot : \"avant-dernier\" ;",
@@ -41,16 +41,21 @@
       ],
       "order": 2,
       "section": "T1 bis",
-      "statut": "conforme",
+      "statut": "none",
       "titre": "1er bis",
       "type": "article"
     },
     {
-      "alineas": {},
-      "liens": [],
+      "alineas": {
+        "001": "L'article 4 de l'ordonnance n° 58-1210 du 13 décembre 1958 portant loi organique relative à l'indemnité des membres du Parlement est complété par un alinéa ainsi rédigé :",
+        "002": "\"Chaque assemblée veille, dans les conditions déterminées par son règlement, à la mise en oeuvre de ces règles et à la sanction de leur violation, ainsi qu'aux modalités suivant lesquelles son président défère les faits correspondants au ministère public près la Cour de discipline budgétaire et financière.\""
+      },
+      "liens": [
+        "article 4 de l'ordonnance n° 58-1210 du 13 décembre 1958"
+      ],
       "order": 3,
       "section": "T2C1 A",
-      "statut": "supprimé",
+      "statut": "none",
       "titre": "2 A",
       "type": "article"
     },
@@ -71,7 +76,7 @@
       ],
       "order": 4,
       "section": "T2C1",
-      "statut": "conformes",
+      "statut": "none",
       "titre": "2",
       "type": "article"
     },
@@ -87,7 +92,7 @@
       ],
       "order": 5,
       "section": "T2C1",
-      "statut": "conformes",
+      "statut": "none",
       "titre": "2 bis A",
       "type": "article"
     },
@@ -125,7 +130,7 @@
         "003": "\"1° Commencer à exercer une fonction de conseil qui n'était pas la sienne avant le début de son mandat ;",
         "004": "\"2° Poursuivre une telle activité lorsque celle-ci a débuté dans les douze mois précédant le premier jour du mois de son entrée en fonction ;",
         "005": "\"3° Fournir des prestations de conseil aux sociétés, entreprises, établissements ou organismes mentionnés aux 1° à 7° de l'article L. O. 146 ;",
-        "006": "\"4° (Supprimé)\"."
+        "006": "\"4° Fournir des prestations de conseil à des gouvernements, entreprises publiques, autorités administratives ou toute autre structure publique étrangers.\""
       },
       "liens": [
         "code électoral"
@@ -163,7 +168,7 @@
       ],
       "order": 10,
       "section": "T2C2",
-      "statut": "conformes",
+      "statut": "none",
       "titre": "6 bis",
       "type": "article"
     },
@@ -179,7 +184,7 @@
       ],
       "order": 11,
       "section": "T2C2",
-      "statut": "conformes",
+      "statut": "none",
       "titre": "7",
       "type": "article"
     },
@@ -201,38 +206,18 @@
     },
     {
       "alineas": {
-        "001": "I. - Le code électoral est ainsi modifié :",
-        "002": "1° L'article L. O. 144 est abrogé ;",
-        "003": "2° Au premier alinéa de l'article L. O. 319, dans sa rédaction résultant de la loi organique n° 2011-333 du 29 mars 2011 relative au Défenseur des droits, les mots : \", d'acceptation des fonctions de membre du Conseil constitutionnel ou de Défenseur des droits ou de prolongation au-delà de six mois d'une mission temporaire confiée par le Gouvernement\" sont remplacés par les mots : \"ou d'acceptation des fonctions de membre du Conseil constitutionnel ou de Défenseur des droits\".",
-        "004": "II. - Le II de l'article 2 de la loi organique n° 2013-906 du 11 octobre 2013 relative à la transparence de la vie publique est abrogé.",
-        "005": "III. - Le 2° de l'article 1er de l'ordonnance n° 58-1066 du 7 novembre 1958 portant loi organique autorisant exceptionnellement les parlementaires à déléguer leur droit de vote est abrogé."
-      },
-      "liens": [
-        "code électoral",
-        "loi organique n° 2011-333 du 29 mars 2011",
-        "II de l'article 2 de la loi organique n° 2013-906 du 11 octobre 2013",
-        "2° de l'article 1er de l'ordonnance n° 58-1066 du 7 novembre 1958"
-      ],
-      "order": 13,
-      "section": "T2C2",
-      "statut": "none",
-      "titre": "8 bis",
-      "type": "article"
-    },
-    {
-      "alineas": {
         "001": "I. - L'article L. O. 145 du code électoral est ainsi modifié :",
         "002": "1° Le II est ainsi rédigé :",
         "003": "\"II. - Un député ne peut être désigné en cette qualité dans une institution ou un organisme extérieur qu'en vertu d'une disposition législative qui détermine les conditions de sa désignation. Il ne peut percevoir à ce titre aucune rémunération, gratification ou indemnité.\" ;",
         "004": "2° Il est ajouté un III ainsi rédigé :",
         "005": "\"III. - Le I n'est pas applicable aux fonctions de président ou de membre de la commission de surveillance de la Caisse des dépôts et consignations.\"",
-        "006": "I bis. - (Supprimé)",
-        "007": "II. - Les députés et sénateurs qui se trouvent, à la date d'entrée en vigueur de la présente loi organique, dans le cas d'incompatibilité prévu au II de l'article L. O. 145 du code électoral, dans sa rédaction résultant du 1° du I du présent article, peuvent continuer à exercer leurs fonctions au sein d'une institution ou d'un organisme extérieur pour la durée pour laquelle ils ont été désignés."
+        "006": "I bis. - Le 1° du I entre en vigueur le 1er juillet 2018.",
+        "007": "II. - Les députés et sénateurs qui se trouvent, au 1er juillet 2018, dans le cas d'incompatibilité prévu au II de l'article L. O. 145 du code électoral, dans sa rédaction résultant du 1° du I du présent article, peuvent continuer à exercer leurs fonctions au sein d'une institution ou d'un organisme extérieur pour la durée pour laquelle ils ont été désignés."
       },
       "liens": [
         "code électoral"
       ],
-      "order": 14,
+      "order": 13,
       "section": "T2C2",
       "statut": "none",
       "titre": "8 ter",
@@ -240,44 +225,14 @@
     },
     {
       "alineas": {
-        "001": "I. - La loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances est ainsi modifiée :",
-        "002": "1° Le I de l'article 7 est ainsi modifié :",
-        "003": "a) À la seconde phrase du troisième alinéa, le mot : \"deux\" est remplacé par le mot : \"trois\" ;",
-        "004": "b) Après le 2°, il est inséré un 3° ainsi rédigé :",
-        "005": "\"3° Une dotation de solidarité locale.\" ;",
-        "006": "2° Au premier alinéa de l'article 11, après le mot : \"imprévisibles\", sont insérés les mots : \"et sur la dotation de solidarité locale\" ;",
-        "007": "3° Après le même article 11, il est inséré un article 11-1 ainsi rédigé :",
-        "008": "\"Art. 11-1. - I. - Tous les ans, le bureau de chaque assemblée adresse au Gouvernement la liste des projets que les députés et les sénateurs proposent au titre de la dotation de solidarité locale.",
-        "009": "\"Les montants concernés sont répartis de manière équitable entre les députés et les sénateurs. Un même projet ne peut être proposé par plusieurs députés ou sénateurs.",
-        "010": "\"Il est interdit à un député ou à un sénateur de présenter un projet d'une commune ou de l'un de ses groupements lorsqu'il siège au sein de l'organe délibérant de cette commune ou de ce groupement.",
-        "011": "\"La liste mentionnée au premier alinéa du présent I précise, pour chaque projet, le nom de l'éventuel bénéficiaire, le montant proposé, la nature du projet à financer et le nom du député ou du sénateur à l'origine de cette proposition. Chaque assemblée la publie dans un format ouvert, aisément réutilisable et exploitable par un système de traitement automatisé.",
-        "012": "\"II. - Peuvent être inscrites sur cette liste, les subventions répondant aux critères cumulatifs suivants :",
-        "013": "\"1° Leur montant ne dépasse pas 20 000 euros et n'excède pas la moitié du montant total du projet concerné ;",
-        "014": "\"2° Elles ne présentent pas un caractère récurrent ;",
-        "015": "\"3° Le délai prévisionnel d'exécution du projet est inférieur ou égal à quatre ans.",
-        "016": "\"III. - Peuvent bénéficier de la dotation de solidarité locale :",
-        "017": "\"1° Les associations régies par la loi du 1er juillet 1901 relative au contrat d'association, les associations régies par le droit local d'Alsace-Moselle et les fondations pour :",
-        "018": "\"a) Financer des activités culturelles, sociales ou sportives ;",
-        "019": "\"b) Contribuer au développement de leurs actions humanitaires ;",
-        "020": "\"2° Les établissements français d'enseignement à l'étranger, les organismes publics et privés qui concourent aux actions de soutien et d'accompagnement des Français établis hors de France, pour :",
-        "021": "\"a) Financer des activités culturelles, sociales ou sportives ;",
-        "022": "\"b) Contribuer au développement de leurs actions en matière de développement économique de la France ;",
-        "023": "\"3° Les communes et leurs groupements, pour financer un projet d'investissement relatif à :",
-        "024": "\"a) La mise en accessibilité des équipements publics pour les personnes handicapées ;",
-        "025": "\"b) La préservation du patrimoine culturel, historique et des sites patrimoniaux remarquables ;",
-        "026": "\"c) La revitalisation artisanale et commerciale ;",
-        "027": "\"d) L'établissement et l'exploitation des réseaux ouverts au public et la fourniture au public de services de communications électroniques ;",
-        "028": "\"e) L'accueil des jeunes enfants et des personnes âgées.",
-        "029": "\"IV. - Après l'entrée en vigueur de la loi de finances, les députés et sénateurs peuvent réaffecter les montants qu'ils ont proposés au titre de la dotation de solidarité locale à d'autres projets, en respectant les critères fixés aux I à III du présent article. La demande de réaffectation est publiée dans les conditions prévues au dernier alinéa du même I.",
-        "030": "\"V. - Avant le 31 mai de chaque année, le Gouvernement publie la liste des projets ayant bénéficié, au cours du précédent exercice, de la dotation prévue au I du présent article. Elle est publiée dans les conditions prévues au dernier alinéa du même I.\" ;",
-        "031": "4° Le 9° de l'article 54 est abrogé à compter du 1er janvier 2024.",
-        "032": "II. - Le présent article entre en vigueur le 1er septembre 2017."
+        "001": "I. - Il est mis fin à la pratique dite de la \"réserve parlementaire\", consistant en l'ouverture de crédits en loi de finances par l'adoption d'amendements du Gouvernement reprenant des propositions de membres du Parlement en vue du financement d'opérations déterminées.",
+        "002": "II. - Le 9° de l'article 54 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances est abrogé à compter du 1er janvier 2024.",
+        "003": "III. - (Supprimé)"
       },
       "liens": [
-        "loi organique n° 2001-692 du 1er août 2001",
-        "loi du 1er juillet 1901"
+        "9° de l'article 54 de la loi organique n° 2001-692 du 1er août 2001"
       ],
-      "order": 15,
+      "order": 14,
       "section": "T2C3",
       "statut": "none",
       "titre": "9",
@@ -285,11 +240,10 @@
     },
     {
       "alineas": {
-        "001": "Avant le 31 mai de chaque année, le Gouvernement publie les critères d'éligibilité et la liste de l'ensemble des subventions accordées, au cours du précédent exercice, par tout membre du Gouvernement, pour des travaux divers d'intérêt local au titre de la \"réserve ministérielle\".",
-        "002": "Cette liste précise, pour chaque subvention, le nom du bénéficiaire, le montant versé, la nature du projet financé et le nom du ministre, du membre du Parlement ou de l'élu local l'ayant proposée. Le Gouvernement la publie dans un format ouvert, aisément réutilisable et exploitable par un système de traitement automatisé."
+        "001": "Le Gouvernement ne peut attribuer de subventions aux collectivités territoriales et à leurs groupements au titre de la pratique dite de la \"réserve ministérielle\"."
       },
       "liens": [],
-      "order": 16,
+      "order": 15,
       "section": "T2C4",
       "statut": "none",
       "titre": "9 bis",
@@ -317,14 +271,14 @@
         "018": "\"III. - Toute modification substantielle de la situation patrimoniale fait l'objet, dans un délai de deux mois, d'une déclaration complémentaire dans les mêmes formes.",
         "019": "\"Aucune nouvelle déclaration n'est exigée du membre du Conseil supérieur qui a établi depuis moins d'un an une déclaration en application du présent article, des articles 4 ou 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, de l'article L. O. 135-1 du code électoral, des articles L. 131-10 ou L. 231-4-4 du code de justice administrative ou des articles L. 120-13 ou L. 220-11 du code des juridictions financières, et la déclaration mentionnée au dernier alinéa du II du présent article est limitée à la présentation et à la récapitulation prévues au même dernier alinéa.",
         "020": "\"La déclaration de situation patrimoniale ne peut pas être communiquée aux tiers.",
-        "021": "\"IV. - La Haute Autorité peut demander au membre du Conseil supérieur de la magistrature soumis au I du présent article toute explication nécessaire à l'exercice de sa mission de contrôle des déclarations de situation patrimoniale. En cas de déclaration incomplète ou lorsqu'il n'a pas été donné suite à une demande d'explication adressée par la Haute Autorité, cette dernière adresse à l'intéressé une injonction tendant à ce que la déclaration soit complétée ou que les explications lui soient transmises dans un délai d'un mois à compter de cette injonction.",
-        "022": "\"V. - La Haute Autorité peut demander au membre du Conseil supérieur de la magistrature soumis au I du présent article communication des déclarations qu'il a souscrites en application des articles 170 à 175 A du code général des impôts et, le cas échéant, en application de l'article 885 W du même code.",
-        "023": "\"Elle peut, si elle l'estime utile, demander les déclarations mentionnées au premier alinéa du présent V souscrites par le conjoint séparé de biens, le partenaire lié par un pacte civil de solidarité ou le concubin de tout membre du Conseil supérieur de la magistrature soumis au I du présent article.",
+        "021": "\"IV. - La Haute Autorité peut demander au membre du Conseil supérieur soumis au I du présent article toute explication nécessaire à l'exercice de sa mission de contrôle des déclarations de situation patrimoniale. En cas de déclaration incomplète ou lorsqu'il n'a pas été donné suite à une demande d'explication adressée par la Haute Autorité, cette dernière adresse à l'intéressé une injonction tendant à ce que la déclaration soit complétée ou que les explications lui soient transmises dans un délai d'un mois à compter de cette injonction.",
+        "022": "\"V. - La Haute Autorité peut demander au membre du Conseil supérieur soumis au I du présent article communication des déclarations qu'il a souscrites en application des articles 170 à 175 A du code général des impôts et, le cas échéant, en application de l'article 885 W du même code.",
+        "023": "\"Elle peut, si elle l'estime utile, demander les déclarations mentionnées au premier alinéa du présent V souscrites par le conjoint séparé de biens, le partenaire lié par un pacte civil de solidarité ou le concubin de tout membre du Conseil supérieur soumis au I du présent article.",
         "024": "\"À défaut de communication dans un délai de deux mois à compter de la demande des déclarations mentionnées aux deux premiers alinéas du présent V, elle peut demander copie de ces mêmes déclarations à l'administration fiscale, qui les lui transmet dans un délai de trente jours.",
         "025": "\"La Haute Autorité exerce le droit de communication prévu à la section I du chapitre II du titre II de la première partie du livre des procédures fiscales, en vue de recueillir toutes informations utiles à l'accomplissement de sa mission de contrôle.",
         "026": "\"Elle peut, aux mêmes fins, demander à l'administration fiscale de mettre en oeuvre les procédures d'assistance administrative internationale.",
         "027": "\"Les agents de l'administration fiscale sont déliés du secret professionnel à l'égard des membres et des rapporteurs de la Haute Autorité au titre des vérifications et contrôles qu'ils mettent en oeuvre pour l'application du présent article.",
-        "028": "\"VI. - La Haute Autorité apprécie, dans un délai de six mois à compter de la réception de la déclaration, l'évolution de la situation patrimoniale du membre du Conseil supérieur de la magistrature telle qu'elle résulte de ses déclarations, des éventuelles observations et explications qu'il a pu formuler ou des autres éléments dont elle dispose.",
+        "028": "\"VI. - La Haute Autorité apprécie, dans un délai de six mois à compter de la réception de la déclaration, l'évolution de la situation patrimoniale du membre du Conseil supérieur telle qu'elle résulte de ses déclarations, des éventuelles observations et explications qu'il a pu formuler ou des autres éléments dont elle dispose.",
         "029": "\"Lorsque les évolutions de la situation patrimoniale n'appellent pas d'observations ou lorsqu'elles sont justifiées, la Haute Autorité en informe le membre du Conseil supérieur.",
         "030": "\"Lorsqu'elle constate une évolution de la situation patrimoniale pour laquelle elle ne dispose pas d'explications suffisantes et après que le membre du Conseil supérieur a été mis en mesure de produire ses observations, la Haute Autorité transmet le dossier au parquet.",
         "031": "\"Lorsqu'elle constate un manquement à l'obligation de déclaration de situation patrimoniale ou un défaut de réponse à une injonction prévue au IV du présent article, la Haute Autorité pour la transparence de la vie publique saisit le ministre de la justice.",
@@ -347,7 +301,7 @@
         "article 226-1 du code pénal",
         "article 7-3 de l'ordonnance n° 58-1270 du 22 décembre 1958"
       ],
-      "order": 17,
+      "order": 16,
       "section": "T2 bis",
       "statut": "none",
       "titre": "9 ter",
@@ -369,7 +323,7 @@
         "code électoral",
         "premier alinéa de l'article 1649 A du code général des impôts"
       ],
-      "order": 18,
+      "order": 17,
       "section": "T2 bis",
       "statut": "conforme",
       "titre": "9 quater",
@@ -384,9 +338,9 @@
         "loi organique n° 2010-837 du 23 juillet 2010",
         "cinquième alinéa de l'article 13 de la Constitution"
       ],
-      "order": 19,
+      "order": 18,
       "section": "T3",
-      "statut": "conforme",
+      "statut": "none",
       "titre": "10",
       "type": "article"
     },
@@ -395,12 +349,12 @@
         "001": "L'article 2 est applicable :",
         "002": "1° Aux députés, à la date de publication de la présente loi organique ;",
         "003": "2° Aux sénateurs, le 2 octobre 2017.",
-        "004": "L'administration fiscale dispose d'un délai de trois mois à compter de l'entrée en vigueur de l'article 2 de la présente loi organique pour transmettre aux députés et aux sénateurs l'attestation prévue à l'article L. O. 136-4 du code électoral. Cette attestation constate la situation fiscale à la date d'application de l'article 2."
+        "004": "L'administration fiscale dispose d'un délai de trois mois à compter de la promulgation de la présente loi organique pour transmettre l'attestation prévue à l'article L. O. 136-4 du code électoral. Cette attestation constate la situation fiscale à la date d'application de l'article 2."
       },
       "liens": [
         "code électoral"
       ],
-      "order": 20,
+      "order": 19,
       "section": "T4",
       "statut": "none",
       "titre": "11",
@@ -408,18 +362,18 @@
     },
     {
       "alineas": {
-        "001": "I. - Dans un délai de six mois à compter de la publication de la présente loi organique, tout député ou sénateur complète la déclaration mentionnée au III de l'article L. O. 135-1 du code électoral qu'il a adressée au président de la Haute Autorité pour la transparence de la vie publique ainsi qu'au bureau de l'assemblée à laquelle il appartient, afin d'y faire figurer les éléments prévus au 5° du III du même article L. O. 135-1 dans sa rédaction résultant de la présente loi organique.",
+        "001": "I. - Dans un délai de trois mois à compter de la publication de la présente loi organique, tout député ou sénateur complète la déclaration mentionnée au III de l'article L. O. 135-1 du code électoral qu'il a adressée au président de la Haute Autorité pour la transparence de la vie publique ainsi qu'au bureau de l'assemblée à laquelle il appartient, afin d'y faire figurer les éléments prévus au 5° du III du même article L. O. 135-1 dans sa rédaction résultant de la présente loi organique.",
         "002": "II. - L'interdiction mentionnée au 8° de l'article L. O. 146 du code électoral s'applique à tout député ou sénateur à compter du 2 octobre 2017.",
         "003": "Tout député ou sénateur qui se trouve dans ce cas d'incompatibilité met fin à cette situation dans un délai de trois mois à compter de la même date.",
-        "004": "III. - Les interdictions mentionnées aux 1° et 3° de l'article L. O. 146-1 du code électoral ainsi que celles mentionnées au premier alinéa et au 2° de l'article L. O. 146-2 et à l'article L. O. 146-3 du même code s'appliquent à tout député ou sénateur à compter de la publication de la présente loi organique.",
-        "005": "Tout député ou sénateur qui se trouve dans les cas d'incompatibilité prévus au 3° de l'article L. O. 146-1 du code électoral, dans celui prévu au 2° de l'article L. O. 146-2 du même code ou dans celui prévu à l'article L. O. 146-3 dudit code met fin à cette situation dans un délai de trois mois à compter de la même date.",
+        "004": "III. - Les interdictions mentionnées aux 1°, 3° et 4° de l'article L. O. 146-1 du code électoral ainsi que celles mentionnées au premier alinéa et au 2° de l'article L. O. 146-2 du même code s'appliquent à tout député ou sénateur à compter de la publication de la présente loi organique.",
+        "005": "Tout député ou sénateur qui se trouve dans les cas d'incompatibilité prévus aux 3° et 4° de l'article L. O. 146-1 du code électoral, dans celui prévu au 2° de l'article L. O. 146-2 du même code ou dans celui prévu à l'article L. O. 146-3 dudit code met fin à cette situation dans un délai de trois mois à compter de la même date.",
         "006": "IV. - Les députés ou sénateurs auxquels l'interdiction prévue à l'article L. O. 146-1 du code électoral, dans sa rédaction antérieure à la présente loi organique, n'était pas applicable en application du second alinéa de l'article L. O. 146-1, dans cette même rédaction, ne peuvent commencer à exercer une fonction de conseil qui n'était pas la leur avant la publication de la présente loi organique.",
         "007": "V. - Les interdictions mentionnées au 2° de l'article L. O. 146-1 du code électoral et au 1° de l'article L. O. 146-2 du même code s'appliquent à tout député ou sénateur à compter du premier renouvellement de l'assemblée à laquelle il appartient suivant le 1er janvier 2019."
       },
       "liens": [
         "code électoral"
       ],
-      "order": 21,
+      "order": 20,
       "section": "T4",
       "statut": "none",
       "titre": "12",
@@ -427,10 +381,10 @@
     },
     {
       "alineas": {
-        "001": "L'article 9 n'est pas applicable aux crédits ouverts au titre de la \"réserve parlementaire\" avant l'exercice 2018."
+        "001": "Les articles 9 et 9 bis ne sont pas applicables aux crédits ouverts avant l'exercice 2018."
       },
       "liens": [],
-      "order": 22,
+      "order": 21,
       "section": "T4",
       "statut": "none",
       "titre": "13",
@@ -444,7 +398,7 @@
         "code électoral",
         "article 5-3 de la loi n° 77-729 du 7 juillet 1977"
       ],
-      "order": 23,
+      "order": 22,
       "section": "T4",
       "statut": "conforme",
       "titre": "14",
@@ -460,9 +414,9 @@
         "code général des collectivités territoriales",
         "premier alinéa du XIII de l'article 159 de la loi organique n° 2004-192 du 27 février 2004"
       ],
-      "order": 24,
+      "order": 23,
       "section": "T4",
-      "statut": "conforme",
+      "statut": "none",
       "titre": "15",
       "type": "article"
     },
@@ -477,7 +431,7 @@
         "007": "\"1° Commencer à exercer une fonction de conseil qui n'était pas la sienne avant le début de son mandat ;",
         "008": "\"2° Poursuivre une telle activité lorsque celle-ci a débuté dans les douze mois précédant le premier jour du mois de son entrée en fonction ;",
         "009": "\"3° Fournir des prestations de conseil aux sociétés, entreprises, établissements ou organismes mentionnés au 8° du I ;",
-        "010": "\"4° (Supprimé) \" ;",
+        "010": "\"4° Fournir des prestations de conseil à des gouvernements, entreprises publiques, autorités administratives ou toute autre structure publique étrangers.\" ;",
         "011": "c) Après le V, il est inséré un V bis ainsi rédigé :",
         "012": "\"V bis. - Il est interdit à tout membre d'une assemblée de province ou du congrès d'acquérir le contrôle d'une société, d'une entreprise ou d'un organisme dont l'activité consiste principalement dans la fourniture de prestations de conseil.",
         "013": "\"Il est interdit à tout membre d'une assemblée de province ou du congrès d'exercer le contrôle d'une société, d'une entreprise ou d'un organisme :",
@@ -490,11 +444,11 @@
         "020": "b) Au deuxième alinéa, les mots : \"du délai prévu au premier alinéa\" sont remplacés par les mots : \"des délais prévus aux premier et deuxième alinéas\" ;",
         "021": "c) Après la première phrase du quatrième alinéa, est insérée une phrase ainsi rédigée :",
         "022": "\"Cette déclaration énumère également les participations directes ou indirectes qui confèrent le contrôle d'une société, d'une entreprise ou d'un organisme dont l'activité consiste principalement dans la fourniture de prestations de conseil.\"",
-        "023": "II- Dans un délai de six mois à compter de l'entrée en vigueur du présent article, tout membre d'une assemblée de province ou du congrès complète la déclaration mentionnée au cinquième alinéa de l'article 197 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie, dans sa rédaction résultant de la présente loi organique, afin d'y faire figurer ses éventuelles participations directes ou indirectes conférant le contrôle d'une société, d'une entreprise ou d'un organisme dont l'activité consiste principalement dans la fourniture de prestations de conseil.",
+        "023": "II- Dans un délai de trois mois à compter de l'entrée en vigueur du présent article, tout membre d'une assemblée de province ou du congrès complète la déclaration mentionnée au cinquième alinéa de l'article 197 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie, dans sa rédaction résultant de la présente loi organique, afin d'y faire figurer ses éventuelles participations directes ou indirectes conférant le contrôle d'une société, d'une entreprise ou d'un organisme dont l'activité consiste principalement dans la fourniture de prestations de conseil.",
         "024": "III. - L'interdiction mentionnée au d du 8° du I de l'article 196 de la loi organique n° 99-209 du 19 mars 1999 précitée s'applique à tout membre d'une assemblée de province ou du congrès à compter du 2 octobre 2017.",
         "025": "Tout membre d'une assemblée de province ou du congrès qui se trouve dans ce cas d'incompatibilité met fin à cette situation dans un délai de trois mois à compter de la même date.",
-        "026": "IV. - Les interdictions mentionnées aux V et V bis de l'article 196 de la loi organique n° 99-209 du 19 mars 1999 précitée, dans sa rédaction résultant de la présente loi organique, à l'exception de celles mentionnées au 2° du V et au 1° du V bis du même article 196, s'appliquent à tout membre d'une assemblée de province ou du congrès à compter de la publication de la présente loi organique.",
-        "027": "V. - Tout membre d'une assemblée de province ou du congrès qui se trouve dans les cas d'incompatibilité prévus au 3° du V et au 2° du V bis de l'article 196 de la loi organique n° 99-209 du 19 mars 1999 précitée met fin à cette situation dans un délai de trois mois à compter de la publication de la présente loi organique.",
+        "026": "IV. - Les interdictions mentionnées aux V et V bis de l'article 196 de la loi organique n° 99-209 du 19 mars 1999 précitée, dans sa rédaction résultant de la présente loi organique, à l'exception de celles qui s'imposent dans les douze mois qui précèdent le premier jour du mois de son entrée en fonction, s'appliquent à tout membre d'une assemblée de province ou du congrès à compter de la publication de la présente loi organique.",
+        "027": "V. - Tout membre d'une assemblée de province ou du congrès qui se trouve dans les cas d'incompatibilité prévus aux 3° et 4° du V et au 2° du V bis de l'article 196 de la loi organique n° 99-209 du 19 mars 1999 précitée met fin à cette situation dans un délai de trois mois à compter de la publication de la présente loi organique.",
         "028": "VI. - Les membres d'une assemblée de province ou du congrès auxquels l'interdiction prévue au V de l'article 196 de la loi organique n° 99-209 du 19 mars 1999 précitée, dans sa rédaction antérieure à l'entrée en vigueur du présent article, n'était pas applicable en vertu du second alinéa du même V, dans cette même rédaction, ne peuvent commencer à exercer une fonction de conseil qui n'était pas la leur avant la publication de la présente loi organique.",
         "029": "VII. - Les interdictions mentionnées au 2° du V et au 1° du V bis de l'article 196 de la loi organique n° 99-209 du 19 mars 1999 précitée s'appliquent à tout membre d'une assemblée de province ou du congrès à compter du premier renouvellement de l'assemblée à laquelle il appartient suivant le 1er janvier 2019."
       },
@@ -503,11 +457,11 @@
         "cinquième alinéa de l'article 197 de la loi organique n° 99-209 du 19 mars 1999",
         "d du 8° du I de l'article 196 de la loi organique n° 99-209 du 19 mars 1999",
         "V et V bis de l'article 196 de la loi organique n° 99-209 du 19 mars 1999",
-        "3° du V et au 2° du V bis de l'article 196 de la loi organique n° 99-209 du 19 mars 1999",
+        "3° et 4° du V et au 2° du V bis de l'article 196 de la loi organique n° 99-209 du 19 mars 1999",
         "V de l'article 196 de la loi organique n° 99-209 du 19 mars 1999",
         "2° du V et au 1° du V bis de l'article 196 de la loi organique n° 99-209 du 19 mars 1999"
       ],
-      "order": 25,
+      "order": 24,
       "section": "T4",
       "statut": "none",
       "titre": "16",
@@ -523,18 +477,18 @@
         "006": "\"1° Son conjoint, partenaire lié par un pacte civil de solidarité ou concubin ;",
         "007": "\"2° Ses parents ou les parents de son conjoint, partenaire lié par un pacte civil de solidarité ou concubin ;",
         "008": "\"3° Ses enfants ou les enfants de son conjoint, partenaire lié par un pacte civil de solidarité ou concubin.",
-        "009": "\"La violation de cette interdiction emporte de plein droit la cessation du contrat.",
+        "009": "\"La violation de cette interdiction emporte l'illégalité de l'acte de nomination et, le cas échéant, la cessation de plein droit du contrat.",
         "010": "\"Un décret en Conseil d'État détermine les modalités selon lesquelles le président du congrès rembourse les sommes versées en violation de cette interdiction.",
         "011": "\"Aucune restitution des sommes versées ne peut être exigée du membre du cabinet.",
         "012": "\"Le fait pour le président du congrès de compter l'une des personnes mentionnées aux 1° à 3° parmi les membres de son cabinet est puni de la peine prévue au II de l'article 110 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale.",
-        "013": "\"III. - Le président du congrès informe sans délai la Haute Autorité pour la transparence de la vie publique du fait qu'il compte parmi les membres de son cabinet :",
+        "013": "\"III. - Le président du congrès informe sans délai la Haute Autorité pour la transparence de la vie publique du fait qu'il emploie comme collaborateur :",
         "014": "\"1° Son frère ou sa soeur, ou le conjoint, partenaire lié par un pacte civil de solidarité ou concubin de celui-ci ou celle-ci ;",
         "015": "\"2° L'enfant de son frère ou de sa soeur, ou le conjoint, partenaire lié par un pacte civil de solidarité ou concubin de cet enfant ;",
         "016": "\"3° Son ancien conjoint, la personne ayant été liée à lui par un pacte civil de solidarité ou son ancien concubin ;",
         "017": "\"4° L'enfant, le frère ou la soeur des personnes mentionnées au 3° du présent III ;",
         "018": "\"5° Le frère ou la soeur de la personne mentionnée au 1° du II.",
         "019": "\"Lorsqu'un membre de cabinet du président du congrès a un lien familial au sens du II ou du présent III avec un autre membre du congrès, il en informe, sans délai, le président du congrès et la Haute Autorité pour la transparence de la vie publique.",
-        "020": "\"IV. - Lorsque la Haute Autorité pour la transparence de la vie publique constate en application du III du présent article, de sa propre initiative ou à la suite d'un signalement, que le président du congrès emploie comme collaborateur une personne mentionnée au même III d'une manière qui serait susceptible de constituer un conflit d'intérêts, au sens de l'article 2 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, elle peut faire usage d'un pouvoir d'injonction pour faire cesser cette situation. Elle rend publique cette injonction.",
+        "020": "\"IV. - Lorsque la Haute Autorité pour la transparence de la vie publique constate en application du III du présent article, de sa propre initiative ou à la suite d'un signalement, que le président du congrès emploie comme collaborateur une personne mentionnée au même III d'une manière qui serait susceptible de constituer un conflit d'intérêts, au sens de l'article 2 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, elle peut faire usage du pouvoir d'injonction prévu à l'article 10 de la même loi pour faire cesser cette situation. Elle rend publique cette injonction.",
         "021": "\"Le III et le présent IV s'appliquent sans préjudice des articles 432-10 à 432-13 et 432-15 du code pénal.\" ;",
         "022": "2° L'article 114 est ainsi modifié :",
         "023": "a) Au début du premier alinéa, est ajoutée la mention : \"I. -\" ;",
@@ -543,38 +497,38 @@
         "026": "\"1° Leur conjoint, partenaire lié par un pacte civil de solidarité ou concubin ;",
         "027": "\"2° Leurs parents ou les parents de leur conjoint, partenaire lié par un pacte civil de solidarité ou concubin ;",
         "028": "\"3° Leurs enfants ou les enfants de leur conjoint, partenaire lié par un pacte civil de solidarité ou concubin.",
-        "029": "\"La violation de cette interdiction emporte de plein droit la cessation du contrat.",
+        "029": "\"La violation de cette interdiction emporte l'illégalité de l'acte de nomination et, le cas échéant, la cessation de plein droit du contrat.",
         "030": "\"Un décret en Conseil d'État détermine les modalités selon lesquelles le président et les membres du gouvernement remboursent les sommes versées en violation de cette interdiction.",
         "031": "\"Aucune restitution des sommes versées ne peut être exigée du membre du cabinet.",
         "032": "\"Le fait pour le président et les membres du gouvernement de compter l'une des personnes mentionnées aux 1° à 3° parmi les membres de leur cabinet est puni de la peine prévue au II de l'article 110 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale.",
-        "033": "\"III. - Le président et les membres du gouvernement informent sans délai la Haute Autorité pour la transparence de la vie publique du fait qu'ils comptent parmi les membres de leur cabinet :",
+        "033": "\"III. - Le président et les membres du gouvernement informent sans délai la Haute Autorité pour la transparence de la vie publique du fait qu'ils emploient comme collaborateur :",
         "034": "\"1° Leur frère ou leur soeur, ou le conjoint, partenaire lié par un pacte civil de solidarité ou concubin de celui-ci ou celle-ci ;",
         "035": "\"2° L'enfant de leur frère ou de leur soeur, ou le conjoint, partenaire lié par un pacte civil de solidarité ou concubin de cet enfant ;",
         "036": "\"3° Leur ancien conjoint, la personne ayant été liée à eux par un pacte civil de solidarité ou leur ancien concubin ;",
         "037": "\"4° L'enfant, le frère ou la soeur des personnes mentionnées au 3° du présent III ;",
         "038": "\"5° Le frère ou la soeur de la personne mentionnée au 1° du II.",
-        "039": "\"Lorsqu'un membre de cabinet du président ou des membres du gouvernement a un lien familial au sens du II ou du présent III avec le président ou un autre membre du gouvernement, il en informe sans délai le président ou le membre du gouvernement dont il est le collaborateur et la Haute Autorité pour la transparence de la vie publique.",
-        "040": "\"IV. - Lorsque la Haute Autorité pour la transparence de la vie publique constate en application du III du présent article, de sa propre initiative ou à la suite d'un signalement, que le président ou un membre du gouvernement emploie comme collaborateur une personne mentionnée au même III d'une manière qui serait susceptible de constituer un conflit d'intérêts, au sens de l'article 2 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, elle peut faire usage d'un pouvoir d'injonction pour faire cesser cette situation. Elle rend publique cette injonction.",
+        "039": "\"Lorsqu'un membre de cabinet du président ou des membres du gouvernement a un lien familial au sens du II ou du présent III avec le président ou un autre membre du gouvernement, il en informe sans délai le président ou le membre du gouvernement qui l'emploie et la Haute Autorité pour la transparence de la vie publique.",
+        "040": "\"IV. - Lorsque la Haute Autorité pour la transparence de la vie publique constate en application du III du présent article, de sa propre initiative ou à la suite d'un signalement, que le président ou un membre du gouvernement emploie comme collaborateur une personne mentionnée au même III d'une manière qui serait susceptible de constituer un conflit d'intérêts, au sens de l'article 2 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, elle peut faire usage du pouvoir d'injonction prévu à l'article 10 de la même loi pour faire cesser cette situation. Elle rend publique cette injonction.",
         "041": "\"Le III et le présent IV s'appliquent sans préjudice des articles 432-10 à 432-13 et 432-15 du code pénal.\" ;",
-        "042": "3° L'article 161 est ainsi modifié :",
+        "042": "3° L'article 161 est ainsi modifié:",
         "043": "a) Au début du premier alinéa, est ajoutée la mention : \"I. -\" ;",
         "044": "b) Sont ajoutés des II à IV ainsi rédigés :",
         "045": "\"II. - Il est interdit aux présidents des assemblées de province de compter parmi les membres de leur cabinet :",
         "046": "\"1° Leur conjoint, partenaire lié par un pacte civil de solidarité ou concubin ;",
         "047": "\"2° Leurs parents ou les parents de leur conjoint, partenaire lié par un pacte civil de solidarité ou concubin ;",
         "048": "\"3° Leurs enfants ou les enfants de leur conjoint, partenaire lié par un pacte civil de solidarité ou concubin.",
-        "049": "\"La violation de cette interdiction emporte de plein droit la cessation du contrat.",
+        "049": "\"La violation de cette interdiction emporte l'illégalité de l'acte de nomination et, le cas échéant, la cessation de plein droit du contrat.",
         "050": "\"Un décret en Conseil d'État détermine les modalités selon lesquelles les présidents des assemblées de province remboursent les sommes versées en violation de cette interdiction.",
         "051": "\"Aucune restitution des sommes versées ne peut être exigée du membre du cabinet.",
         "052": "\"Le fait pour les présidents des assemblées de province de compter l'une des personnes mentionnées aux 1° à 3° parmi les membres de leur cabinet est puni de la peine prévue au II de l'article 110 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale.",
-        "053": "\"III. - Les présidents des assemblées de province informent sans délai la Haute Autorité pour la transparence de la vie publique du fait qu'ils comptent parmi les membres de leur cabinet :",
+        "053": "\"III. - Les présidents des assemblées de province informent sans délai la Haute Autorité pour la transparence de la vie publique du fait qu'ils emploient comme collaborateur :",
         "054": "\"1° Leur frère ou leur soeur, ou le conjoint, partenaire lié par un pacte civil de solidarité ou concubin de celui-ci ou celle-ci ;",
         "055": "\"2° L'enfant de leur frère ou de leur soeur, ou le conjoint, partenaire lié par un pacte civil de solidarité ou concubin de cet enfant ;",
         "056": "\"3° Leur ancien conjoint, la personne ayant été liée à eux par un pacte civil de solidarité ou leur ancien concubin ;",
         "057": "\"4° L'enfant, le frère ou la soeur des personnes mentionnées au 3° du présent III ;",
         "058": "\"5° Le frère ou la soeur de la personne mentionnée au 1° du II.",
         "059": "\"Lorsqu'un membre de cabinet d'un président d'une assemblée de province a un lien familial au sens du II ou du présent III avec un autre membre de la même assemblée de province, il en informe sans délai le président de cette assemblée de province et la Haute Autorité pour la transparence de la vie publique.",
-        "060": "\"IV. - Lorsque la Haute Autorité pour la transparence de la vie publique constate en application du III du présent article, de sa propre initiative ou à la suite d'un signalement, qu'un président d'une assemblée de province emploie comme collaborateur une personne mentionnée au même III d'une manière qui serait susceptible de constituer un conflit d'intérêts, au sens de l'article 2 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, elle peut faire usage d'un pouvoir d'injonction pour faire cesser cette situation. Elle rend publique cette injonction.",
+        "060": "\"IV. - Lorsque la Haute Autorité pour la transparence de la vie publique constate en application du III du présent article, de sa propre initiative ou à la suite d'un signalement, qu'un président d'une assemblée de province emploie comme collaborateur une personne mentionnée au même III d'une manière qui serait susceptible de constituer un conflit d'intérêts, au sens de l'article 2 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, elle peut faire usage du pouvoir d'injonction prévu à l'article 10 de la même loi pour faire cesser cette situation. Elle rend publique cette injonction.",
         "061": "\"Le III et le présent IV s'appliquent sans préjudice des articles 432-10 à 432-13 et 432-15 du code pénal.\""
       },
       "liens": [
@@ -583,7 +537,7 @@
         "article 2 de la loi n° 2013-907 du 11 octobre 2013",
         "articles 432-10 à 432-13 et 432-15 du code pénal"
       ],
-      "order": 26,
+      "order": 25,
       "section": "T4",
       "statut": "none",
       "titre": "17",
@@ -599,18 +553,18 @@
         "006": "\"1° Leur conjoint, partenaire lié par un pacte civil de solidarité ou concubin ;",
         "007": "\"2° Leurs parents ou les parents de leur conjoint, partenaire lié par un pacte civil de solidarité ou concubin ;",
         "008": "\"3° Leurs enfants ou les enfants de leur conjoint, partenaire lié par un pacte civil de solidarité ou concubin.",
-        "009": "\"La violation de cette interdiction emporte de plein droit la cessation du contrat.",
+        "009": "\"La violation de cette interdiction emporte l'illégalité de l'acte de nomination et, le cas échéant, la cessation de plein droit du contrat.",
         "010": "\"Un décret en Conseil d'État détermine les modalités selon lesquelles le président de la Polynésie française et les autres membres du gouvernement de la Polynésie française remboursent les sommes versées en violation de cette interdiction.",
         "011": "\"Aucune restitution des sommes versées ne peut être exigée du membre du cabinet.",
         "012": "\"Le fait pour le président de la Polynésie française et les autres membres du gouvernement de la Polynésie française de compter l'une des personnes mentionnées aux 1° à 3° parmi les membres de leur cabinet est puni de la peine prévue au II de l'article 110 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale.",
-        "013": "\"III. - Le président de la Polynésie française et les autres membres du gouvernement informent sans délai la Haute Autorité pour la transparence de la vie publique du fait qu'ils comptent parmi les membres de leur cabinet :",
+        "013": "\"III. - Le président de la Polynésie française et les autres membres du gouvernement informent sans délai la Haute Autorité pour la transparence de la vie publique du fait qu'ils emploient comme collaborateur :",
         "014": "\"1° Leur frère ou leur soeur, ou le conjoint, partenaire lié par un pacte civil de solidarité ou concubin de celui-ci ou celle-ci ;",
         "015": "\"2° L'enfant de leur frère ou de leur soeur, ou le conjoint, partenaire lié par un pacte civil de solidarité ou concubin de cet enfant ;",
         "016": "\"3° Leur ancien conjoint, la personne ayant été liée à eux par un pacte civil de solidarité ou leur ancien concubin ;",
         "017": "\"4° L'enfant, le frère ou la soeur des personnes mentionnées au 3° du présent III ;",
         "018": "\"5° Le frère ou la soeur de la personne mentionnée au 1° du II.",
-        "019": "\"Lorsqu'un collaborateur de cabinet du président de la Polynésie française ou d'un membre du gouvernement de la Polynésie française a un lien familial au sens du II ou du présent III avec le président ou un autre membre du gouvernement de la Polynésie française, il en informe sans délai le président ou le membre du gouvernement dont il est le collaborateur et la Haute Autorité pour la transparence de la vie publique.",
-        "020": "\"IV. - Lorsque la Haute Autorité pour la transparence de la vie publique constate en application du III du présent article, de sa propre initiative ou à la suite d'un signalement, que le président de la Polynésie française ou un membre du gouvernement de la Polynésie française emploie comme collaborateur une personne mentionnée au même III d'une manière qui serait susceptible de constituer un conflit d'intérêts, au sens de l'article 2 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, elle peut faire usage d'un pouvoir d'injonction pour faire cesser cette situation. Elle rend publique cette injonction.",
+        "019": "\"Lorsqu'un collaborateur de cabinet du président de la Polynésie française ou d'un membre du gouvernement de la Polynésie française a un lien familial au sens du II ou du présent III avec le président ou un autre membre du gouvernement de la Polynésie française, il en informe sans délai le président ou le membre du gouvernement qui l'emploie et la Haute Autorité pour la transparence de la vie publique.",
+        "020": "\"IV. - Lorsque la Haute Autorité pour la transparence de la vie publique constate en application du III du présent article, de sa propre initiative ou à la suite d'un signalement, que le président de la Polynésie française ou un membre du gouvernement de la Polynésie française emploie comme collaborateur une personne mentionnée au même III d'une manière qui serait susceptible de constituer un conflit d'intérêts, au sens de l'article 2 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, elle peut faire usage du pouvoir d'injonction prévu à l'article 10 de la même loi pour faire cesser cette situation. Elle rend publique cette injonction.",
         "021": "\"Le III et le présent IV s'appliquent sans préjudice des articles 432-10 à 432-13 et 432-15 du code pénal.\" ;",
         "022": "2° L'article 129 est ainsi modifié :",
         "023": "a) Au début du premier alinéa, est ajoutée la mention : \"I. -\" ;",
@@ -619,18 +573,18 @@
         "026": "\"1° Son conjoint, partenaire lié par un pacte civil de solidarité ou concubin ;",
         "027": "\"2° Ses parents ou les parents de son conjoint, partenaire lié par un pacte civil de solidarité ou concubin ;",
         "028": "\"3° Ses enfants ou les enfants de son conjoint, partenaire lié par un pacte civil de solidarité ou concubin.",
-        "029": "\"La violation de cette interdiction emporte de plein droit la cessation du contrat.",
+        "029": "\"La violation de cette interdiction emporte l'illégalité de l'acte de nomination et, le cas échéant, la cessation de plein droit du contrat.",
         "030": "\"Un décret en Conseil d'État détermine les modalités selon lesquelles le président de la Polynésie française rembourse les sommes versées en violation de cette interdiction.",
         "031": "\"Aucune restitution des sommes versées ne peut être exigée du membre du cabinet.",
         "032": "\"Le fait pour le président de l'assemblée de la Polynésie française de compter l'une des personnes mentionnées aux 1° à 3° parmi les membres de son cabinet est puni de la peine prévue au II de l'article 110 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale.",
-        "033": "\"III. - Le président de l'assemblée de la Polynésie française informe sans délai la Haute Autorité pour la transparence de la vie publique du fait qu'il compte parmi les membres de son cabinet :",
+        "033": "\"III. - Le président de l'assemblée de la Polynésie française informe sans délai la Haute Autorité pour la transparence de la vie publique du fait qu'il emploie comme collaborateur :",
         "034": "\"1° Son frère ou sa soeur, ou le conjoint, partenaire lié par un pacte civil de solidarité ou concubin de celui-ci ou celle-ci ;",
         "035": "\"2° L'enfant de son frère ou de sa soeur, ou le conjoint, partenaire lié par un pacte civil de solidarité ou concubin de cet enfant ;",
         "036": "\"3° Son ancien conjoint, la personne ayant été liée à lui par un pacte civil de solidarité ou son ancien concubin ;",
         "037": "\"4° L'enfant, le frère ou la soeur des personnes mentionnées au 3° du présent III ;",
         "038": "\"5° Le frère ou la soeur de la personne mentionnée au 1° du II.",
         "039": "\"Lorsqu'un collaborateur de cabinet du président de l'assemblée de la Polynésie française a un lien familial au sens du II ou du présent III avec un autre représentant à cette assemblée, il en informe sans délai le président de l'assemblée et la Haute Autorité pour la transparence de la vie publique.",
-        "040": "\"IV. - Lorsque la Haute Autorité pour la transparence de la vie publique constate en application du III du présent article, de sa propre initiative ou à la suite d'un signalement, que le président de l'assemblée de la Polynésie française emploie comme collaborateur une personne mentionnée au même III d'une manière qui serait susceptible de constituer un conflit d'intérêts, au sens de l'article 2 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, elle peut faire usage d'un pouvoir d'injonction pour faire cesser cette situation. Elle rend publique cette injonction.",
+        "040": "\"IV. - Lorsque la Haute Autorité pour la transparence de la vie publique constate en application du III du présent article, de sa propre initiative ou à la suite d'un signalement, que le président de l'assemblée de la Polynésie française emploie comme collaborateur une personne mentionnée au même III d'une manière qui serait susceptible de constituer un conflit d'intérêts, au sens de l'article 2 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, elle peut faire usage du pouvoir d'injonction prévu à l'article 10 de la même loi pour faire cesser cette situation. Elle rend publique cette injonction.",
         "041": "\"Le III et le présent IV s'appliquent sans préjudice des articles 432-10 à 432-13 et 432-15 du code pénal.\""
       },
       "liens": [
@@ -639,7 +593,7 @@
         "article 2 de la loi n° 2013-907 du 11 octobre 2013",
         "articles 432-10 à 432-13 et 432-15 du code pénal"
       ],
-      "order": 27,
+      "order": 26,
       "section": "T4",
       "statut": "none",
       "titre": "18",
@@ -656,7 +610,7 @@
         "007": "\"1° Commencer à exercer une fonction de conseil qui n'était pas la sienne avant le début de son mandat ;",
         "008": "\"2° Poursuivre une telle activité lorsque celle-ci a débuté dans les douze mois précédant le premier jour du mois de son entrée en fonction ;",
         "009": "\"3° Fournir des prestations de conseil aux sociétés, entreprises, établissements ou organismes mentionnés au 8° du I ;",
-        "010": "\"4° (Supprimé)\" ;",
+        "010": "\"4° Fournir des prestations de conseil à des gouvernements, entreprises publiques, autorités administratives ou toute autre structure publique étrangers.\" ;",
         "011": "c) Après le V, il est inséré un V bis ainsi rédigé :",
         "012": "\"V bis. - Il est interdit à tout représentant à l'assemblée de la Polynésie française d'acquérir le contrôle d'une société, d'une entreprise ou d'un organisme dont l'activité consiste principalement dans la fourniture de prestations de conseil.",
         "013": "\"Il est interdit à tout représentant à l'assemblée de la Polynésie française d'exercer le contrôle d'une société, d'une entreprise ou d'un organisme :",
@@ -669,11 +623,11 @@
         "020": "b) Au deuxième alinéa, les mots : \"du délai prévu au premier alinéa\" sont remplacés par les mots : \"des délais prévus aux premier et deuxième alinéas\" ;",
         "021": "c) Après la première phrase du quatrième alinéa, est insérée une phrase ainsi rédigée :",
         "022": "\"Cette déclaration énumère également les participations directes ou indirectes qui confèrent le contrôle d'une société, d'une entreprise ou d'un organisme dont l'activité consiste principalement dans la fourniture de prestations de conseil.\"",
-        "023": "II. - Dans un délai de six mois à compter de l'entrée en vigueur du présent article, tout représentant à l'assemblée de la Polynésie française complète la déclaration mentionnée au cinquième alinéa du II de l'article 112 de la loi organique n°2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française, dans sa rédaction résultant de la présente loi organique, afin d'y faire figurer ses éventuelles participations directes ou indirectes conférant le contrôle d'une société, d'une entreprise ou d'un organisme dont l'activité consiste principalement dans la fourniture de prestations de conseil.",
+        "023": "II. - Dans un délai de trois mois à compter de l'entrée en vigueur du présent article, tout représentant à l'assemblée de la Polynésie française complète la déclaration mentionnée au cinquième alinéa du II de l'article 112 de la loi organique n°2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française, dans sa rédaction résultant de la présente loi organique, afin d'y faire figurer ses éventuelles participations directes ou indirectes conférant le contrôle d'une société, d'une entreprise ou d'un organisme dont l'activité consiste principalement dans la fourniture de prestations de conseil.",
         "024": "III. - L'interdiction mentionnée au d du 8° de l'article 111 de la loi organique n° 2004-192 du 27 février 2004 précitée s'applique à tout représentant à l'assemblée de la Polynésie française à compter du 2 octobre 2017.",
         "025": "Tout représentant à l'assemblée de la Polynésie française qui se trouve dans ce cas d'incompatibilité met fin à cette situation dans un délai de trois mois à compter de la même date.",
         "026": "IV. - Les interdictions mentionnées aux V et V bis de l'article 111 de la loi organique n° 2004-192 du 27 février 2004 précitée, dans sa rédaction résultant de la présente loi organique, à l'exception de celles mentionnées au 2° du V et au 1° du V bis du même article 111, s'appliquent à tout représentant à l'assemblée de la Polynésie française à compter de la publication de la présente loi organique.",
-        "027": "V. - Tout représentant à l'assemblée de la Polynésie française qui se trouve dans un des cas d'incompatibilité prévus au 3° du V et au 2° du V bis de l'article 111 de la loi organique n° 2004-192 du 27 février 2004 précitée, met fin à cette situation dans un délai de trois mois à compter de la publication de la présente loi organique.",
+        "027": "V. - Tout représentant à l'assemblée de la Polynésie française qui se trouve dans un des cas d'incompatibilité prévus aux 3° et 4° du V et au 2° du V bis de l'article 111 de la loi organique n° 2004-192 du 27 février 2004 précitée, met fin à cette situation dans un délai de trois mois à compter de la publication de la présente loi organique.",
         "028": "VI. - Les représentants à l'assemblée de la Polynésie française auxquels l'interdiction prévue au V de l'article 111 de la loi organique n° 2004-192 du 27 février 2004 précitée, dans sa rédaction antérieure à la présente loi organique, n'était pas applicable en vertu du second alinéa du même V dans cette même rédaction, ne peuvent commencer à exercer une fonction de conseil qui n'était pas la leur avant la publication de la présente loi organique.",
         "029": "VII. - Les interdictions mentionnées au 2° du V et au 1° du V bis de l'article 111 de la loi organique n° 2004-192 du 27 février 2004 précitée s'appliquent à tout représentant à l'assemblée de la Polynésie française à compter du premier renouvellement de cette assemblée suivant le 1er janvier 2019."
       },
@@ -682,11 +636,11 @@
         "cinquième alinéa du II de l'article 112 de la loi organique n°2004-192 du 27 février 2004",
         "d du 8° de l'article 111 de la loi organique n° 2004-192 du 27 février 2004",
         "V et V bis de l'article 111 de la loi organique n° 2004-192 du 27 février 2004",
-        "3° du V et au 2° du V bis de l'article 111 de la loi organique n° 2004-192 du 27 février 2004",
+        "3° et 4° du V et au 2° du V bis de l'article 111 de la loi organique n° 2004-192 du 27 février 2004",
         "V de l'article 111 de la loi organique n° 2004-192 du 27 février 2004",
         "2° du V et au 1° du V bis de l'article 111 de la loi organique n° 2004-192 du 27 février 2004"
       ],
-      "order": 28,
+      "order": 27,
       "section": "T4",
       "statut": "none",
       "titre": "19",
@@ -696,8 +650,8 @@
   "definitif": false,
   "depot": true,
   "expose": "",
-  "id": "A15-126",
-  "nosdeputes_id": "126",
+  "id": "A15-ta17",
+  "nosdeputes_id": "TA17",
   "sections": [
     {
       "id": "T1",
@@ -708,6 +662,12 @@
     {
       "id": "T1 bis",
       "titre": "Dispositions relatives aux membres du gouvernement",
+      "type": "section",
+      "type_section": "titre"
+    },
+    {
+      "id": "T2",
+      "titre": "Dispositions relatives aux parlementaires",
       "type": "section",
       "type_section": "titre"
     },
@@ -731,13 +691,7 @@
     },
     {
       "id": "T2C3",
-      "titre": "Dotation de solidarité locale",
-      "type": "section",
-      "type_section": "chapitre"
-    },
-    {
-      "id": "T2C4",
-      "titre": "Renforcement des obligations de publicité de la \"réserve ministérielle\"",
+      "titre": "Dispositions relatives à la \"réserve parlementaire\" et à la \"réserve ministérielle\"",
       "type": "section",
       "type_section": "chapitre"
     },
@@ -760,7 +714,7 @@
       "type_section": "titre"
     }
   ],
-  "source": "http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15B0126.html",
+  "source": "http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15BTA0017.html",
   "titre": "",
   "type": "texte"
 }
