@@ -120,7 +120,7 @@
       "alineas": {
         "001": "Le titre Ier du livre des procédures fiscales est ainsi rédigé :",
         "002": "\"Titre Ier",
-        "003": "\"Les conditions de la délivrance de l'attestation fiscale aux membres du parlement et aux représentants au parlement européen",
+        "003": "\"Les conditions de la délivrance de l'attestation fiscale aux membres du Parlement et aux représentants au Parlement européen",
         "004": "\"Art. L. 1. - Dans le cadre de la délivrance de l'attestation prévue à l'article L. O. 136-4 du code électoral et à l'article 5-3 de la loi n° 77-729 du 7 juillet 1977 relative à l'élection des représentants au Parlement européen, les membres du Gouvernement ne peuvent adresser à l'administration des impôts aucune instruction dans des affaires individuelles.\""
       },
       "liens": [
@@ -809,7 +809,7 @@
     },
     {
       "id": "T3",
-      "titre": "Dispositions relatives aux emplois de collaborateur parlementaire à l'assemblée nationale et au sénat, de collaborateur de ministre et de collaborateur d'élu local",
+      "titre": "Dispositions relatives aux emplois de collaborateur parlementaire à l'assemblée nationale et au sénat,de collaborateur de ministre et de collaborateur d'élu local",
       "type": "section",
       "type_section": "titre"
     },
@@ -868,7 +868,7 @@
       "type_section": "titre"
     }
   ],
-  "source": "http://www.assemblee-nationale.fr/15/projets/pl0098.asp",
-  "titre": "N° 98 - Projet de loi, adopté par le Sénat après engagement de la procédure accélérée, pour la régulation de la vie publique",
+  "source": "http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15B0098.html",
+  "titre": "",
   "type": "texte"
 }

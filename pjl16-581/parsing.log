@@ -5,32 +5,37 @@ pjl16-581
   [] parse SENAT version
   [] download AN version
   [] parse AN version
-WARNING: NOT FOUND IN OPEN-DATA
-WARNING: NOT FOUND IN HISTORIC DOSLEGS
-     WARNING: AN DOS NOT FOUND http://www.assemblee-nationale.fr/dyn/15/dossiers/confiance_action_publique
+  - ERROR missing text PRJLSNR5S279BTA0113
+  - ERROR missing text PRJLANR5L15BTA0008
+  - WARNING Unknown step type CMP-SAISIE
+  - ERROR missing text PRJLSNR5S279BTA0126
+  - ERROR missing text PRJLANR5L15BTA0016
+  - WARNING Unknown step type CMP-DEC
+  - WARNING Unknown step type CC-SAISIE-AN
+  - WARNING Unknown step type CC-CONCLUSION
         title: projet de loi pour la confiance dans la vie politique
   [] parse the texts
 ** parsing texts
     ^ text:  https://www.senat.fr/leg/pjl16-581.html
     ^ text:  https://www.senat.fr/leg/pjl16-609.html
     ^ text:  https://www.senat.fr/leg/tas16-113.html
-    ^ text:  http://www.assemblee-nationale.fr/15/projets/pl0098.asp
-    ^ text:  http://www.assemblee-nationale.fr/15/ta-commission/r0106-a0.asp
-    ^ text:  http://www.assemblee-nationale.fr/15/ta/ta0008.asp
+    ^ text:  http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15B0098.html
+    ^ text:  http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15BTC0106.html
+    ^ text:  http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15BTA0008.html
     ^ text:  https://www.senat.fr/leg/pjl16-700.html
     ^ text:  https://www.senat.fr/leg/tas16-126.html
-    ^ text:  http://www.assemblee-nationale.fr/15/ta/ta0016.asp
+    ^ text:  http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15BTA0016.html
     ^ text:  https://www.conseil-constitutionnel.fr/decision/2017/2017752DC.htm
     ^ text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035567974&categorieLien=id
     ^ complete text:  https://www.senat.fr/leg/pjl16-581.html
     ^ complete text:  https://www.senat.fr/leg/pjl16-609.html
     ^ complete text:  https://www.senat.fr/leg/tas16-113.html
-    ^ complete text:  http://www.assemblee-nationale.fr/15/projets/pl0098.asp
-    ^ complete text:  http://www.assemblee-nationale.fr/15/ta-commission/r0106-a0.asp
-    ^ complete text:  http://www.assemblee-nationale.fr/15/ta/ta0008.asp
+    ^ complete text:  http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15B0098.html
+    ^ complete text:  http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15BTC0106.html
+    ^ complete text:  http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15BTA0008.html
     ^ complete text:  https://www.senat.fr/leg/pjl16-700.html
     ^ complete text:  https://www.senat.fr/leg/tas16-126.html
-    ^ complete text:  http://www.assemblee-nationale.fr/15/ta/ta0016.asp
+    ^ complete text:  http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15BTA0016.html
     ^ complete text:  https://www.conseil-constitutionnel.fr/decision/2017/2017752DC.htm
     ^ complete text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035567974&categorieLien=id
   [] format data for the frontend
@@ -68,14 +73,14 @@ WARNING: NOT FOUND IN HISTORIC DOSLEGS
             dumping seance - 2017-07-11T14:15_16431
            downloading seance -  https://www.nossenateurs.fr/seance/16433/20162017-609/json
             dumping seance - 2017-07-12T14:30_16433
-    * step - 1ère lecture depot http://www.assemblee-nationale.fr/15/projets/pl0098.asp
-    * step - 1ère lecture commission http://www.assemblee-nationale.fr/15/ta-commission/r0106-a0.asp
-      * downloading amendments: https://2017-2022.nosdeputes.fr/15/amendements/98/json?cache=lfdll-prod for http://www.assemblee-nationale.fr/15/projets/pl0098.asp
+    * step - 1ère lecture depot http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15B0098.html
+    * step - 1ère lecture commission http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15BTC0106.html
+      * downloading amendments: https://2017-2022.nosdeputes.fr/15/amendements/98/json?cache=lfdll-prod for http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15B0098.html
         parsing amendments: 193
       * downloading interventions
         * downloading seances -  https://2017-2022.nosdeputes.fr/15/seances/98/json?commission=1
-    * step - 1ère lecture hemicycle http://www.assemblee-nationale.fr/15/ta/ta0008.asp
-      * downloading amendments: https://2017-2022.nosdeputes.fr/15/amendements/106/json?cache=lfdll-prod for http://www.assemblee-nationale.fr/15/ta-commission/r0106-a0.asp
+    * step - 1ère lecture hemicycle http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15BTA0008.html
+      * downloading amendments: https://2017-2022.nosdeputes.fr/15/amendements/106/json?cache=lfdll-prod for http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15BTC0106.html
         parsing amendments: 590
       * downloading interventions
         * downloading seances -  https://2017-2022.nosdeputes.fr/15/seances/106/json?hemicycle=1
@@ -117,8 +122,8 @@ WARNING: NOT FOUND IN HISTORIC DOSLEGS
         * downloading seances -  https://www.nossenateurs.fr/seances/20162017-700/json?hemicycle=1
            downloading seance -  https://www.nossenateurs.fr/seance/16546/20162017-700/json
             dumping seance - 2017-08-02T16:00_16546
-    * step - CMP hemicycle http://www.assemblee-nationale.fr/15/ta/ta0016.asp
-      * downloading amendments: https://2017-2022.nosdeputes.fr/15/amendements/120/json?cache=lfdll-prod for http://www.assemblee-nationale.fr/15/ta-commission/r0120-a0.asp
+    * step - CMP hemicycle http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15BTA0016.html
+      * downloading amendments: https://2017-2022.nosdeputes.fr/15/amendements/120/json?cache=lfdll-prod for http://www.assemblee-nationale.fr/dyn/opendata/RAPPANR5L15B0120.html
         parsing amendments: 4
       * downloading interventions
         * downloading seances -  https://2017-2022.nosdeputes.fr/15/seances/120/json?hemicycle=1
