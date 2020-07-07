@@ -17,7 +17,7 @@
       "color": "rgb(30,180,255)",
       "link": "https://2017-2022.nosdeputes.fr/groupe/LC",
       "nom": "Les Constructifs : Républicains, UDI, Indépendants",
-      "order": 18
+      "order": 19
     },
     "LFI": {
       "color": "rgb(204,42,70)",
@@ -29,7 +29,7 @@
       "color": "rgb(30,30,200)",
       "link": "https://2017-2022.nosdeputes.fr/groupe/LR",
       "nom": "Les Républicains",
-      "order": 21
+      "order": 22
     },
     "LREM": {
       "color": "rgb(232,197,5)",
@@ -53,7 +53,7 @@
       "color": "rgb(165,165,165)",
       "link": "https://2017-2022.nosdeputes.fr/groupe/NI",
       "nom": "Députés Non Inscrits",
-      "order": 22
+      "order": 23
     }
   },
   "id_step": "05_1erelecture_assemblee_hemicycle",
