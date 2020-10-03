@@ -32,7 +32,7 @@ pjl16-580
     ^ text:  http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15BTA0017.html
     ^ text:  http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15BTA0018.html
     ^ text:  https://www.conseil-constitutionnel.fr/decision/2017/2017753DC.htm
-    ^ text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035567936&categorieLien=id
+    ^ text:  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035567936
     ^ complete text:  https://www.senat.fr/leg/pjl16-580.html
     ^ complete text:  https://www.senat.fr/leg/pjl16-608.html
     ^ complete text:  https://www.senat.fr/leg/tas16-114.html
@@ -52,7 +52,7 @@ pjl16-580
 [step_logic] l. définitive / hemicycle: fetching last AN hemi or last CMP commission
 WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 9 quater <-> 17 1353 Vs 198 chars, similarity; 0.13
     ^ complete text:  https://www.conseil-constitutionnel.fr/decision/2017/2017753DC.htm
-    ^ complete text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035567936&categorieLien=id
+    ^ complete text:  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035567936
   [] format data for the frontend
      writing to: pjl16-580_tmp
  - process article versions
@@ -198,7 +198,7 @@ Matched an article deleted in this step 8_bis
       * downloading interventions
         * downloading seances -  https://2017-2022.nosdeputes.fr/15/seances/TA17/json?hemicycle=1
     * step - constitutionnalité None https://www.conseil-constitutionnel.fr/decision/2017/2017753DC.htm
-    * step - promulgation None https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035567936&categorieLien=id
+    * step - promulgation None https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035567936
  - re-order interventions and correct procedure dates
 INFO: change beginning date of 2 thanks to 2017-07-10T16:00_16415
 INFO: change beginning date of 5 thanks to 2017-07-25T15:00_101
