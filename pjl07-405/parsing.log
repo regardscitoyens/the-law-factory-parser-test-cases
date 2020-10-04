@@ -25,7 +25,7 @@ pjl07-405
     ^ text:  https://www.senat.fr/leg/pjl08-397.html
     ^ text:  https://www.senat.fr/leg/tas08-081.html
     ^ text:  https://www.conseil-constitutionnel.fr/decision/2009/2009580DC.htm
-    ^ text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000020735432&categorieLien=id
+    ^ text:  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000020735432
      * re-ordered CMP steps
     ^ complete text:  https://www.senat.fr/leg/pjl07-405.html
     ^ complete text:  https://www.senat.fr/rap/l08-053/l08-053.html
@@ -46,7 +46,7 @@ pjl07-405
     ^ complete text:  https://www.senat.fr/leg/tas08-081.html
 WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 4 <-> 7 78 Vs 55 chars, similarity; 0.65
     ^ complete text:  https://www.conseil-constitutionnel.fr/decision/2009/2009580DC.htm
-    ^ complete text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000020735432&categorieLien=id
+    ^ complete text:  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000020735432
   [] format data for the frontend
      writing to: pjl07-405_tmp
  - process article versions
@@ -203,7 +203,7 @@ WARNING: amendments ignored (not the right step) 499
            downloading seance -  https://www.nossenateurs.fr/seance/1317/20082009-397/json
             dumping seance - 2009-05-13T09:45_1317
     * step - constitutionnalité None https://www.conseil-constitutionnel.fr/decision/2009/2009580DC.htm
-    * step - promulgation None https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000020735432&categorieLien=id
+    * step - promulgation None https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000020735432
  - re-order interventions and correct procedure dates
 INFO: change end date of 1 thanks to 2008-10-29T2ème séance_3664
 INFO: change beginning date of 2 thanks to 2008-10-29T22:00_941

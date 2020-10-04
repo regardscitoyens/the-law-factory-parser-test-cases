@@ -17,7 +17,7 @@ pjl15-034
     ^ text:  https://www.senat.fr/leg/pjl15-189.html
     ^ text:  http://www.assemblee-nationale.fr/14/ta/ta0628.asp
     ^ text:  https://www.senat.fr/leg/tas15-063.html
-    ^ text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000031701525&categorieLien=id
+    ^ text:  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000031701525
     ^ complete text:  http://www.assemblee-nationale.fr/14/projets/pl3037.asp
     ^ complete text:  http://www.assemblee-nationale.fr/14/ta-commission/r3090-a0.asp
     ^ complete text:  http://www.assemblee-nationale.fr/14/ta/ta0593.asp
@@ -28,7 +28,7 @@ pjl15-034
     ^ complete text:  http://www.assemblee-nationale.fr/14/ta/ta0628.asp
     ^ complete text:  https://www.senat.fr/leg/tas15-063.html
 WARNING BIG DIFFERENCE BETWEEN RENUMBERED ARTICLE 1er B <-> 2 377 Vs 228 chars, similarity; 0.60
-    ^ complete text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000031701525&categorieLien=id
+    ^ complete text:  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000031701525
   [] format data for the frontend
      writing to: pjl15-034_tmp
  - process article versions
@@ -93,7 +93,7 @@ WARNING: amendments ignored (not the right step) 1
         * downloading seances -  https://www.nossenateurs.fr/seances/20152016-189/json?hemicycle=1
            downloading seance -  https://www.nossenateurs.fr/seance/13966/20152016-189/json
             dumping seance - 2015-12-17T10:30_13966
-    * step - promulgation None https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000031701525&categorieLien=id
+    * step - promulgation None https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000031701525
  - re-order interventions and correct procedure dates
 INFO: moves  2015-12-09T15:00_5977  from step 2 to step 7
 ERROR: PB date of 2015-10-06T15:00_5542 , step begins 2015-12-09 and prev date ends 2015-11-24

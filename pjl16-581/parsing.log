@@ -26,7 +26,7 @@ pjl16-581
     ^ text:  https://www.senat.fr/leg/tas16-126.html
     ^ text:  http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15BTA0016.html
     ^ text:  https://www.conseil-constitutionnel.fr/decision/2017/2017752DC.htm
-    ^ text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035567974&categorieLien=id
+    ^ text:  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035567974
     ^ complete text:  https://www.senat.fr/leg/pjl16-581.html
     ^ complete text:  https://www.senat.fr/leg/pjl16-609.html
     ^ complete text:  https://www.senat.fr/leg/tas16-113.html
@@ -37,7 +37,7 @@ pjl16-581
     ^ complete text:  https://www.senat.fr/leg/tas16-126.html
     ^ complete text:  http://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15BTA0016.html
     ^ complete text:  https://www.conseil-constitutionnel.fr/decision/2017/2017752DC.htm
-    ^ complete text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035567974&categorieLien=id
+    ^ complete text:  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035567974
   [] format data for the frontend
      writing to: pjl16-581_tmp
  - process article versions
@@ -158,7 +158,7 @@ pjl16-581
            downloading seance -  https://2017-2022.nosdeputes.fr/15/seance/85/120/json
             dumping seance - 2017-07-24T21:30_85
     * step - constitutionnalité None https://www.conseil-constitutionnel.fr/decision/2017/2017752DC.htm
-    * step - promulgation None https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000035567974&categorieLien=id
+    * step - promulgation None https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035567974
  - re-order interventions and correct procedure dates
 INFO: change beginning date of 2 thanks to 2017-07-10T16:00_16415
 INFO: change beginning date of 5 thanks to 2017-07-25T15:00_101

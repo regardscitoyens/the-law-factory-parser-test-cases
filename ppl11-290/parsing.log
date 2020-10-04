@@ -27,7 +27,7 @@ ppl11-290
     ^ text:  http://www.assemblee-nationale.fr/13/propositions/pion4425.asp
     ^ text:  http://www.assemblee-nationale.fr/13/ta/ta0874.asp
     ^ text:  https://www.conseil-constitutionnel.fr/decision/2012/2012650DC.htm
-    ^ text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000025540947&categorieLien=id
+    ^ text:  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000025540947/
     ^ complete text:  http://www.assemblee-nationale.fr/13/propositions/pion3991.asp
     ^ complete text:  http://www.assemblee-nationale.fr/13/ta-commission/r4157-a0.asp
     ^ complete text:  http://www.assemblee-nationale.fr/13/ta/ta0829.asp
@@ -46,7 +46,7 @@ ppl11-290
     ^ complete text:  http://www.assemblee-nationale.fr/13/ta/ta0874.asp
 [step_logic] l. définitive / hemicycle: fetching last AN hemi or last CMP commission
     ^ complete text:  https://www.conseil-constitutionnel.fr/decision/2012/2012650DC.htm
-    ^ complete text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000025540947&categorieLien=id
+    ^ complete text:  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000025540947/
   [] format data for the frontend
      writing to: ppl11-290_tmp
  - process article versions
@@ -135,7 +135,7 @@ WARNING: amendments ignored (not the right step) 1
            downloading seance -  https://2007-2012.nosdeputes.fr/13/seance/6105/4425/json
             dumping seance - 2012-02-29T21:45_6105
     * step - constitutionnalité None https://www.conseil-constitutionnel.fr/decision/2012/2012650DC.htm
-    * step - promulgation None https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000025540947&categorieLien=id
+    * step - promulgation None https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000025540947/
  - re-order interventions and correct procedure dates
  - prepare interventions.json
  - compute stats
