@@ -15,14 +15,14 @@ pjl11-350
     ^ text:  https://www.senat.fr/leg/pjl11-350.html
     ^ text:  https://www.senat.fr/leg/pjl12-400.html
     ^ text:  https://www.senat.fr/leg/tas12-113.html
-    ^ text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027219331&categorieLien=id
+    ^ text:  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000027219331
     ^ complete text:  http://www.assemblee-nationale.fr/13/projets/pl3709.asp
     ^ complete text:  http://www.assemblee-nationale.fr/13/rapports/r4175.asp
     ^ complete text:  http://www.assemblee-nationale.fr/13/ta/ta0848.asp
     ^ complete text:  https://www.senat.fr/leg/pjl11-350.html
     ^ complete text:  https://www.senat.fr/leg/pjl12-400.html
     ^ complete text:  https://www.senat.fr/leg/tas12-113.html
-    ^ complete text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027219331&categorieLien=id
+    ^ complete text:  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000027219331
   [] format data for the frontend
      writing to: pjl11-350_tmp
  - process article versions
@@ -58,7 +58,7 @@ pjl11-350
       * downloading interventions
         * downloading seances -  https://www.nossenateurs.fr/seances/20122013-400/json?hemicycle=1
         * downloading seances -  https://www.nossenateurs.fr/seances/20112012-350/json?hemicycle=1
-    * step - promulgation None https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027219331&categorieLien=id
+    * step - promulgation None https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000027219331
  - re-order interventions and correct procedure dates
  - prepare interventions.json
  - compute stats

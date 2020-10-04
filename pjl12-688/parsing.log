@@ -28,8 +28,7 @@ pjl12-688
     ^ text:  http://www.assemblee-nationale.fr/14/ta/ta0191.asp
     ^ text:  http://www.assemblee-nationale.fr/14/ta/ta0209.asp
     ^ text:  https://www.conseil-constitutionnel.fr/decision/2013/2013675DC.htm
-        ^ text url fixed: https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000028056223/
-    ^ text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028056223&categorieLien=id
+    ^ text:  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000028056223/
     ^ complete text:  http://www.assemblee-nationale.fr/14/projets/pl1004.asp
     ^ complete text:  http://www.assemblee-nationale.fr/14/ta-commission/r1108-a0.asp
     ^ complete text:  http://www.assemblee-nationale.fr/14/ta/ta0161.asp
@@ -50,7 +49,7 @@ pjl12-688
     ^ complete text:  http://www.assemblee-nationale.fr/14/ta/ta0209.asp
 [step_logic] l. définitive / hemicycle: fetching last AN hemi or last CMP commission
     ^ complete text:  https://www.conseil-constitutionnel.fr/decision/2013/2013675DC.htm
-    ^ complete text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028056223&categorieLien=id
+    ^ complete text:  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000028056223/
   [] format data for the frontend
      writing to: pjl12-688_tmp
  - process article versions
@@ -202,7 +201,7 @@ WARNING: amendments ignored (not the right step) 3
       * downloading interventions
         * downloading seances -  https://2012-2017.nosdeputes.fr/14/seances/TA191/json?hemicycle=1
     * step - constitutionnalité None https://www.conseil-constitutionnel.fr/decision/2013/2013675DC.htm
-    * step - promulgation None https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000028056223&categorieLien=id
+    * step - promulgation None https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000028056223/
  - re-order interventions and correct procedure dates
 INFO: change beginning date of 1 thanks to 2013-06-04T17:30_1461
 INFO: change end date of 1 thanks to 2013-06-17T15:00_1525

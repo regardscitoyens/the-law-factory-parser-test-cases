@@ -15,14 +15,14 @@ pjl12-135
     ^ text:  https://www.senat.fr/leg/pjl12-135.html
     ^ text:  https://www.senat.fr/leg/pjl12-314.html
     ^ text:  https://www.senat.fr/leg/tas12-095.html
-    ^ text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027093631&categorieLien=id
+    ^ text:  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000027093631/
     ^ complete text:  http://www.assemblee-nationale.fr/14/projets/pl0307.asp
     ^ complete text:  http://www.assemblee-nationale.fr/14/rapports/r0406.asp
     ^ complete text:  http://www.assemblee-nationale.fr/14/ta/ta0035.asp
     ^ complete text:  https://www.senat.fr/leg/pjl12-135.html
     ^ complete text:  https://www.senat.fr/leg/pjl12-314.html
     ^ complete text:  https://www.senat.fr/leg/tas12-095.html
-    ^ complete text:  https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027093631&categorieLien=id
+    ^ complete text:  https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000027093631/
   [] format data for the frontend
      writing to: pjl12-135_tmp
  - process article versions
@@ -59,7 +59,7 @@ pjl12-135
         * downloading seances -  https://www.nossenateurs.fr/seances/20122013-314/json?hemicycle=1
            downloading seance -  https://www.nossenateurs.fr/seance/8935/20122013-314/json
             dumping seance - 2013-02-07T15:00_8935
-    * step - promulgation None https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027093631&categorieLien=id
+    * step - promulgation None https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000027093631/
  - re-order interventions and correct procedure dates
  - prepare interventions.json
  - compute stats
