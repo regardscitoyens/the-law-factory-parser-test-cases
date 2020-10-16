@@ -92,11 +92,8 @@
       "directory": "02_1erelecture_assemblee_hemicycle",
       "echec": null,
       "enddate": "2012-11-19",
-      "has_interventions": true,
+      "has_interventions": false,
       "institution": "assemblee",
-      "intervention_files": [
-        "2012-11-19T17:00_514"
-      ],
       "nb_amendements": 0,
       "source_url": "http://www.assemblee-nationale.fr/14/ta/ta0035.asp",
       "stage": "1ère lecture",

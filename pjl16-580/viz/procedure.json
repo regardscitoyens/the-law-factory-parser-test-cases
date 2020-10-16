@@ -255,11 +255,8 @@
       "directory": "12_nouv.lect._senat_hemicycle",
       "echec": null,
       "enddate": "2017-08-04",
-      "has_interventions": true,
+      "has_interventions": false,
       "institution": "senat",
-      "intervention_files": [
-        "2017-08-04T15:00_16548"
-      ],
       "nb_amendements": 4,
       "source_url": "https://www.senat.fr/leg/tas16-128.html",
       "stage": "nouv. lect.",
