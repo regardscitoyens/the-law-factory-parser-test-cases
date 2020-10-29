@@ -5,7 +5,7 @@
       "color": "rgb(250,195,132)",
       "link": "https://www.nossenateurs.fr/groupe/RDSE",
       "nom": "Rassemblement Démocratique et Social européen",
-      "order": 17
+      "order": 19
     },
     "SOC": {
       "color": "rgb(255,50,190)",
@@ -17,13 +17,13 @@
       "color": "rgb(130,140,255)",
       "link": "https://www.nossenateurs.fr/groupe/UC",
       "nom": "Union Centriste",
-      "order": 20
+      "order": 22
     },
     "UMP": {
       "color": "rgb(30,30,200)",
       "link": "https://www.nossenateurs.fr/groupe/UMP",
       "nom": "Union pour un Mouvement Populaire",
-      "order": 23
+      "order": 25
     }
   },
   "id_step": "01_1erelecture_senat_commission",

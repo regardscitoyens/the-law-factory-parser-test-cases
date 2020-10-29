@@ -129,7 +129,7 @@
         "color": "rgb(0,230,30)",
         "link": "https://www.nossenateurs.fr/groupe/ECOLO",
         "nom": "Écologiste",
-        "order": 16
+        "order": 17
       },
       "Présidence": {
         "color": "#bfbbcc",
@@ -141,7 +141,7 @@
         "color": "rgb(250,195,132)",
         "link": "https://www.nossenateurs.fr/groupe/RDSE",
         "nom": "Rassemblement Démocratique et Social européen",
-        "order": 17
+        "order": 19
       },
       "Rapporteurs": {
         "color": "#b9ccc0",
@@ -153,7 +153,7 @@
         "color": "rgb(30,30,200)",
         "link": "https://www.nossenateurs.fr/groupe/UMP",
         "nom": "Union pour un Mouvement Populaire",
-        "order": 23
+        "order": 25
       }
     },
     "orateurs": {
