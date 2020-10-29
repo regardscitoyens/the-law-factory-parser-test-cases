@@ -11,13 +11,13 @@
       "color": "rgb(130,140,255)",
       "link": "https://www.nossenateurs.fr/groupe/UC",
       "nom": "Union Centriste",
-      "order": 22
+      "order": 20
     },
     "UMP": {
       "color": "rgb(30,30,200)",
       "link": "https://www.nossenateurs.fr/groupe/UMP",
       "nom": "Union pour un Mouvement Populaire",
-      "order": 25
+      "order": 23
     }
   },
   "id_step": "11_nouv.lect._senat_commission",

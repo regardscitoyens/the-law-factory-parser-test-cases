@@ -141,7 +141,7 @@
               }
             }
           },
-          "Lrem": {
+          "LREM": {
             "nb_intervs": 10,
             "nb_mots": 550,
             "orateurs": {
@@ -2393,7 +2393,7 @@
               }
             }
           },
-          "Lrem": {
+          "LREM": {
             "nb_intervs": 1,
             "nb_mots": 201,
             "orateurs": {
@@ -2577,7 +2577,7 @@
               }
             }
           },
-          "Lrem": {
+          "LREM": {
             "nb_intervs": 8,
             "nb_mots": 1431,
             "orateurs": {
@@ -2806,17 +2806,17 @@
         "nom": "Gouvernement",
         "order": 60
       },
-      "Lrem": {
-        "color": "#bfbfbf",
-        "link": "",
-        "nom": "LREM",
-        "order": 100
+      "LREM": {
+        "color": "rgb(232,197,5)",
+        "link": "https://www.nossenateurs.fr/groupe/LREM",
+        "nom": "La République en Marche",
+        "order": 18
       },
       "NI": {
         "color": "rgb(165,165,165)",
         "link": "https://www.nossenateurs.fr/groupe/NI",
         "nom": "Réunion administrative des Sénateurs ne figurant sur la liste d'aucun groupe politique",
-        "order": 27
+        "order": 25
       },
       "Présidence": {
         "color": "#bfbbcc",
@@ -2828,7 +2828,7 @@
         "color": "rgb(250,195,132)",
         "link": "https://www.nossenateurs.fr/groupe/RDSE",
         "nom": "Rassemblement Démocratique et Social européen",
-        "order": 19
+        "order": 17
       },
       "Rapporteurs": {
         "color": "#b9ccc0",
@@ -2846,13 +2846,13 @@
         "color": "rgb(130,140,255)",
         "link": "https://www.nossenateurs.fr/groupe/UC",
         "nom": "Union Centriste",
-        "order": 22
+        "order": 20
       },
       "UMP": {
         "color": "rgb(30,30,200)",
         "link": "https://www.nossenateurs.fr/groupe/UMP",
         "nom": "Union pour un Mouvement Populaire",
-        "order": 25
+        "order": 23
       }
     },
     "orateurs": {
@@ -2905,7 +2905,7 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/alain-marc"
       },
       "alain richard": {
-        "color": "#888888",
+        "color": "rgb(232,197,5)",
         "fonction": "",
         "groupe": "LREM",
         "link": "https://www.nossenateurs.fr/alain-richard",
@@ -3049,7 +3049,7 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/corinne-bouchoux"
       },
       "delphine bataille": {
-        "color": "#888888",
+        "color": "rgb(232,197,5)",
         "fonction": "",
         "groupe": "LREM",
         "link": "https://www.nossenateurs.fr/delphine-bataille",
@@ -3257,7 +3257,7 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/jean-paul-emorine"
       },
       "jean-pierre caffet": {
-        "color": "#888888",
+        "color": "rgb(232,197,5)",
         "fonction": "président",
         "groupe": "LREM",
         "link": "https://www.nossenateurs.fr/jean-pierre-caffet",
@@ -3385,7 +3385,7 @@
         "photo": ""
       },
       "nicole bricq": {
-        "color": "#888888",
+        "color": "rgb(232,197,5)",
         "fonction": "",
         "groupe": "LREM",
         "link": "https://www.nossenateurs.fr/nicole-bricq",
@@ -3457,7 +3457,7 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/roland-courteau"
       },
       "stéphanie riocreux": {
-        "color": "#888888",
+        "color": "rgb(232,197,5)",
         "fonction": "",
         "groupe": "LREM",
         "link": "https://www.nossenateurs.fr/stephanie-riocreux",
@@ -18954,7 +18954,7 @@
               }
             }
           },
-          "Lrem": {
+          "LREM": {
             "nb_intervs": 10,
             "nb_mots": 876,
             "orateurs": {
@@ -19089,17 +19089,17 @@
         "nom": "Gouvernement",
         "order": 60
       },
-      "Lrem": {
-        "color": "#bfbfbf",
-        "link": "",
-        "nom": "LREM",
-        "order": 100
+      "LREM": {
+        "color": "rgb(232,197,5)",
+        "link": "https://www.nossenateurs.fr/groupe/LREM",
+        "nom": "La République en Marche",
+        "order": 18
       },
       "NI": {
         "color": "rgb(165,165,165)",
         "link": "https://www.nossenateurs.fr/groupe/NI",
         "nom": "Réunion administrative des Sénateurs ne figurant sur la liste d'aucun groupe politique",
-        "order": 27
+        "order": 25
       },
       "Présidence": {
         "color": "#bfbbcc",
@@ -19111,7 +19111,7 @@
         "color": "rgb(250,195,132)",
         "link": "https://www.nossenateurs.fr/groupe/RDSE",
         "nom": "Rassemblement Démocratique et Social européen",
-        "order": 19
+        "order": 17
       },
       "Rapporteurs": {
         "color": "#b9ccc0",
@@ -19129,13 +19129,13 @@
         "color": "rgb(130,140,255)",
         "link": "https://www.nossenateurs.fr/groupe/UC",
         "nom": "Union Centriste",
-        "order": 22
+        "order": 20
       },
       "UMP": {
         "color": "rgb(30,30,200)",
         "link": "https://www.nossenateurs.fr/groupe/UMP",
         "nom": "Union pour un Mouvement Populaire",
-        "order": 25
+        "order": 23
       }
     },
     "orateurs": {
@@ -19228,7 +19228,7 @@
         "photo": ""
       },
       "nicole bricq": {
-        "color": "#888888",
+        "color": "rgb(232,197,5)",
         "fonction": "",
         "groupe": "LREM",
         "link": "https://www.nossenateurs.fr/nicole-bricq",
@@ -19252,7 +19252,7 @@
         "photo": "https://www.nossenateurs.fr/senateur/photo/rene-paul-savary"
       },
       "richard yung": {
-        "color": "#888888",
+        "color": "rgb(232,197,5)",
         "fonction": "",
         "groupe": "LREM",
         "link": "https://www.nossenateurs.fr/richard-yung",
