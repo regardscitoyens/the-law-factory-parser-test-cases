@@ -6,7 +6,9 @@
         "002": "\"Les langues régionales appartiennent à son patrimoine.\""
       },
       "liens": [
-        "article 1er de la Constitution"
+        {
+          "texte": "article 1er de la Constitution"
+        }
       ],
       "order": 1,
       "statut": "nouveau",
@@ -19,7 +21,9 @@
         "002": "\"La loi garantit la participation des partis et groupements politiques à la vie démocratique de la Nation.\""
       },
       "liens": [
-        "article 4 de la Constitution"
+        {
+          "texte": "article 4 de la Constitution"
+        }
       ],
       "order": 2,
       "statut": "none",
@@ -32,7 +36,9 @@
         "002": "\"Nul ne peut être élu plus de deux fois consécutivement.\""
       },
       "liens": [
-        "premier alinéa de l'article 6 de la Constitution"
+        {
+          "texte": "premier alinéa de l'article 6 de la Constitution"
+        }
       ],
       "order": 3,
       "statut": "none",
@@ -55,7 +61,9 @@
         "002": "\"Un référendum portant sur un objet mentionné au premier alinéa peut être organisé à l'initiative d'un cinquième des membres du Parlement soutenue par un dixième des électeurs inscrits sur les listes électorales. La régularité de l'initiative, qui prend la forme d'une proposition de loi et qui ne peut avoir pour objet l'abrogation d'une disposition législative promulguée depuis moins d'un an, est contrôlée par le Conseil constitutionnel dans des conditions fixées par une loi organique. Si la proposition n'a pas été examinée par les deux assemblées parlementaires dans un délai fixé par la loi organique, le Président de la République soumet la proposition au référendum.\""
       },
       "liens": [
-        "deuxième alinéa de l'article 11 de la Constitution"
+        {
+          "texte": "deuxième alinéa de l'article 11 de la Constitution"
+        }
       ],
       "order": 5,
       "statut": "nouveau",
@@ -67,7 +75,9 @@
         "001": "Dans le premier alinéa de l'article 11 de la Constitution, les mots : \"ou sociale\" sont remplacés par les mots : \", sociale ou environnementale\"."
       },
       "liens": [
-        "premier alinéa de l'article 11 de la Constitution"
+        {
+          "texte": "premier alinéa de l'article 11 de la Constitution"
+        }
       ],
       "order": 6,
       "statut": "nouveau",
@@ -79,7 +89,9 @@
         "001": "Dans le dernier alinéa de l'article 11 de la Constitution, après le mot : \"projet\", sont insérés les mots : \"ou de la proposition\"."
       },
       "liens": [
-        "dernier alinéa de l'article 11 de la Constitution"
+        {
+          "texte": "dernier alinéa de l'article 11 de la Constitution"
+        }
       ],
       "order": 7,
       "statut": "nouveau",
@@ -92,7 +104,9 @@
         "002": "\"Une loi organique détermine les emplois ou fonctions, autres que ceux mentionnés au troisième alinéa, pour lesquels, en raison de leur importance pour la garantie des droits et libertés ou la vie économique et sociale de la Nation, le pouvoir de nomination du Président de la République s'exerce après avis public de la réunion des deux commissions permanentes compétentes de chaque assemblée. Le Président de la République ne peut procéder à une nomination lorsque la réunion des commissions permanentes compétentes a émis un avis négatif à la majorité des trois cinquièmes des suffrages exprimés. La loi détermine les commissions permanentes compétentes selon les emplois ou fonctions concernés ainsi que les modalités selon lesquelles les avis sont rendus.\""
       },
       "liens": [
-        "article 13 de la Constitution"
+        {
+          "texte": "article 13 de la Constitution"
+        }
       ],
       "order": 8,
       "statut": "none",
@@ -105,7 +119,9 @@
         "002": "\"Après trente jours d'exercice des pouvoirs exceptionnels, le Conseil constitutionnel peut être saisi par le Président de l'Assemblée nationale, le Président du Sénat, soixante députés ou soixante sénateurs, aux fins d'examiner si les conditions énoncées au premier alinéa demeurent réunies. Il se prononce dans les délais les plus brefs par un avis public. Il procède de plein droit à cet examen et se prononce dans les mêmes conditions au terme de soixante jours d'exercice des pouvoirs exceptionnels et à tout moment au-delà de cette durée.\""
       },
       "liens": [
-        "article 16 de la Constitution"
+        {
+          "texte": "article 16 de la Constitution"
+        }
       ],
       "order": 9,
       "statut": "none",
@@ -118,7 +134,9 @@
         "002": "\"Art. 17. - Le Président de la République a le droit de faire grâce à titre individuel. Il exerce ce droit après avis d'une commission dont la composition est fixée par la loi.\""
       },
       "liens": [
-        "article 17 de la Constitution"
+        {
+          "texte": "article 17 de la Constitution"
+        }
       ],
       "order": 10,
       "statut": "none",
@@ -133,7 +151,9 @@
         "004": "2° Dans le dernier alinéa, les mots : \"le Parlement est réuni\" sont remplacés par les mots : \"les assemblées parlementaires sont réunies\"."
       },
       "liens": [
-        "article 18 de la Constitution"
+        {
+          "texte": "article 18 de la Constitution"
+        }
       ],
       "order": 11,
       "statut": "none",
@@ -160,7 +180,9 @@
         "006": "\"Les Français établis hors de France sont représentés à l'Assemblée nationale et au Sénat.\""
       },
       "liens": [
-        "article 24 de la Constitution"
+        {
+          "texte": "article 24 de la Constitution"
+        }
       ],
       "order": 13,
       "statut": "none",
@@ -175,7 +197,9 @@
         "004": "\"Une commission indépendante, dont la loi fixe la composition et les règles d'organisation et de fonctionnement, se prononce par un avis public sur les projets de texte et propositions de loi délimitant les circonscriptions pour l'élection des députés ou des sénateurs ou répartissant les sièges entre elles.\""
       },
       "liens": [
-        "article 25 de la Constitution"
+        {
+          "texte": "article 25 de la Constitution"
+        }
       ],
       "order": 14,
       "statut": "none",
@@ -188,7 +212,9 @@
         "002": "\"Les auditions auxquelles procèdent les commissions instituées au sein de chaque assemblée sont publiques, sauf si celles-ci en décident autrement.\""
       },
       "liens": [
-        "article 33 de la Constitution"
+        {
+          "texte": "article 33 de la Constitution"
+        }
       ],
       "order": 15,
       "statut": "nouveau",
@@ -209,7 +235,13 @@
         "010": "\"Des lois de programmation définissent les orientations pluriannuelles des finances publiques. Elles s'inscrivent dans l'objectif d'équilibre des comptes des administrations publiques.\""
       },
       "liens": [
-        "article 34 de la Constitution"
+        {
+          "texte": "article 34 de la Constitution"
+        },
+        {
+          "texte": "article 66",
+          "texte_complet": "article 66 constitution"
+        }
       ],
       "order": 16,
       "statut": "none",
@@ -234,7 +266,9 @@
         "004": "\"Si le Parlement n'est pas en session à l'expiration du délai de quatre mois, il se prononce à l'ouverture de la session suivante.\""
       },
       "liens": [
-        "article 35 de la Constitution"
+        {
+          "texte": "article 35 de la Constitution"
+        }
       ],
       "order": 18,
       "statut": "none",
@@ -247,7 +281,9 @@
         "002": "\"Elles ne peuvent être ratifiées que de manière expresse.\""
       },
       "liens": [
-        "deuxième alinéa de l'article 38 de la Constitution"
+        {
+          "texte": "deuxième alinéa de l'article 38 de la Constitution"
+        }
       ],
       "order": 19,
       "statut": "nouveau",
@@ -264,7 +300,9 @@
         "006": "\"Dans les conditions prévues par la loi, le président d'une assemblée peut soumettre pour avis au Conseil d'État, avant son examen en commission, une proposition de loi déposée par l'un des membres de cette assemblée.\""
       },
       "liens": [
-        "article 39 de la Constitution"
+        {
+          "texte": "article 39 de la Constitution"
+        }
       ],
       "order": 20,
       "statut": "none",
@@ -276,7 +314,9 @@
         "001": "Dans le premier alinéa de l'article 41 de la Constitution, après les mots : \"le Gouvernement\", sont insérés les mots : \"ou le président de l'assemblée saisie\"."
       },
       "liens": [
-        "premier alinéa de l'article 41 de la Constitution"
+        {
+          "texte": "premier alinéa de l'article 41 de la Constitution"
+        }
       ],
       "order": 21,
       "statut": "none",
@@ -292,7 +332,17 @@
         "005": "\"Les dispositions de l'alinéa précédent ne s'appliquent pas si la procédure accélérée a été déclarée dans les conditions prévues à l'article 45. Elles ne s'appliquent pas non plus aux projets de loi de finances, aux projets de loi de financement de la sécurité sociale et aux projets relatifs aux états de crise.\""
       },
       "liens": [
-        "article 42 de la Constitution"
+        {
+          "texte": "article 42 de la Constitution"
+        },
+        {
+          "texte": "article 43",
+          "texte_complet": "article 43 constitution"
+        },
+        {
+          "texte": "article 45",
+          "texte_complet": "article 45 constitution"
+        }
       ],
       "order": 22,
       "statut": "none",
@@ -304,7 +354,9 @@
         "001": "Dans le second alinéa de l'article 43 de la Constitution, le mot : \"six\" est remplacé par le mot : \"huit\"."
       },
       "liens": [
-        "second alinéa de l'article 43 de la Constitution"
+        {
+          "texte": "second alinéa de l'article 43 de la Constitution"
+        }
       ],
       "order": 23,
       "statut": "none",
@@ -317,7 +369,9 @@
         "002": "\"Ce droit s'exerce en séance ou en commission selon les conditions et limites fixées par les règlements des assemblées, dans le cadre déterminé par une loi organique.\""
       },
       "liens": [
-        "premier alinéa de l'article 44 de la Constitution"
+        {
+          "texte": "premier alinéa de l'article 44 de la Constitution"
+        }
       ],
       "order": 24,
       "statut": "none",
@@ -334,7 +388,13 @@
         "006": "b) Après le mot : \"ministre\", sont insérés les mots : \"ou, pour une proposition de loi, le Président de l'assemblée dont elle émane,\"."
       },
       "liens": [
-        "article 45 de la Constitution"
+        {
+          "texte": "article 45 de la Constitution"
+        },
+        {
+          "texte": "articles 40 et 41",
+          "texte_complet": "articles 40 et 41 constitution"
+        }
       ],
       "order": 25,
       "statut": "none",
@@ -347,7 +407,17 @@
         "002": "\"Le projet ou la proposition ne peut, en première lecture, être soumis à la délibération et au vote des assemblées qu'à l'expiration des délais fixés au troisième alinéa de l'article 42. Toutefois, si la procédure accélérée a été déclarée dans les conditions prévues à l'article 45, le projet ou la proposition peut être soumis à la délibération de la première assemblée saisie à l'expiration d'un délai de quinze jours après son dépôt.\""
       },
       "liens": [
-        "deuxième alinéa de l'article 46 de la Constitution"
+        {
+          "texte": "deuxième alinéa de l'article 46 de la Constitution"
+        },
+        {
+          "texte": "troisième alinéa de l'article 42",
+          "texte_complet": "troisième alinéa de l'article 42 constitution"
+        },
+        {
+          "texte": "article 45",
+          "texte_complet": "article 45 constitution"
+        }
       ],
       "order": 26,
       "statut": "none",
@@ -361,8 +431,12 @@
         "003": "\"Art. 47-2. - La Cour des comptes assiste le Parlement dans le contrôle de l'action du Gouvernement. Elle assiste le Parlement et le Gouvernement dans le contrôle de l'exécution des lois de finances et de l'application des lois de financement de la sécurité sociale ainsi que dans l'évaluation des politiques publiques. Par ses rapports publics, elle contribue à l'information des citoyens.\""
       },
       "liens": [
-        "dernier alinéa des articles 47 et 47-1 de la Constitution",
-        "article 47-1 de la Constitution"
+        {
+          "texte": "dernier alinéa des articles 47 et 47-1 de la Constitution"
+        },
+        {
+          "texte": "article 47-1 de la Constitution"
+        }
       ],
       "order": 27,
       "statut": "none",
@@ -380,7 +454,21 @@
         "007": "\"Une séance par semaine au moins, y compris pendant les sessions extraordinaires prévues à l'article 29, est réservée par priorité aux questions des membres du Parlement et aux réponses du Gouvernement.\""
       },
       "liens": [
-        "article 48 de la Constitution"
+        {
+          "texte": "article 48 de la Constitution"
+        },
+        {
+          "texte": "trois derniers alinéas de l'article 28",
+          "texte_complet": "trois derniers alinéas de l'article 28 constitution"
+        },
+        {
+          "texte": "article 35",
+          "texte_complet": "article 35 constitution"
+        },
+        {
+          "texte": "article 29",
+          "texte_complet": "article 29 constitution"
+        }
       ],
       "order": 28,
       "statut": "none",
@@ -396,7 +484,9 @@
         "005": "\"Le Premier ministre peut, en outre, recourir à cette procédure pour un autre projet ou une proposition de loi par session.\""
       },
       "liens": [
-        "troisième alinéa de l'article 49 de la Constitution"
+        {
+          "texte": "troisième alinéa de l'article 49 de la Constitution"
+        }
       ],
       "order": 29,
       "statut": "none",
@@ -409,7 +499,13 @@
         "002": "\"Art. 50-1. - Devant l'une ou l'autre des assemblées, le Gouvernement peut, de sa propre initiative ou à la demande d'un groupe parlementaire au sens de l'article 51-1, faire une déclaration à caractère thématique qui donne lieu à débat et peut faire l'objet d'un vote sans engager sa responsabilité.\""
       },
       "liens": [
-        "article 50 de la Constitution"
+        {
+          "texte": "article 50 de la Constitution"
+        },
+        {
+          "texte": "article 51-1",
+          "texte_complet": "article 51-1 constitution"
+        }
       ],
       "order": 30,
       "statut": "nouveau",
@@ -422,7 +518,9 @@
         "002": "\"Art. 51-1. - Le règlement de chaque assemblée détermine les droits des groupes parlementaires constitués en son sein. Il reconnaît à ceux d'entre eux qui n'ont pas déclaré participer de la majorité de l'assemblée concernée, des droits spécifiques.\""
       },
       "liens": [
-        "article 51 de la Constitution"
+        {
+          "texte": "article 51 de la Constitution"
+        }
       ],
       "order": 31,
       "statut": "none",
@@ -435,7 +533,13 @@
         "002": "\"La procédure prévue au dernier alinéa de l'article 13 est applicable à ces nominations. Les nominations effectuées par le président de chaque assemblée sont soumises au seul avis de la commission permanente compétente de l'assemblée concernée.\""
       },
       "liens": [
-        "premier alinéa de l'article 56 de la Constitution"
+        {
+          "texte": "premier alinéa de l'article 56 de la Constitution"
+        },
+        {
+          "texte": "dernier alinéa de l'article 13",
+          "texte_complet": "dernier alinéa de l'article 13 constitution"
+        }
       ],
       "order": 32,
       "statut": "none",
@@ -449,8 +553,12 @@
         "003": "\"Une loi organique détermine les conditions et réserves d'application du présent article.\""
       },
       "liens": [
-        "article 61 de la Constitution",
-        "Constitution"
+        {
+          "texte": "article 61 de la Constitution"
+        },
+        {
+          "texte": "Constitution"
+        }
       ],
       "order": 33,
       "statut": "none",
@@ -464,7 +572,17 @@
         "003": "\"Une disposition déclarée inconstitutionnelle sur le fondement de l'article 61-1 est abrogée à compter de la publication de la décision du Conseil constitutionnel ou d'une date ultérieure fixée par cette décision. Le Conseil constitutionnel détermine les conditions et limites dans lesquelles les effets que la disposition a produits sont susceptibles d'être remis en cause.\""
       },
       "liens": [
-        "premier alinéa de l'article 62 de la Constitution"
+        {
+          "texte": "premier alinéa de l'article 62 de la Constitution"
+        },
+        {
+          "texte": "article 61",
+          "texte_complet": "article 61 constitution"
+        },
+        {
+          "texte": "article 61-1",
+          "texte_complet": "article 61-1 constitution"
+        }
       ],
       "order": 34,
       "statut": "none",
@@ -484,7 +602,17 @@
         "009": "\"Une loi organique détermine les conditions d'application du présent article. Elle définit également les conditions dans lesquelles le Conseil supérieur de la magistrature peut être saisi par un justiciable.\""
       },
       "liens": [
-        "article 65 de la Constitution"
+        {
+          "texte": "article 65 de la Constitution"
+        },
+        {
+          "texte": "dernier alinéa de l'article 13",
+          "texte_complet": "dernier alinéa de l'article 13 constitution"
+        },
+        {
+          "texte": "article 64",
+          "texte_complet": "article 64 constitution"
+        }
       ],
       "order": 35,
       "statut": "none",
@@ -496,7 +624,9 @@
         "001": "L'intitulé du titre XI de la Constitution est ainsi rédigé : \"Le Conseil économique, social et environnemental\"."
       },
       "liens": [
-        "titre XI de la Constitution"
+        {
+          "texte": "titre XI de la Constitution"
+        }
       ],
       "order": 36,
       "statut": "nouveau",
@@ -511,7 +641,9 @@
         "004": "\"Le Conseil économique, social et environnemental peut être saisi par voie de pétition dans les conditions fixées par une loi organique. Après examen de la pétition, il fait connaître au Gouvernement et au Parlement les suites qu'il propose d'y donner.\""
       },
       "liens": [
-        "article 69 de la Constitution"
+        {
+          "texte": "article 69 de la Constitution"
+        }
       ],
       "order": 37,
       "statut": "none",
@@ -524,7 +656,9 @@
         "002": "\"Art. 70. - Le Conseil économique, social et environnemental peut être consulté par le Gouvernement sur tout problème de caractère économique ou social ou relatif à l'environnement. Tout plan ou tout projet de loi de programmation à caractère économique ou social lui est soumis pour avis.\""
       },
       "liens": [
-        "article 70 de la Constitution"
+        {
+          "texte": "article 70 de la Constitution"
+        }
       ],
       "order": 38,
       "statut": "none",
@@ -536,7 +670,9 @@
         "001": "Dans l'article 71 de la Constitution, les mots : \"Conseil économique et social\" sont remplacés par les mots : \"Conseil économique, social et environnemental\"."
       },
       "liens": [
-        "article 71 de la Constitution"
+        {
+          "texte": "article 71 de la Constitution"
+        }
       ],
       "order": 39,
       "statut": "nouveau",
@@ -548,7 +684,9 @@
         "001": "Dans l'article 71 de la Constitution, après le mot : \"social\", sont insérés les mots : \", dont le nombre de membres ne peut excéder deux cent trente-trois,\"."
       },
       "liens": [
-        "article 71 de la Constitution"
+        {
+          "texte": "article 71 de la Constitution"
+        }
       ],
       "order": 40,
       "statut": "nouveau",
@@ -560,7 +698,9 @@
         "001": "Dans le deuxième alinéa de l'article 72-3 de la Constitution, après le mot : \"Mayotte,\", sont insérés les mots : \"Saint-Barthélemy, Saint-Martin,\"."
       },
       "liens": [
-        "deuxième alinéa de l'article 72-3 de la Constitution"
+        {
+          "texte": "deuxième alinéa de l'article 72-3 de la Constitution"
+        }
       ],
       "order": 41,
       "statut": "nouveau",
@@ -577,7 +717,13 @@
         "006": "\"Le Défenseur des droits des citoyens est nommé par le Président de la République pour un mandat de six ans non renouvelable après application de la procédure prévue au dernier alinéa de l'article 13. Ses fonctions sont incompatibles avec celles de membre du Gouvernement et de membre du Parlement. Les autres incompatibilités sont fixées par la loi organique.\""
       },
       "liens": [
-        "titre XI de la Constitution"
+        {
+          "texte": "titre XI de la Constitution"
+        },
+        {
+          "texte": "dernier alinéa de l'article 13",
+          "texte_complet": "dernier alinéa de l'article 13 constitution"
+        }
       ],
       "order": 42,
       "statut": "none",
@@ -592,7 +738,9 @@
         "004": "\"Au sein de chaque assemblée parlementaire est instituée une commission chargée des affaires européennes.\""
       },
       "liens": [
-        "article 88-4 de la Constitution"
+        {
+          "texte": "article 88-4 de la Constitution"
+        }
       ],
       "order": 43,
       "statut": "none",
@@ -604,7 +752,9 @@
         "001": "Dans l'article 88-5 de la Constitution, après les mots : \"Communautés européennes\", sont insérés les mots : \", lorsque la population de cet État représente plus de cinq pour cent de la population de l'Union,\"."
       },
       "liens": [
-        "article 88-5 de la Constitution"
+        {
+          "texte": "article 88-5 de la Constitution"
+        }
       ],
       "order": 44,
       "statut": "none",
@@ -620,11 +770,21 @@
         "005": "IV. - Les dispositions de l'article 25 de la Constitution relatives au caractère temporaire du remplacement des députés et sénateurs acceptant des fonctions gouvernementales, dans leur rédaction résultant de la présente loi constitutionnelle, s'appliquent aux députés et sénateurs ayant accepté de telles fonctions antérieurement à la date d'entrée en vigueur de la loi organique prévue à cet article si, à cette même date, ils exercent encore ces fonctions et que le mandat parlementaire pour lequel ils avaient été élus n'est pas encore expiré."
       },
       "liens": [
-        "articles 39, 44, 56, 61-1, 65, 69 et 71-1 de la Constitution",
-        "articles 41, 42, 43, 45, 46, 48, 49 et 50-1 de la Constitution",
-        "articles 42, 45 et 46 de la Constitution",
-        "article 24 de la Constitution",
-        "article 25 de la Constitution"
+        {
+          "texte": "articles 39, 44, 56, 61-1, 65, 69 et 71-1 de la Constitution"
+        },
+        {
+          "texte": "articles 41, 42, 43, 45, 46, 48, 49 et 50-1 de la Constitution"
+        },
+        {
+          "texte": "articles 42, 45 et 46 de la Constitution"
+        },
+        {
+          "texte": "article 24 de la Constitution"
+        },
+        {
+          "texte": "article 25 de la Constitution"
+        }
       ],
       "order": 45,
       "statut": "none",
@@ -643,9 +803,27 @@
         "008": "III. - Supprimé"
       },
       "liens": [
-        "titre XV de la Constitution",
-        "article 4 de la loi constitutionnelle n° 2005-204 du 1er mars 2005",
-        "3° et 4° de l'article 2 de la loi constitutionnelle n° 2008-103 du 4 février 2008"
+        {
+          "texte": "titre XV de la Constitution"
+        },
+        {
+          "texte": "premier alinéa de l'article 88-4",
+          "texte_complet": "premier alinéa de l'article 88-4 constitution"
+        },
+        {
+          "texte": "article 88-5",
+          "texte_complet": "article 88-5 constitution"
+        },
+        {
+          "texte": "deux derniers alinéas de l'article 88-6",
+          "texte_complet": "deux derniers alinéas de l'article 88-6 constitution"
+        },
+        {
+          "texte": "titre XV de la Constitution"
+        },
+        {
+          "texte": "titre XV de la Constitution"
+        }
       ],
       "order": 46,
       "statut": "none",

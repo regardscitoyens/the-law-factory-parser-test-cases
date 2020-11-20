@@ -11,7 +11,7 @@
       "color": "rgb(0,230,30)",
       "link": "https://www.nossenateurs.fr/groupe/ECOLO",
       "nom": "Écologiste",
-      "order": 16
+      "order": 18
     },
     "Gouvernement": {
       "color": "#cccbb3",
@@ -23,13 +23,13 @@
       "color": "rgb(250,195,132)",
       "link": "https://www.nossenateurs.fr/groupe/RDSE",
       "nom": "Rassemblement Démocratique et Social européen",
-      "order": 17
+      "order": 20
     },
     "SOC": {
       "color": "rgb(255,50,190)",
       "link": "https://www.nossenateurs.fr/groupe/SOC",
       "nom": "Socialiste et républicain",
-      "order": 14
+      "order": 15
     }
   },
   "id_step": "05_1erelecture_senat_hemicycle",

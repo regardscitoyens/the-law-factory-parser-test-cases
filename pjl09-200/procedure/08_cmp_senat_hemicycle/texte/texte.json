@@ -67,16 +67,58 @@
         "063": "Ces produits sont pris en compte au titre de l'objectif d'introduction des catégories suivantes à hauteur minimale de 15 % des commandes en 2010 et 20 % en 2012 : produits saisonniers, produits à faible impact environnemental eu égard à leurs conditions de production et de distribution, produits sous signe d'identification de la qualité et de l'origine ou produits issus d'exploitations engagées dans une démarche de certification environnementale."
       },
       "liens": [
-        "livre II du code rural et de la pêche maritime",
-        "article L. 3231-1 du code de la santé publique",
-        "article L. 1435-7 du code de la santé publique",
-        "premier alinéa de l'article L. 218-1 du code de la consommation",
-        "loi du 1er juillet 1901",
-        "loi n° 78-17 du 6 janvier 1978",
-        "chapitre Ier du titre IV du livre V du code de la consommation",
-        "article L. 230-1 du code rural et de la pêche maritime",
-        "troisième partie du code de la santé publique",
-        "article L. 111-5 du code rural et de la pêche maritime"
+        {
+          "texte": "livre II du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 3231-1 du code de la santé publique"
+        },
+        {
+          "texte": "article L. 230-4",
+          "texte_complet": "article L. 230-4 code de la santé publique"
+        },
+        {
+          "texte": "article L. 3231-1 du code de la santé publique"
+        },
+        {
+          "texte": "article L. 1435-7 du code de la santé publique"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 218-1 du code de la consommation"
+        },
+        {
+          "texte": "chapitre Ier du titre IV du livre V du code de la consommation"
+        },
+        {
+          "texte": "article L. 230-1 du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 3231-1 du code de la santé publique"
+        },
+        {
+          "texte": "troisième partie du code de la santé publique"
+        },
+        {
+          "texte": "articles L. 3231-1 à L. 3231-4",
+          "texte_complet": "articles L. 3231-1 à L. 3231-4 code de la santé publique"
+        },
+        {
+          "texte": "articles L. 3232-1 à L. 3232-4",
+          "texte_complet": "articles L. 3232-1 à L. 3232-4 code de la santé publique"
+        },
+        {
+          "texte": "article L. 230-1 du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 111-5 du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 230-1",
+          "texte_complet": "article L. 230-1 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 230-1 du code rural et de la pêche maritime"
+        }
       ],
       "order": 1,
       "section": "T1",
@@ -89,7 +131,13 @@
         "001": "Après la deuxième occurrence du mot : \"ou\", la fin du premier alinéa de l'article L. 3262-1 du code du travail est ainsi rédigée : \"acheté auprès d'une personne ou d'un organisme mentionné au deuxième alinéa de l'article L. 3262-3. Ce repas peut être composé de fruits et légumes, qu'ils soient ou non directement consommables.\""
       },
       "liens": [
-        "premier alinéa de l'article L. 3262-1 du code du travail"
+        {
+          "texte": "premier alinéa de l'article L. 3262-1 du code du travail"
+        },
+        {
+          "texte": "deuxième alinéa de l'article L. 3262-3",
+          "texte_complet": "deuxième alinéa de l'article L. 3262-3 code du travail"
+        }
       ],
       "newtitre": "2",
       "order": 2,
@@ -105,7 +153,9 @@
         "003": "\"La liste des produits concernés et les modalités d'application de l'indication de l'origine mentionnée au premier alinéa sont fixées par décret en Conseil d'État.\""
       },
       "liens": [
-        "chapitre II du titre Ier du livre Ier du code de la consommation"
+        {
+          "texte": "chapitre II du titre Ier du livre Ier du code de la consommation"
+        }
       ],
       "newtitre": "3",
       "order": 3,
@@ -151,7 +201,9 @@
         "001": "Le quatrième alinéa du 2° de l'article L. 640-2 du code rural et de la pêche maritime est complété par les mots : \", à Mayotte, Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin et Wallis-et-Futuna\"."
       },
       "liens": [
-        "quatrième alinéa du 2° de l'article L. 640-2 du code rural et de la pêche maritime"
+        {
+          "texte": "quatrième alinéa du 2° de l'article L. 640-2 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "6",
       "order": 6,
@@ -247,7 +299,9 @@
         "001": "Les diplômes mentionnés aux articles L. 811-2 et L. 813-2 du code rural et de la pêche maritime figurant sur une liste fixée par arrêté du ministre chargé de l'agriculture ouvrent droit au certificat d'aptitude professionnelle pour le transport d'animaux vivants."
       },
       "liens": [
-        "articles L. 811-2 et L. 813-2 du code rural et de la pêche maritime"
+        {
+          "texte": "articles L. 811-2 et L. 813-2 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "10",
       "order": 10,
@@ -269,10 +323,18 @@
         "009": "II. - Les ordonnances mentionnées au I sont prises dans un délai de douze mois suivant la promulgation de la présente loi. Pour chaque ordonnance, un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de cette ordonnance."
       },
       "liens": [
-        "article 38 de la Constitution",
-        "article L. 221-11 du code rural et de la pêche maritime",
-        "code de la santé publique",
-        "article L. 201-1 du code rural et de la pêche maritime"
+        {
+          "texte": "article 38 de la Constitution"
+        },
+        {
+          "texte": "article L. 221-11 du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "code de la santé publique"
+        },
+        {
+          "texte": "article L. 201-1 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "11",
       "order": 11,
@@ -319,9 +381,71 @@
         "034": "II. - La liste de produits pour lesquels la proposition écrite de contrat est obligatoire est arrêtée avant le 1er janvier 2013."
       },
       "liens": [
-        "chapitre Ier du titre III du livre VI du code rural et de la pêche maritime",
-        "premier alinéa de l'article L. 441-2-1 du code de commerce",
-        "articles L. 450-2 et L. 450-3 du code de commerce"
+        {
+          "texte": "chapitre Ier du titre III du livre VI du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "premier alinéa des articles L. 631-1 et L. 631-3",
+          "texte_complet": "premier alinéa des articles L. 631-1 et L. 631-3 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "articles L. 631-2 et L. 631-23",
+          "texte_complet": "articles L. 631-2 et L. 631-23 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 631-22",
+          "texte_complet": "article L. 631-22 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "second alinéa de l'article L. 631-1",
+          "texte_complet": "second alinéa de l'article L. 631-1 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 631-23",
+          "texte_complet": "article L. 631-23 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 551-1",
+          "texte_complet": "premier alinéa de l'article L. 551-1 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "articles L. 631-10, L. 632-3, L. 632-4 et L. 632-12",
+          "texte_complet": "articles L. 631-10, L. 632-3, L. 632-4 et L. 632-12 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 441-2-1 du code de commerce"
+        },
+        {
+          "texte": "article L. 521-1",
+          "texte_complet": "article L. 521-1 code de commerce"
+        },
+        {
+          "texte": "I de l'article L. 631-24",
+          "texte_complet": "I de l'article L. 631-24 code de commerce"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 551-1",
+          "texte_complet": "premier alinéa de l'article L. 551-1 code de commerce"
+        },
+        {
+          "texte": "I de l'article L. 631-24",
+          "texte_complet": "I de l'article L. 631-24 code de commerce"
+        },
+        {
+          "texte": "article L. 521-1",
+          "texte_complet": "article L. 521-1 code de commerce"
+        },
+        {
+          "texte": "II de l'article L. 631-24",
+          "texte_complet": "II de l'article L. 631-24 code de commerce"
+        },
+        {
+          "texte": "article L. 631-25",
+          "texte_complet": "article L. 631-25 code de commerce"
+        },
+        {
+          "texte": "articles L. 450-2 et L. 450-3 du code de commerce"
+        }
       ],
       "newtitre": "12",
       "order": 12,
@@ -350,10 +474,34 @@
         "016": "\"Art. L. 441-3-1. - À l'exception des produits destinés à être vendus en ferme sur un marché physique de gros par le producteur ou l'organisation de producteurs, les fruits et légumes frais destinés à la vente ou à la revente à un professionnel établi en France doivent, lors de leur transport sur le territoire national, y compris dans l'enceinte des marchés d'intérêt national, être accompagnés d'un bon de commande établi par l'acheteur ou d'un contrat passé avec le commissionnaire ou le mandataire. Le bon de commande doit mentionner le nom des parties, leur adresse, la date de la commande, la quantité, les modalités de détermination du prix et la dénomination précise des produits. Le contrat doit mentionner le nom des parties, leur adresse, sa date, son objet ainsi que les conditions de fixation du prix payé au fournisseur et de rémunération du commissionnaire ou du mandataire.\""
       },
       "liens": [
-        "code de commerce",
-        "article L. 121-3 du code de la consommation",
-        "article L. 632-1 du code rural et de la pêche maritime",
-        "article L. 631-24 du code rural et de la pêche maritime"
+        {
+          "texte": "code de commerce"
+        },
+        {
+          "texte": "article L. 441-2",
+          "texte_complet": "article L. 441-2 code de commerce"
+        },
+        {
+          "texte": "article L. 121-3 du code de la consommation"
+        },
+        {
+          "texte": "article L. 632-1 du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 441-2-1",
+          "texte_complet": "article L. 441-2-1 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 631-24 du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "premier alinéa des articles L. 924-3 et L. 954-3",
+          "texte_complet": "premier alinéa des articles L. 924-3 et L. 954-3 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 441-3",
+          "texte_complet": "article L. 441-3 code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "13",
       "order": 13,
@@ -408,11 +556,37 @@
         "024": "\"Le non-respect des accords ou le retard dans leur mise en oeuvre est sanctionné d'une amende civile dont le montant ne peut être supérieur à deux millions d'euros. Le montant de l'amende est proportionné à la gravité des faits constatés, au vu notamment du volume de produits en cause et de la durée des périodes de crise. L'action est introduite devant la juridiction civile compétente par le ministère public, par le représentant de l'État dans le département, par le ministre chargé de l'agriculture ou le ministre chargé du commerce.\""
       },
       "liens": [
-        "livre Ier du code général des impôts",
-        "article 3 de la loi n° 72-657 du 13 juillet 1972",
-        "article L. 611-4-1 du code rural et de la pêche maritime",
-        "code rural et de la pêche maritime",
-        "I de l'article 302 bis ZA du code général des impôts"
+        {
+          "texte": "livre Ier du code général des impôts"
+        },
+        {
+          "texte": "article L. 611-4-1 du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "articles 87 et 88",
+          "texte_complet": "articles 87 et 88 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 611-4",
+          "texte_complet": "article L. 611-4 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 611-4",
+          "texte_complet": "article L. 611-4 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "I de l'article 302 bis ZA du code général des impôts"
+        },
+        {
+          "texte": "article L. 611-4",
+          "texte_complet": "article L. 611-4 code général des impôts"
+        },
+        {
+          "texte": "I de l'article 302 bis ZA du code général des impôts"
+        }
       ],
       "newtitre": "15",
       "order": 15,
@@ -426,7 +600,9 @@
         "001": "Avant le 1er mars de chaque année, le Gouvernement remet au Parlement un rapport sur la mise en oeuvre des accords de modération des marges de distribution des fruits et légumes frais prévus à l'article L. 611-4-1 du code rural et de la pêche maritime."
       },
       "liens": [
-        "article L. 611-4-1 du code rural et de la pêche maritime"
+        {
+          "texte": "article L. 611-4-1 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "16",
       "order": 16,
@@ -443,7 +619,9 @@
         "004": "2° Au début de la seconde phrase, le mot : \"Elles\" est remplacé par les mots : \"Les ventes au déballage\"."
       },
       "liens": [
-        "deuxième alinéa du I de l'article L. 310-2 du code de commerce"
+        {
+          "texte": "deuxième alinéa du I de l'article L. 310-2 du code de commerce"
+        }
       ],
       "newtitre": "17",
       "order": 17,
@@ -458,7 +636,9 @@
         "002": "\"Art. L. 311-2-2. - Il est créé un inventaire des vergers exploités à titre professionnel dont les conditions de réalisation sont définies par décret.\""
       },
       "liens": [
-        "article L. 311-2-1 du code rural et de la pêche maritime"
+        {
+          "texte": "article L. 311-2-1 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "18",
       "order": 18,
@@ -491,10 +671,7 @@
         "020": "\"Il étudie les coûts de production au stade de la production agricole, les coûts de transformation et les coûts de distribution dans l'ensemble de la chaîne de commercialisation des produits agricoles.",
         "021": "\"Il remet chaque année un rapport au Parlement.\""
       },
-      "liens": [
-        "loi n° 51-711 du 7 juin 1951",
-        "II de l'article 1er bis de la loi n° 51-711 du 7 juin 1951"
-      ],
+      "liens": [],
       "newtitre": "19",
       "order": 19,
       "section": "T2",
@@ -563,7 +740,77 @@
         "057": "b) À la seconde phrase, la référence : \"II de l'article L. 632-1\" est remplacée par la référence : \"I de l'article L. 632-2\"."
       },
       "liens": [
-        "article L. 13 du code forestier"
+        {
+          "texte": "article L. 13 du code forestier"
+        },
+        {
+          "texte": "II de l'article L. 632-1",
+          "texte_complet": "II de l'article L. 632-1 code forestier"
+        },
+        {
+          "texte": "article L. 632-2",
+          "texte_complet": "article L. 632-2 code forestier"
+        },
+        {
+          "texte": "articles L. 632-1 à L. 632-2",
+          "texte_complet": "articles L. 632-1 à L. 632-2 code forestier"
+        },
+        {
+          "texte": "article L. 632-3",
+          "texte_complet": "article L. 632-3 code forestier"
+        },
+        {
+          "texte": "article L. 632-4",
+          "texte_complet": "article L. 632-4 code forestier"
+        },
+        {
+          "texte": "deuxième alinéa de l'article L. 632-2-1",
+          "texte_complet": "deuxième alinéa de l'article L. 632-2-1 code forestier"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 632-6",
+          "texte_complet": "premier alinéa de l'article L. 632-6 code forestier"
+        },
+        {
+          "texte": "article L. 632-7",
+          "texte_complet": "article L. 632-7 code forestier"
+        },
+        {
+          "texte": "paragraphe 1 de l'article 41",
+          "texte_complet": "paragraphe 1 de l'article 41 code forestier"
+        },
+        {
+          "texte": "article 113 quater",
+          "texte_complet": "article 113 quater code forestier"
+        },
+        {
+          "texte": "article L. 632-1",
+          "texte_complet": "article L. 632-1 code forestier"
+        },
+        {
+          "texte": "articles L. 632-1 à L. 632-2",
+          "texte_complet": "articles L. 632-1 à L. 632-2 code forestier"
+        },
+        {
+          "texte": "article L. 632-2-2",
+          "texte_complet": "article L. 632-2-2 code forestier"
+        },
+        {
+          "texte": "article L. 632-9",
+          "texte_complet": "article L. 632-9 code forestier"
+        },
+        {
+          "texte": "article L. 681-7",
+          "texte_complet": "article L. 681-7 code forestier"
+        },
+        {
+          "texte": "article L. 632-1",
+          "texte_complet": "article L. 632-1 code forestier"
+        },
+        {
+          "texte": "article L. 632-2",
+          "texte_complet": "article L. 632-2 code forestier"
+        }
       ],
       "newtitre": "20",
       "order": 20,
@@ -578,8 +825,12 @@
         "002": "\"Art. L. 112-2-1. - Le cahier des charges mentionné à l'article L. 641-6 du code rural et de la pêche maritime peut rendre obligatoire la mention \"appellation d'origine contrôlée\" dans l'étiquetage et la présentation des vins concernés et en déterminer les modalités d'application.\""
       },
       "liens": [
-        "article L. 112-2 du code de la consommation",
-        "article L. 641-6 du code rural et de la pêche maritime"
+        {
+          "texte": "article L. 112-2 du code de la consommation"
+        },
+        {
+          "texte": "article L. 641-6 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "21",
       "order": 21,
@@ -594,7 +845,9 @@
         "002": "\"Un décret précise les conditions d'application du présent article à Saint-Pierre-et-Miquelon.\""
       },
       "liens": [
-        "article L. 641-11 du code rural et de la pêche maritime"
+        {
+          "texte": "article L. 641-11 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "22",
       "order": 22,
@@ -643,7 +896,9 @@
         "009": "III. - Le premier bilan de l'organisation économique de la production et de l'efficacité des différents modes de commercialisation, mentionné au III de l'article L. 551-3 du code rural et de la pêche maritime, est effectué avant le 1er janvier 2012."
       },
       "liens": [
-        "III de l'article L. 551-3 du code rural et de la pêche maritime"
+        {
+          "texte": "III de l'article L. 551-3 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "25",
       "order": 25,
@@ -706,11 +961,65 @@
         "050": "III. - À la seconde phrase du second alinéa du IX de l'article L. 211-12 du code de l'environnement, les mots : \"par l'article L. 361-10\" sont remplacés par les mots : \"en application de l'article L. 361-5\"."
       },
       "liens": [
-        "article L. 431-11 du code des assurances",
-        "article 991 du code général des impôts",
-        "code des assurances",
-        "chapitre Ier du titre VI du livre III du code rural et de la pêche maritime",
-        "second alinéa du IX de l'article L. 211-12 du code de l'environnement"
+        {
+          "texte": "article L. 431-11 du code des assurances"
+        },
+        {
+          "texte": "article 991 du code général des impôts"
+        },
+        {
+          "texte": "deuxième alinéa de l'article L. 361-5",
+          "texte_complet": "deuxième alinéa de l'article L. 361-5 code général des impôts"
+        },
+        {
+          "texte": "article L. 361-1",
+          "texte_complet": "article L. 361-1 code général des impôts"
+        },
+        {
+          "texte": "article L. 361-3",
+          "texte_complet": "article L. 361-3 code général des impôts"
+        },
+        {
+          "texte": "deuxième alinéa de l'article L. 362-5",
+          "texte_complet": "deuxième alinéa de l'article L. 362-5 code général des impôts"
+        },
+        {
+          "texte": "article L. 362-26",
+          "texte_complet": "article L. 362-26 code général des impôts"
+        },
+        {
+          "texte": "code des assurances"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 125-5",
+          "texte_complet": "premier alinéa de l'article L. 125-5 code des assurances"
+        },
+        {
+          "texte": "articles L. 361-1 à L. 361-21",
+          "texte_complet": "articles L. 361-1 à L. 361-21 code des assurances"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 431-11",
+          "texte_complet": "premier alinéa de l'article L. 431-11 code des assurances"
+        },
+        {
+          "texte": "article L. 442-1",
+          "texte_complet": "article L. 442-1 code des assurances"
+        },
+        {
+          "texte": "chapitre Ier du titre VI du livre III du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "second alinéa du IX de l'article L. 211-12 du code de l'environnement"
+        },
+        {
+          "texte": "article L. 361-10",
+          "texte_complet": "article L. 361-10 code de l'environnement"
+        },
+        {
+          "texte": "article L. 361-5",
+          "texte_complet": "article L. 361-5 code de l'environnement"
+        }
       ],
       "newtitre": "26",
       "order": 26,
@@ -755,7 +1064,13 @@
         "006": "\"4. Le représentant de l'État dans le département statue dans un délai maximal de trois mois à compter de la réception du rapport et des conclusions du commissaire enquêteur ou du président de la commission d'enquête. En cas d'impossibilité de statuer dans ce délai, le représentant de l'État dans le département, par arrêté motivé, fixe un nouveau délai qui ne peut excéder deux mois.\""
       },
       "liens": [
-        "article L. 512-2 du code de l'environnement"
+        {
+          "texte": "article L. 512-2 du code de l'environnement"
+        },
+        {
+          "texte": "article L. 512-1",
+          "texte_complet": "article L. 512-1 code de l'environnement"
+        }
       ],
       "newtitre": "29",
       "order": 29,
@@ -785,7 +1100,9 @@
         "002": "\"Un groupement agricole d'exploitation en commun peut être constitué de deux époux, de deux concubins ou de deux partenaires liés par un pacte civil de solidarité, y compris lorsqu'ils en sont les seuls associés.\""
       },
       "liens": [
-        "deux derniers alinéas de l'article L. 323-2 du code rural et de la pêche maritime"
+        {
+          "texte": "deux derniers alinéas de l'article L. 323-2 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "31",
       "order": 31,
@@ -817,7 +1134,9 @@
         "003": "2° Le treizième alinéa est complété par les mots : \"ou de l'exercice au cours duquel est survenu l'aléa visé au d à condition que ce prélèvement soit intervenu dans les six mois de la clôture de cet exercice et au plus tard à la date de dépôt de la déclaration des résultats s'y rapportant\"."
       },
       "liens": [
-        "I de l'article 72 D bis du code général des impôts"
+        {
+          "texte": "I de l'article 72 D bis du code général des impôts"
+        }
       ],
       "newtitre": "33",
       "order": 33,
@@ -844,7 +1163,9 @@
         "001": "Le premier alinéa de l'article L. 525-1 du code rural et de la pêche maritime est complété par les mots : \", après vérification de cette conformité et de la cohérence entre le projet présenté et le contexte économique dans lequel il s'insère\"."
       },
       "liens": [
-        "premier alinéa de l'article L. 525-1 du code rural et de la pêche maritime"
+        {
+          "texte": "premier alinéa de l'article L. 525-1 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "35",
       "order": 35,
@@ -861,8 +1182,12 @@
         "004": "\"Art. 72 F. - L'à-valoir mentionné à l'article L. 731-22-1 du code rural et de la pêche maritime est déductible du résultat de l'exercice au cours duquel il est versé.\""
       },
       "liens": [
-        "article 72 E du code général des impôts",
-        "article L. 731-22-1 du code rural et de la pêche maritime"
+        {
+          "texte": "article 72 E du code général des impôts"
+        },
+        {
+          "texte": "article L. 731-22-1 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "36",
       "order": 36,
@@ -877,9 +1202,7 @@
         "002": "\"Art. L. 723-13-2. - La Caisse centrale de la mutualité sociale agricole transmet aux ministres chargés de l'agriculture et de la sécurité sociale, dans des conditions fixées par décret, les informations relatives à la situation sociale, professionnelle, aux contrats de travail et aux éléments de rémunération ou de revenu professionnel agricole des personnes mentionnées aux articles L. 722-1 et L. 722-20 ainsi qu'aux établissements employeurs. Les informations transmises permettent notamment la constitution d'échantillons statistiquement représentatifs en vue de l'étude des situations et des parcours professionnels des personnes figurant dans ces échantillons, selon les modalités prévues à l'article 7 bis de la loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le secret en matière de statistiques.\"",
         "003": "II. - À la seconde phrase du I de l'article L. 723-12 du même code, les mots : \"au ministre chargé de l'agriculture et lui\" sont remplacés par les mots : \"aux ministres chargés de l'agriculture et de la sécurité sociale et leur\"."
       },
-      "liens": [
-        "article 7 bis de la loi n° 51-711 du 7 juin 1951"
-      ],
+      "liens": [],
       "newtitre": "37",
       "order": 37,
       "section": "T2 bis A",
@@ -904,7 +1227,9 @@
         "001": "Lorsque le bénéfice agricole retenu pour l'assiette de l'impôt progressif payé en 2010 est déterminé selon les modalités prévues à l'article 75-0 B du code général des impôts, il peut, sur option du contribuable, être diminué du sixième du bénéfice de l'année 2007. Dans ce cas, le bénéfice agricole retenu pour l'assiette de l'impôt progressif payé en 2011 est majoré du sixième du bénéfice de l'année 2007."
       },
       "liens": [
-        "article 75-0 B du code général des impôts"
+        {
+          "texte": "article 75-0 B du code général des impôts"
+        }
       ],
       "newtitre": "39",
       "order": 39,
@@ -923,8 +1248,12 @@
         "006": "\"4° Soit, pour les exploitants agricoles, auprès de la chambre d'agriculture compétente.\""
       },
       "liens": [
-        "deuxième alinéa de l'article L. 526-6 du code de commerce",
-        "article L. 311-1 du code rural et de la pêche maritime"
+        {
+          "texte": "deuxième alinéa de l'article L. 526-6 du code de commerce"
+        },
+        {
+          "texte": "article L. 311-1 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "40",
       "order": 40,
@@ -939,7 +1268,9 @@
         "002": "\"8° Assurer la pérennité des exploitations agricoles et le maintien du pastoralisme, en particulier en protégeant les troupeaux des attaques du loup et de l'ours dans les territoires exposés à ce risque.\""
       },
       "liens": [
-        "article L. 113-1 du code rural et de la pêche maritime"
+        {
+          "texte": "article L. 113-1 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "41",
       "order": 41,
@@ -1043,8 +1374,9 @@
         "006": "\"Les conditions d'application de ces prestations sont déterminées par décret en Conseil d'État.\""
       },
       "liens": [
-        "article 10 de la loi n° 99-574 du 9 juillet 1999",
-        "article L. 311-1 du code rural et de la pêche maritime"
+        {
+          "texte": "article L. 311-1 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "48",
       "order": 48,
@@ -1059,7 +1391,13 @@
         "002": "\"À cet effet, cette politique comporte un volet spécifique à l'installation en société visant notamment à faciliter la recherche et le remplacement d'associés grâce au répertoire à l'installation mentionné au second alinéa de l'article L. 330-2.\""
       },
       "liens": [
-        "premier alinéa de l'article L. 330-1 du code rural et de la pêche maritime"
+        {
+          "texte": "premier alinéa de l'article L. 330-1 du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "second alinéa de l'article L. 330-2",
+          "texte_complet": "second alinéa de l'article L. 330-2 code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "49",
       "order": 49,
@@ -1081,14 +1419,50 @@
         "009": "\"14° Par dérogation aux dispositions de l'article L. 5142-1 du code du travail et du 25° de l'article L. 311-3 du code de la sécurité sociale, les personnes exerçant une activité mentionnée à l'article L. 722-1 du présent code et qui sont liées avec une personne morale par un contrat d'appui au projet d'entreprise, dans les conditions définies par l'article L. 127-1 du code de commerce.\""
       },
       "liens": [
-        "sixième partie du code du travail",
-        "2° de l'article L. 412-8 du code de la sécurité sociale",
-        "chapitre Ier du titre II du livre III de la sixième partie du code du travail",
-        "article L. 5142-1 du code du travail",
-        "14° de l'article L. 412-8 du code de la sécurité sociale",
-        "article L. 127-1 du code de commerce",
-        "article L. 6342-1 du code du travail",
-        "25° de l'article L. 311-3 du code de la sécurité sociale"
+        {
+          "texte": "sixième partie du code du travail"
+        },
+        {
+          "texte": "2° de l'article L. 412-8 du code de la sécurité sociale"
+        },
+        {
+          "texte": "sixième partie du code du travail"
+        },
+        {
+          "texte": "chapitre Ier du titre II du livre III de la sixième partie du code du travail"
+        },
+        {
+          "texte": "article L. 5142-1 du code du travail"
+        },
+        {
+          "texte": "14° de l'article L. 412-8 du code de la sécurité sociale"
+        },
+        {
+          "texte": "article L. 127-1 du code de commerce"
+        },
+        {
+          "texte": "dernier alinéa de l'article L. 741-10",
+          "texte_complet": "dernier alinéa de l'article L. 741-10 code de commerce"
+        },
+        {
+          "texte": "12° de l'article L. 722-20",
+          "texte_complet": "12° de l'article L. 722-20 code de commerce"
+        },
+        {
+          "texte": "article L. 6342-1 du code du travail"
+        },
+        {
+          "texte": "sixième partie du code du travail"
+        },
+        {
+          "texte": "article L. 5142-1 du code du travail"
+        },
+        {
+          "texte": "25° de l'article L. 311-3 du code de la sécurité sociale"
+        },
+        {
+          "texte": "article L. 127-1 du code de commerce"
+        }
       ],
       "newtitre": "50",
       "order": 50,
@@ -1147,15 +1521,126 @@
         "046": "4° Aux demandes portant sur des projets de constructions, aménagements et installations déposés avant la même date."
       },
       "liens": [
-        "code rural et de la pêche maritime",
-        "article 3 de la loi n° 85-30 du 9 janvier 1985",
-        "article L. 212-1 du code de l'environnement",
-        "article L. 113-1 du code de l'urbanisme",
-        "article L. 121-2 du code de l'urbanisme",
-        "code de l'urbanisme",
-        "code de l'environnement",
-        "article L. 112-1-1 du code rural et de la pêche maritime",
-        "chapitre III du titre II du livre Ier du code de l'environnement"
+        {
+          "texte": "code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 111-2",
+          "texte_complet": "article L. 111-2 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 212-1 du code de l'environnement"
+        },
+        {
+          "texte": "article L. 113-1 du code de l'urbanisme"
+        },
+        {
+          "texte": "article L. 121-2 du code de l'urbanisme"
+        },
+        {
+          "texte": "article L. 112-1",
+          "texte_complet": "article L. 112-1 code de l'urbanisme"
+        },
+        {
+          "texte": "article L. 112-1",
+          "texte_complet": "article L. 112-1 code de l'urbanisme"
+        },
+        {
+          "texte": "code de l'urbanisme"
+        },
+        {
+          "texte": "deuxième alinéa du I de l'article L. 141-1",
+          "texte_complet": "deuxième alinéa du I de l'article L. 141-1 code de l'urbanisme"
+        },
+        {
+          "texte": "code de l'environnement"
+        },
+        {
+          "texte": "article L. 425-1",
+          "texte_complet": "article L. 425-1 code de l'environnement"
+        },
+        {
+          "texte": "article L. 112-1",
+          "texte_complet": "article L. 112-1 code de l'environnement"
+        },
+        {
+          "texte": "article L. 111-2-1",
+          "texte_complet": "article L. 111-2-1 code de l'environnement"
+        },
+        {
+          "texte": "deuxième alinéa de l'article L. 515-3",
+          "texte_complet": "deuxième alinéa de l'article L. 515-3 code de l'environnement"
+        },
+        {
+          "texte": "article L. 112-1",
+          "texte_complet": "article L. 112-1 code de l'environnement"
+        },
+        {
+          "texte": "article L. 111-2-1",
+          "texte_complet": "article L. 111-2-1 code de l'environnement"
+        },
+        {
+          "texte": "code de l'urbanisme"
+        },
+        {
+          "texte": "2° de l'article L. 111-1-2",
+          "texte_complet": "2° de l'article L. 111-1-2 code de l'urbanisme"
+        },
+        {
+          "texte": "article L. 112-1-1 du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "I de l'article L. 122-3",
+          "texte_complet": "I de l'article L. 122-3 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 112-1-1 du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 122-7",
+          "texte_complet": "article L. 122-7 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 112-1-1 du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 122-13",
+          "texte_complet": "premier alinéa de l'article L. 122-13 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 112-1-1 du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "sixième alinéa de l'article L. 123-1",
+          "texte_complet": "sixième alinéa de l'article L. 123-1 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 123-6",
+          "texte_complet": "premier alinéa de l'article L. 123-6 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 112-1-1 du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "second alinéa de l'article L. 123-9",
+          "texte_complet": "second alinéa de l'article L. 123-9 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 112-1-1 du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 124-2",
+          "texte_complet": "article L. 124-2 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "chapitre III du titre II du livre Ier du code de l'environnement"
+        },
+        {
+          "texte": "article L. 112-1-1 du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 112-1-1 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "51",
       "order": 51,
@@ -1169,7 +1654,17 @@
         "001": "Au sixième alinéa du V de l'article L. 213-10-9 du code de l'environnement, les mots : \"le prélèvement pour l'irrigation est effectué de manière collective par un organisme défini au 6° du II de l'article L. 211-3\" sont remplacés par les mots : \"l'organisme défini au 6° du II de l'article L. 211-3 est désigné par l'autorité administrative\"."
       },
       "liens": [
-        "sixième alinéa du V de l'article L. 213-10-9 du code de l'environnement"
+        {
+          "texte": "sixième alinéa du V de l'article L. 213-10-9 du code de l'environnement"
+        },
+        {
+          "texte": "6° du II de l'article L. 211-3",
+          "texte_complet": "6° du II de l'article L. 211-3 code de l'environnement"
+        },
+        {
+          "texte": "6° du II de l'article L. 211-3",
+          "texte_complet": "6° du II de l'article L. 211-3 code de l'environnement"
+        }
       ],
       "newtitre": "52",
       "order": 52,
@@ -1184,7 +1679,9 @@
         "002": "\"Une commune, un groupement de communes, un département ou un syndicat mixte concerné peut, après accord avec le propriétaire du domaine public fluvial concerné, et le cas échéant avec son gestionnaire, entretenir l'emprise de la servitude de marchepied le long des cours d'eau domaniaux.\""
       },
       "liens": [
-        "article L. 2131-2 du code général de la propriété des personnes publiques"
+        {
+          "texte": "article L. 2131-2 du code général de la propriété des personnes publiques"
+        }
       ],
       "newtitre": "53",
       "order": 53,
@@ -1198,7 +1695,9 @@
         "001": "Au dernier alinéa de l'article L. 311-3 du code rural et de la pêche maritime, après les mots : \"l'enseigne\", sont insérés les mots : \", le nom d'exploitation\"."
       },
       "liens": [
-        "dernier alinéa de l'article L. 311-3 du code rural et de la pêche maritime"
+        {
+          "texte": "dernier alinéa de l'article L. 311-3 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "54",
       "order": 54,
@@ -1227,10 +1726,46 @@
         "016": "\"VI. - La taxe est versée lors du dépôt de la déclaration prévue au V. Les I et II de l'article 150 VF, le second alinéa du I et les II et III de l'article 150 VH et le premier alinéa du IV de l'article 244 bis A sont applicables.\""
       },
       "liens": [
-        "chapitre Ier du titre III de la deuxième partie du livre Ier du code général des impôts",
-        "chapitre III du titre Ier du livre III du code rural et de la pêche maritime",
-        "article L. 111-1-2 du code de l'urbanisme",
-        "article L. 621-1 du code rural et de la pêche maritime"
+        {
+          "texte": "chapitre Ier du titre III de la deuxième partie du livre Ier du code général des impôts"
+        },
+        {
+          "texte": "chapitre III du titre Ier du livre III du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 111-1-2 du code de l'urbanisme"
+        },
+        {
+          "texte": "article L. 621-1 du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article 150 VA",
+          "texte_complet": "article 150 VA code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article 150 VA",
+          "texte_complet": "article 150 VA code rural et de la pêche maritime"
+        },
+        {
+          "texte": "1° et 4° du I et au II de l'article 150 VG",
+          "texte_complet": "1° et 4° du I et au II de l'article 150 VG code rural et de la pêche maritime"
+        },
+        {
+          "texte": "deux derniers alinéas du III de l'article 150 VG",
+          "texte_complet": "deux derniers alinéas du III de l'article 150 VG code rural et de la pêche maritime"
+        },
+        {
+          "texte": "I et II de l'article 150 VF",
+          "texte_complet": "I et II de l'article 150 VF code rural et de la pêche maritime"
+        },
+        {
+          "texte": "second alinéa du I et les II et III de l'article 150 VH",
+          "texte_complet": "second alinéa du I et les II et III de l'article 150 VH code rural et de la pêche maritime"
+        },
+        {
+          "texte": "premier alinéa du IV de l'article 244 bis A",
+          "texte_complet": "premier alinéa du IV de l'article 244 bis A code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "55",
       "order": 55,
@@ -1247,7 +1782,9 @@
         "004": "2° Au dernier alinéa, les mots : \"de l'alinéa précédent\" sont remplacés par les mots : \"du premier alinéa\"."
       },
       "liens": [
-        "article L. 411-3 du code rural et de la pêche maritime"
+        {
+          "texte": "article L. 411-3 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "56",
       "order": 56,
@@ -1261,7 +1798,9 @@
         "001": "Au troisième alinéa du c du 4° du 1 de l'article 793 du code général des impôts, les mots : \"ou qui ont été détenues\" sont supprimés."
       },
       "liens": [
-        "article 793 du code général des impôts"
+        {
+          "texte": "article 793 du code général des impôts"
+        }
       ],
       "newtitre": "57",
       "order": 57,
@@ -1316,9 +1855,59 @@
         "030": "\"Art. L. 660-1. - Pour l'application de l'article 12 du traité international sur les ressources phytogénétiques pour l'alimentation et l'agriculture, il est constitué une collection nationale de ressources phytogénétiques composée des collections mises à disposition de l'État à cette fin par les organismes publics ou privés auxquels elles appartiennent.\""
       },
       "liens": [
-        "code rural et de la pêche maritime",
-        "articles L. 211-3, L. 211-12, L. 322-1, L. 331-1, L. 331-2, L. 332-1, L. 332-16, L. 333-1, L. 341-4 à L. 341-6, L. 371-1 à L. 371-3, L. 411-2, L. 414-1 et L. 562-1 du code de l'environnement",
-        "article L. 1321-2 du code de la santé publique"
+        {
+          "texte": "code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 111-2",
+          "texte_complet": "article L. 111-2 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 123-8",
+          "texte_complet": "article L. 123-8 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "2° de l'article L. 136-2",
+          "texte_complet": "2° de l'article L. 136-2 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 311-1",
+          "texte_complet": "premier alinéa de l'article L. 311-1 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "I de l'article L. 411-73",
+          "texte_complet": "I de l'article L. 411-73 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 411-27",
+          "texte_complet": "article L. 411-27 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "articles L. 211-3, L. 211-12, L. 322-1, L. 331-1, L. 331-2, L. 332-1, L. 332-16, L. 333-1, L. 341-4 à L. 341-6, L. 371-1 à L. 371-3, L. 411-2, L. 414-1 et L. 562-1 du code de l'environnement"
+        },
+        {
+          "texte": "article L. 1321-2 du code de la santé publique"
+        },
+        {
+          "texte": "article L. 611-1",
+          "texte_complet": "article L. 611-1 code de la santé publique"
+        },
+        {
+          "texte": "article L. 642-5",
+          "texte_complet": "article L. 642-5 code de la santé publique"
+        },
+        {
+          "texte": "article L. 642-22",
+          "texte_complet": "article L. 642-22 code de la santé publique"
+        },
+        {
+          "texte": "sixième alinéa de l'article L. 642-22",
+          "texte_complet": "sixième alinéa de l'article L. 642-22 code de la santé publique"
+        },
+        {
+          "texte": "article 12",
+          "texte_complet": "article 12 code de la santé publique"
+        }
       ],
       "newtitre": "59",
       "order": 59,
@@ -1452,12 +2041,81 @@
         "057": "2° À l'avant-dernier alinéa de l'article L. 511-3, la référence : \"L. 221-6\" est remplacée par la référence : \"L. 221-11\"."
       },
       "liens": [
-        "code forestier",
-        "article L. 141-1 du code de l'environnement",
-        "article L. 212-1 du code de l'environnement",
-        "article L. 121-2 du code de l'urbanisme",
-        "6° de l'article 1er de la loi n° 70-9 du 2 janvier 1970",
-        "code rural et de la pêche maritime"
+        {
+          "texte": "code forestier"
+        },
+        {
+          "texte": "deuxième alinéa de l'article L. 3",
+          "texte_complet": "deuxième alinéa de l'article L. 3 code forestier"
+        },
+        {
+          "texte": "article L. 141-1 du code de l'environnement"
+        },
+        {
+          "texte": "dernier alinéa de l'article L. 4",
+          "texte_complet": "dernier alinéa de l'article L. 4 code de l'environnement"
+        },
+        {
+          "texte": "article L. 4",
+          "texte_complet": "article L. 4 code de l'environnement"
+        },
+        {
+          "texte": "article L. 212-1 du code de l'environnement"
+        },
+        {
+          "texte": "deuxième alinéa de l'article L. 4",
+          "texte_complet": "deuxième alinéa de l'article L. 4 code de l'environnement"
+        },
+        {
+          "texte": "article L. 121-2 du code de l'urbanisme"
+        },
+        {
+          "texte": "article L. 6",
+          "texte_complet": "article L. 6 code de l'urbanisme"
+        },
+        {
+          "texte": "article L. 111-1",
+          "texte_complet": "article L. 111-1 code de l'urbanisme"
+        },
+        {
+          "texte": "article L. 12",
+          "texte_complet": "article L. 12 code de l'urbanisme"
+        },
+        {
+          "texte": "article L. 4-1",
+          "texte_complet": "article L. 4-1 code de l'urbanisme"
+        },
+        {
+          "texte": "article L. 221-9",
+          "texte_complet": "article L. 221-9 code de l'urbanisme"
+        },
+        {
+          "texte": "article L. 4-1",
+          "texte_complet": "article L. 4-1 code de l'urbanisme"
+        },
+        {
+          "texte": "article L. 141-4",
+          "texte_complet": "article L. 141-4 code de l'urbanisme"
+        },
+        {
+          "texte": "code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 124-4",
+          "texte_complet": "article L. 124-4 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "deuxième alinéa de l'article L. 121-24",
+          "texte_complet": "deuxième alinéa de l'article L. 121-24 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "articles L. 124-1, L. 124-3, L. 124-4 et L. 127-2",
+          "texte_complet": "articles L. 124-1, L. 124-3, L. 124-4 et L. 127-2 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 511-3",
+          "texte_complet": "article L. 511-3 code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "64",
       "order": 64,
@@ -1488,9 +2146,27 @@
         "018": "\"6° Au profit du nu-propriétaire du bien vendu en usufruit ou de l'usufruitier du bien vendu en nue-propriété.\""
       },
       "liens": [
-        "titre Ier du livre V du code forestier",
-        "6° de l'article L. 143-4 du code rural et de la pêche maritime",
-        "titre II du livre Ier du code rural et de la pêche maritime"
+        {
+          "texte": "titre Ier du livre V du code forestier"
+        },
+        {
+          "texte": "6° de l'article L. 143-4 du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 514-1",
+          "texte_complet": "article L. 514-1 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 514-1",
+          "texte_complet": "article L. 514-1 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "titre II du livre Ier du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 514-1",
+          "texte_complet": "article L. 514-1 code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "65",
       "order": 65,
@@ -1512,8 +2188,33 @@
         "009": "3° À la deuxième phrase des I et II de l'article L. 222-6 et à la première phrase du II et au III de l'article L. 223-2, les mots : \"centre régional de la propriété forestière\" sont remplacés par les mots : \"Centre national de la propriété forestière\"."
       },
       "liens": [
-        "ordonnance n° 2009-1369 du 6 novembre 2009",
-        "code forestier"
+        {
+          "texte": "code forestier"
+        },
+        {
+          "texte": "3° de l'article L. 221-1",
+          "texte_complet": "3° de l'article L. 221-1 code forestier"
+        },
+        {
+          "texte": "articles L. 222-1 à L. 222-5",
+          "texte_complet": "articles L. 222-1 à L. 222-5 code forestier"
+        },
+        {
+          "texte": "I de l'article L. 222-6",
+          "texte_complet": "I de l'article L. 222-6 code forestier"
+        },
+        {
+          "texte": "article L. 221-9",
+          "texte_complet": "article L. 221-9 code forestier"
+        },
+        {
+          "texte": "I et II de l'article L. 222-6",
+          "texte_complet": "I et II de l'article L. 222-6 code forestier"
+        },
+        {
+          "texte": "II et au III de l'article L. 223-2",
+          "texte_complet": "II et au III de l'article L. 223-2 code forestier"
+        }
       ],
       "newtitre": "66",
       "order": 66,
@@ -1533,11 +2234,21 @@
         "007": "III. - Le b septies de l'article 279 du code général des impôts est complété par les mots : \", ainsi que les travaux de prévention des incendies de forêt menés par des associations syndicales autorisées ayant pour objet la réalisation de ces travaux ;\"."
       },
       "liens": [
-        "article 199 decies H du code général des impôts",
-        "article L. 224-7 du code forestier",
-        "article L. 171-1 du code rural et de la pêche maritime",
-        "article L. 224-6 du code forestier",
-        "b septies de l'article 279 du code général des impôts"
+        {
+          "texte": "article 199 decies H du code général des impôts"
+        },
+        {
+          "texte": "article L. 224-7 du code forestier"
+        },
+        {
+          "texte": "article L. 171-1 du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 224-6 du code forestier"
+        },
+        {
+          "texte": "b septies de l'article 279 du code général des impôts"
+        }
       ],
       "newtitre": "67",
       "order": 67,
@@ -1608,15 +2319,92 @@
         "058": "VI. - Le Gouvernement réalise, dans un délai de trois ans puis à nouveau dans un délai de six ans à compter de la promulgation de la présente loi, un bilan de la mise en oeuvre du compte épargne d'assurance pour la forêt. Un rapport présentant ce bilan et, le cas échéant, des propositions d'évolution des dispositions législatives est remis au Parlement."
       },
       "liens": [
-        "livre II du code forestier",
-        "article 4 B du code général des impôts",
-        "code général des impôts",
-        "articles L. 261-1 à L. 261-7 du code forestier",
-        "3° du I de l'article L. 261-1 du code forestier",
-        "titre VI du livre II du code forestier",
-        "II de l'article L. 136-7 du code de la sécurité sociale",
-        "23° de l'article 157 du code général des impôts",
-        "article L. 221-34 du code monétaire et financier"
+        {
+          "texte": "livre II du code forestier"
+        },
+        {
+          "texte": "article 4 B du code général des impôts"
+        },
+        {
+          "texte": "3° du I de l'article L. 261-1",
+          "texte_complet": "3° du I de l'article L. 261-1 code général des impôts"
+        },
+        {
+          "texte": "II de l'article L. 261-1",
+          "texte_complet": "II de l'article L. 261-1 code général des impôts"
+        },
+        {
+          "texte": "II de l'article L. 261-1",
+          "texte_complet": "II de l'article L. 261-1 code général des impôts"
+        },
+        {
+          "texte": "3° du I de l'article L. 261-1",
+          "texte_complet": "3° du I de l'article L. 261-1 code général des impôts"
+        },
+        {
+          "texte": "I de l'article L. 261-2",
+          "texte_complet": "I de l'article L. 261-2 code général des impôts"
+        },
+        {
+          "texte": "II de l'article L. 261-1",
+          "texte_complet": "II de l'article L. 261-1 code général des impôts"
+        },
+        {
+          "texte": "articles L. 261-1 à L. 261-6",
+          "texte_complet": "articles L. 261-1 à L. 261-6 code général des impôts"
+        },
+        {
+          "texte": "code général des impôts"
+        },
+        {
+          "texte": "dernier alinéa du 1° du III bis de l'article 125 A",
+          "texte_complet": "dernier alinéa du 1° du III bis de l'article 125 A code général des impôts"
+        },
+        {
+          "texte": "article 157",
+          "texte_complet": "article 157 code général des impôts"
+        },
+        {
+          "texte": "articles L. 261-1 à L. 261-7 du code forestier"
+        },
+        {
+          "texte": "article 199 decies H",
+          "texte_complet": "article 199 decies H code forestier"
+        },
+        {
+          "texte": "3° du I de l'article L. 261-1 du code forestier"
+        },
+        {
+          "texte": "titre VI du livre II du code forestier"
+        },
+        {
+          "texte": "article 170",
+          "texte_complet": "article 170 code forestier"
+        },
+        {
+          "texte": "article 1649-0 A",
+          "texte_complet": "article 1649-0 A code forestier"
+        },
+        {
+          "texte": "22° de l'article 157",
+          "texte_complet": "22° de l'article 157 code forestier"
+        },
+        {
+          "texte": "22° et 23° de l'article 157",
+          "texte_complet": "22° et 23° de l'article 157 code forestier"
+        },
+        {
+          "texte": "II de l'article L. 136-7 du code de la sécurité sociale"
+        },
+        {
+          "texte": "23° de l'article 157 du code général des impôts"
+        },
+        {
+          "texte": "article L. 221-34 du code monétaire et financier"
+        },
+        {
+          "texte": "titre VI du livre II du code forestier"
+        }
       ],
       "newtitre": "68",
       "order": 68,
@@ -1637,10 +2425,21 @@
         "008": "II. - L'ordonnance est prise dans un délai de dix-huit mois à compter de la promulgation de la présente loi. Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance."
       },
       "liens": [
-        "article 38 de la Constitution",
-        "partie législative du code forestier",
-        "code forestier",
-        "code rural et de la pêche maritime"
+        {
+          "texte": "article 38 de la Constitution"
+        },
+        {
+          "texte": "partie législative du code forestier"
+        },
+        {
+          "texte": "code forestier"
+        },
+        {
+          "texte": "code rural et de la pêche maritime"
+        },
+        {
+          "texte": "code forestier"
+        }
       ],
       "newtitre": "69",
       "order": 69,
@@ -1679,8 +2478,49 @@
         "026": "\"Les modalités de transfert ou de mise à disposition sont déterminées par les instances compétentes, après avis de la commission nationale paritaire instaurée en application de la loi n° 52-1311 du 10 décembre 1952 relative à l'établissement obligatoire d'un statut du personnel administratif des chambres d'agriculture, des chambres de commerce et des chambres de métiers.\""
       },
       "liens": [
-        "code rural et de la pêche maritime",
-        "loi n° 52-1311 du 10 décembre 1952"
+        {
+          "texte": "code rural et de la pêche maritime"
+        },
+        {
+          "texte": "deuxième alinéa de l'article L. 510-1",
+          "texte_complet": "deuxième alinéa de l'article L. 510-1 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 510-1",
+          "texte_complet": "article L. 510-1 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "articles L. 512-1 et L. 512-2",
+          "texte_complet": "articles L. 512-1 et L. 512-2 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 510-1",
+          "texte_complet": "article L. 510-1 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "articles L. 511-1 à L. 511-12, L. 512-1, L. 512-2 et L. 514-1",
+          "texte_complet": "articles L. 511-1 à L. 511-12, L. 512-1, L. 512-2 et L. 514-1 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 513-3",
+          "texte_complet": "premier alinéa de l'article L. 513-3 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "premier alinéa du III de l'article L. 514-2",
+          "texte_complet": "premier alinéa du III de l'article L. 514-2 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 514-4",
+          "texte_complet": "article L. 514-4 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 510-1",
+          "texte_complet": "article L. 510-1 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 514-2",
+          "texte_complet": "article L. 514-2 code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "70",
       "order": 70,
@@ -1710,10 +2550,15 @@
         "004": "2° Après la première occurrence du mot : \"géographique\", la fin du sixième alinéa est ainsi rédigée : \"autres que les produits vitivinicoles bénéficiant d'une indication géographique protégée.\""
       },
       "liens": [
-        "2° du III de l'article 64 de la loi n° 2009-526 du 12 mai 2009",
-        "article L. 642-22 du code rural",
-        "articles L. 642-14 et L. 642-22 du code rural et de la pêche maritime",
-        "article L. 642-13 du code rural et de la pêche maritime"
+        {
+          "texte": "article L. 642-22 du code rural"
+        },
+        {
+          "texte": "articles L. 642-14 et L. 642-22 du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 642-13 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "72",
       "order": 72,
@@ -1758,8 +2603,17 @@
         "003": "2° À l'article 5, les mots : \"à compter du 1er janvier 2011\" sont supprimés."
       },
       "liens": [
-        "ordonnance n° 2010-462 du 6 mai 2010",
-        "code rural"
+        {
+          "texte": "code rural"
+        },
+        {
+          "texte": "article 3",
+          "texte_complet": "article 3 code rural"
+        },
+        {
+          "texte": "article 5",
+          "texte_complet": "article 5 code rural"
+        }
       ],
       "newtitre": "74",
       "order": 74,
@@ -1777,7 +2631,9 @@
         "005": "II. - Au quatrième alinéa de l'article L. 666-3 du même code, les mots : \"des négociants en grains agréés en qualité de collecteurs\" sont supprimés."
       },
       "liens": [
-        "article L. 666-2 du code rural et de la pêche maritime"
+        {
+          "texte": "article L. 666-2 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "75",
       "order": 75,
@@ -1806,8 +2662,16 @@
         "002": "\"Art. L. 119. - L'administration des impôts communique à l'Agence de services et de paiement mentionnée à l'article L. 313-1 du code rural et de la pêche maritime, sur sa demande, les informations nominatives qui sont nécessaires à l'instruction des demandes d'indemnités compensatoires de handicaps naturels prévues par l'article 37 du règlement (CE) n° 1698/2005 du Conseil, du 20 septembre 2005, concernant le soutien au développement rural par le Fonds européen agricole pour le développement rural (Feader), dans les conditions et selon les modalités fixées par décret.\""
       },
       "liens": [
-        "article L. 118 du livre des procédures fiscales",
-        "article L. 313-1 du code rural et de la pêche maritime"
+        {
+          "texte": "article L. 118 du livre des procédures fiscales"
+        },
+        {
+          "texte": "article L. 313-1 du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article 37",
+          "texte_complet": "article 37 code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "77",
       "order": 77,
@@ -1824,7 +2688,12 @@
         "004": "III. - L'article L. 111-4 du code rural et de la pêche maritime est abrogé à compter du 1er janvier 2011."
       },
       "liens": [
-        "article L. 111-4 du code rural et de la pêche maritime"
+        {
+          "texte": "article L. 111-4 du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 111-4 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "78",
       "order": 78,
@@ -1838,7 +2707,9 @@
         "001": "Le transfert des biens, droits et obligations des établissements publics Les Haras nationaux et École nationale d'équitation à l'Institut français du cheval et de l'équitation est réalisé à titre gratuit et ne donne lieu à aucune indemnité ou perception de droits, impôts ou taxes de quelque nature que ce soit, ni à aucun versement au profit des agents de l'État, d'honoraires ou des salaires prévus à l'article 879 du code général des impôts."
       },
       "liens": [
-        "article 879 du code général des impôts"
+        {
+          "texte": "article 879 du code général des impôts"
+        }
       ],
       "newtitre": "79",
       "order": 79,
@@ -1852,7 +2723,9 @@
         "001": "Dans le délai d'un an à compter de la promulgation de la présente loi, le Gouvernement transmet au Parlement une étude répertoriant l'ensemble des normes applicables sur le territoire national allant au-delà de celles fixées par l'Union européenne en matière agricole et agroalimentaire, accompagnée d'une estimation des coûts que l'application de ces normes génère. Cette étude identifie les points susceptibles de faire l'objet de propositions législatives ou réglementaires de simplification ainsi que toute mesure propre à alléger les contraintes administratives qui pèsent sur les exploitations françaises. L'observatoire prévu à l'article L. 691-1 du code rural et de la pêche maritime en est également destinataire."
       },
       "liens": [
-        "article L. 691-1 du code rural et de la pêche maritime"
+        {
+          "texte": "article L. 691-1 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "80",
       "order": 80,
@@ -1868,9 +2741,7 @@
         "003": "2° Au IV de l'article 5, la référence : \"7\" est remplacée par la référence : \"6\" ;",
         "004": "3° Au VI de l'article 12, la première occurrence de la référence : \"6\" est remplacée par la référence : \"4\" et la deuxième occurrence de la référence : \"6\" est remplacée par la référence : \"5\"."
       },
-      "liens": [
-        "ordonnance n° 2009-325 du 25 mars 2009"
-      ],
+      "liens": [],
       "newtitre": "81",
       "order": 81,
       "section": "T3 bis",
@@ -1902,9 +2773,9 @@
         "020": "II. - L'article 6 de l'ordonnance n° 2010-462 du 6 mai 2010 précitée et l'article 2 de la loi n° 97-1051 du 18 novembre 1997 d'orientation sur la pêche maritime et les cultures marines sont abrogés."
       },
       "liens": [
-        "titre Ier du livre IX du code rural et de la pêche maritime",
-        "article 6 de l'ordonnance n° 2010-462 du 6 mai 2010",
-        "article 2 de la loi n° 97-1051 du 18 novembre 1997"
+        {
+          "texte": "titre Ier du livre IX du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "82",
       "order": 82,
@@ -1923,9 +2794,15 @@
         "006": "II. - Dans chaque région concernée, la première réunion du conseil maritime de façade mentionné à l'article L. 219-6-1 du code de l'environnement doit avoir lieu avant le 31 décembre 2011."
       },
       "liens": [
-        "section 1 du chapitre IX du titre Ier du livre II du code de l'environnement",
-        "article L. 923-1-1 du code rural et de la pêche maritime",
-        "article L. 219-6-1 du code de l'environnement"
+        {
+          "texte": "section 1 du chapitre IX du titre Ier du livre II du code de l'environnement"
+        },
+        {
+          "texte": "article L. 923-1-1 du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 219-6-1 du code de l'environnement"
+        }
       ],
       "newtitre": "83",
       "order": 83,
@@ -1959,10 +2836,18 @@
         "009": "II. - Les schémas mentionnés à l'article L. 923-1-1 du code rural et de la pêche maritime sont établis dans chaque région concernée dans un délai d'un an à compter de la promulgation de la présente loi."
       },
       "liens": [
-        "article L. 923-1 du code rural et de la pêche maritime",
-        "article L. 212-1 du code de l'environnement",
-        "article L. 2124-1 du code général de la propriété des personnes publiques",
-        "article L. 923-1-1 du code rural et de la pêche maritime"
+        {
+          "texte": "article L. 923-1 du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 212-1 du code de l'environnement"
+        },
+        {
+          "texte": "article L. 2124-1 du code général de la propriété des personnes publiques"
+        },
+        {
+          "texte": "article L. 923-1-1 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "85",
       "order": 85,
@@ -2016,9 +2901,7 @@
         "024": "\"La suspension ou le retrait de l'autorisation de pêche ne peut être prononcé plus d'un an à compter de la date de constatation des faits.",
         "025": "\"En cas de carence du comité national ou d'un comité régional, l'autorité administrative peut se substituer à celui-ci dans son pouvoir de sanction en exerçant les pouvoirs prévus à l'article L. 946-1.\""
       },
-      "liens": [
-        "ordonnance n° 2010-462 du 6 mai 2010"
-      ],
+      "liens": [],
       "newtitre": "87",
       "order": 87,
       "section": "T4",
@@ -2082,12 +2965,86 @@
         "052": "III. - Par dérogation aux dispositions de l'article L. 912-4 du code rural et de la pêche maritime, les membres des comités départementaux créés avant le 30 mars 2013 sont nommés par l'autorité administrative parmi les membres du ou des comités locaux concernés jusqu'à l'organisation des élections suivant l'entrée en vigueur de la présente loi."
       },
       "liens": [
-        "ordonnance n° 2010-462 du 6 mai 2010",
-        "article L. 342-2 du code de la recherche",
-        "article L. 12 du code des pensions de retraite des marins français du commerce, de pêche ou de plaisance",
-        "décret-loi du 17 juin 1938",
-        "loi n° 91-411 du 2 mai 1991",
-        "article L. 912-4 du code rural et de la pêche maritime"
+        {
+          "texte": "article L. 342-2 du code de la recherche"
+        },
+        {
+          "texte": "article L. 912-1",
+          "texte_complet": "article L. 912-1 code de la recherche"
+        },
+        {
+          "texte": "article L. 342-2 du code de la recherche"
+        },
+        {
+          "texte": "article L. 912-1",
+          "texte_complet": "article L. 912-1 code de la recherche"
+        },
+        {
+          "texte": "articles L. 931-5 et suivants",
+          "texte_complet": "articles L. 931-5 et suivants code de la recherche"
+        },
+        {
+          "texte": "article L. 912-1",
+          "texte_complet": "article L. 912-1 code de la recherche"
+        },
+        {
+          "texte": "articles L. 931-5 et suivants",
+          "texte_complet": "articles L. 931-5 et suivants code de la recherche"
+        },
+        {
+          "texte": "article L. 912-16",
+          "texte_complet": "article L. 912-16 code de la recherche"
+        },
+        {
+          "texte": "articles L. 912-1 et L. 912-6",
+          "texte_complet": "articles L. 912-1 et L. 912-6 code de la recherche"
+        },
+        {
+          "texte": "article L. 12 du code des pensions de retraite des marins français du commerce, de pêche ou de plaisance"
+        },
+        {
+          "texte": "articles L. 912-1 et L. 912-6",
+          "texte_complet": "articles L. 912-1 et L. 912-6 code des pensions de retraite des marins français du commerce, de pêche ou de plaisance"
+        },
+        {
+          "texte": "article L. 941-1",
+          "texte_complet": "article L. 941-1 code des pensions de retraite des marins français du commerce, de pêche ou de plaisance"
+        },
+        {
+          "texte": "2° de l'article L. 945-1",
+          "texte_complet": "2° de l'article L. 945-1 code des pensions de retraite des marins français du commerce, de pêche ou de plaisance"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 946-2",
+          "texte_complet": "premier alinéa de l'article L. 946-2 code des pensions de retraite des marins français du commerce, de pêche ou de plaisance"
+        },
+        {
+          "texte": "second alinéa de l'article L. 921-2-2",
+          "texte_complet": "second alinéa de l'article L. 921-2-2 code des pensions de retraite des marins français du commerce, de pêche ou de plaisance"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 946-1",
+          "texte_complet": "premier alinéa de l'article L. 946-1 code des pensions de retraite des marins français du commerce, de pêche ou de plaisance"
+        },
+        {
+          "texte": "article L. 946-2",
+          "texte_complet": "article L. 946-2 code des pensions de retraite des marins français du commerce, de pêche ou de plaisance"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 946-2",
+          "texte_complet": "premier alinéa de l'article L. 946-2 code des pensions de retraite des marins français du commerce, de pêche ou de plaisance"
+        },
+        {
+          "texte": "article L. 921-2-1",
+          "texte_complet": "article L. 921-2-1 code des pensions de retraite des marins français du commerce, de pêche ou de plaisance"
+        },
+        {
+          "texte": "second alinéa de l'article L. 921-2-2",
+          "texte_complet": "second alinéa de l'article L. 921-2-2 code des pensions de retraite des marins français du commerce, de pêche ou de plaisance"
+        },
+        {
+          "texte": "article L. 912-4 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "88",
       "order": 88,
@@ -2119,8 +3076,41 @@
         "019": "\"Les comités régionaux de la conchyliculture sont chargés d'appliquer au niveau régional les délibérations du comité national de la conchyliculture rendues obligatoires dans les conditions prévues au premier alinéa.\""
       },
       "liens": [
-        "section 2 du chapitre II du titre Ier du livre IX du code rural et de la pêche maritime",
-        "ordonnance n° 2010-462 du 6 mai 2010"
+        {
+          "texte": "section 2 du chapitre II du titre Ier du livre IX du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "dernier alinéa de l'article L. 912-6",
+          "texte_complet": "dernier alinéa de l'article L. 912-6 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 912-7",
+          "texte_complet": "article L. 912-7 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 912-7",
+          "texte_complet": "article L. 912-7 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 311-2",
+          "texte_complet": "article L. 311-2 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 912-8",
+          "texte_complet": "article L. 912-8 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "1° et 2° de l'article L. 912-9",
+          "texte_complet": "1° et 2° de l'article L. 912-9 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 912-10",
+          "texte_complet": "article L. 912-10 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 912-7",
+          "texte_complet": "article L. 912-7 code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "89",
       "order": 89,
@@ -2143,8 +3133,12 @@
         "010": "II. - L'article L. 922-4 du code rural et de la pêche maritime est abrogé."
       },
       "liens": [
-        "article L. 124-4 du code de l'environnement",
-        "article L. 922-4 du code rural et de la pêche maritime"
+        {
+          "texte": "article L. 124-4 du code de l'environnement"
+        },
+        {
+          "texte": "article L. 922-4 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "90",
       "order": 90,
@@ -2164,8 +3158,20 @@
         "007": "\"Les modalités de répartition, d'affectation et d'utilisation du produit de la taxe, la définition des catégories d'opérations éligibles et l'organisation du contrôle par l'État sont précisées par décret.\""
       },
       "liens": [
-        "code général des impôts",
-        "article L. 912-1 du code rural et de la pêche maritime"
+        {
+          "texte": "code général des impôts"
+        },
+        {
+          "texte": "premier alinéa de l'article 1519 B",
+          "texte_complet": "premier alinéa de l'article 1519 B code général des impôts"
+        },
+        {
+          "texte": "1° et 2° de l'article 1519 C",
+          "texte_complet": "1° et 2° de l'article 1519 C code général des impôts"
+        },
+        {
+          "texte": "article L. 912-1 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "91",
       "order": 91,
@@ -2199,16 +3205,86 @@
         "021": "b) À la seconde phrase, les mots : \"à l'article 14 du décret-loi du 9 janvier 1852 précité\" sont remplacés par les mots : \"aux articles L. 942-5, L. 942-6 et L. 943-1 du code rural et de la pêche maritime\"."
       },
       "liens": [
-        "livre IX du code rural et de la pêche maritime",
-        "articles L. 331-4-1, L. 331-14, L. 331-16, L. 332-3 et L. 334-5 du code de l'environnement",
-        "code de l'environnement",
-        "articles 2, 5 et 6 du décret du 9 janvier 1852",
-        "article 14 du décret du 9 janvier 1852",
-        "articles L. 942-5, L. 942-6 et L. 943-1 du code rural et de la pêche maritime",
-        "décret du 9 janvier 1852",
-        "article L. 942-1 du code rural et de la pêche maritime",
-        "décret-loi du 9 janvier 1852",
-        "article 14 du décret-loi du 9 janvier 1852"
+        {
+          "texte": "livre IX du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 921-10",
+          "texte_complet": "premier alinéa de l'article L. 921-10 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "articles L. 331-4-1, L. 331-14, L. 331-16, L. 332-3 et L. 334-5 du code de l'environnement"
+        },
+        {
+          "texte": "II de l'article L. 942-1",
+          "texte_complet": "II de l'article L. 942-1 code de l'environnement"
+        },
+        {
+          "texte": "dernier alinéa de l'article L. 942-4",
+          "texte_complet": "dernier alinéa de l'article L. 942-4 code de l'environnement"
+        },
+        {
+          "texte": "premier alinéa des articles L. 942-5, L. 942-6 et L. 943-1",
+          "texte_complet": "premier alinéa des articles L. 942-5, L. 942-6 et L. 943-1 code de l'environnement"
+        },
+        {
+          "texte": "I de l'article L. 942-1",
+          "texte_complet": "I de l'article L. 942-1 code de l'environnement"
+        },
+        {
+          "texte": "article L. 942-1",
+          "texte_complet": "article L. 942-1 code de l'environnement"
+        },
+        {
+          "texte": "premier alinéa des articles L. 943-2, L. 951-3 et L. 955-2",
+          "texte_complet": "premier alinéa des articles L. 943-2, L. 951-3 et L. 955-2 code de l'environnement"
+        },
+        {
+          "texte": "article L. 943-7",
+          "texte_complet": "article L. 943-7 code de l'environnement"
+        },
+        {
+          "texte": "article L. 943-9",
+          "texte_complet": "article L. 943-9 code de l'environnement"
+        },
+        {
+          "texte": "premier alinéa des articles L. 953-1, L. 954-1 et L. 955-1",
+          "texte_complet": "premier alinéa des articles L. 953-1, L. 954-1 et L. 955-1 code de l'environnement"
+        },
+        {
+          "texte": "code de l'environnement"
+        },
+        {
+          "texte": "5° du II des articles L. 331-19 et L. 332-22",
+          "texte_complet": "5° du II des articles L. 331-19 et L. 332-22 code de l'environnement"
+        },
+        {
+          "texte": "livre IX du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "III des articles L. 331-19 et L. 332-22",
+          "texte_complet": "III des articles L. 331-19 et L. 332-22 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "articles L. 942-5, L. 942-6 et L. 943-1 du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "5° de l'article L. 332-20",
+          "texte_complet": "5° de l'article L. 332-20 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "article L. 942-1 du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "5° de l'article L. 334-6",
+          "texte_complet": "5° de l'article L. 334-6 code rural et de la pêche maritime"
+        },
+        {
+          "texte": "livre IX du code rural et de la pêche maritime"
+        },
+        {
+          "texte": "articles L. 942-5, L. 942-6 et L. 943-1 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "92",
       "order": 92,
@@ -2245,8 +3321,12 @@
         "012": "Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de chaque ordonnance."
       },
       "liens": [
-        "article 38 de la Constitution",
-        "article L. 112-1-1 du code rural et de la pêche maritime"
+        {
+          "texte": "article 38 de la Constitution"
+        },
+        {
+          "texte": "article L. 112-1-1 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "94",
       "order": 94,
@@ -2261,7 +3341,9 @@
         "002": "\"2° Au plus tard dans un délai de six mois à compter de la promulgation de la loi n° du relative à la modernisation de l'agriculture et de la pêche, pour les baux de métayage en cours à cette date.\""
       },
       "liens": [
-        "2° de l'article L. 462-22 du code rural et de la pêche maritime"
+        {
+          "texte": "2° de l'article L. 462-22 du code rural et de la pêche maritime"
+        }
       ],
       "newtitre": "95",
       "order": 95,
@@ -2275,7 +3357,9 @@
         "001": "À la fin de la seconde phrase du premier alinéa de l'article L. 5141-4 du code général de la propriété des personnes publiques, les mots : \"dans un délai fixé par décret en Conseil d'État\" sont remplacés par les mots : \"avant le 31 décembre 2016\"."
       },
       "liens": [
-        "premier alinéa de l'article L. 5141-4 du code général de la propriété des personnes publiques"
+        {
+          "texte": "premier alinéa de l'article L. 5141-4 du code général de la propriété des personnes publiques"
+        }
       ],
       "newtitre": "96",
       "order": 96,

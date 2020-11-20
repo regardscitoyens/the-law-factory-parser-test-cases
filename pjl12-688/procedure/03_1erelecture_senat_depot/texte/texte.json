@@ -90,12 +90,24 @@
         "086": "Dans les deux mois suivant cette date, tout député ou sénateur établit une déclaration de situation patrimoniale et une déclaration d'intérêts et d'activités suivant les modalités prévues aux articles L. O. 135-1 et L. O. 135-2 du code électoral."
       },
       "liens": [
-        "code électoral",
-        "loi n° 88-227 du 11 mars 1988",
-        "articles 131-26 et 131-26-1 du code pénal",
-        "article 74 de la Constitution",
-        "article 226-1 du code pénal",
-        "livre des procédures fiscales"
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "articles 131-26 et 131-26-1 du code pénal"
+        },
+        {
+          "texte": "article 74 de la Constitution"
+        },
+        {
+          "texte": "article 226-1 du code pénal"
+        },
+        {
+          "texte": "livre des procédures fiscales"
+        },
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 1,
       "statut": "none",
@@ -138,8 +150,15 @@
         "032": "VIII. - Le IV bis du présent article entre en vigueur le 1er janvier 2014."
       },
       "liens": [
-        "code électoral",
-        "Constitution"
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "Constitution"
+        },
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 2,
       "statut": "none",
@@ -153,9 +172,7 @@
         "003": "\"Les membres du Conseil constitutionnel ne peuvent exercer aucune activité professionnelle annexe, rémunérée ou non.\" ;",
         "004": "2° Le second alinéa de l'article 6 est supprimé."
       },
-      "liens": [
-        "ordonnance n° 58-1067 du 7 novembre 1958"
-      ],
+      "liens": [],
       "order": 3,
       "statut": "nouveau",
       "titre": "2 bis A",
@@ -166,7 +183,9 @@
         "001": "La deuxième phrase de l'article L. O. 153 du code électoral est complétée par les mots : \"et ne peut percevoir aucune indemnité en tant que parlementaire\"."
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 4,
       "statut": "nouveau",
@@ -178,7 +197,9 @@
         "001": "Le 1° du I des articles L. O. 489, L. O. 516 et L. O. 544 du code électoral est abrogé."
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 5,
       "statut": "nouveau",
@@ -191,9 +212,7 @@
         "002": "\"Les fonctions de membre du Conseil constitutionnel sont incompatibles avec l'exercice de la profession d'avocat.\"",
         "003": "II. - Le présent article entre en vigueur le 1er janvier 2014."
       },
-      "liens": [
-        "article 4 de l'ordonnance n° 58-1067 du 7 novembre 1958"
-      ],
+      "liens": [],
       "order": 6,
       "statut": "nouveau",
       "titre": "2 quater",
@@ -212,8 +231,17 @@
         "009": "III. - Le 2° du I A du présent article entre en vigueur le 1er janvier 2014."
       },
       "liens": [
-        "ordonnance n° 58-1099 du 17 novembre 1958",
-        "article 23 de la Constitution"
+        {
+          "texte": "article 23 de la Constitution"
+        },
+        {
+          "texte": "premier alinéa de l'article 1er",
+          "texte_complet": "premier alinéa de l'article 1er constitution"
+        },
+        {
+          "texte": "article 4",
+          "texte_complet": "article 4 constitution"
+        }
       ],
       "order": 7,
       "statut": "none",
@@ -226,8 +254,9 @@
         "002": "\"<table><tbody><tr><td>Haute Autorité de la transparence de la vie publique</td><td>Président</td></tr></tbody></table>\""
       },
       "liens": [
-        "loi organique n° 2010-837 du 23 juillet 2010",
-        "cinquième alinéa de l'article 13 de la Constitution"
+        {
+          "texte": "cinquième alinéa de l'article 13 de la Constitution"
+        }
       ],
       "order": 8,
       "statut": "none",
@@ -242,9 +271,7 @@
         "004": "\"La déclaration de situation patrimoniale remise à l'issue des fonctions dans les conditions prévues au quatrième alinéa du présent I est transmise à la Haute Autorité de la transparence de la vie publique. Si la Haute Autorité constate que cette déclaration n'est pas exhaustive, exacte ou sincère ou si elle constate une évolution de situation patrimoniale pour laquelle elle ne dispose pas d'explications suffisantes, elle rend public ce constat.\" ;",
         "005": "2° À la première phrase du dernier alinéa du III, le mot : \"au\" est remplacé par la référence : \"aux I et\"."
       },
-      "liens": [
-        "article 3 de la loi n° 62-1292 du 6 novembre 1962"
-      ],
+      "liens": [],
       "order": 9,
       "statut": "nouveau",
       "titre": "4 bis A",
@@ -254,9 +281,7 @@
       "alineas": {
         "001": "À la fin de l'article 4 de la loi n° 62-1292 du 6 novembre 1962 précitée, la référence : \"loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012\" est remplacée par la référence : \"loi organique n° du relative à la transparence de la vie publique\"."
       },
-      "liens": [
-        "article 4 de la loi n° 62-1292 du 6 novembre 1962"
-      ],
+      "liens": [],
       "order": 10,
       "statut": "nouveau",
       "titre": "4 bis",
@@ -278,9 +303,7 @@
         "002": "1° Après le mot : \"soumis\", la fin du second alinéa de l'article 64, de l'article 114 et du dernier alinéa de l'article 161 est ainsi rédigée : \"à l'obligation de dépôt d'une déclaration de situation patrimoniale et d'une déclaration d'intérêts, dans les conditions prévues, respectivement, aux 1° et 2° du I de l'article 10 de la loi n° du relative à la transparence de la vie publique.\" ;",
         "003": "2° Le 1° du I de l'article 195 est abrogé."
       },
-      "liens": [
-        "loi organique n° 99-209 du 19 mars 1999"
-      ],
+      "liens": [],
       "order": 12,
       "statut": "nouveau",
       "titre": "6",
@@ -292,9 +315,7 @@
         "002": "1° Le 1° du I de l'article 109 est abrogé ;",
         "003": "2° Après le mot : \"patrimoniale\", la fin de l'article 160 est ainsi rédigée : \"et une déclaration d'intérêts, dans les conditions prévues au 1° du I de l'article 10 de la loi n° du relative à la transparence de la vie publique, pour le président de la Polynésie française et le président de l'assemblée, et dans les conditions prévues au 2° du même I, pour les autres membres du gouvernement et de l'assemblée.\""
       },
-      "liens": [
-        "loi organique n° 2004-192 du 27 février 2004"
-      ],
+      "liens": [],
       "order": 13,
       "statut": "nouveau",
       "titre": "7",
@@ -307,7 +328,17 @@
         "003": "2° Après le mot : \"déposer\", la fin du dernier alinéa de l'article L. O. 6431-1 est ainsi rédigée : \"une déclaration de situation patrimoniale et une déclaration d'intérêts, dans les conditions prévues, respectivement, aux 1° et 2° du I de l'article 10 de la loi n° du relative à la transparence de la vie publique.\""
       },
       "liens": [
-        "code général des collectivités territoriales"
+        {
+          "texte": "code général des collectivités territoriales"
+        },
+        {
+          "texte": "1° et 2° du I de l'article 10",
+          "texte_complet": "1° et 2° du I de l'article 10 code général des collectivités territoriales"
+        },
+        {
+          "texte": "1° et 2° du I de l'article 10",
+          "texte_complet": "1° et 2° du I de l'article 10 code général des collectivités territoriales"
+        }
       ],
       "order": 14,
       "statut": "nouveau",
@@ -319,7 +350,9 @@
         "001": "Pour l'application de l'article 1er de la présente loi et des articles 4 et 5 de la loi n° du relative à la transparence de la vie publique, les références à l'administration fiscale s'entendent, dans les collectivités d'outre-mer et en Nouvelle-Calédonie, comme visant l'administration fiscale de ces collectivités d'outre-mer et l'administration fiscale de la Nouvelle-Calédonie et les références au livre des procédures fiscales s'entendent comme visant les dispositions équivalentes dans les législations applicables localement."
       },
       "liens": [
-        "livre des procédures fiscales"
+        {
+          "texte": "livre des procédures fiscales"
+        }
       ],
       "order": 15,
       "statut": "nouveau",

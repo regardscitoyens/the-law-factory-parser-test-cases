@@ -22,15 +22,78 @@
         "018": "3° À la fin de l'article 711-1, la référence : \"loi n° 2017-258 du 28 février 2017 relative à la sécurité publique\" est remplacée par la référence : \"loi n° du pour la régulation de la vie publique\"."
       },
       "liens": [
-        "code pénal",
-        "articles L. 86 à L. 88-1, L. 91 à L. 104, L. 106 à L. 109, L. 111, L. 113 et L. 116 du code électoral",
-        "articles 1741 et 1743 du code général des impôts",
-        "1° à 5° de l'article L. 228 du livre des procédures fiscales",
-        "articles L. 465-1 à L. 465-3-3 du code monétaire et financier",
-        "code électoral",
-        "loi n° 88-227 du 11 mars 1988",
-        "articles L. 241-3 et L. 242-6 du code de commerce",
-        "loi n° 2013-907 du 11 octobre 2013"
+        {
+          "texte": "code pénal"
+        },
+        {
+          "texte": "article 131-26-1",
+          "texte_complet": "article 131-26-1 code pénal"
+        },
+        {
+          "texte": "article 131-26",
+          "texte_complet": "article 131-26 code pénal"
+        },
+        {
+          "texte": "article 131-26-1",
+          "texte_complet": "article 131-26-1 code pénal"
+        },
+        {
+          "texte": "2° de l'article 131-26",
+          "texte_complet": "2° de l'article 131-26 code pénal"
+        },
+        {
+          "texte": "article 131-26-1",
+          "texte_complet": "article 131-26-1 code pénal"
+        },
+        {
+          "texte": "articles 222-33 et 222-33-2",
+          "texte_complet": "articles 222-33 et 222-33-2 code pénal"
+        },
+        {
+          "texte": "articles 432-10 à 432-15, 433-1 et 433-2, 434-9, 434-9-1, 434-43-1, 435-1 à 435-10 et 445-1 à 445-2-1",
+          "texte_complet": "articles 432-10 à 432-15, 433-1 et 433-2, 434-9, 434-9-1, 434-43-1, 435-1 à 435-10 et 445-1 à 445-2-1 code pénal"
+        },
+        {
+          "texte": "articles 313-1 et 313-2",
+          "texte_complet": "articles 313-1 et 313-2 code pénal"
+        },
+        {
+          "texte": "article 450-1",
+          "texte_complet": "article 450-1 code pénal"
+        },
+        {
+          "texte": "articles 441-2 à 441-6",
+          "texte_complet": "articles 441-2 à 441-6 code pénal"
+        },
+        {
+          "texte": "articles L. 86 à L. 88-1, L. 91 à L. 104, L. 106 à L. 109, L. 111, L. 113 et L. 116 du code électoral"
+        },
+        {
+          "texte": "articles 1741 et 1743 du code général des impôts"
+        },
+        {
+          "texte": "1° à 5° de l'article L. 228 du livre des procédures fiscales"
+        },
+        {
+          "texte": "articles L. 465-1 à L. 465-3-3 du code monétaire et financier"
+        },
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "articles L. 241-3 et L. 242-6 du code de commerce"
+        },
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "dernier alinéa des articles 432-17 et 433-22",
+          "texte_complet": "dernier alinéa des articles 432-17 et 433-22 code électoral"
+        },
+        {
+          "texte": "article 711-1",
+          "texte_complet": "article 711-1 code électoral"
+        }
       ],
       "order": 1,
       "section": "T1",
@@ -43,7 +106,9 @@
         "001": "Au premier alinéa de l'article 432-12 du code pénal, les mots : \"un intérêt quelconque\" sont remplacés par les mots : \"un intérêt personnel distinct de l'intérêt général\"."
       },
       "liens": [
-        "premier alinéa de l'article 432-12 du code pénal"
+        {
+          "texte": "premier alinéa de l'article 432-12 du code pénal"
+        }
       ],
       "order": 2,
       "section": "T1",
@@ -56,7 +121,9 @@
         "001": "Le début du premier alinéa de l'article L. 228 du livre des procédures fiscales est ainsi rédigé : \"Hors les cas de connexité avec d'autres infractions faisant l'objet d'une procédure judiciaire ou de découverte incidente dans le cadre d'une procédure pénale, les plaintes tendant... (le reste sans changement).\""
       },
       "liens": [
-        "premier alinéa de l'article L. 228 du livre des procédures fiscales"
+        {
+          "texte": "premier alinéa de l'article L. 228 du livre des procédures fiscales"
+        }
       ],
       "order": 3,
       "section": "T1",
@@ -72,9 +139,7 @@
         "004": "\"Elle veille à la mise en oeuvre de ces règles dans les conditions déterminées par son règlement.",
         "005": "\"Elle détermine également les modalités de tenue d'un registre accessible au public, recensant les cas dans lesquels un parlementaire a estimé devoir ne pas participer aux travaux du Parlement en raison d'une situation de conflit d'intérêts telle qu'elle est définie au premier alinéa.\""
       },
-      "liens": [
-        "article 4 quater de l'ordonnance n° 58-1100 du 17 novembre 1958"
-      ],
+      "liens": [],
       "order": 4,
       "section": "T2",
       "statut": "none",
@@ -91,8 +156,15 @@
         "006": "Un décret en Conseil d'État fixe le modèle de déclaration d'intérêts que chaque personne doit déposer au moment de sa désignation."
       },
       "liens": [
-        "dernier alinéa de l'article 13 de la Constitution",
-        "article 432-13 du code pénal"
+        {
+          "texte": "dernier alinéa de l'article 13 de la Constitution"
+        },
+        {
+          "texte": "article 432-13 du code pénal"
+        },
+        {
+          "texte": "article 432-13 du code pénal"
+        }
       ],
       "order": 5,
       "section": "T2",
@@ -107,9 +179,7 @@
         "003": "2° Il est ajouté un II ainsi rédigé :",
         "004": "\"II. - Un décret en Conseil d'État détermine les modalités de tenue d'un registre accessible au public, recensant les cas dans lesquels un membre du Gouvernement estime ne pas devoir exercer ses attributions en raison d'une situation de conflit d'intérêts, y compris en conseil des ministres.\""
       },
-      "liens": [
-        "article 2 de la loi n° 2013-907 du 11 octobre 2013"
-      ],
+      "liens": [],
       "order": 6,
       "section": "T2",
       "statut": "nouveau",
@@ -124,9 +194,12 @@
         "004": "\"Art. L. 1. - Dans le cadre de la délivrance de l'attestation prévue à l'article L. O. 136-4 du code électoral et à l'article 5-3 de la loi n° 77-729 du 7 juillet 1977 relative à l'élection des représentants au Parlement européen, les membres du Gouvernement ne peuvent adresser à l'administration des impôts aucune instruction dans des affaires individuelles.\""
       },
       "liens": [
-        "titre Ier du livre des procédures fiscales",
-        "code électoral",
-        "article 5-3 de la loi n° 77-729 du 7 juillet 1977"
+        {
+          "texte": "titre Ier du livre des procédures fiscales"
+        },
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 7,
       "section": "T2",
@@ -139,9 +212,7 @@
         "001": "Après l'article 25 decies de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, il est inséré un article 25 undecies ainsi rédigé :",
         "002": "\"Art. 25 undecies. - Il est interdit à tout ancien fonctionnaire ou agent public d'exercer une activité de conseil qui a trait directement ou indirectement aux missions de service public attachées à ses anciennes fonctions pendant un délai de trois ans.\""
       },
-      "liens": [
-        "article 25 decies de la loi n° 83-634 du 13 juillet 1983"
-      ],
+      "liens": [],
       "order": 8,
       "section": "T2 bis A",
       "statut": "nouveau",
@@ -153,9 +224,7 @@
         "001": "Après l'article 25 decies de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, il est inséré un article 25 duodecies ainsi rédigé :",
         "002": "\"Art. 25 duodecies. - Il est interdit à tout ancien fonctionnaire ou agent public en disponibilité et ayant exercé des fonctions pour le compte d'une entreprise publique ou privée ou pour une société de conseil d'occuper une fonction impliquant une mission de service public ou l'exercice de prérogatives de puissance publique directement ou indirectement liés aux secteurs d'activités dans lesquels il est intervenu pendant un délai de trois ans.\""
       },
-      "liens": [
-        "article 25 decies de la loi n° 83-634 du 13 juillet 1983"
-      ],
+      "liens": [],
       "order": 9,
       "section": "T2 bis A",
       "statut": "nouveau",
@@ -167,9 +236,7 @@
         "001": "Après le 9° de l'article 18-5 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, il est inséré un 10° ainsi rédigé :",
         "002": "\"10° S'abstenir d'exercer toute action pour le compte ou auprès d'une personne morale de droit public dont ils auraient été le fonctionnaire ou l'agent public dans les trois dernières années.\""
       },
-      "liens": [
-        "9° de l'article 18-5 de la loi n° 2013-907 du 11 octobre 2013"
-      ],
+      "liens": [],
       "order": 10,
       "section": "T2 bis A",
       "statut": "nouveau",
@@ -196,11 +263,15 @@
         "005": "V. - Au quatrième alinéa des articles L. 120-13 et L. 220-11 du code des juridictions financières, les mots : \"de six mois\" sont remplacés par les mots : \"d'un an\"."
       },
       "liens": [
-        "II de l'article 11 de la loi n° 2013-907 du 11 octobre 2013",
-        "deuxième alinéa du II de l'article L. 4122-8 du code de la défense",
-        "deuxième alinéa du II de l'article 25 quinquies de la loi n° 83-634 du 13 juillet 1983",
-        "quatrième alinéa des articles L. 131-10 et L. 231-4-4 du code de justice administrative",
-        "quatrième alinéa des articles L. 120-13 et L. 220-11 du code des juridictions financières"
+        {
+          "texte": "deuxième alinéa du II de l'article L. 4122-8 du code de la défense"
+        },
+        {
+          "texte": "quatrième alinéa des articles L. 131-10 et L. 231-4-4 du code de justice administrative"
+        },
+        {
+          "texte": "quatrième alinéa des articles L. 120-13 et L. 220-11 du code des juridictions financières"
+        }
       ],
       "order": 12,
       "section": "T2 bis",
@@ -217,9 +288,9 @@
         "005": "III. - Le début de la première phrase du quatrième alinéa du V de l'article 25 quinquies de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires est ainsi rédigé : \"La Haute Autorité exerce le droit de communication prévu... (le reste sans changement).\""
       },
       "liens": [
-        "quatrième alinéa de l'article 6 de la loi n° 2013-907 du 11 octobre 2013",
-        "quatrième alinéa du V de l'article L. 4122-8 du code de la défense",
-        "quatrième alinéa du V de l'article 25 quinquies de la loi n° 83-634 du 13 juillet 1983"
+        {
+          "texte": "quatrième alinéa du V de l'article L. 4122-8 du code de la défense"
+        }
       ],
       "order": 13,
       "section": "T2 bis",
@@ -241,9 +312,7 @@
         "010": "II. - Après l'article 10 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, il est inséré un article 10-1 ainsi rédigé :",
         "011": "\"Art. 10-1. - Un décret en Conseil d'État prévoit les conditions dans lesquelles une personne de la famille d'un membre du Gouvernement, appartenant à l'une des catégories de personnes définies au I de l'article 3 de la loi n° du pour la régulation de la vie publique, lorsqu'elle est employée au sein d'un cabinet ministériel, informe sans délai de ce lien familial la Haute Autorité pour la transparence de la vie publique et le membre du Gouvernement dont elle est le collaborateur. La Haute Autorité peut faire usage du pouvoir d'injonction prévu à l'article 10 pour faire cesser la situation de conflit d'intérêts dans laquelle se trouve le collaborateur. Cette information est rendue accessible au public.\""
       },
-      "liens": [
-        "article 10 de la loi n° 2013-907 du 11 octobre 2013"
-      ],
+      "liens": [],
       "order": 14,
       "section": "T3",
       "statut": "none",
@@ -257,9 +326,7 @@
         "003": "\"II. - Les députés et les sénateurs bénéficient, à cet effet, d'un crédit affecté à la rémunération de leurs collaborateurs.",
         "004": "\"III. - Le bureau de chaque assemblée s'assure de la mise en oeuvre d'un dialogue social entre les représentants des parlementaires employeurs et les représentants des collaborateurs parlementaires.\""
       },
-      "liens": [
-        "article 8 de l'ordonnance n° 58-1100 du 17 novembre 1958"
-      ],
+      "liens": [],
       "order": 15,
       "section": "T3",
       "statut": "nouveau",
@@ -281,10 +348,7 @@
         "011": "\"Ces concours sont également ouverts aux collaborateurs de député et de sénateur ainsi qu'aux collaborateurs de groupe parlementaire.\" ;",
         "012": "2° À la dernière phrase, après le mot : \"intergouvernementales\", sont insérés les mots : \"ainsi que les services accomplis auprès des députés, des sénateurs et des groupes parlementaires\"."
       },
-      "liens": [
-        "2° de l'article 19 de la loi n° 84-16 du 11 janvier 1984",
-        "premier alinéa du 2° de l'article 29 de la loi n° 86-33 du 9 janvier 1986"
-      ],
+      "liens": [],
       "order": 16,
       "section": "T3",
       "statut": "nouveau",
@@ -305,9 +369,7 @@
         "010": "\"Le fait, pour un député ou un sénateur, d'employer un collaborateur en méconnaissance de l'interdiction mentionnée au présent I est puni d'une peine de trois ans d'emprisonnement et de 45 000 € d'amende.",
         "011": "\"II. - Le bureau de chaque assemblée prévoit les conditions dans lesquelles un membre de la famille d'un parlementaire appartenant à l'une des catégories de personnes définies au I, lorsqu'il est employé en tant que collaborateur d'un parlementaire, l'informe sans délai de ce lien familial et informe également le député ou le sénateur dont il est le collaborateur. Cette information est rendue accessible au public.\""
       },
-      "liens": [
-        "article 8 de l'ordonnance n° 58-1100 du 17 novembre 1958"
-      ],
+      "liens": [],
       "order": 17,
       "section": "T3",
       "statut": "none",
@@ -332,10 +394,7 @@
         "014": "b ) Les mots : \"à ces emplois\" sont remplacés par les mots : \"aux emplois mentionnés au premier alinéa du I\".",
         "015": "II. - Les I et II de l'article 110 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, dans leur rédaction résultant de la présente loi, sont applicables à la commune et au département de Paris et, à compter du 1er janvier 2019, à la Ville de Paris."
       },
-      "liens": [
-        "article 110 de la loi n° 84-53 du 26 janvier 1984",
-        "I et II de l'article 110 de la loi n° 84-53 du 26 janvier 1984"
-      ],
+      "liens": [],
       "order": 18,
       "section": "T3",
       "statut": "none",
@@ -355,12 +414,18 @@
         "009": "L'autorité territoriale n'est pas pénalement responsable de l'infraction prévue au II de l'article 110 de la loi n° 84-53 du 26 janvier 1984 précitée lorsque cette infraction est commise pendant le délai de notification et le délai de préavis prévus au présent II."
       },
       "liens": [
-        "article 8 bis de l'ordonnance n° 58-1100 du 17 novembre 1958",
-        "article L. 1225-4 du code du travail",
-        "articles L. 1234-19 et L. 1234-20 du code du travail",
-        "articles L. 1234-5, L. 1234-9 et L. 3141-28 du code du travail",
-        "I de l'article 110 de la loi n° 84-53 du 26 janvier 1984",
-        "II de l'article 110 de la loi n° 84-53 du 26 janvier 1984"
+        {
+          "texte": "article L. 1225-4 du code du travail"
+        },
+        {
+          "texte": "articles L. 1234-19 et L. 1234-20 du code du travail"
+        },
+        {
+          "texte": "articles L. 1234-5, L. 1234-9 et L. 3141-28 du code du travail"
+        },
+        {
+          "texte": "article L. 1225-4 du code du travail"
+        }
       ],
       "order": 19,
       "section": "T3",
@@ -388,9 +453,22 @@
         "016": "La détermination du montant de cette contribution et son recouvrement, effectué selon les règles et sous les garanties et sanctions mentionnées au premier alinéa de l'article L. 5422-16 du code du travail, sont assurés par Pôle emploi. Les conditions d'exigibilité de cette contribution sont précisées par décret."
       },
       "liens": [
-        "article L. 1234-9 du code du travail",
-        "article L. 5422-1 du code du travail",
-        "premier alinéa de l'article L. 5422-16 du code du travail"
+        {
+          "texte": "article L. 1234-9 du code du travail"
+        },
+        {
+          "texte": "article L. 5422-1 du code du travail"
+        },
+        {
+          "texte": "article L. 5422-1",
+          "texte_complet": "article L. 5422-1 code du travail"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 5422-16 du code du travail"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 5422-16 du code du travail"
+        }
       ],
       "order": 20,
       "section": "T3",
@@ -409,10 +487,12 @@
         "007": "V. - Les I et II entrent en vigueur le 1er janvier 2018."
       },
       "liens": [
-        "a du 3° du II de l'article L. 136-2 du code de la sécurité sociale",
-        "article 4 quinquies de l'ordonnance n° 58-1100 du 17 novembre 1958",
-        "second alinéa du 1° de l'article 81 du code général des impôts",
-        "article 4 sexies de l'ordonnance n° 58-1100 du 17 novembre 1958"
+        {
+          "texte": "a du 3° du II de l'article L. 136-2 du code de la sécurité sociale"
+        },
+        {
+          "texte": "second alinéa du 1° de l'article 81 du code général des impôts"
+        }
       ],
       "order": 21,
       "section": "T4",
@@ -426,7 +506,9 @@
         "002": "II. - Le I entre en vigueur le 1er janvier 2018."
       },
       "liens": [
-        "premier alinéa de l'article 80 undecies du code général des impôts"
+        {
+          "texte": "premier alinéa de l'article 80 undecies du code général des impôts"
+        }
       ],
       "order": 22,
       "section": "T4",
@@ -444,9 +526,7 @@
         "006": "\"L'attestation mentionnée au même 2° ne constitue pas une prise de position formelle de l'administration fiscale sur la situation fiscale de la personne.",
         "007": "\"II. - Lorsqu'il s'agit d'un autre membre du Gouvernement, le Premier ministre est également destinataire des informations transmises en application du I.\""
       },
-      "liens": [
-        "article 8 de la loi n° 2013-907 du 11 octobre 2013"
-      ],
+      "liens": [],
       "order": 23,
       "section": "T4 bis A",
       "statut": "nouveau",
@@ -468,9 +548,7 @@
       "alineas": {
         "001": "À la fin de la première phrase du premier alinéa de l'article 9 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, les mots : \"de l'impôt sur le revenu et, le cas échéant, de l'impôt de solidarité sur la fortune\" sont remplacés par les mots : \"des impositions de toute nature dont ils sont redevables\"."
       },
-      "liens": [
-        "premier alinéa de l'article 9 de la loi n° 2013-907 du 11 octobre 2013"
-      ],
+      "liens": [],
       "order": 25,
       "section": "T4 bis",
       "statut": "nouveau",
@@ -534,13 +612,110 @@
         "053": "IV. - Les II et III du présent article sont applicables en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie."
       },
       "liens": [
-        "loi n° 88-227 du 11 mars 1988",
-        "article L. 52-14 du code électoral",
-        "article L. 52-12 du code électoral",
-        "article 200 du code général des impôts",
-        "livre III du code des relations entre le public et l'administration",
-        "article 11-4 de la loi n° 88-227 du 11 mars 1988",
-        "second alinéa du I de l'article 10 de la loi n° 2017-286 du 6 mars 2017"
+        {
+          "texte": "article L. 52-14 du code électoral"
+        },
+        {
+          "texte": "premier alinéa de l'article 11-4",
+          "texte_complet": "premier alinéa de l'article 11-4 code électoral"
+        },
+        {
+          "texte": "article 11",
+          "texte_complet": "article 11 code électoral"
+        },
+        {
+          "texte": "article 8",
+          "texte_complet": "article 8 code électoral"
+        },
+        {
+          "texte": "2° de l'article 11-1",
+          "texte_complet": "2° de l'article 11-1 code électoral"
+        },
+        {
+          "texte": "second alinéa de l'article 11-2",
+          "texte_complet": "second alinéa de l'article 11-2 code électoral"
+        },
+        {
+          "texte": "article 11-3",
+          "texte_complet": "article 11-3 code électoral"
+        },
+        {
+          "texte": "article 11-4",
+          "texte_complet": "article 11-4 code électoral"
+        },
+        {
+          "texte": "article 11-5",
+          "texte_complet": "article 11-5 code électoral"
+        },
+        {
+          "texte": "articles 11-3-1 et 11-4",
+          "texte_complet": "articles 11-3-1 et 11-4 code électoral"
+        },
+        {
+          "texte": "article 11-3-1",
+          "texte_complet": "article 11-3-1 code électoral"
+        },
+        {
+          "texte": "cinquième alinéa de l'article 11-4",
+          "texte_complet": "cinquième alinéa de l'article 11-4 code électoral"
+        },
+        {
+          "texte": "article 11-4",
+          "texte_complet": "article 11-4 code électoral"
+        },
+        {
+          "texte": "article 11-7",
+          "texte_complet": "article 11-7 code électoral"
+        },
+        {
+          "texte": "articles 8 à 11-4",
+          "texte_complet": "articles 8 à 11-4 code électoral"
+        },
+        {
+          "texte": "article L. 52-12 du code électoral"
+        },
+        {
+          "texte": "article 200 du code général des impôts"
+        },
+        {
+          "texte": "article 11-8",
+          "texte_complet": "article 11-8 code général des impôts"
+        },
+        {
+          "texte": "article 11-9",
+          "texte_complet": "article 11-9 code général des impôts"
+        },
+        {
+          "texte": "article 11-3-1",
+          "texte_complet": "article 11-3-1 code général des impôts"
+        },
+        {
+          "texte": "quatrième alinéa de l'article 11-4",
+          "texte_complet": "quatrième alinéa de l'article 11-4 code général des impôts"
+        },
+        {
+          "texte": "II de l'article 11-7",
+          "texte_complet": "II de l'article 11-7 code général des impôts"
+        },
+        {
+          "texte": "article 11-7",
+          "texte_complet": "article 11-7 code général des impôts"
+        },
+        {
+          "texte": "article 11-9",
+          "texte_complet": "article 11-9 code général des impôts"
+        },
+        {
+          "texte": "livre III du code des relations entre le public et l'administration"
+        },
+        {
+          "texte": "premier alinéa de l'article 19",
+          "texte_complet": "premier alinéa de l'article 19 code des relations entre le public et l'administration"
+        },
+        {
+          "texte": "article 11-3-1",
+          "texte_complet": "article 11-3-1 code des relations entre le public et l'administration"
+        }
       ],
       "order": 26,
       "section": "T5C1",
@@ -553,9 +728,7 @@
         "001": "Le septième alinéa de l'article 9 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique est complété par une phrase ainsi rédigée :",
         "002": "\"Il peut également n'indiquer aucun parti ou groupement politique, l'aide correspondante venant alors en déduction du total de la seconde fraction.\""
       },
-      "liens": [
-        "septième alinéa de l'article 9 de la loi n° 88-227 du 11 mars 1988"
-      ],
+      "liens": [],
       "order": 27,
       "section": "T5C1",
       "statut": "nouveau",
@@ -617,8 +790,109 @@
         "051": "IV. - Les II et III du présent article sont applicables en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie."
       },
       "liens": [
-        "code électoral",
-        "dernier alinéa du a du 3° du I de l'article 15 de la loi n° 2016-1048 du 1er août 2016"
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "article L. 52-7",
+          "texte_complet": "article L. 52-7 code électoral"
+        },
+        {
+          "texte": "article L. 52-8",
+          "texte_complet": "article L. 52-8 code électoral"
+        },
+        {
+          "texte": "second alinéa de l'article L. 52-9",
+          "texte_complet": "second alinéa de l'article L. 52-9 code électoral"
+        },
+        {
+          "texte": "article L. 52-8",
+          "texte_complet": "article L. 52-8 code électoral"
+        },
+        {
+          "texte": "III de l'article L. 113-1",
+          "texte_complet": "III de l'article L. 113-1 code électoral"
+        },
+        {
+          "texte": "article L. 52-10",
+          "texte_complet": "article L. 52-10 code électoral"
+        },
+        {
+          "texte": "deuxième alinéa de l'article L. 52-12",
+          "texte_complet": "deuxième alinéa de l'article L. 52-12 code électoral"
+        },
+        {
+          "texte": "article L. 113-1",
+          "texte_complet": "article L. 113-1 code électoral"
+        },
+        {
+          "texte": "article L. 52-4",
+          "texte_complet": "article L. 52-4 code électoral"
+        },
+        {
+          "texte": "articles L. 52-7-1, L. 52-8 ou L. 308-1",
+          "texte_complet": "articles L. 52-7-1, L. 52-8 ou L. 308-1 code électoral"
+        },
+        {
+          "texte": "article L. 52-11",
+          "texte_complet": "article L. 52-11 code électoral"
+        },
+        {
+          "texte": "articles L. 52-12 et L. 52-13",
+          "texte_complet": "articles L. 52-12 et L. 52-13 code électoral"
+        },
+        {
+          "texte": "articles L. 51 et L. 52-1",
+          "texte_complet": "articles L. 51 et L. 52-1 code électoral"
+        },
+        {
+          "texte": "articles L. 52-7-1 et L. 52-8",
+          "texte_complet": "articles L. 52-7-1 et L. 52-8 code électoral"
+        },
+        {
+          "texte": "article L. 52-12",
+          "texte_complet": "article L. 52-12 code électoral"
+        },
+        {
+          "texte": "article L. 52-7-1",
+          "texte_complet": "article L. 52-7-1 code électoral"
+        },
+        {
+          "texte": "article L. 558-37",
+          "texte_complet": "article L. 558-37 code électoral"
+        },
+        {
+          "texte": "1° de l'article L. 558-46",
+          "texte_complet": "1° de l'article L. 558-46 code électoral"
+        },
+        {
+          "texte": "I, III et V de l'article L. 113-1",
+          "texte_complet": "I, III et V de l'article L. 113-1 code électoral"
+        },
+        {
+          "texte": "1° de l'article L. 562",
+          "texte_complet": "1° de l'article L. 562 code électoral"
+        },
+        {
+          "texte": "I, III et V de l'article L. 113-1",
+          "texte_complet": "I, III et V de l'article L. 113-1 code électoral"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 388",
+          "texte_complet": "premier alinéa de l'article L. 388 code électoral"
+        },
+        {
+          "texte": "1° et 2° de l'article L. 392",
+          "texte_complet": "1° et 2° de l'article L. 392 code électoral"
+        },
+        {
+          "texte": "article L. 393",
+          "texte_complet": "article L. 393 code électoral"
+        },
+        {
+          "texte": "articles L. 15, L. 15-1, L. 46-1 et L. 66",
+          "texte_complet": "articles L. 15, L. 15-1, L. 46-1 et L. 66 code électoral"
+        }
       ],
       "order": 28,
       "section": "T5C2",
@@ -639,8 +913,24 @@
         "009": "\"L'établissement de crédit choisi par le mandataire ou désigné par la Banque de France est tenu d'offrir gratuitement au titulaire du compte des services bancaires de base mentionnés au III de l'article L. 312-1 du même code.\""
       },
       "liens": [
-        "titre Ier du livre Ier du code électoral",
-        "article L. 612-31 du code monétaire et financier"
+        {
+          "texte": "titre Ier du livre Ier du code électoral"
+        },
+        {
+          "texte": "article L. 52-6",
+          "texte_complet": "article L. 52-6 code électoral"
+        },
+        {
+          "texte": "articles L. 52-5 et L. 52-6",
+          "texte_complet": "articles L. 52-5 et L. 52-6 code électoral"
+        },
+        {
+          "texte": "deuxième alinéa des articles L. 52-5 et L. 52-6",
+          "texte_complet": "deuxième alinéa des articles L. 52-5 et L. 52-6 code électoral"
+        },
+        {
+          "texte": "article L. 612-31 du code monétaire et financier"
+        }
       ],
       "order": 29,
       "section": "T5C2",
@@ -654,8 +944,9 @@
         "002": "\"La commission peut recourir à des magistrats, en activité ou honoraires, de la Cour des comptes et des chambres régionales des comptes, désignés par le Premier président de la Cour des comptes, après avis du président de la commission, pour l'assister dans l'exercice de sa mission de contrôle mentionnée à l'article 11-7 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique.\""
       },
       "liens": [
-        "neuvième alinéa de l'article L. 52-14 du code électoral",
-        "article 11-7 de la loi n° 88-227 du 11 mars 1988"
+        {
+          "texte": "neuvième alinéa de l'article L. 52-14 du code électoral"
+        }
       ],
       "order": 30,
       "section": "T5C2 bis",
@@ -681,9 +972,12 @@
         "014": "\"VII. - (Supprimé)\"."
       },
       "liens": [
-        "titre III de la loi n° 88-227 du 11 mars 1988",
-        "articles 2 et 4 de la Constitution",
-        "article L. 511-33 du code monétaire et financier"
+        {
+          "texte": "articles 2 et 4 de la Constitution"
+        },
+        {
+          "texte": "article L. 511-33 du code monétaire et financier"
+        }
       ],
       "order": 31,
       "section": "T5C3",
@@ -697,8 +991,9 @@
         "002": "\"<table><tbody><tr><td>Médiateur du financement des candidats et des partis politiques</td><td>Commission compétente en matière de lois électorales</td></tr></tbody></table>\"."
       },
       "liens": [
-        "loi n° 2010-838 du 23 juillet 2010",
-        "cinquième alinéa de l'article 13 de la Constitution"
+        {
+          "texte": "cinquième alinéa de l'article 13 de la Constitution"
+        }
       ],
       "order": 32,
       "section": "T5C3",
@@ -728,9 +1023,13 @@
         "018": "IV. - Le présent article est applicable en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie."
       },
       "liens": [
-        "1° du I de l'article 11 de la loi n° 2013-907 du 11 octobre 2013",
-        "loi n° 77-729 du 7 juillet 1977",
-        "code électoral"
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "premier alinéa de l'article 26",
+          "texte_complet": "premier alinéa de l'article 26 code électoral"
+        }
       ],
       "order": 33,
       "section": "T6",
@@ -749,8 +1048,35 @@
         "007": "V. - Le présent article est applicable en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie."
       },
       "liens": [
-        "III de l'article 4 de la loi n° 2013-907 du 11 octobre 2013",
-        "code électoral"
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "article 4",
+          "texte_complet": "article 4 code électoral"
+        },
+        {
+          "texte": "article 6",
+          "texte_complet": "article 6 code électoral"
+        },
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "article 4",
+          "texte_complet": "article 4 code électoral"
+        },
+        {
+          "texte": "article 6",
+          "texte_complet": "article 6 code électoral"
+        },
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "article 5",
+          "texte_complet": "article 5 code électoral"
+        }
       ],
       "order": 34,
       "section": "T6",
@@ -768,7 +1094,9 @@
         "006": "b) Les deuxième et dernière phrases sont supprimées."
       },
       "liens": [
-        "article L. 2334-37 du code général des collectivités territoriales"
+        {
+          "texte": "article L. 2334-37 du code général des collectivités territoriales"
+        }
       ],
       "order": 35,
       "section": "T6",

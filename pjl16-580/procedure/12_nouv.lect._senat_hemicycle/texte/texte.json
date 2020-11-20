@@ -20,10 +20,7 @@
         "016": "2° À la fin de l'article 4, la référence : \"loi organique n° 2016-506 du 25 avril 2016 de modernisation des règles applicables à l'élection présidentielle\" est remplacée par la référence : \"loi organique n° du pour la confiance dans la vie politique\".",
         "017": "II. - À la fin du deuxième alinéa du 2° du I de l'article 3 de la loi organique n° 2016-1047 du 1er août 2016 rénovant les modalités d'inscription sur les listes électorales des Français établis hors de France, la référence : \"loi n° 2016-1048 du 1er août 2016 rénovant les modalités d'inscription sur les listes électorales\" est remplacée par la référence : \"loi organique n° du pour la confiance dans la vie politique\"."
       },
-      "liens": [
-        "loi n° 62-1292 du 6 novembre 1962",
-        "deuxième alinéa du 2° du I de l'article 3 de la loi organique n° 2016-1047 du 1er août 2016"
-      ],
+      "liens": [],
       "order": 1,
       "section": "T1",
       "statut": "none",
@@ -36,8 +33,9 @@
         "002": "\"À moins que l'intéressé n'ait repris auparavant une activité rémunérée, cette indemnité est versée pendant une durée maximale de trois mois, sans que cette durée excède celle des fonctions gouvernementales.\""
       },
       "liens": [
-        "deuxième alinéa de l'article 5 de l'ordonnance n° 58-1099 du 17 novembre 1958",
-        "article 23 de la Constitution"
+        {
+          "texte": "article 23 de la Constitution"
+        }
       ],
       "order": 2,
       "section": "T1 bis",
@@ -58,7 +56,9 @@
         "009": "3° Au premier alinéa des articles L. O. 176, L. O. 178 et L. O. 319, la référence : \"de l'article L. O. 136-1\" est remplacée par les références : \"des articles L. O. 136-1 ou L. O. 136-4\"."
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 3,
       "section": "T2C1",
@@ -74,7 +74,9 @@
         "004": "II. - Le I est applicable en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie."
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 4,
       "section": "T2C1",
@@ -87,7 +89,9 @@
         "001": "Le 5° du III de l'article L. O. 135-1 du code électoral est complété par les mots : \", ainsi que les participations directes ou indirectes qui confèrent le contrôle d'une société, d'une entreprise ou d'un organisme dont l'activité consiste principalement dans la fourniture de prestations de conseil\"."
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 5,
       "section": "T2C2",
@@ -101,7 +105,9 @@
         "002": "\"8° Les sociétés, entreprises ou organismes dont l'activité consiste principalement à fournir des prestations de conseil aux sociétés, entreprises, établissements ou organismes mentionnés aux 1° à 7°.\""
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 6,
       "section": "T2C2",
@@ -119,7 +125,9 @@
         "006": "\"4° (Supprimé)\"."
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 7,
       "section": "T2C2",
@@ -136,7 +144,9 @@
         "005": "\"2° Dont l'activité consiste principalement dans la fourniture de prestations de conseil aux sociétés, entreprises, établissements ou organismes mentionnés aux 1° à 7° de l'article L. O. 146.\""
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 8,
       "section": "T2C2",
@@ -150,7 +160,9 @@
         "002": "\"Art. L. O. 146-3. - Il est interdit à tout député d'exercer l'activité de représentant d'intérêts à titre individuel ou au sein des personnes morales, établissements, groupements ou organismes inscrits au répertoire des représentants d'intérêts rendu public par la Haute Autorité pour la transparence de la vie publique.\""
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 9,
       "section": "T2C2",
@@ -166,7 +178,9 @@
         "004": "\"Au plus tard trois mois après son entrée en fonction ou, en cas de contestation de son élection, la date de la décision du Conseil constitutionnel, le député qui se trouve dans un des cas d'incompatibilité mentionnés aux 1° et 2° de l'article L. O. 146-2 met fin à la situation d'incompatibilité soit en cédant tout ou partie de la participation, soit en prenant les dispositions nécessaires pour que tout ou partie de celle-ci soit gérée, pendant la durée de son mandat, dans des conditions excluant tout droit de regard de sa part.\""
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 10,
       "section": "T2C2",
@@ -182,7 +196,9 @@
         "004": "3° À la seconde phrase, après le mot : \"exercées\", sont insérés les mots : \"ou des participations détenues\"."
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 11,
       "section": "T2C2",
@@ -199,10 +215,9 @@
         "005": "III. - Le 2° de l'article 1er de l'ordonnance n° 58-1066 du 7 novembre 1958 portant loi organique autorisant exceptionnellement les parlementaires à déléguer leur droit de vote est abrogé."
       },
       "liens": [
-        "code électoral",
-        "loi organique n° 2011-333 du 29 mars 2011",
-        "II de l'article 2 de la loi organique n° 2013-906 du 11 octobre 2013",
-        "2° de l'article 1er de l'ordonnance n° 58-1066 du 7 novembre 1958"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 12,
       "section": "T2C2",
@@ -221,7 +236,12 @@
         "007": "II. - Les députés et sénateurs qui se trouvent, à la date d'entrée en vigueur de la présente loi organique, dans le cas d'incompatibilité prévu au II de l'article L. O. 145 du code électoral, dans sa rédaction résultant du 1° du I du présent article, peuvent continuer à exercer leurs fonctions au sein d'une institution ou d'un organisme extérieur pour la durée pour laquelle ils ont été désignés."
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 13,
       "section": "T2C2",
@@ -264,10 +284,7 @@
         "031": "4° Le 9° de l'article 54 est abrogé à compter du 1er janvier 2024.",
         "032": "II. - Le présent article entre en vigueur le 1er septembre 2017."
       },
-      "liens": [
-        "loi organique n° 2001-692 du 1er août 2001",
-        "loi du 1er juillet 1901"
-      ],
+      "liens": [],
       "order": 14,
       "section": "T2C3",
       "statut": "none",
@@ -327,16 +344,30 @@
         "037": "III. - L'article 7-3 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature est abrogé."
       },
       "liens": [
-        "code électoral",
-        "article 10-1-2 de la loi organique n° 94-100 du 5 février 1994",
-        "articles 4 ou 11 de la loi n° 2013-907 du 11 octobre 2013",
-        "articles L. 131-10 ou L. 231-4-4 du code de justice administrative",
-        "articles L. 120-13 ou L. 220-11 du code des juridictions financières",
-        "articles 170 à 175 A du code général des impôts",
-        "livre des procédures fiscales",
-        "articles 131-26 et 131-26-1 du code pénal",
-        "article 226-1 du code pénal",
-        "article 7-3 de l'ordonnance n° 58-1270 du 22 décembre 1958"
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "articles L. 131-10 ou L. 231-4-4 du code de justice administrative"
+        },
+        {
+          "texte": "articles L. 120-13 ou L. 220-11 du code des juridictions financières"
+        },
+        {
+          "texte": "articles 170 à 175 A du code général des impôts"
+        },
+        {
+          "texte": "livre des procédures fiscales"
+        },
+        {
+          "texte": "articles 131-26 et 131-26-1 du code pénal"
+        },
+        {
+          "texte": "article 226-1 du code pénal"
+        }
       ],
       "order": 16,
       "section": "T2 bis",
@@ -357,8 +388,12 @@
         "009": "\"Le refus de communication des documents et renseignements mentionnés au même huitième alinéa ou tout comportement faisant obstacle à leur communication entraîne l'application d'une amende de 5 000 €. Cette amende s'applique pour chaque demande, dès lors que tout ou partie des documents ou renseignements sollicités n'est pas communiqué.\""
       },
       "liens": [
-        "code électoral",
-        "premier alinéa de l'article 1649 A du code général des impôts"
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "premier alinéa de l'article 1649 A du code général des impôts"
+        }
       ],
       "order": 17,
       "section": "T2 bis",
@@ -372,8 +407,9 @@
         "002": "\"<table><tbody><tr><td>Médiateur du crédit aux candidats et aux partis politiques</td><td>Médiateur</td></tr></tbody></table>\""
       },
       "liens": [
-        "loi organique n° 2010-837 du 23 juillet 2010",
-        "cinquième alinéa de l'article 13 de la Constitution"
+        {
+          "texte": "cinquième alinéa de l'article 13 de la Constitution"
+        }
       ],
       "order": 18,
       "section": "T3",
@@ -389,7 +425,13 @@
         "004": "L'administration fiscale dispose d'un délai de trois mois à compter de l'entrée en vigueur de l'article 2 de la présente loi organique pour transmettre aux députés et aux sénateurs l'attestation prévue à l'article L. O. 136-4 du code électoral. Cette attestation constate la situation fiscale à la date d'application de l'article 2."
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "article 2",
+          "texte_complet": "article 2 code électoral"
+        }
       ],
       "order": 19,
       "section": "T4",
@@ -408,7 +450,24 @@
         "007": "V. - Les interdictions mentionnées au 2° de l'article L. O. 146-1 du code électoral et au 1° de l'article L. O. 146-2 du même code s'appliquent à tout député ou sénateur à compter du premier renouvellement de l'assemblée à laquelle il appartient suivant le 1er janvier 2019."
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 20,
       "section": "T4",
@@ -432,8 +491,9 @@
         "001": "L'administration fiscale compétente localement dans les collectivités d'outre-mer et en Nouvelle-Calédonie transmet, dans les mêmes conditions que l'administration fiscale compétente au niveau national, l'attestation prévue à l'article L. O. 136-4 du code électoral et à l'article 5-3 de la loi n° 77-729 du 7 juillet 1977 relative à l'élection des représentants au Parlement européen, au regard de la législation et de la réglementation applicables localement."
       },
       "liens": [
-        "code électoral",
-        "article 5-3 de la loi n° 77-729 du 7 juillet 1977"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 22,
       "section": "T4",
@@ -448,8 +508,9 @@
         "003": "III. - Les I et II entrent en vigueur le 1er janvier 2018."
       },
       "liens": [
-        "code général des collectivités territoriales",
-        "premier alinéa du XIII de l'article 159 de la loi organique n° 2004-192 du 27 février 2004"
+        {
+          "texte": "code général des collectivités territoriales"
+        }
       ],
       "order": 23,
       "section": "T4",
@@ -489,15 +550,7 @@
         "028": "VI. - Les membres d'une assemblée de province ou du congrès auxquels l'interdiction prévue au V de l'article 196 de la loi organique n° 99-209 du 19 mars 1999 précitée, dans sa rédaction antérieure à l'entrée en vigueur du présent article, n'était pas applicable en vertu du second alinéa du même article 196, dans cette même rédaction, ne peuvent commencer à exercer une fonction de conseil qui n'était pas la leur avant la publication de la présente loi organique.",
         "029": "VII. - Les interdictions mentionnées au 2° du V et au 1° du V bis de l'article 196 de la loi organique n° 99-209 du 19 mars 1999 précitée s'appliquent à tout membre d'une assemblée de province ou du congrès à compter du premier renouvellement de l'assemblée à laquelle il appartient suivant le 1er janvier 2019."
       },
-      "liens": [
-        "chapitre IV du titre V de la loi organique n° 99-209 du 19 mars 1999",
-        "cinquième alinéa de l'article 197 de la loi organique n° 99-209 du 19 mars 1999",
-        "d du 8° du I de l'article 196 de la loi organique n° 99-209 du 19 mars 1999",
-        "V et V bis de l'article 196 de la loi organique n° 99-209 du 19 mars 1999",
-        "3° du V et au 2° du V bis de l'article 196 de la loi organique n° 99-209 du 19 mars 1999",
-        "V de l'article 196 de la loi organique n° 99-209 du 19 mars 1999",
-        "2° du V et au 1° du V bis de l'article 196 de la loi organique n° 99-209 du 19 mars 1999"
-      ],
+      "liens": [],
       "order": 24,
       "section": "T4",
       "statut": "none",
@@ -569,10 +622,23 @@
         "061": "\"Le III et le présent IV s'appliquent sans préjudice des articles 432-10 à 432-13 et 432-15 du code pénal.\""
       },
       "liens": [
-        "loi organique n° 99-209 du 19 mars 1999",
-        "II de l'article 110 de la loi n° 84-53 du 26 janvier 1984",
-        "article 2 de la loi n° 2013-907 du 11 octobre 2013",
-        "articles 432-10 à 432-13 et 432-15 du code pénal"
+        {
+          "texte": "articles 432-10 à 432-13 et 432-15 du code pénal"
+        },
+        {
+          "texte": "article 114",
+          "texte_complet": "article 114 code pénal"
+        },
+        {
+          "texte": "articles 432-10 à 432-13 et 432-15 du code pénal"
+        },
+        {
+          "texte": "article 161",
+          "texte_complet": "article 161 code pénal"
+        },
+        {
+          "texte": "articles 432-10 à 432-13 et 432-15 du code pénal"
+        }
       ],
       "order": 25,
       "section": "T4",
@@ -625,10 +691,16 @@
         "041": "\"Le III et le présent IV s'appliquent sans préjudice des articles 432-10 à 432-13 et 432-15 du code pénal.\""
       },
       "liens": [
-        "loi organique n° 2004-192 du 27 février 2004",
-        "II de l'article 110 de la loi n° 84-53 du 26 janvier 1984",
-        "article 2 de la loi n° 2013-907 du 11 octobre 2013",
-        "articles 432-10 à 432-13 et 432-15 du code pénal"
+        {
+          "texte": "articles 432-10 à 432-13 et 432-15 du code pénal"
+        },
+        {
+          "texte": "article 129",
+          "texte_complet": "article 129 code pénal"
+        },
+        {
+          "texte": "articles 432-10 à 432-13 et 432-15 du code pénal"
+        }
       ],
       "order": 26,
       "section": "T4",
@@ -668,15 +740,7 @@
         "028": "VI. - Les représentants à l'assemblée de la Polynésie française auxquels l'interdiction prévue au V de l'article 111 de la loi organique n° 2004-192 du 27 février 2004 précitée, dans sa rédaction antérieure à la présente loi organique, n'était pas applicable en vertu du second alinéa du V du même article 111 dans cette même rédaction, ne peuvent commencer à exercer une fonction de conseil qui n'était pas la leur avant la publication de la présente loi organique.",
         "029": "VII. - Les interdictions mentionnées au 2° du V et au 1° du V bis de l'article 111 de la loi organique n° 2004-192 du 27 février 2004 précitée s'appliquent à tout représentant à l'assemblée de la Polynésie française à compter du premier renouvellement de cette assemblée suivant le 1er janvier 2019."
       },
-      "liens": [
-        "section 1 du chapitre II du titre IV de la loi organique n° 2004-192 du 27 février 2004",
-        "cinquième alinéa du II de l'article 112 de la loi organique n°2004-192 du 27 février 2004",
-        "d du 8° de l'article 111 de la loi organique n° 2004-192 du 27 février 2004",
-        "V et V bis de l'article 111 de la loi organique n° 2004-192 du 27 février 2004",
-        "3° du V et au 2° du V bis de l'article 111 de la loi organique n° 2004-192 du 27 février 2004",
-        "V de l'article 111 de la loi organique n° 2004-192 du 27 février 2004",
-        "2° du V et au 1° du V bis de l'article 111 de la loi organique n° 2004-192 du 27 février 2004"
-      ],
+      "liens": [],
       "order": 27,
       "section": "T4",
       "statut": "none",

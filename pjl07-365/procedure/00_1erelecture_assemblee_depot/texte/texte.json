@@ -6,7 +6,9 @@
         "002": "\"Des droits particuliers peuvent être reconnus par la loi aux partis et groupements politiques qui n'ont pas déclaré soutenir le Gouvernement.\""
       },
       "liens": [
-        "article 4 de la Constitution"
+        {
+          "texte": "article 4 de la Constitution"
+        }
       ],
       "order": 1,
       "statut": "none",
@@ -19,7 +21,9 @@
         "002": "\"Nul ne peut accomplir plus de deux mandats consécutifs.\""
       },
       "liens": [
-        "premier alinéa de l'article 6 de la Constitution"
+        {
+          "texte": "premier alinéa de l'article 6 de la Constitution"
+        }
       ],
       "order": 2,
       "statut": "none",
@@ -32,7 +36,9 @@
         "002": "\"Une loi organique fixe le nombre maximum des ministres et celui des autres membres du Gouvernement.\""
       },
       "liens": [
-        "article 8 de la Constitution"
+        {
+          "texte": "article 8 de la Constitution"
+        }
       ],
       "order": 3,
       "statut": "none",
@@ -45,7 +51,9 @@
         "002": "\"Une loi organique détermine les emplois, autres que ceux mentionnés au troisième alinéa, pour lesquels, en raison de leur importance pour la garantie des droits et libertés ou la vie économique et sociale de la Nation, le pouvoir de nomination du Président de la République s'exerce après avis d'une commission constituée de membres des deux assemblées du Parlement. Elle détermine la composition de cette commission ainsi que les modalités selon lesquelles son avis est rendu.\""
       },
       "liens": [
-        "article 13 de la Constitution"
+        {
+          "texte": "article 13 de la Constitution"
+        }
       ],
       "order": 4,
       "statut": "none",
@@ -58,7 +66,9 @@
         "002": "\"Après trente jours d'exercice des pouvoirs exceptionnels, le Conseil constitutionnel peut être saisi par le président de l'Assemblée nationale, le président du Sénat, soixante députés ou soixante sénateurs, aux fins d'examiner si les conditions énoncées au premier alinéa demeurent réunies. Il se prononce dans les délais les plus brefs par un avis public. Il procède de plein droit à cet examen et se prononce dans les mêmes conditions au terme de soixante jours d'exercice des pouvoirs exceptionnels et à tout moment au-delà de cette durée.\""
       },
       "liens": [
-        "article 16 de la Constitution"
+        {
+          "texte": "article 16 de la Constitution"
+        }
       ],
       "order": 5,
       "statut": "none",
@@ -71,7 +81,9 @@
         "002": "\"Art. 17. - Le Président de la République a le droit de faire grâce à titre individuel. Il exerce ce droit après avis d'une commission dont la composition est fixée par la loi.\""
       },
       "liens": [
-        "article 17 de la Constitution"
+        {
+          "texte": "article 17 de la Constitution"
+        }
       ],
       "order": 6,
       "statut": "none",
@@ -84,7 +96,9 @@
         "002": "\"Il peut prendre la parole devant le Parlement réuni à cet effet en Congrès ou devant l'une ou l'autre de ses assemblées. Sa déclaration peut donner lieu, hors sa présence, à un débat qui n'est suivi d'aucun vote.\""
       },
       "liens": [
-        "premier alinéa de l'article 18 de la Constitution"
+        {
+          "texte": "premier alinéa de l'article 18 de la Constitution"
+        }
       ],
       "order": 7,
       "statut": "none",
@@ -99,7 +113,13 @@
         "004": "\"Il met en oeuvre les décisions prises au titre de l'article 15 en matière de défense nationale.\""
       },
       "liens": [
-        "article 21 de la Constitution"
+        {
+          "texte": "article 21 de la Constitution"
+        },
+        {
+          "texte": "article 15",
+          "texte_complet": "article 15 constitution"
+        }
       ],
       "order": 8,
       "statut": "none",
@@ -116,7 +136,9 @@
         "006": "Les Français établis hors de France sont représentés à l'Assemblée nationale et au Sénat.\""
       },
       "liens": [
-        "article 24 de la Constitution"
+        {
+          "texte": "article 24 de la Constitution"
+        }
       ],
       "order": 9,
       "statut": "none",
@@ -131,7 +153,9 @@
         "004": "\"Une commission indépendante, dont la loi fixe les règles d'organisation et de fonctionnement, se prononce par un avis public sur les projets et propositions tendant à délimiter les circonscriptions pour l'élection des députés ou des sénateurs ou à répartir les sièges entre elles.\""
       },
       "liens": [
-        "article 25 de la Constitution"
+        {
+          "texte": "article 25 de la Constitution"
+        }
       ],
       "order": 10,
       "statut": "none",
@@ -144,7 +168,9 @@
         "002": "\"Des lois de programmation déterminent les objectifs de l'action de l'État.\""
       },
       "liens": [
-        "article 34 de la Constitution"
+        {
+          "texte": "article 34 de la Constitution"
+        }
       ],
       "order": 11,
       "statut": "none",
@@ -157,7 +183,9 @@
         "002": "\"Art. 34-1. - Les assemblées peuvent voter des résolutions dans les conditions fixées par leur règlement.\""
       },
       "liens": [
-        "article 34 de la Constitution"
+        {
+          "texte": "article 34 de la Constitution"
+        }
       ],
       "order": 12,
       "statut": "none",
@@ -172,7 +200,9 @@
         "004": "\"Si le Parlement n'est pas en session à l'expiration du délai de six mois, il se prononce à l'ouverture de la session suivante.\""
       },
       "liens": [
-        "article 35 de la Constitution"
+        {
+          "texte": "article 35 de la Constitution"
+        }
       ],
       "order": 13,
       "statut": "none",
@@ -185,7 +215,9 @@
         "002": "\"Dans les conditions prévues par la loi, le président d'une assemblée peut soumettre pour avis au Conseil d'État, en vue de son examen en commission, une proposition de loi déposée par l'un des membres de cette assemblée.\""
       },
       "liens": [
-        "article 39 de la Constitution"
+        {
+          "texte": "article 39 de la Constitution"
+        }
       ],
       "order": 14,
       "statut": "none",
@@ -197,7 +229,9 @@
         "001": "Au premier alinéa de l'article 41 de la Constitution, les mots : \"ou le président de l'assemblée saisie\" sont insérés après les mots : \"le Gouvernement\"."
       },
       "liens": [
-        "premier alinéa de l'article 41 de la Constitution"
+        {
+          "texte": "premier alinéa de l'article 41 de la Constitution"
+        }
       ],
       "order": 15,
       "statut": "none",
@@ -213,7 +247,17 @@
         "005": "\"Les dispositions de l'alinéa précédent ne s'appliquent pas si l'urgence a été déclarée dans les conditions prévues à l'article 45. Elles ne s'appliquent pas non plus aux lois de finances, aux lois de financement de la sécurité sociale et aux lois relatives aux états de crise.\""
       },
       "liens": [
-        "article 42 de la Constitution"
+        {
+          "texte": "article 42 de la Constitution"
+        },
+        {
+          "texte": "article 43",
+          "texte_complet": "article 43 constitution"
+        },
+        {
+          "texte": "article 45",
+          "texte_complet": "article 45 constitution"
+        }
       ],
       "order": 16,
       "statut": "none",
@@ -225,7 +269,9 @@
         "001": "Au second alinéa de l'article 43 de la Constitution, le mot : \"six\" est remplacé par le mot : \"huit\"."
       },
       "liens": [
-        "second alinéa de l'article 43 de la Constitution"
+        {
+          "texte": "second alinéa de l'article 43 de la Constitution"
+        }
       ],
       "order": 17,
       "statut": "none",
@@ -238,7 +284,9 @@
         "002": "\"Ce droit s'exerce en séance ou en commission selon les conditions et limites fixées par les règlements des assemblées, dans le cadre déterminé par une loi organique.\""
       },
       "liens": [
-        "premier alinéa de l'article 44 de la Constitution"
+        {
+          "texte": "premier alinéa de l'article 44 de la Constitution"
+        }
       ],
       "order": 18,
       "statut": "none",
@@ -250,7 +298,9 @@
         "001": "Au deuxième alinéa de l'article 45 de la Constitution, les mots : \"ou, si le Gouvernement a déclaré l'urgence\" sont remplacés par les mots : \"ou, si le Gouvernement a déclaré l'urgence sans que les conférences des présidents des deux assemblées s'y soient conjointement opposées\"."
       },
       "liens": [
-        "deuxième alinéa de l'article 45 de la Constitution"
+        {
+          "texte": "deuxième alinéa de l'article 45 de la Constitution"
+        }
       ],
       "order": 19,
       "statut": "none",
@@ -263,7 +313,17 @@
         "002": "\"Le projet ou la proposition ne peut, en première lecture, être soumis à la délibération et au vote des assemblées qu'à l'expiration des délais fixés au troisième alinéa de l'article 42. Toutefois, si l'urgence a été déclarée dans les conditions prévues à l'article 45, le projet ou la proposition peut être soumis à la délibération de la première assemblée saisie à l'expiration d'un délai de quinze jours après son dépôt.\""
       },
       "liens": [
-        "deuxième alinéa de l'article 46 de la Constitution"
+        {
+          "texte": "deuxième alinéa de l'article 46 de la Constitution"
+        },
+        {
+          "texte": "troisième alinéa de l'article 42",
+          "texte_complet": "troisième alinéa de l'article 42 constitution"
+        },
+        {
+          "texte": "article 45",
+          "texte_complet": "article 45 constitution"
+        }
       ],
       "order": 20,
       "statut": "none",
@@ -277,8 +337,12 @@
         "003": "\"Art. 47-2. - La Cour des comptes assiste le Parlement dans le contrôle de l'action du Gouvernement. Elle assiste le Parlement et le Gouvernement dans le contrôle de l'exécution des lois de finances et de l'application des lois de financement de la sécurité sociale. Elle contribue à l'évaluation des politiques publiques.\""
       },
       "liens": [
-        "dernier alinéa des articles 47 et 47-1 de la Constitution",
-        "article 47-1 de la Constitution"
+        {
+          "texte": "dernier alinéa des articles 47 et 47-1 de la Constitution"
+        },
+        {
+          "texte": "article 47-1 de la Constitution"
+        }
       ],
       "order": 21,
       "statut": "none",
@@ -295,7 +359,21 @@
         "006": "\"Une séance par semaine au moins, y compris pendant les sessions extraordinaires prévues à l'article 29, est réservée aux questions des membres du Parlement et aux réponses du Gouvernement.\""
       },
       "liens": [
-        "article 48 de la Constitution"
+        {
+          "texte": "article 48 de la Constitution"
+        },
+        {
+          "texte": "trois derniers alinéas de l'article 28",
+          "texte_complet": "trois derniers alinéas de l'article 28 constitution"
+        },
+        {
+          "texte": "article 35",
+          "texte_complet": "article 35 constitution"
+        },
+        {
+          "texte": "article 29",
+          "texte_complet": "article 29 constitution"
+        }
       ],
       "order": 22,
       "statut": "none",
@@ -310,7 +388,9 @@
         "004": "Le Premier ministre peut, en outre, recourir à cette procédure pour un autre texte par session.\""
       },
       "liens": [
-        "troisième alinéa de l'article 49 de la Constitution"
+        {
+          "texte": "troisième alinéa de l'article 49 de la Constitution"
+        }
       ],
       "order": 23,
       "statut": "none",
@@ -323,7 +403,9 @@
         "002": "\"Art. 51-1. - Le règlement de chaque assemblée détermine les droits respectifs des groupes parlementaires selon qu'ils ont ou non déclaré soutenir le Gouvernement.\""
       },
       "liens": [
-        "article 51 de la Constitution"
+        {
+          "texte": "article 51 de la Constitution"
+        }
       ],
       "order": 24,
       "statut": "none",
@@ -346,7 +428,9 @@
         "002": "\"Art. 61-1. - Lorsque, à l'occasion d'une instance en cours devant une juridiction, il est soutenu qu'une disposition législative promulguée postérieurement à l'entrée en vigueur de la présente Constitution porte atteinte aux droits et libertés que celle-ci garantit, le Conseil constitutionnel peut être saisi de cette question sur renvoi du Conseil d'État ou de la Cour de cassation, dans les conditions et sous les réserves fixées par une loi organique.\""
       },
       "liens": [
-        "article 61 de la Constitution"
+        {
+          "texte": "article 61 de la Constitution"
+        }
       ],
       "order": 26,
       "statut": "none",
@@ -360,7 +444,17 @@
         "003": "\"Une disposition déclarée inconstitutionnelle sur le fondement de l'article 61-1 est abrogée à compter de la publication de la décision du Conseil constitutionnel ou d'une date ultérieure fixée par cette décision. Le Conseil constitutionnel détermine les conditions et limites dans lesquelles les effets que la disposition a produits sont susceptibles d'être remis en cause.\""
       },
       "liens": [
-        "premier alinéa de l'article 62 de la Constitution"
+        {
+          "texte": "premier alinéa de l'article 62 de la Constitution"
+        },
+        {
+          "texte": "article 61",
+          "texte_complet": "article 61 constitution"
+        },
+        {
+          "texte": "article 61-1",
+          "texte_complet": "article 61-1 constitution"
+        }
       ],
       "order": 27,
       "statut": "none",
@@ -379,7 +473,13 @@
         "008": "\"Une loi organique détermine les conditions d'application du présent article.\""
       },
       "liens": [
-        "article 65 de la Constitution"
+        {
+          "texte": "article 65 de la Constitution"
+        },
+        {
+          "texte": "dernier alinéa de l'article 13",
+          "texte_complet": "dernier alinéa de l'article 13 constitution"
+        }
       ],
       "order": 28,
       "statut": "none",
@@ -392,7 +492,9 @@
         "002": "\"Le Conseil économique et social peut être saisi par voie de pétition dans les conditions fixées par une loi organique. Après examen de la pétition, il fait connaître au Gouvernement et au Parlement les suites qu'il propose d'y donner.\""
       },
       "liens": [
-        "article 69 de la Constitution"
+        {
+          "texte": "article 69 de la Constitution"
+        }
       ],
       "order": 29,
       "statut": "none",
@@ -405,7 +507,9 @@
         "002": "\"Art. 70. - Le Conseil économique et social peut être également consulté par le Gouvernement sur tout problème de caractère économique ou social ou sur toute question relative à l'environnement. Tout plan ou tout projet de loi de programmation à caractère économique ou social lui est soumis pour avis.\""
       },
       "liens": [
-        "article 70 de la Constitution"
+        {
+          "texte": "article 70 de la Constitution"
+        }
       ],
       "order": 30,
       "statut": "none",
@@ -420,7 +524,13 @@
         "004": "\"Le Défenseur des droits des citoyens est nommé par le Président de la République pour un mandat de six ans non renouvelable après application de la procédure prévue au dernier alinéa de l'article 13. Ses fonctions sont incompatibles avec celles de membre du Gouvernement et de membre du Parlement. Les autres incompatibilités sont fixées par la loi organique.\""
       },
       "liens": [
-        "titre XI de la Constitution"
+        {
+          "texte": "titre XI de la Constitution"
+        },
+        {
+          "texte": "dernier alinéa de l'article 13",
+          "texte_complet": "dernier alinéa de l'article 13 constitution"
+        }
       ],
       "order": 31,
       "statut": "none",
@@ -435,7 +545,9 @@
         "004": "\"Au sein de chaque assemblée parlementaire est institué un comité chargé des affaires européennes.\""
       },
       "liens": [
-        "article 88-4 de la Constitution"
+        {
+          "texte": "article 88-4 de la Constitution"
+        }
       ],
       "order": 32,
       "statut": "none",
@@ -448,7 +560,13 @@
         "002": "\"Art. 88-5. - Tout projet de loi autorisant la ratification d'un traité relatif à l'adhésion d'un État à l'Union européenne et aux Communautés européennes est adopté selon la procédure prévue aux deuxième et troisième alinéas de l'article 89.\""
       },
       "liens": [
-        "article 88-5 de la Constitution"
+        {
+          "texte": "article 88-5 de la Constitution"
+        },
+        {
+          "texte": "article 89",
+          "texte_complet": "article 89 constitution"
+        }
       ],
       "order": 33,
       "statut": "none",
@@ -464,11 +582,21 @@
         "005": "IV. - Les dispositions de l'article 25 de la Constitution relatives au caractère temporaire du remplacement des députés et sénateurs acceptant des fonctions gouvernementales, dans leur rédaction résultant de la présente loi constitutionnelle, s'appliquent aux députés et sénateurs ayant accepté de telles fonctions antérieurement à la date d'entrée en vigueur de la loi organique prévue à cet article si, à cette même date, ils exercent encore ces fonctions et que le mandat parlementaire pour lequel ils avaient été élus n'est pas encore expiré."
       },
       "liens": [
-        "articles 39, 44, 61-1, 65, 69 et 71-1 de la Constitution",
-        "articles 34-1, 41, 42, 43, 45, 46, 48 et 49 de la Constitution",
-        "articles 42, 45 et 46 de la Constitution",
-        "article 24 de la Constitution",
-        "article 25 de la Constitution"
+        {
+          "texte": "articles 39, 44, 61-1, 65, 69 et 71-1 de la Constitution"
+        },
+        {
+          "texte": "articles 34-1, 41, 42, 43, 45, 46, 48 et 49 de la Constitution"
+        },
+        {
+          "texte": "articles 42, 45 et 46 de la Constitution"
+        },
+        {
+          "texte": "article 24 de la Constitution"
+        },
+        {
+          "texte": "article 25 de la Constitution"
+        }
       ],
       "order": 34,
       "statut": "none",
@@ -484,10 +612,26 @@
         "005": "III. - Les dispositions de l'article 88-5 de la Constitution, dans leur rédaction résultant tant de l'article 33 de la présente loi que du 2° du I du présent article, ne sont pas applicables aux adhésions faisant suite à une conférence intergouvernementale dont la convocation a été décidée par le Conseil européen avant le 1er juillet 2004."
       },
       "liens": [
-        "titre XV de la Constitution",
-        "article 4 de la loi constitutionnelle n° 2005-204 du 1er mars 2005",
-        "3° et 4° de l'article 2 de la loi constitutionnelle n° 2008-103 du 4 février 2008",
-        "article 88-5 de la Constitution"
+        {
+          "texte": "titre XV de la Constitution"
+        },
+        {
+          "texte": "article 88-4",
+          "texte_complet": "article 88-4 constitution"
+        },
+        {
+          "texte": "article 88-5",
+          "texte_complet": "article 88-5 constitution"
+        },
+        {
+          "texte": "titre XV de la Constitution"
+        },
+        {
+          "texte": "titre XV de la Constitution"
+        },
+        {
+          "texte": "article 88-5 de la Constitution"
+        }
       ],
       "order": 35,
       "statut": "none",

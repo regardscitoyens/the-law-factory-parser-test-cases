@@ -6,10 +6,12 @@
         "002": "II. - L'ordonnance n° 2011-204 du 24 février 2011 relative au code des transports est ratifiée."
       },
       "liens": [
-        "ordonnance n° 2010-1307 du 28 octobre 2010",
-        "partie législative du code des transports",
-        "ordonnance n° 2011-204 du 24 février 2011",
-        "code des transports"
+        {
+          "texte": "partie législative du code des transports"
+        },
+        {
+          "texte": "code des transports"
+        }
       ],
       "order": 1,
       "statut": "none",
@@ -52,10 +54,30 @@
         "032": "\"Art. L. 1114-5. - En cas de perturbation du trafic aérien liée à une grève dans une entreprise, un établissement ou une partie d'établissement entrant dans le champ d'application du présent chapitre, tout passager a le droit de disposer d'une information gratuite, précise et fiable sur l'activité assurée. Cette information doit être délivrée aux passagers par l'entreprise de transport aérien au plus tard vingt-quatre heures avant le début de la perturbation.\""
       },
       "liens": [
-        "code des transports",
-        "article L. 2512-1 du code du travail",
-        "article 226-13 du code pénal",
-        "articles L. 2523-4 à L. 2523-9 du code du travail"
+        {
+          "texte": "code des transports"
+        },
+        {
+          "texte": "article L. 2512-1 du code du travail"
+        },
+        {
+          "texte": "article L. 1114-4",
+          "texte_complet": "article L. 1114-4 code du travail"
+        },
+        {
+          "texte": "article L. 1114-1",
+          "texte_complet": "article L. 1114-1 code du travail"
+        },
+        {
+          "texte": "article 226-13 du code pénal"
+        },
+        {
+          "texte": "article L. 1114-3",
+          "texte_complet": "article L. 1114-3 code pénal"
+        },
+        {
+          "texte": "articles L. 2523-4 à L. 2523-9 du code du travail"
+        }
       ],
       "order": 2,
       "statut": "none",
@@ -68,7 +90,9 @@
         "002": "\"Elle est également applicable aux manquements au règlement (CE) n° 1008/2008 du Parlement européen et du Conseil, du 24 septembre 2008, établissant des règles communes pour l'exploitation de services aériens dans la Communauté.\""
       },
       "liens": [
-        "deuxième alinéa de l'article L. 113-3 du code de la consommation"
+        {
+          "texte": "deuxième alinéa de l'article L. 113-3 du code de la consommation"
+        }
       ],
       "order": 3,
       "statut": "none",
@@ -81,7 +105,13 @@
         "002": "\"6° De l'article 23 du règlement (CE) n° 1008/2008 du Parlement européen et du Conseil, du 24 septembre 2008, établissant des règles communes pour l'exploitation de services aériens dans la Communauté.\""
       },
       "liens": [
-        "III de l'article L. 141-1 du code de la consommation"
+        {
+          "texte": "III de l'article L. 141-1 du code de la consommation"
+        },
+        {
+          "texte": "article 23",
+          "texte_complet": "article 23 code de la consommation"
+        }
       ],
       "order": 4,
       "statut": "none",
@@ -99,7 +129,21 @@
         "007": "\"Cette sanction disciplinaire peut également être prise à l'encontre du salarié qui, de façon répétée, n'a pas informé son employeur de son intention de renoncer à participer à la grève ou de reprendre son service.\""
       },
       "liens": [
-        "code des transports"
+        {
+          "texte": "code des transports"
+        },
+        {
+          "texte": "article L. 1324-7",
+          "texte_complet": "article L. 1324-7 code des transports"
+        },
+        {
+          "texte": "article L. 1324-8",
+          "texte_complet": "article L. 1324-8 code des transports"
+        },
+        {
+          "texte": "article L. 1324-8",
+          "texte_complet": "article L. 1324-8 code des transports"
+        }
       ],
       "order": 5,
       "statut": "none",

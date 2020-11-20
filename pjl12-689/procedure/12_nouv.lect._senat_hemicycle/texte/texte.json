@@ -23,7 +23,9 @@
         "008": "Un décret en Conseil d'État fixe les modalités d'application du présent article ainsi que les conditions dans lesquelles il s'applique aux membres du Gouvernement."
       },
       "liens": [
-        "deuxième alinéa de l'article 432-12 du code pénal"
+        {
+          "texte": "deuxième alinéa de l'article 432-12 du code pénal"
+        }
       ],
       "order": 2,
       "section": "C1S1",
@@ -36,9 +38,7 @@
         "001": "Après l'article 4 ter de l'ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires, il est inséré un article 4 quater ainsi rédigé :",
         "002": "\"Art. 4 quater. - Le Bureau de chaque assemblée, après consultation de l'organe chargé de la déontologie parlementaire, détermine des règles en matière de prévention et de traitement des conflits d'intérêts. Il veille à leur respect et en contrôle la mise en oeuvre.\""
       },
-      "liens": [
-        "article 4 ter de l'ordonnance n° 58-1100 du 17 novembre 1958"
-      ],
+      "liens": [],
       "order": 3,
       "section": "C1S1",
       "statut": "conforme",
@@ -84,7 +84,13 @@
         "035": "La même procédure est applicable en cas de déclaration incomplète ou lorsqu'il n'a pas été donné suite à une demande d'explications adressée par la Haute Autorité en application du II de l'article 13."
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "II de l'article 13",
+          "texte_complet": "II de l'article 13 code électoral"
+        }
       ],
       "order": 4,
       "section": "C1S2",
@@ -118,9 +124,7 @@
         "022": "IV. - Les informations contenues dans les déclarations d'intérêts rendues publiques conformément et dans les limites fixées au présent article sont réutilisables dans les conditions prévues aux articles 10 à 13 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal.",
         "023": "V. - Un décret en Conseil d'État, pris après avis de la Commission nationale de l'informatique et des libertés, précise les modalités d'application du présent article."
       },
-      "liens": [
-        "articles 10 à 13 de la loi n° 78-753 du 17 juillet 1978"
-      ],
+      "liens": [],
       "order": 5,
       "section": "C1S2",
       "statut": "none",
@@ -136,8 +140,12 @@
         "005": "Les agents de l'administration fiscale sont déliés du secret professionnel à l'égard des membres et des rapporteurs de la Haute Autorité, au titre des vérifications et contrôles qu'ils mettent en oeuvre pour l'application de la présente loi."
       },
       "liens": [
-        "articles 170 à 175 A du code général des impôts",
-        "livre des procédures fiscales"
+        {
+          "texte": "articles 170 à 175 A du code général des impôts"
+        },
+        {
+          "texte": "livre des procédures fiscales"
+        }
       ],
       "order": 6,
       "section": "C1S2",
@@ -175,7 +183,9 @@
         "002": "Les conditions d'application du présent article sont fixées par décret en Conseil d'État."
       },
       "liens": [
-        "livre des procédures fiscales"
+        {
+          "texte": "livre des procédures fiscales"
+        }
       ],
       "order": 9,
       "section": "C1S2",
@@ -225,11 +235,33 @@
         "024": "IV. - Le IV de l'article 3 et les articles 5 et 6 sont applicables aux personnes mentionnées au présent article. L'article 9 est applicable aux personnes mentionnées au présent article, à l'exclusion des personnes mentionnées au 1° A du I."
       },
       "liens": [
-        "article 72 de la Constitution",
-        "code électoral",
-        "article L. 421-1 du code de la construction et de l'habitation",
-        "titres XII et XIII de la Constitution",
-        "1° de l'article L. 1525-1 du code général des collectivités territoriales"
+        {
+          "texte": "article 72 de la Constitution"
+        },
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "article L. 421-1 du code de la construction et de l'habitation"
+        },
+        {
+          "texte": "titres XII et XIII de la Constitution"
+        },
+        {
+          "texte": "1° de l'article L. 1525-1 du code général des collectivités territoriales"
+        },
+        {
+          "texte": "IV de l'article 3",
+          "texte_complet": "IV de l'article 3 code général des collectivités territoriales"
+        },
+        {
+          "texte": "articles 5 et 6",
+          "texte_complet": "articles 5 et 6 code général des collectivités territoriales"
+        },
+        {
+          "texte": "article 9",
+          "texte_complet": "article 9 code général des collectivités territoriales"
+        }
       ],
       "order": 11,
       "section": "C1S2",
@@ -244,9 +276,7 @@
         "003": "II. - Les déclarations de situation patrimoniale établies par les personnes mentionnées au 1° du I de l'article 10, assorties des éventuelles observations de la personne concernée, sont rendues publiques par la Haute Autorité pour la transparence de la vie publique et publiées au Journal officiel dans les limites définies au III de l'article 4.",
         "004": "Le fait de publier ou de diffuser des informations mensongères ou délibérément inexactes relatives au contenu des déclarations de situation patrimoniale, ainsi qu'aux éventuelles observations qui les accompagnent, est puni de 7 500 € d'amende."
       },
-      "liens": [
-        "articles 10 à 13 de la loi n° 78-753 du 17 juillet 1978"
-      ],
+      "liens": [],
       "order": 12,
       "section": "C1S2",
       "statut": "none",
@@ -259,7 +289,9 @@
         "002": "\"Art. L. 52-8-1. - Aucun candidat ne peut utiliser, directement ou indirectement, les indemnités et les avantages en nature mis à disposition de leurs membres par les assemblées parlementaires pour couvrir les frais liés à l'exercice de leur mandat.\""
       },
       "liens": [
-        "article L. 52-8 du code électoral"
+        {
+          "texte": "article L. 52-8 du code électoral"
+        }
       ],
       "order": 13,
       "section": "C1S2 bis",
@@ -279,8 +311,15 @@
         "008": "\"Ces déclarations sont publiées au Journal officiel.\""
       },
       "liens": [
-        "article 9 de la loi n° 88-227 du 11 mars 1988",
-        "articles 73 ou 74 de la Constitution"
+        {
+          "texte": "articles 73 ou 74 de la Constitution"
+        },
+        {
+          "texte": "articles 73 ou 74 de la Constitution"
+        },
+        {
+          "texte": "articles 73 ou 74 de la Constitution"
+        }
       ],
       "order": 14,
       "section": "C1S2 bis",
@@ -331,7 +370,9 @@
         "006": "III. - À l'article 11-8 de la même loi, le mot : \"dernier\" est remplacé par le mot : \"deuxième\"."
       },
       "liens": [
-        "article 200 du code général des impôts"
+        {
+          "texte": "article 200 du code général des impôts"
+        }
       ],
       "order": 17,
       "section": "C1S2 bis",
@@ -344,7 +385,9 @@
         "001": "Le président de la Commission nationale des comptes de campagne et des financements politiques a l'obligation de déclarer au service mentionné à l'article L. 561-23 du code monétaire et financier, dès qu'il en a connaissance, les faits dont il soupçonne qu'ils sont en relation avec une infraction à la législation fiscale."
       },
       "liens": [
-        "article L. 561-23 du code monétaire et financier"
+        {
+          "texte": "article L. 561-23 du code monétaire et financier"
+        }
       ],
       "order": 18,
       "section": "C1S2 bis",
@@ -389,9 +432,7 @@
         "033": "V. - Un décret en Conseil d'État fixe les modalités d'application du présent article.",
         "034": "La Haute Autorité adopte un règlement général déterminant les autres règles d'organisation et de fonctionnement ainsi que les règles de procédure applicables devant elle."
       },
-      "liens": [
-        "loi du 10 août 1922"
-      ],
+      "liens": [],
       "order": 19,
       "section": "C1S3",
       "statut": "conformes",
@@ -413,7 +454,52 @@
         "011": "Elle peut charger un ou plusieurs de ses membres ou rapporteurs de procéder ou de faire procéder par les agents de ses services à des vérifications portant sur le contenu des déclarations prévues à l'article L. O. 135-1 du code électoral et aux articles 3 et 10 de la présente loi et sur les informations dont elle dispose."
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "article 2",
+          "texte_complet": "article 2 code électoral"
+        },
+        {
+          "texte": "articles 3 et 10",
+          "texte_complet": "articles 3 et 10 code électoral"
+        },
+        {
+          "texte": "article 9",
+          "texte_complet": "article 9 code électoral"
+        },
+        {
+          "texte": "article 15",
+          "texte_complet": "article 15 code électoral"
+        },
+        {
+          "texte": "1° du I de l'article 10",
+          "texte_complet": "1° du I de l'article 10 code électoral"
+        },
+        {
+          "texte": "articles 3 et 10",
+          "texte_complet": "articles 3 et 10 code électoral"
+        },
+        {
+          "texte": "articles 6, 9 et 15",
+          "texte_complet": "articles 6, 9 et 15 code électoral"
+        },
+        {
+          "texte": "articles 3 et 10",
+          "texte_complet": "articles 3 et 10 code électoral"
+        },
+        {
+          "texte": "articles 1er, 2, 3, 10 et 15",
+          "texte_complet": "articles 1er, 2, 3, 10 et 15 code électoral"
+        },
+        {
+          "texte": "articles 3, 10 et 15",
+          "texte_complet": "articles 3, 10 et 15 code électoral"
+        },
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 20,
       "section": "C1S3",
@@ -425,9 +511,7 @@
       "alineas": {
         "001": "Au 1° du I de l'article 6 de la loi n° 78-753 du 17 juillet 1978 précitée, après le mot : \"décision,\", sont insérés les mots : \"les documents élaborés ou détenus par la Haute Autorité pour la transparence de la vie publique dans le cadre des missions prévues à l'article 13 de la loi n° du relative à la transparence de la vie publique,\"."
       },
-      "liens": [
-        "1° du I de l'article 6 de la loi n° 78-753 du 17 juillet 1978"
-      ],
+      "liens": [],
       "order": 21,
       "section": "C1S3",
       "statut": "conforme",
@@ -489,11 +573,9 @@
         "007": "III. - Le présent article entre en vigueur le 1er janvier 2014."
       },
       "liens": [
-        "article 6 de la loi n° 77-729 du 7 juillet 1977",
-        "code électoral",
-        "deuxième alinéa de l'article 46 de la loi n° 84-16 du 11 janvier 1984",
-        "article 65 de la loi n° 84-53 du 26 janvier 1984",
-        "article 53 de la loi n° 86-33 du 9 janvier 1986"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 24,
       "section": "C1S4",
@@ -520,9 +602,19 @@
         "006": "IV. - Le fait de publier, hors les cas prévus par la présente loi, ou de divulguer, de quelque manière que ce soit, tout ou partie des déclarations, des informations ou des observations mentionnées aux articles L. O. 135-1 et L. O. 135-3 du code électoral et aux articles 3, 5 et 10 de la présente loi est puni des peines mentionnées à l'article 226-1 du code pénal."
       },
       "liens": [
-        "article 131-27 du code pénal",
-        "code électoral",
-        "article 226-1 du code pénal"
+        {
+          "texte": "article 131-27 du code pénal"
+        },
+        {
+          "texte": "articles 3, 10 ou 15",
+          "texte_complet": "articles 3, 10 ou 15 code pénal"
+        },
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "article 226-1 du code pénal"
+        }
       ],
       "order": 26,
       "section": "C2",
@@ -544,13 +636,77 @@
         "010": "\"Outre les peines complémentaires prévues à l'article L. 249-1, le tribunal peut également prononcer à titre de peine complémentaire, dans les cas prévus au présent article, l'interdiction des droits civiques, civils et de famille prévue à l'article 131-26 du code pénal.\""
       },
       "liens": [
-        "article 131-26 du code pénal",
-        "9° de l'article 324-7 du code pénal",
-        "1° de l'article 432-17 du code pénal",
-        "premier alinéa de l'article L. 117 du code électoral",
-        "code général des impôts",
-        "articles 131-26 et 131-26-1 du code pénal",
-        "articles L. 241-3 et L. 242-6 du code de commerce"
+        {
+          "texte": "article 131-26 du code pénal"
+        },
+        {
+          "texte": "septième alinéa de l'article 131-26",
+          "texte_complet": "septième alinéa de l'article 131-26 code pénal"
+        },
+        {
+          "texte": "9° de l'article 324-7 du code pénal"
+        },
+        {
+          "texte": "article 131-26",
+          "texte_complet": "article 131-26 code pénal"
+        },
+        {
+          "texte": "articles 131-26 et 131-26-1",
+          "texte_complet": "articles 131-26 et 131-26-1 code pénal"
+        },
+        {
+          "texte": "1° de l'article 432-17 du code pénal"
+        },
+        {
+          "texte": "article 131-26",
+          "texte_complet": "article 131-26 code pénal"
+        },
+        {
+          "texte": "articles 131-26 et 131-26-1",
+          "texte_complet": "articles 131-26 et 131-26-1 code pénal"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 117 du code électoral"
+        },
+        {
+          "texte": "code général des impôts"
+        },
+        {
+          "texte": "troisième alinéa de l'article 1741",
+          "texte_complet": "troisième alinéa de l'article 1741 code général des impôts"
+        },
+        {
+          "texte": "article 1774",
+          "texte_complet": "article 1774 code général des impôts"
+        },
+        {
+          "texte": "article 131-26",
+          "texte_complet": "article 131-26 code général des impôts"
+        },
+        {
+          "texte": "articles 131-26 et 131-26-1",
+          "texte_complet": "articles 131-26 et 131-26-1 code général des impôts"
+        },
+        {
+          "texte": "premier alinéa du I de l'article 1837",
+          "texte_complet": "premier alinéa du I de l'article 1837 code général des impôts"
+        },
+        {
+          "texte": "article 131-26 du code pénal"
+        },
+        {
+          "texte": "articles 131-26 et 131-26-1 du code pénal"
+        },
+        {
+          "texte": "articles L. 241-3 et L. 242-6 du code de commerce"
+        },
+        {
+          "texte": "article L. 249-1",
+          "texte_complet": "article L. 249-1 code de commerce"
+        },
+        {
+          "texte": "article 131-26 du code pénal"
+        }
       ],
       "order": 27,
       "section": "C2",
@@ -563,7 +719,9 @@
         "001": "Au premier alinéa de l'article 432-12 du code pénal, les mots : \"intérêt quelconque\" sont remplacés par les mots : \"intérêt personnel distinct de l'intérêt général\"."
       },
       "liens": [
-        "premier alinéa de l'article 432-12 du code pénal"
+        {
+          "texte": "premier alinéa de l'article 432-12 du code pénal"
+        }
       ],
       "order": 28,
       "section": "C2",
@@ -578,7 +736,9 @@
         "003": "2° Après les mots : \"en tant que\", sont insérés les mots : \"membre du Gouvernement, titulaire d'une fonction exécutive locale,\"."
       },
       "liens": [
-        "premier alinéa de l'article 432-13 du code pénal"
+        {
+          "texte": "premier alinéa de l'article 432-13 du code pénal"
+        }
       ],
       "order": 29,
       "section": "C2",
@@ -592,8 +752,9 @@
         "002": "\"<table><tbody><tr><td>Président de la Haute Autorité pour la transparence de la vie publique</td><td>Commission permanente compétente en matière de lois constitutionnelles</td></tr></tbody></table>\""
       },
       "liens": [
-        "loi n° 2010-838 du 23 juillet 2010",
-        "cinquième alinéa de l'article 13 de la Constitution"
+        {
+          "texte": "cinquième alinéa de l'article 13 de la Constitution"
+        }
       ],
       "order": 30,
       "section": "C3",
@@ -610,12 +771,16 @@
         "005": "III. - Le dernier alinéa des articles L. 195 et L. 367 du code électoral est supprimé et le 4° de l'article L. 230 et le 3° des articles L. 340 et L. 558-11 du même code sont abrogés."
       },
       "liens": [
-        "articles 1er à 5-1 de la loi n° 88-227 du 11 mars 1988",
-        "articles 1er et 2 de la loi n° 88-227 du 11 mars 1988",
-        "II de l'article 21 de la loi n° 2011-412 du 14 avril 2011",
-        "code électoral",
-        "articles 1er à 3 de la loi n° 88-227 du 11 mars 1988",
-        "dernier alinéa des articles L. 195 et L. 367 du code électoral"
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "dernier alinéa des articles L. 195 et L. 367 du code électoral"
+        },
+        {
+          "texte": "4° de l'article L. 230",
+          "texte_complet": "4° de l'article L. 230 code électoral"
+        }
       ],
       "order": 31,
       "section": "C3",
@@ -631,7 +796,17 @@
         "004": "3° Après le mot : \"mentionnées\", la fin de l'article est ainsi rédigée : \"aux articles 3 et 10 de la loi n° du relative à la transparence de la vie publique, en application de l'article 5 de cette même loi.\""
       },
       "liens": [
-        "article L. 139 B du livre des procédures fiscales"
+        {
+          "texte": "article L. 139 B du livre des procédures fiscales"
+        },
+        {
+          "texte": "articles 3 et 10",
+          "texte_complet": "articles 3 et 10 livre des procédures fiscales"
+        },
+        {
+          "texte": "article 5",
+          "texte_complet": "article 5 livre des procédures fiscales"
+        }
       ],
       "order": 32,
       "section": "C3",
@@ -643,9 +818,7 @@
       "alineas": {
         "001": "Au onzième alinéa du I de l'article 13 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, les mots : \"tout mandat électif national,\" sont supprimés."
       },
-      "liens": [
-        "onzième alinéa du I de l'article 13 de la loi n° 78-17 du 6 janvier 1978"
-      ],
+      "liens": [],
       "order": 33,
       "section": "C3",
       "statut": "conforme",
@@ -686,7 +859,17 @@
         "014": "II. - (Supprimé)"
       },
       "liens": [
-        "code général des collectivités territoriales"
+        {
+          "texte": "code général des collectivités territoriales"
+        },
+        {
+          "texte": "article L. 2123-18-1",
+          "texte_complet": "article L. 2123-18-1 code général des collectivités territoriales"
+        },
+        {
+          "texte": "article L. 5211-13",
+          "texte_complet": "article L. 5211-13 code général des collectivités territoriales"
+        }
       ],
       "order": 35,
       "section": "C3",
@@ -702,9 +885,9 @@
         "004": "IV. - Pour l'application de la présente loi, les références à la législation et à la réglementation fiscales s'entendent, dans les collectivités d'outre-mer et en Nouvelle-Calédonie, comme visant la législation et la réglementation applicables localement."
       },
       "liens": [
-        "deuxième alinéa de l'article 65 de la loi n° 84-53 du 26 janvier 1984",
-        "article 53 de la loi n° 86-33 du 9 janvier 1986",
-        "articles L. 2123-18-1-1 et L. 5211-13-1 du code général des collectivités territoriales"
+        {
+          "texte": "articles L. 2123-18-1-1 et L. 5211-13-1 du code général des collectivités territoriales"
+        }
       ],
       "order": 36,
       "section": "C3",

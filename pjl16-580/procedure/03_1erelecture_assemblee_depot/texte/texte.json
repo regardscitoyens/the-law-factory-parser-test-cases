@@ -20,10 +20,7 @@
         "016": "2° À la fin de l'article 4, la référence : \"loi organique n° 2016-506 du 25 avril 2016 de modernisation des règles applicables à l'élection présidentielle\" est remplacée par la référence : \"loi organique n° du pour la régulation de la vie publique\".",
         "017": "II. - À la fin du deuxième alinéa du 2° du I de l'article 3 de la loi organique n° 2016-1047 du 1er août 2016 rénovant les modalités d'inscription sur les listes électorales des Français établis hors de France, la référence : \"loi n° 2016-1048 du 1er août 2016 rénovant les modalités d'inscription sur les listes électorales\" est remplacée par la référence : \"loi organique n° du pour la régulation de la vie publique\"."
       },
-      "liens": [
-        "loi n° 62-1292 du 6 novembre 1962",
-        "deuxième alinéa du 2° du I de l'article 3 de la loi organique n° 2016-1047 du 1er août 2016"
-      ],
+      "liens": [],
       "order": 1,
       "section": "T1",
       "statut": "none",
@@ -36,8 +33,9 @@
         "002": "\"À moins que l'intéressé n'ait repris auparavant une activité rémunérée, cette indemnité est versée pendant trois mois maximum, sans que cette durée excède celle des fonctions gouvernementales.\""
       },
       "liens": [
-        "deuxième alinéa de l'article 5 de l'ordonnance n° 58-1099 du 17 novembre 1958",
-        "article 23 de la Constitution"
+        {
+          "texte": "article 23 de la Constitution"
+        }
       ],
       "order": 2,
       "section": "T1 bis",
@@ -57,7 +55,9 @@
         "008": "\"Si le bureau de l'Assemblée nationale constate que le député n'est pas en conformité avec les obligations mentionnées au même premier alinéa, il saisit le Conseil constitutionnel qui peut constater, en fonction de la gravité du manquement aux obligations mentionnées au même premier alinéa, l'inéligibilité du député et le déclarer démissionnaire d'office par la même décision.\""
       },
       "liens": [
-        "chapitre III du titre II du livre Ier du code électoral"
+        {
+          "texte": "chapitre III du titre II du livre Ier du code électoral"
+        }
       ],
       "order": 3,
       "section": "T2C1",
@@ -70,7 +70,9 @@
         "001": "Au 21° du II de l'article L. O. 132 du code électoral, après les mots : \"des établissements publics\", sont insérés les mots : \", des sociétés publiques locales et des sociétés d'économie mixte\"."
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 4,
       "section": "T2C1",
@@ -83,7 +85,9 @@
         "001": "Le 5° du III de l'article L. O. 135-1 du code électoral est complété par les mots : \", ainsi que les participations directes ou indirectes qui confèrent le contrôle d'une société, d'une entreprise, ou d'un organisme dont l'activité consiste principalement dans la fourniture de prestations de conseil\"."
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 5,
       "section": "T2C2",
@@ -97,7 +101,9 @@
         "002": "\"8° Les sociétés, entreprises ou organismes dont l'activité consiste principalement à fournir des prestations de conseil aux sociétés, entreprises, établissements ou organismes mentionnés aux 1° à 7°.\""
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 6,
       "section": "T2C2",
@@ -114,7 +120,9 @@
         "005": "\"3° Fournir des prestations de conseil aux sociétés, entreprises, établissements ou organismes mentionnés aux 1° à 7° de l'article L. O. 146.\""
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 7,
       "section": "T2C2",
@@ -131,7 +139,9 @@
         "005": "\"2° Dont l'activité consiste principalement dans la fourniture de prestations de conseil aux sociétés, entreprises, établissements ou organismes mentionnés aux 1° à 7° de l'article L. O. 146.\""
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 8,
       "section": "T2C2",
@@ -147,7 +157,9 @@
         "004": "\"Au plus tard trois mois après son entrée en fonction ou, en cas de contestation de son élection, de la date de la décision du Conseil constitutionnel, le député qui se trouve dans un des cas d'incompatibilité mentionnés aux 1° et 2° de l'article L. O. 146-2 se met en conformité avec les dispositions de cet article, soit en cédant tout ou partie de la participation, soit en prenant les dispositions nécessaires pour que tout ou partie de celle-ci soit gérée, pendant la durée de son mandat, dans des conditions excluant tout droit de regard de sa part.\""
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 9,
       "section": "T2C2",
@@ -163,7 +175,9 @@
         "004": "3° À la seconde phrase, après le mot : \"exercées\", sont insérés les mots : \"ou des participations détenues\"."
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 10,
       "section": "T2C2",
@@ -180,9 +194,9 @@
         "005": "III. - Le 2° de l'article 1er de l'ordonnance n° 58-1066 du 7 novembre 1958 portant loi organique autorisant exceptionnellement les parlementaires à déléguer leur droit de vote est abrogé."
       },
       "liens": [
-        "code électoral",
-        "II de l'article 2 de la loi organique n° 2013-906 du 11 octobre 2013",
-        "2° de l'article 1er de l'ordonnance n° 58-1066 du 7 novembre 1958"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 11,
       "section": "T2C2",
@@ -197,7 +211,12 @@
         "003": "II. - Les parlementaires qui se trouvent dans le cas d'incompatibilité prévu au II de l'article L. O. 145 du code électoral, dans sa rédaction résultant du I du présent article, à la date d'entrée en vigueur de la présente loi peuvent continuer à exercer leurs fonctions au sein d'une institution ou d'un organisme extérieur pour la durée pour laquelle ils ont été désignés."
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 12,
       "section": "T2C2",
@@ -228,10 +247,7 @@
         "019": "II. - Le 9° de l'article 54 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances est abrogé.",
         "020": "III. - Le présent article entre en vigueur à compter du 1er septembre 2017."
       },
-      "liens": [
-        "chapitre II du titre II de la loi organique n° 2001-692 du 1er août 2001",
-        "9° de l'article 54 de la loi organique n° 2001-692 du 1er août 2001"
-      ],
+      "liens": [],
       "order": 13,
       "section": "T2C3",
       "statut": "none",
@@ -291,16 +307,30 @@
         "037": "III. - L'article 7-3 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature est abrogé."
       },
       "liens": [
-        "code électoral",
-        "article 10-1-2 de la loi organique n° 94-100 du 5 février 1994",
-        "articles 4 ou 11 de la loi n° 2013-907 du 11 octobre 2013",
-        "articles L. 131-10 ou L. 231-4-4 du code de justice administrative",
-        "articles L. 120-10 ou L. 220-11 du code des juridictions financières",
-        "articles 170 à 175 A du code général des impôts",
-        "livre des procédures fiscales",
-        "articles 131-26 et 131-26-1 du code pénal",
-        "article 226-1 du code pénal",
-        "article 7-3 de l'ordonnance n° 58-1270 du 22 décembre 1958"
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "articles L. 131-10 ou L. 231-4-4 du code de justice administrative"
+        },
+        {
+          "texte": "articles L. 120-10 ou L. 220-11 du code des juridictions financières"
+        },
+        {
+          "texte": "articles 170 à 175 A du code général des impôts"
+        },
+        {
+          "texte": "livre des procédures fiscales"
+        },
+        {
+          "texte": "articles 131-26 et 131-26-1 du code pénal"
+        },
+        {
+          "texte": "article 226-1 du code pénal"
+        }
       ],
       "order": 15,
       "section": "T2 bis",
@@ -315,7 +345,9 @@
         "003": "2° La seconde phrase est supprimée."
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 16,
       "section": "T2 bis",
@@ -329,8 +361,9 @@
         "002": "\"Art. 9-1. - Les membres du Conseil économique, social et environnemental adressent personnellement une déclaration de situation patrimoniale et une déclaration d'intérêts dans les conditions prévues aux articles L. O. 135-1 à L. O. 135-5 du code électoral.\""
       },
       "liens": [
-        "article 9 de l'ordonnance n° 58-1360 du 29 décembre 1958",
-        "code électoral"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 17,
       "section": "T2 bis",
@@ -344,8 +377,9 @@
         "002": "\"<table><tbody><tr><td>Médiateur du financement des candidats et des partis politiques</td><td>Médiature</td></tr></tbody></table>\"."
       },
       "liens": [
-        "loi organique n° 2010-837 du 23 juillet 2010",
-        "cinquième alinéa de l'article 13 de la Constitution"
+        {
+          "texte": "cinquième alinéa de l'article 13 de la Constitution"
+        }
       ],
       "order": 18,
       "section": "T3",
@@ -361,7 +395,9 @@
         "004": "L'administration fiscale dispose d'un délai de trois mois à compter de la promulgation de la présente loi organique pour transmettre l'attestation prévue à l'article L. O. 136-4 du code électoral. Cette attestation constate la situation fiscale à la date de promulgation de la présente loi organique."
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 19,
       "section": "T4",
@@ -380,7 +416,27 @@
         "007": "V. - Les interdictions mentionnées au 2° de l'article L. O. 146-1 du code électoral, dans sa rédaction résultant de l'article 5 de la présente loi organique, et au 1° de l'article L. O. 146-2 du même code, dans sa rédaction résultant de l'article 6 de la même loi organique, s'appliquent à tout parlementaire à compter du premier renouvellement de l'assemblée à laquelle il appartient suivant le 1er janvier 2019."
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 20,
       "section": "T4",
@@ -404,8 +460,9 @@
         "001": "L'administration fiscale compétente localement dans les collectivités d'outre-mer et en Nouvelle-Calédonie transmet, dans les mêmes conditions que l'administration fiscale compétente au niveau national, l'attestation prévue à l'article L. O. 136-4 du code électoral et à l'article 5-3 de la loi n° 77-729 du 7 juillet 1977 relative à l'élection des représentants au Parlement européen, au regard de la législation et de la réglementation applicables localement."
       },
       "liens": [
-        "code électoral",
-        "article 5-3 de la loi n° 77-729 du 7 juillet 1977"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 22,
       "section": "T4",

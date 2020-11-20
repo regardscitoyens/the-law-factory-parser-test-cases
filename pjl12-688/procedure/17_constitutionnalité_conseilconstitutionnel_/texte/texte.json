@@ -93,13 +93,56 @@
         "089": "Les procédures se rapportant à des mandats parlementaires qui emportaient l'obligation de dépôt de déclarations en application de l'article LO 135-1 dudit code dans sa rédaction antérieure à l'entrée en vigueur de l'article 1er de la présente loi organique et qui se poursuivent après cette entrée en vigueur sont conduites par la Haute Autorité. Elle dispose, en ce qui les concerne, des prérogatives prévues par la présente loi organique."
       },
       "liens": [
-        "article LO 135-1 du code électoral",
-        "articles 4 et 11 de la loi n° 2013-907 du 11 octobre 2013",
-        "articles 131-26 et 131-26-1 du code pénal",
-        "article 74 de la Constitution",
-        "articles 10 à 13 de la loi n° 78-753 du 17 juillet 1978",
-        "livre des procédures fiscales",
-        "articles LO 135-1 et LO 135-2 du code électoral"
+        {
+          "texte": "article LO 135-1 du code électoral"
+        },
+        {
+          "texte": "articles 131-26 et 131-26-1 du code pénal"
+        },
+        {
+          "texte": "article LO 136-2",
+          "texte_complet": "article LO 136-2 code pénal"
+        },
+        {
+          "texte": "article LO 135-1",
+          "texte_complet": "article LO 135-1 code pénal"
+        },
+        {
+          "texte": "article 74 de la Constitution"
+        },
+        {
+          "texte": "troisième alinéa du I de l'article LO 135-1",
+          "texte_complet": "troisième alinéa du I de l'article LO 135-1 constitution"
+        },
+        {
+          "texte": "livre des procédures fiscales"
+        },
+        {
+          "texte": "articles LO 135-4 à LO 135-6",
+          "texte_complet": "articles LO 135-4 à LO 135-6 livre des procédures fiscales"
+        },
+        {
+          "texte": "article LO 135-1",
+          "texte_complet": "article LO 135-1 livre des procédures fiscales"
+        },
+        {
+          "texte": "articles LO 135-1 et LO 135-4",
+          "texte_complet": "articles LO 135-1 et LO 135-4 livre des procédures fiscales"
+        },
+        {
+          "texte": "articles LO 135-1 et LO 135-4",
+          "texte_complet": "articles LO 135-1 et LO 135-4 livre des procédures fiscales"
+        },
+        {
+          "texte": "articles LO 135-1 et LO 135-2 du code électoral"
+        },
+        {
+          "texte": "article LO 135-1 du code électoral"
+        },
+        {
+          "texte": "article LO 135-1",
+          "texte_complet": "article LO 135-1 code électoral"
+        }
       ],
       "order": 1,
       "statut": "none",
@@ -142,8 +185,24 @@
         "032": "XI. - (Censuré)"
       },
       "liens": [
-        "article LO 140 du code électoral",
-        "Constitution"
+        {
+          "texte": "article LO 140 du code électoral"
+        },
+        {
+          "texte": "Constitution"
+        },
+        {
+          "texte": "1° et 2° de l'article LO 142",
+          "texte_complet": "1° et 2° de l'article LO 142 constitution"
+        },
+        {
+          "texte": "11° du III de l'article LO 135-1",
+          "texte_complet": "11° du III de l'article LO 135-1 constitution"
+        },
+        {
+          "texte": "article LO 151-2",
+          "texte_complet": "article LO 151-2 constitution"
+        }
       ],
       "order": 2,
       "statut": "none",
@@ -158,9 +217,7 @@
         "004": "\"Les membres du Conseil constitutionnel peuvent toutefois se livrer à des travaux scientifiques, littéraires ou artistiques.\" ;",
         "005": "2° Le second alinéa de l'article 6 est supprimé."
       },
-      "liens": [
-        "ordonnance n° 58-1067 du 7 novembre 1958"
-      ],
+      "liens": [],
       "newtitre": "3",
       "order": 3,
       "statut": "none",
@@ -172,7 +229,9 @@
         "001": "La deuxième phrase de l'article LO 153 du code électoral est complétée par les mots : \"et ne peut percevoir aucune indemnité en tant que parlementaire\"."
       },
       "liens": [
-        "article LO 153 du code électoral"
+        {
+          "texte": "article LO 153 du code électoral"
+        }
       ],
       "newtitre": "4",
       "order": 4,
@@ -197,9 +256,7 @@
         "002": "\"Les fonctions de membre du Conseil constitutionnel sont incompatibles avec l'exercice de la profession d'avocat.\"",
         "003": "II. - (Censuré)"
       },
-      "liens": [
-        "article 4 de l'ordonnance n° 58-1067 du 7 novembre 1958"
-      ],
+      "liens": [],
       "newtitre": "6",
       "order": 6,
       "statut": "none",
@@ -220,9 +277,17 @@
         "010": "V. - Le 2° du I du présent article entre en vigueur le 1er octobre 2014."
       },
       "liens": [
-        "ordonnance n° 58-1099 du 17 novembre 1958",
-        "article 23 de la Constitution",
-        "loi n° 2013-907 du 11 octobre 2013"
+        {
+          "texte": "article 23 de la Constitution"
+        },
+        {
+          "texte": "premier alinéa de l'article 1er",
+          "texte_complet": "premier alinéa de l'article 1er constitution"
+        },
+        {
+          "texte": "article 4",
+          "texte_complet": "article 4 constitution"
+        }
       ],
       "newtitre": "7",
       "order": 7,
@@ -236,8 +301,9 @@
         "002": "\"<table><tbody><tr><td>Haute Autorité pour la transparence de la vie publique</td><td>Président</td></tr></tbody></table>\""
       },
       "liens": [
-        "loi organique n° 2010-837 du 23 juillet 2010",
-        "cinquième alinéa de l'article 13 de la Constitution"
+        {
+          "texte": "cinquième alinéa de l'article 13 de la Constitution"
+        }
       ],
       "newtitre": "8",
       "order": 8,
@@ -252,8 +318,9 @@
         "003": "\"La déclaration de situation patrimoniale remise à l'issue des fonctions dans les conditions prévues au quatrième alinéa du présent I est transmise à la Haute Autorité pour la transparence de la vie publique. (Censuré)"
       },
       "liens": [
-        "dernier alinéa du I de l'article 3 de la loi n° 62-1292 du 6 novembre 1962",
-        "III de l'article LO 135-2 du code électoral"
+        {
+          "texte": "III de l'article LO 135-2 du code électoral"
+        }
       ],
       "newtitre": "9",
       "order": 9,
@@ -265,9 +332,7 @@
       "alineas": {
         "001": "A la fin de l'article 4 de la loi n° 62-1292 du 6 novembre 1962 précitée, la référence : \"loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012\" est remplacée par la référence : \"loi organique n° 2013-906 du 11 octobre 2013 relative à la transparence de la vie publique\"."
       },
-      "liens": [
-        "article 4 de la loi n° 62-1292 du 6 novembre 1962"
-      ],
+      "liens": [],
       "newtitre": "10",
       "order": 10,
       "statut": "none",
@@ -282,9 +347,7 @@
         "004": "\"b) L'ensemble des subventions versées à des associations.",
         "005": "\"Elle indique, pour chaque subvention, le nom du bénéficiaire, le montant versé, la nature du projet financé, le programme concerné et le nom du membre du Parlement, du groupe politique ou de la présidence de l'assemblée qui a proposé la subvention.\""
       },
-      "liens": [
-        "article 54 de la loi organique n° 2001-692 du 1er août 2001"
-      ],
+      "liens": [],
       "newtitre": "11",
       "order": 11,
       "statut": "none",
@@ -308,10 +371,7 @@
         "002": "1° Après le mot : \"soumis\", la fin du second alinéa de l'article 64, de l'article 114 et du dernier alinéa de l'article 161 est ainsi rédigée : \", dans les mêmes conditions, aux obligations de déclaration applicables aux personnes mentionnées, respectivement, aux 2° et 3° du I de l'article 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique.\" ;",
         "003": "2° Le 1° du I de l'article 195 est abrogé."
       },
-      "liens": [
-        "loi organique n° 99-209 du 19 mars 1999",
-        "2° et 3° du I de l'article 11 de la loi n° 2013-907 du 11 octobre 2013"
-      ],
+      "liens": [],
       "newtitre": "13",
       "order": 13,
       "statut": "none",
@@ -326,10 +386,7 @@
         "004": "\"Art. 160. - Le président et les autres membres du gouvernement de la Polynésie française sont soumis, dans les mêmes conditions, aux obligations de déclaration applicables aux personnes mentionnées, respectivement, aux 2° et 3° du I de l'article 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique.",
         "005": "\"Le président et les autres représentants à l'assemblée de la Polynésie française sont soumis, dans les mêmes conditions, aux obligations de déclaration applicables aux personnes mentionnées, respectivement, aux 2° et 3° du I de l'article 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique.\""
       },
-      "liens": [
-        "loi organique n° 2004-192 du 27 février 2004",
-        "2° et 3° du I de l'article 11 de la loi n° 2013-907 du 11 octobre 2013"
-      ],
+      "liens": [],
       "newtitre": "14",
       "order": 14,
       "statut": "none",
@@ -341,8 +398,9 @@
         "001": "Après le mot : \"sont\", la fin du dernier alinéa des articles LO 6221-1, LO 6321-1 et LO 6431-1 du code général des collectivités territoriales est ainsi rédigée : \"soumis, dans les mêmes conditions, aux obligations de déclaration applicables aux personnes mentionnées, respectivement, aux 2° et 3° du I de l'article 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique.\""
       },
       "liens": [
-        "dernier alinéa des articles LO 6221-1, LO 6321-1 et LO 6431-1 du code général des collectivités territoriales",
-        "2° et 3° du I de l'article 11 de la loi n° 2013-907 du 11 octobre 2013"
+        {
+          "texte": "dernier alinéa des articles LO 6221-1, LO 6321-1 et LO 6431-1 du code général des collectivités territoriales"
+        }
       ],
       "newtitre": "15",
       "order": 15,
@@ -356,9 +414,7 @@
         "002": "L'administration fiscale compétente localement dans les collectivités d'outre-mer et en Nouvelle-Calédonie peut être sollicitée par la Haute Autorité pour la transparence de la vie publique dans les mêmes conditions que l'administration fiscale compétente au niveau national.",
         "003": "Chacune des personnes concernées par les articles 13 à 15 de la présente loi organique établit une déclaration de situation patrimoniale et une déclaration d'intérêts suivant les modalités prévues aux articles 4 et 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, au plus tard le 1er juin 2014."
       },
-      "liens": [
-        "articles 4 et 11 de la loi n° 2013-907 du 11 octobre 2013"
-      ],
+      "liens": [],
       "newtitre": "16",
       "order": 16,
       "statut": "none",

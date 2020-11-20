@@ -93,11 +93,28 @@
         "089": "Les procédures se rapportant à des mandats parlementaires qui emportaient l'obligation de dépôt de déclarations en application de l'article L. O. 135-1 dudit code dans sa rédaction antérieure à l'entrée en vigueur de l'article 1er de la présente loi organique et qui se poursuivent après cette entrée en vigueur sont conduites par la Haute Autorité. Elle dispose, en ce qui les concerne, des prérogatives prévues par la présente loi organique."
       },
       "liens": [
-        "code électoral",
-        "articles 131-26 et 131-26-1 du code pénal",
-        "article 74 de la Constitution",
-        "articles 10 à 13 de la loi n° 78-753 du 17 juillet 1978",
-        "livre des procédures fiscales"
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "articles 4 et 11",
+          "texte_complet": "articles 4 et 11 code électoral"
+        },
+        {
+          "texte": "articles 131-26 et 131-26-1 du code pénal"
+        },
+        {
+          "texte": "article 74 de la Constitution"
+        },
+        {
+          "texte": "livre des procédures fiscales"
+        },
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 1,
       "statut": "none",
@@ -143,8 +160,12 @@
         "035": "XI. - Pour l'application du V, les activités professionnelles et les fonctions de conseil exercées dans le cadre d'une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est protégé, pratiquées par les membres du Parlement avant la promulgation de la présente loi, sont considérées comme ayant été exercées avant le début de leur mandat."
       },
       "liens": [
-        "code électoral",
-        "Constitution"
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "Constitution"
+        }
       ],
       "order": 2,
       "statut": "none",
@@ -159,9 +180,7 @@
         "004": "\"Les membres du Conseil constitutionnel peuvent toutefois se livrer à des travaux scientifiques, littéraires ou artistiques.\" ;",
         "005": "2° Le second alinéa de l'article 6 est supprimé."
       },
-      "liens": [
-        "ordonnance n° 58-1067 du 7 novembre 1958"
-      ],
+      "liens": [],
       "newtitre": "3",
       "order": 3,
       "statut": "none",
@@ -173,7 +192,9 @@
         "001": "La deuxième phrase de l'article L. O. 153 du code électoral est complétée par les mots : \"et ne peut percevoir aucune indemnité en tant que parlementaire\"."
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        }
       ],
       "newtitre": "4",
       "order": 4,
@@ -198,9 +219,7 @@
         "002": "\"Les fonctions de membre du Conseil constitutionnel sont incompatibles avec l'exercice de la profession d'avocat.\"",
         "003": "II. - Le présent article entre en vigueur le 1er janvier 2014."
       },
-      "liens": [
-        "article 4 de l'ordonnance n° 58-1067 du 7 novembre 1958"
-      ],
+      "liens": [],
       "newtitre": "6",
       "order": 6,
       "statut": "none",
@@ -221,8 +240,17 @@
         "010": "V. - Le 2° du I du présent article entre en vigueur le 1er octobre 2014."
       },
       "liens": [
-        "ordonnance n° 58-1099 du 17 novembre 1958",
-        "article 23 de la Constitution"
+        {
+          "texte": "article 23 de la Constitution"
+        },
+        {
+          "texte": "premier alinéa de l'article 1er",
+          "texte_complet": "premier alinéa de l'article 1er constitution"
+        },
+        {
+          "texte": "article 4",
+          "texte_complet": "article 4 constitution"
+        }
       ],
       "newtitre": "7",
       "order": 7,
@@ -236,8 +264,9 @@
         "002": "\"<table><tbody><tr><td>Haute Autorité pour la transparence de la vie publique</td><td>Président</td></tr></tbody></table>\""
       },
       "liens": [
-        "loi organique n° 2010-837 du 23 juillet 2010",
-        "cinquième alinéa de l'article 13 de la Constitution"
+        {
+          "texte": "cinquième alinéa de l'article 13 de la Constitution"
+        }
       ],
       "newtitre": "8",
       "order": 8,
@@ -252,8 +281,9 @@
         "003": "\"La déclaration de situation patrimoniale remise à l'issue des fonctions dans les conditions prévues au quatrième alinéa du présent I est transmise à la Haute Autorité pour la transparence de la vie publique. Si la Haute Autorité constate que cette déclaration n'est pas exhaustive, exacte ou sincère ou si elle constate une évolution de situation patrimoniale pour laquelle elle ne dispose pas d'explications suffisantes, elle rend public ce constat, après avoir mis à même l'intéressé de présenter ses observations.\""
       },
       "liens": [
-        "dernier alinéa du I de l'article 3 de la loi n° 62-1292 du 6 novembre 1962",
-        "code électoral"
+        {
+          "texte": "code électoral"
+        }
       ],
       "newtitre": "9",
       "order": 9,
@@ -265,9 +295,7 @@
       "alineas": {
         "001": "À la fin de l'article 4 de la loi n° 62-1292 du 6 novembre 1962 précitée, la référence : \"loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012\" est remplacée par la référence : \"loi organique n° du relative à la transparence de la vie publique\"."
       },
-      "liens": [
-        "article 4 de la loi n° 62-1292 du 6 novembre 1962"
-      ],
+      "liens": [],
       "newtitre": "10",
       "order": 10,
       "statut": "none",
@@ -282,9 +310,7 @@
         "004": "\"b) L'ensemble des subventions versées à des associations.",
         "005": "\"Elle indique, pour chaque subvention, le nom du bénéficiaire, le montant versé, la nature du projet financé, le programme concerné et le nom du membre du Parlement, du groupe politique ou de la présidence de l'assemblée qui a proposé la subvention.\""
       },
-      "liens": [
-        "article 54 de la loi organique n° 2001-692 du 1er août 2001"
-      ],
+      "liens": [],
       "newtitre": "11",
       "order": 11,
       "statut": "none",
@@ -308,9 +334,7 @@
         "002": "1° Après le mot : \"soumis\", la fin du second alinéa de l'article 64, de l'article 114 et du dernier alinéa de l'article 161 est ainsi rédigée : \", dans les mêmes conditions, aux obligations de déclaration applicables aux personnes mentionnées, respectivement, aux 2° et 3° du I de l'article 11 de la loi n° du relative à la transparence de la vie publique.\" ;",
         "003": "2° Le 1° du I de l'article 195 est abrogé."
       },
-      "liens": [
-        "loi organique n° 99-209 du 19 mars 1999"
-      ],
+      "liens": [],
       "newtitre": "13",
       "order": 13,
       "statut": "none",
@@ -325,9 +349,7 @@
         "004": "\"Art. 160. - Le président et les autres membres du gouvernement de la Polynésie française sont soumis, dans les mêmes conditions, aux obligations de déclaration applicables aux personnes mentionnées, respectivement, aux 2° et 3° du I de l'article 11 de la loi n° du relative à la transparence de la vie publique.",
         "005": "\"Le président et les autres représentants à l'assemblée de la Polynésie française sont soumis, dans les mêmes conditions, aux obligations de déclaration applicables aux personnes mentionnées, respectivement, aux 2° et 3° du I de l'article 11 de la loi n° du relative à la transparence de la vie publique.\""
       },
-      "liens": [
-        "loi organique n° 2004-192 du 27 février 2004"
-      ],
+      "liens": [],
       "newtitre": "14",
       "order": 14,
       "statut": "none",
@@ -339,7 +361,13 @@
         "001": "Après le mot : \"sont\", la fin du dernier alinéa des articles L. O. 6221-1, L. O. 6321-1 et L. O. 6431-1 du code général des collectivités territoriales est ainsi rédigée : \"soumis, dans les mêmes conditions, aux obligations de déclaration applicables aux personnes mentionnées, respectivement, aux 2° et 3° du I de l'article 11 de la loi n° du relative à la transparence de la vie publique.\""
       },
       "liens": [
-        "code général des collectivités territoriales"
+        {
+          "texte": "code général des collectivités territoriales"
+        },
+        {
+          "texte": "2° et 3° du I de l'article 11",
+          "texte_complet": "2° et 3° du I de l'article 11 code général des collectivités territoriales"
+        }
       ],
       "newtitre": "15",
       "order": 15,

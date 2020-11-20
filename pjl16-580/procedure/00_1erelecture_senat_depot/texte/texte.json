@@ -11,10 +11,7 @@
         "007": "2° À l'article 4, les mots : \"loi organique n° 2016-506 du 25 avril 2016 de modernisation des règles applicables à l'élection présidentielle\" sont remplacés par les mots : \"loi organique n° xxx du xxx rétablissant la confiance dans l'action publique\".",
         "008": "II. - Au sixième alinéa de l'article 3 de la loi organique n° 2016-1047 du 1er août 2016 rénovant les modalités d'inscription sur les listes électorales des Français établis hors de France, les mots : \"loi n° 2016-1048 du 1er août 2016 rénovant les modalités d'inscription sur les listes électorales\" sont remplacés par les mots : \"loi organique n° xxx du xxx rétablissant la confiance dans l'action publique\"."
       },
-      "liens": [
-        "loi n° 62-1292 du 6 novembre 1962",
-        "sixième alinéa de l'article 3 de la loi organique n° 2016-1047 du 1er août 2016"
-      ],
+      "liens": [],
       "order": 1,
       "section": "T1",
       "statut": "none",
@@ -30,7 +27,9 @@
         "005": "\"En l'absence de mise en conformité, le Conseil constitutionnel, saisi par le bureau de l'Assemblée nationale informé par l'administration fiscale, peut déclarer le député démissionnaire d'office de son mandat.\""
       },
       "liens": [
-        "article LO 136-3 du code électoral"
+        {
+          "texte": "article LO 136-3 du code électoral"
+        }
       ],
       "order": 2,
       "section": "T2C1",
@@ -124,9 +123,7 @@
         "001": "I. - Il est mis fin à la pratique de la \"réserve parlementaire\", consistant en l'ouverture de crédits en loi de finances par l'adoption d'amendements du Gouvernement reprenant des propositions de membres du Parlement en vue du financement d'opérations déterminées.",
         "002": "II. - Le 9° de l'article 54 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances est abrogé."
       },
-      "liens": [
-        "9° de l'article 54 de la loi organique n° 2001-692 du 1er août 2001"
-      ],
+      "liens": [],
       "order": 9,
       "section": "T2C3",
       "statut": "none",
@@ -139,8 +136,9 @@
         "002": "\"<table><tbody><tr><td>Médiateur du crédit aux candidats et aux partis politiques</td><td>Médiateur</td></tr></tbody></table>\"."
       },
       "liens": [
-        "loi organique n° 2010-837 du 23 juillet 2010",
-        "cinquième alinéa de l'article 13 de la Constitution"
+        {
+          "texte": "cinquième alinéa de l'article 13 de la Constitution"
+        }
       ],
       "order": 10,
       "section": "T3",
@@ -154,7 +152,9 @@
         "002": "L'administration fiscale dispose d'un délai de trois mois à compter de la publication de la présente loi pour transmettre l'attestation prévue à l'article LO 136-4 du code électoral. Cette attestation constate la situation fiscale à la date de publication de la présente loi."
       },
       "liens": [
-        "article LO 136-4 du code électoral"
+        {
+          "texte": "article LO 136-4 du code électoral"
+        }
       ],
       "order": 11,
       "section": "T4",
@@ -173,12 +173,24 @@
         "007": "V. - Les interdictions mentionnées au 2° de l'article LO 146-1 du code électoral dans sa rédaction résultant de l'article 5 de la présente loi et au 1° de l'article LO 146-2 du même code dans sa rédaction résultant de l'article 6 de la même loi s'appliquent à tout parlementaire à compter du premier renouvellement de l'assemblée à laquelle il appartient suivant le 1er janvier 2019."
       },
       "liens": [
-        "III de l'article LO 135-1 du code électoral",
-        "8° de l'article LO 146 du code électoral",
-        "1° et 3° de l'article LO 146-1 du code électoral",
-        "3° de l'article LO 146-1 du code électoral",
-        "article LO 146-1 du code électoral",
-        "2° de l'article LO 146-1 du code électoral"
+        {
+          "texte": "III de l'article LO 135-1 du code électoral"
+        },
+        {
+          "texte": "8° de l'article LO 146 du code électoral"
+        },
+        {
+          "texte": "1° et 3° de l'article LO 146-1 du code électoral"
+        },
+        {
+          "texte": "3° de l'article LO 146-1 du code électoral"
+        },
+        {
+          "texte": "article LO 146-1 du code électoral"
+        },
+        {
+          "texte": "2° de l'article LO 146-1 du code électoral"
+        }
       ],
       "order": 12,
       "section": "T4",

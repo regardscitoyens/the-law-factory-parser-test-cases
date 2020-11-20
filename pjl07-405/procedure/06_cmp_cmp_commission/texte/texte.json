@@ -6,7 +6,9 @@
         "002": "\"Les organisations représentatives des producteurs, les organisations professionnelles d'auteurs et les sociétés de perception et de répartition des droits mentionnées au titre II du livre III peuvent établir conjointement un recueil des usages de la profession.\""
       },
       "liens": [
-        "article L. 132-27 du code de la propriété intellectuelle"
+        {
+          "texte": "article L. 132-27 du code de la propriété intellectuelle"
+        }
       ],
       "order": 1,
       "section": "C1",
@@ -66,8 +68,256 @@
         "048": "M. - Les articles L. 331-18 à L. 331-21 sont abrogés."
       },
       "liens": [
-        "code de la propriété intellectuelle",
-        "articles L. 132-5 et L. 132-6 du code du patrimoine"
+        {
+          "texte": "code de la propriété intellectuelle"
+        },
+        {
+          "texte": "quatrième alinéa de l'article L. 331-5",
+          "texte_complet": "quatrième alinéa de l'article L. 331-5 code de la propriété intellectuelle"
+        },
+        {
+          "texte": "articles L. 331-6 et L. 331-7",
+          "texte_complet": "articles L. 331-6 et L. 331-7 code de la propriété intellectuelle"
+        },
+        {
+          "texte": "1° de l'article L. 331-37",
+          "texte_complet": "1° de l'article L. 331-37 code de la propriété intellectuelle"
+        },
+        {
+          "texte": "article L. 331-38",
+          "texte_complet": "article L. 331-38 code de la propriété intellectuelle"
+        },
+        {
+          "texte": "article L. 331-6",
+          "texte_complet": "article L. 331-6 code de la propriété intellectuelle"
+        },
+        {
+          "texte": "article L. 331-17",
+          "texte_complet": "article L. 331-17 code de la propriété intellectuelle"
+        },
+        {
+          "texte": "article L. 331-7",
+          "texte_complet": "article L. 331-7 code de la propriété intellectuelle"
+        },
+        {
+          "texte": "article L. 331-8",
+          "texte_complet": "article L. 331-8 code de la propriété intellectuelle"
+        },
+        {
+          "texte": "articles L. 331-9 à L. 331-16",
+          "texte_complet": "articles L. 331-9 à L. 331-16 code de la propriété intellectuelle"
+        },
+        {
+          "texte": "2° de l'article L. 331-37",
+          "texte_complet": "2° de l'article L. 331-37 code de la propriété intellectuelle"
+        },
+        {
+          "texte": "articles L. 331-7 à L. 331-10, L. 331-39 à L. 331-41 et L. 331-43",
+          "texte_complet": "articles L. 331-7 à L. 331-10, L. 331-39 à L. 331-41 et L. 331-43 code de la propriété intellectuelle"
+        },
+        {
+          "texte": "article L. 331-17",
+          "texte_complet": "article L. 331-17 code de la propriété intellectuelle"
+        },
+        {
+          "texte": "article L. 331-4",
+          "texte_complet": "article L. 331-4 code de la propriété intellectuelle"
+        },
+        {
+          "texte": "2° de l'article L. 132-4",
+          "texte_complet": "2° de l'article L. 132-4 code de la propriété intellectuelle"
+        },
+        {
+          "texte": "articles L. 132-5 et L. 132-6 du code du patrimoine"
+        },
+        {
+          "texte": "articles L. 331-9 à L. 331-16",
+          "texte_complet": "articles L. 331-9 à L. 331-16 code du patrimoine"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 331-9",
+          "texte_complet": "premier alinéa de l'article L. 331-9 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-8",
+          "texte_complet": "article L. 331-8 code du patrimoine"
+        },
+        {
+          "texte": "2° de l'article L. 331-37",
+          "texte_complet": "2° de l'article L. 331-37 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-10",
+          "texte_complet": "article L. 331-10 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-13",
+          "texte_complet": "article L. 331-13 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-8",
+          "texte_complet": "article L. 331-8 code du patrimoine"
+        },
+        {
+          "texte": "2° de l'article L. 331-37",
+          "texte_complet": "2° de l'article L. 331-37 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-14",
+          "texte_complet": "article L. 331-14 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-15",
+          "texte_complet": "article L. 331-15 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-16",
+          "texte_complet": "article L. 331-16 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-17",
+          "texte_complet": "article L. 331-17 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-38",
+          "texte_complet": "article L. 331-38 code du patrimoine"
+        },
+        {
+          "texte": "2° de l'article L. 331-37",
+          "texte_complet": "2° de l'article L. 331-37 code du patrimoine"
+        },
+        {
+          "texte": "articles L. 331-6 à L. 331-17",
+          "texte_complet": "articles L. 331-6 à L. 331-17 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-22",
+          "texte_complet": "article L. 331-22 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-6",
+          "texte_complet": "article L. 331-6 code du patrimoine"
+        },
+        {
+          "texte": "1° de l'article L. 331-37",
+          "texte_complet": "1° de l'article L. 331-37 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-7",
+          "texte_complet": "article L. 331-7 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-38",
+          "texte_complet": "article L. 331-38 code du patrimoine"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 331-8",
+          "texte_complet": "premier alinéa de l'article L. 331-8 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-6",
+          "texte_complet": "article L. 331-6 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-8",
+          "texte_complet": "article L. 331-8 code du patrimoine"
+        },
+        {
+          "texte": "2° de l'article L. 331-37",
+          "texte_complet": "2° de l'article L. 331-37 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-9",
+          "texte_complet": "article L. 331-9 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-7",
+          "texte_complet": "article L. 331-7 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-10",
+          "texte_complet": "article L. 331-10 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-8",
+          "texte_complet": "article L. 331-8 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-11",
+          "texte_complet": "article L. 331-11 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-9",
+          "texte_complet": "article L. 331-9 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-12",
+          "texte_complet": "article L. 331-12 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-10",
+          "texte_complet": "article L. 331-10 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-13",
+          "texte_complet": "article L. 331-13 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-39",
+          "texte_complet": "article L. 331-39 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-14",
+          "texte_complet": "article L. 331-14 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-40",
+          "texte_complet": "article L. 331-40 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-15",
+          "texte_complet": "article L. 331-15 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-41",
+          "texte_complet": "article L. 331-41 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-16",
+          "texte_complet": "article L. 331-16 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-43",
+          "texte_complet": "article L. 331-43 code du patrimoine"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 331-17",
+          "texte_complet": "premier alinéa de l'article L. 331-17 code du patrimoine"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 331-37",
+          "texte_complet": "premier alinéa de l'article L. 331-37 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-17",
+          "texte_complet": "article L. 331-17 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-42",
+          "texte_complet": "article L. 331-42 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-22",
+          "texte_complet": "article L. 331-22 code du patrimoine"
+        },
+        {
+          "texte": "article L. 331-11",
+          "texte_complet": "article L. 331-11 code du patrimoine"
+        },
+        {
+          "texte": "articles L. 331-18 à L. 331-21",
+          "texte_complet": "articles L. 331-18 à L. 331-21 code du patrimoine"
+        }
       ],
       "order": 2,
       "section": "C1",
@@ -80,7 +330,9 @@
         "001": "Aux articles L. 131-9, L. 332-1, L. 335-1, L. 335-3-2, L. 335-4-2 et L. 342-3-2 du code de la propriété intellectuelle, la référence : \"L. 331-22\" est remplacée par la référence : \"L. 331-11\"."
       },
       "liens": [
-        "articles L. 131-9, L. 332-1, L. 335-1, L. 335-3-2, L. 335-4-2 et L. 342-3-2 du code de la propriété intellectuelle"
+        {
+          "texte": "articles L. 131-9, L. 332-1, L. 335-1, L. 335-3-2, L. 335-4-2 et L. 342-3-2 du code de la propriété intellectuelle"
+        }
       ],
       "order": 3,
       "section": "C1",
@@ -93,7 +345,9 @@
         "001": "L'intitulé du titre III du livre III du code de la propriété intellectuelle est ainsi rédigé : \"Prévention, procédures et sanctions\"."
       },
       "liens": [
-        "titre III du livre III du code de la propriété intellectuelle"
+        {
+          "texte": "titre III du livre III du code de la propriété intellectuelle"
+        }
       ],
       "order": 4,
       "section": "C1",
@@ -236,15 +490,155 @@
         "131": "\"Art. L. 331-36. - (Supprimé)"
       },
       "liens": [
-        "article 432-13 du code pénal",
-        "article L. 233-16 du code de commerce",
-        "article L. 34-1 du code des postes et des communications électroniques",
-        "I de l'article 6 de la loi n° 2004-575 du 21 juin 2004",
-        "article 413-10 du code pénal",
-        "article 17-1 de la loi n° 95-73 du 21 janvier 1995",
-        "article 238 A du code général des impôts",
-        "article L. 121-84 du code de la consommation",
-        "loi n° 78-17 du 6 janvier 1978"
+        {
+          "texte": "article 432-13 du code pénal"
+        },
+        {
+          "texte": "article L. 233-16 du code de commerce"
+        },
+        {
+          "texte": "article L. 331-22",
+          "texte_complet": "article L. 331-22 code de commerce"
+        },
+        {
+          "texte": "article L. 336-3",
+          "texte_complet": "article L. 336-3 code de commerce"
+        },
+        {
+          "texte": "article L. 34-1 du code des postes et des communications électroniques"
+        },
+        {
+          "texte": "article 413-10 du code pénal"
+        },
+        {
+          "texte": "article L. 331-13-1",
+          "texte_complet": "article L. 331-13-1 code pénal"
+        },
+        {
+          "texte": "article L. 331-13-1",
+          "texte_complet": "article L. 331-13-1 code pénal"
+        },
+        {
+          "texte": "article L. 331-13-1",
+          "texte_complet": "article L. 331-13-1 code pénal"
+        },
+        {
+          "texte": "article L. 331-2",
+          "texte_complet": "article L. 331-2 code pénal"
+        },
+        {
+          "texte": "article L. 336-3",
+          "texte_complet": "article L. 336-3 code pénal"
+        },
+        {
+          "texte": "article L. 336-3",
+          "texte_complet": "article L. 336-3 code pénal"
+        },
+        {
+          "texte": "article L. 336-3",
+          "texte_complet": "article L. 336-3 code pénal"
+        },
+        {
+          "texte": "article L. 336-3",
+          "texte_complet": "article L. 336-3 code pénal"
+        },
+        {
+          "texte": "article L. 336-3",
+          "texte_complet": "article L. 336-3 code pénal"
+        },
+        {
+          "texte": "article L. 336-3",
+          "texte_complet": "article L. 336-3 code pénal"
+        },
+        {
+          "texte": "article L. 331-25",
+          "texte_complet": "article L. 331-25 code pénal"
+        },
+        {
+          "texte": "article L. 336-3",
+          "texte_complet": "article L. 336-3 code pénal"
+        },
+        {
+          "texte": "deuxième alinéa de l'article L. 331-30",
+          "texte_complet": "deuxième alinéa de l'article L. 331-30 code pénal"
+        },
+        {
+          "texte": "article L. 331-31",
+          "texte_complet": "article L. 331-31 code pénal"
+        },
+        {
+          "texte": "article 238 A du code général des impôts"
+        },
+        {
+          "texte": "article L. 331-25",
+          "texte_complet": "article L. 331-25 code général des impôts"
+        },
+        {
+          "texte": "article L. 336-3",
+          "texte_complet": "article L. 336-3 code général des impôts"
+        },
+        {
+          "texte": "deuxième alinéa de l'article L. 331-30",
+          "texte_complet": "deuxième alinéa de l'article L. 331-30 code général des impôts"
+        },
+        {
+          "texte": "article 238 A du code général des impôts"
+        },
+        {
+          "texte": "article L. 331-25",
+          "texte_complet": "article L. 331-25 code général des impôts"
+        },
+        {
+          "texte": "articles L. 331-25 et L. 331-26",
+          "texte_complet": "articles L. 331-25 et L. 331-26 code général des impôts"
+        },
+        {
+          "texte": "article L. 121-84 du code de la consommation"
+        },
+        {
+          "texte": "article L. 331-25",
+          "texte_complet": "article L. 331-25 code de la consommation"
+        },
+        {
+          "texte": "article L. 331-27",
+          "texte_complet": "article L. 331-27 code de la consommation"
+        },
+        {
+          "texte": "article L. 331-26",
+          "texte_complet": "article L. 331-26 code de la consommation"
+        },
+        {
+          "texte": "article L. 336-3",
+          "texte_complet": "article L. 336-3 code de la consommation"
+        },
+        {
+          "texte": "article L. 336-3",
+          "texte_complet": "article L. 336-3 code de la consommation"
+        },
+        {
+          "texte": "articles L. 331-25 à L. 331-27",
+          "texte_complet": "articles L. 331-25 à L. 331-27 code de la consommation"
+        },
+        {
+          "texte": "article L. 331-31",
+          "texte_complet": "article L. 331-31 code de la consommation"
+        },
+        {
+          "texte": "article L. 336-3",
+          "texte_complet": "article L. 336-3 code de la consommation"
+        },
+        {
+          "texte": "articles L. 331-24 à L. 331-29 et L. 331-31",
+          "texte_complet": "articles L. 331-24 à L. 331-29 et L. 331-31 code de la consommation"
+        },
+        {
+          "texte": "article L. 336-3",
+          "texte_complet": "article L. 336-3 code de la consommation"
+        },
+        {
+          "texte": "article L. 331-31",
+          "texte_complet": "article L. 331-31 code de la consommation"
+        }
       ],
       "order": 5,
       "section": "C1",
@@ -268,7 +662,9 @@
         "001": "Le 4° de l'article L. 332-1 et l'article L. 335-12 du code de la propriété intellectuelle sont abrogés."
       },
       "liens": [
-        "article L. 335-12 du code de la propriété intellectuelle"
+        {
+          "texte": "article L. 335-12 du code de la propriété intellectuelle"
+        }
       ],
       "order": 7,
       "section": "C1",
@@ -305,7 +701,17 @@
         "002": "\"Art. L. 336-2. - En présence d'une atteinte à un droit d'auteur ou à un droit voisin occasionnée par le contenu d'un service de communication au public en ligne, le tribunal de grande instance, statuant le cas échéant en la forme des référés, peut ordonner à la demande des titulaires de droits sur les oeuvres et objets protégés, de leurs ayants droit, des sociétés de perception et de répartition des droits visées à l'article L. 321-1 ou des organismes de défense professionnelle visés à l'article L. 331-1, toutes mesures propres à prévenir ou à faire cesser une telle atteinte à un droit d'auteur ou un droit voisin, à l'encontre de toute personne susceptible de contribuer à y remédier.\""
       },
       "liens": [
-        "article L. 336-2 du code de la propriété intellectuelle"
+        {
+          "texte": "article L. 336-2 du code de la propriété intellectuelle"
+        },
+        {
+          "texte": "article L. 321-1",
+          "texte_complet": "article L. 321-1 code de la propriété intellectuelle"
+        },
+        {
+          "texte": "article L. 331-1",
+          "texte_complet": "article L. 331-1 code de la propriété intellectuelle"
+        }
       ],
       "order": 10,
       "section": "C1",
@@ -325,7 +731,9 @@
         "008": "\"Art. L. 336-4. - Les caractéristiques essentielles de l'utilisation autorisée d'une oeuvre ou d'un objet protégé, mis à disposition par un service de communication au public en ligne, sont portées à la connaissance de l'utilisateur d'une manière facilement accessible, conformément aux articles L. 331-10 du présent code et L. 111-1 du code de la consommation.\""
       },
       "liens": [
-        "code de la consommation"
+        {
+          "texte": "code de la consommation"
+        }
       ],
       "order": 11,
       "section": "C1",
@@ -352,8 +760,9 @@
         "002": "\"Les personnes visées à l'alinéa précédent les informent également de l'existence de moyens de sécurisation permettant de prévenir les manquements à l'obligation définie à l'article L. 336-3 du code de la propriété intellectuelle et leur proposent au moins un des moyens figurant sur la liste prévue au deuxième alinéa de l'article L. 331-30 du même code.\""
       },
       "liens": [
-        "I de l'article 6 de la loi n° 2004-575 du 21 juin 2004",
-        "article L. 336-3 du code de la propriété intellectuelle"
+        {
+          "texte": "article L. 336-3 du code de la propriété intellectuelle"
+        }
       ],
       "order": 13,
       "section": "C2",
@@ -366,9 +775,15 @@
         "001": "À la première phrase du II de l'article L. 34-1 du code des postes et des communications électroniques, après les mots : \"infractions pénales\", sont insérés les mots : \"ou d'un manquement à l'obligation définie à l'article L. 336-3 du code de la propriété intellectuelle\" et après les mots : \"l'autorité judiciaire\", sont insérés les mots : \"ou de la Haute Autorité mentionnée à l'article L. 331-12 du code de la propriété intellectuelle\"."
       },
       "liens": [
-        "II de l'article L. 34-1 du code des postes et des communications électroniques",
-        "article L. 336-3 du code de la propriété intellectuelle",
-        "article L. 331-12 du code de la propriété intellectuelle"
+        {
+          "texte": "II de l'article L. 34-1 du code des postes et des communications électroniques"
+        },
+        {
+          "texte": "article L. 336-3 du code de la propriété intellectuelle"
+        },
+        {
+          "texte": "article L. 331-12 du code de la propriété intellectuelle"
+        }
       ],
       "order": 14,
       "section": "C3",
@@ -382,7 +797,9 @@
         "002": "\"Dans le cadre de ces enseignements, les élèves reçoivent une information sur les dangers du téléchargement et de la mise à disposition illicites d'oeuvres ou d'objets protégés par un droit d'auteur ou un droit voisin pour la création artistique.\""
       },
       "liens": [
-        "article L. 312-6 du code de l'éducation"
+        {
+          "texte": "article L. 312-6 du code de l'éducation"
+        }
       ],
       "order": 15,
       "section": "C3 bis",
@@ -396,8 +813,12 @@
         "002": "\"Dans ce cadre, notamment à l'occasion de la préparation du brevet informatique et internet des collégiens, ils reçoivent de la part d'enseignants préalablement sensibilisés sur le sujet une information sur les risques liés aux usages des services de communication au public en ligne, sur les dangers du téléchargement et de la mise à disposition illicites d'oeuvres ou d'objets protégés par un droit d'auteur ou un droit voisin pour la création artistique, ainsi que sur les sanctions encourues en cas de manquement à l'obligation définie à l'article L. 336-3 du code de la propriété intellectuelle et de délit de contrefaçon. Cette information porte également sur l'existence d'une offre légale d'oeuvres ou d'objets protégés par un droit d'auteur ou un droit voisin sur les services de communication au public en ligne.\""
       },
       "liens": [
-        "article L. 312-9 du code de l'éducation",
-        "article L. 336-3 du code de la propriété intellectuelle"
+        {
+          "texte": "article L. 312-9 du code de l'éducation"
+        },
+        {
+          "texte": "article L. 336-3 du code de la propriété intellectuelle"
+        }
       ],
       "order": 16,
       "section": "C3 bis",
@@ -428,8 +849,41 @@
         "019": "\"2° Le non-respect du délai prévu par un accord professionnel rendu obligatoire dans les conditions prévues à l'article 30-7.\""
       },
       "liens": [
-        "titre II du code de l'industrie cinématographique",
-        "article 92 de la loi n° 82-652 du 29 juillet 1982"
+        {
+          "texte": "titre II du code de l'industrie cinématographique"
+        },
+        {
+          "texte": "article 30-7",
+          "texte_complet": "article 30-7 code de l'industrie cinématographique"
+        },
+        {
+          "texte": "article 30-4",
+          "texte_complet": "article 30-4 code de l'industrie cinématographique"
+        },
+        {
+          "texte": "article 30-7",
+          "texte_complet": "article 30-7 code de l'industrie cinématographique"
+        },
+        {
+          "texte": "articles 30-5 et 30-6",
+          "texte_complet": "articles 30-5 et 30-6 code de l'industrie cinématographique"
+        },
+        {
+          "texte": "2° de l'article 13",
+          "texte_complet": "2° de l'article 13 code de l'industrie cinématographique"
+        },
+        {
+          "texte": "premier alinéa de l'article 30-4",
+          "texte_complet": "premier alinéa de l'article 30-4 code de l'industrie cinématographique"
+        },
+        {
+          "texte": "II de l'article 30-5",
+          "texte_complet": "II de l'article 30-5 code de l'industrie cinématographique"
+        },
+        {
+          "texte": "article 30-7",
+          "texte_complet": "article 30-7 code de l'industrie cinématographique"
+        }
       ],
       "order": 17,
       "section": "C3 ter",
@@ -442,7 +896,9 @@
         "001": "À la dernière phrase du dernier alinéa de l'article L. 462-1 du code de commerce, après le mot : \"industrie,\", sont insérés les mots : \"de la Haute Autorité pour la diffusion des oeuvres et la protection des droits sur internet,\"."
       },
       "liens": [
-        "dernier alinéa de l'article L. 462-1 du code de commerce"
+        {
+          "texte": "dernier alinéa de l'article L. 462-1 du code de commerce"
+        }
       ],
       "order": 18,
       "section": "C4",
@@ -459,7 +915,9 @@
         "005": "Pour la constitution de la commission de protection des droits mentionnée à l'article L. 331-16 du même code, le président est nommé pour six ans. La durée du mandat des deux autres membres est fixée, par tirage au sort, à deux ans pour l'un d'entre eux et à quatre ans pour l'autre."
       },
       "liens": [
-        "articles L. 331-29, L. 331-31, L. 331-31-1 et L. 331-32 du code de la propriété intellectuelle"
+        {
+          "texte": "articles L. 331-29, L. 331-31, L. 331-31-1 et L. 331-32 du code de la propriété intellectuelle"
+        }
       ],
       "order": 19,
       "section": "C4",
@@ -517,19 +975,113 @@
         "046": "Dans les entreprises de presse où de tels accords n'ont pas été conclus à la date d'entrée en vigueur de la présente loi, les accords mentionnés à l'article L. 132-37 du code de la propriété intellectuelle fixent notamment le montant des rémunérations dues aux journalistes professionnels en application des articles L. 132-38 à L. 132-40 dudit code, pour la période comprise entre l'entrée en vigueur de la présente loi et l'entrée en vigueur de ces accords."
       },
       "liens": [
-        "code de la propriété intellectuelle",
-        "article 2 de la loi n° 86-1067 du 30 septembre 1986",
-        "articles L. 7111-3 et suivants du code du travail",
-        "articles L. 2222-1 et suivants du code du travail",
-        "article L. 233-16 du code de commerce",
-        "article L. 2261-10 du code du travail",
-        "article L. 2231-6 du code du travail",
-        "code du travail",
-        "premier alinéa de l'article L. 132-35 du code de la propriété intellectuelle",
-        "article L. 132-35 du code de la propriété intellectuelle",
-        "article L. 132-37 du code de la propriété intellectuelle",
-        "article L. 382-14 du code de la sécurité sociale",
-        "article L. 132-42 du code de la propriété intellectuelle"
+        {
+          "texte": "code de la propriété intellectuelle"
+        },
+        {
+          "texte": "dernier alinéa de l'article L. 121-8",
+          "texte_complet": "dernier alinéa de l'article L. 121-8 code de la propriété intellectuelle"
+        },
+        {
+          "texte": "article L. 132-35",
+          "texte_complet": "article L. 132-35 code de la propriété intellectuelle"
+        },
+        {
+          "texte": "article L. 132-34",
+          "texte_complet": "article L. 132-34 code de la propriété intellectuelle"
+        },
+        {
+          "texte": "article L. 121-8",
+          "texte_complet": "article L. 121-8 code de la propriété intellectuelle"
+        },
+        {
+          "texte": "articles L. 7111-3 et suivants du code du travail"
+        },
+        {
+          "texte": "articles L. 2222-1 et suivants du code du travail"
+        },
+        {
+          "texte": "article L. 132-37",
+          "texte_complet": "article L. 132-37 code du travail"
+        },
+        {
+          "texte": "article L. 233-16 du code de commerce"
+        },
+        {
+          "texte": "article L. 132-36",
+          "texte_complet": "article L. 132-36 code de commerce"
+        },
+        {
+          "texte": "dernier alinéa de l'article L. 121-8",
+          "texte_complet": "dernier alinéa de l'article L. 121-8 code de commerce"
+        },
+        {
+          "texte": "articles L. 132-38 et suivants",
+          "texte_complet": "articles L. 132-38 et suivants code de commerce"
+        },
+        {
+          "texte": "articles L. 131-4 et L. 132-6",
+          "texte_complet": "articles L. 131-4 et L. 132-6 code de commerce"
+        },
+        {
+          "texte": "articles L. 132-38 et suivants",
+          "texte_complet": "articles L. 132-38 et suivants code de commerce"
+        },
+        {
+          "texte": "articles L. 321-1 et suivants",
+          "texte_complet": "articles L. 321-1 et suivants code de commerce"
+        },
+        {
+          "texte": "article L. 132-39",
+          "texte_complet": "article L. 132-39 code de commerce"
+        },
+        {
+          "texte": "article L. 2261-10 du code du travail"
+        },
+        {
+          "texte": "article L. 2231-6 du code du travail"
+        },
+        {
+          "texte": "article L. 132-41",
+          "texte_complet": "article L. 132-41 code du travail"
+        },
+        {
+          "texte": "code du travail"
+        },
+        {
+          "texte": "article L. 7111-5",
+          "texte_complet": "article L. 7111-5 code du travail"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 132-35 du code de la propriété intellectuelle"
+        },
+        {
+          "texte": "article L. 7113-2",
+          "texte_complet": "article L. 7113-2 code de la propriété intellectuelle"
+        },
+        {
+          "texte": "article L. 132-35 du code de la propriété intellectuelle"
+        },
+        {
+          "texte": "article L. 7113-2",
+          "texte_complet": "article L. 7113-2 code de la propriété intellectuelle"
+        },
+        {
+          "texte": "article L. 132-37 du code de la propriété intellectuelle"
+        },
+        {
+          "texte": "article L. 382-14 du code de la sécurité sociale"
+        },
+        {
+          "texte": "article L. 132-42 du code de la propriété intellectuelle"
+        },
+        {
+          "texte": "article L. 132-37 du code de la propriété intellectuelle"
+        },
+        {
+          "texte": "articles L. 132-38 à L. 132-40",
+          "texte_complet": "articles L. 132-38 à L. 132-40 code de la propriété intellectuelle"
+        }
       ],
       "order": 20,
       "section": "C4",
@@ -544,7 +1096,9 @@
         "003": "II. - Au 7° de l'article L. 211-3 du même code, après le mot : \"reproduction\", sont insérés les mots : \"et de représentation\" et les mots : \"sur place\" sont remplacés par les mots : \"à des fins de recherche ou d'études privées par des particuliers, dans les locaux de l'établissement et sur des terminaux dédiés\"."
       },
       "liens": [
-        "8° de l'article L. 122-5 du code de la propriété intellectuelle"
+        {
+          "texte": "8° de l'article L. 122-5 du code de la propriété intellectuelle"
+        }
       ],
       "order": 21,
       "section": "C4",
@@ -556,9 +1110,7 @@
       "alineas": {
         "001": "À la deuxième phrase du premier alinéa de l'article 15 de la loi n° 2006-961 du 1er août 2006 relative au droit d'auteur et aux droits voisins dans la société de l'information, les mots : \"est tenu de transmettre à ce service\" sont remplacés par les mots : \"est tenu, à la demande de ce service, de transmettre à celui-ci\"."
       },
-      "liens": [
-        "premier alinéa de l'article 15 de la loi n° 2006-961 du 1er août 2006"
-      ],
+      "liens": [],
       "order": 22,
       "section": "C4",
       "statut": "none",
@@ -578,16 +1130,9 @@
         "009": "4. L'article 18 de la loi n° 99-533 du 25 juin 1999 d'orientation pour l'aménagement et le développement durable du territoire et portant modification de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire est abrogé."
       },
       "liens": [
-        "article 89 de la loi n° 82-652 du 29 juillet 1982",
-        "article 79 de la loi n° 86-1067 du 30 septembre 1986",
-        "IV de l'article 30-2 de la loi n° 86-1067 du 30 septembre 1986",
-        "loi n° 96-299 du 10 avril 1996",
-        "article 15 de la loi n° 97-283 du 27 mars 1997",
-        "code de la propriété intellectuelle",
-        "article 3 de la loi n° 96-299 du 10 avril 1996",
-        "III de l'article 22 de la loi n° 96-659 du 26 juillet 1996",
-        "article 18 de la loi n° 99-533 du 25 juin 1999",
-        "loi n° 95-115 du 4 février 1995"
+        {
+          "texte": "code de la propriété intellectuelle"
+        }
       ],
       "order": 23,
       "section": "C4",
@@ -602,9 +1147,7 @@
         "003": "2° Après la première phrase, il est inséré une phrase ainsi rédigée :",
         "004": "\"Il fixe, au moins trois mois à l'avance, pour chaque zone géographique, la date d'arrêt de la diffusion analogique des services à vocation locale et des services nationaux dont l'autorisation pour ce mode de diffusion vient à échéance avant le 30 novembre 2011.\""
       },
-      "liens": [
-        "cinquième alinéa de l'article 99 de la loi n° 86-1067 du 30 septembre 1986"
-      ],
+      "liens": [],
       "order": 24,
       "section": "C4",
       "statut": "none",
@@ -636,7 +1179,45 @@
         "009": "IV. - Le 2° du I et le III de l'article 10 bis, l'article 10 ter et les I et II de l'article 12 de la présente loi sont applicables en Polynésie française."
       },
       "liens": [
-        "article L. 811-1 du code de la propriété intellectuelle"
+        {
+          "texte": "article L. 811-1 du code de la propriété intellectuelle"
+        },
+        {
+          "texte": "quatrième alinéa de l'article L. 335-4",
+          "texte_complet": "quatrième alinéa de l'article L. 335-4 code de la propriété intellectuelle"
+        },
+        {
+          "texte": "articles L. 133-1 à L. 133-4",
+          "texte_complet": "articles L. 133-1 à L. 133-4 code de la propriété intellectuelle"
+        },
+        {
+          "texte": "articles suivants",
+          "texte_complet": "articles suivants code de la propriété intellectuelle"
+        },
+        {
+          "texte": "articles L. 133-1 à L. 133-4",
+          "texte_complet": "articles L. 133-1 à L. 133-4 code de la propriété intellectuelle"
+        },
+        {
+          "texte": "quatrième alinéa de l'article L. 335-4",
+          "texte_complet": "quatrième alinéa de l'article L. 335-4 code de la propriété intellectuelle"
+        },
+        {
+          "texte": "articles L. 133-1 à L. 133-4, L. 421-1 à L. 422-13 et L. 423-2",
+          "texte_complet": "articles L. 133-1 à L. 133-4, L. 421-1 à L. 422-13 et L. 423-2 code de la propriété intellectuelle"
+        },
+        {
+          "texte": "quatrième alinéa de l'article L. 335-4",
+          "texte_complet": "quatrième alinéa de l'article L. 335-4 code de la propriété intellectuelle"
+        },
+        {
+          "texte": "2° du I et le III de l'article 10 bis",
+          "texte_complet": "2° du I et le III de l'article 10 bis code de la propriété intellectuelle"
+        },
+        {
+          "texte": "article 10 ter",
+          "texte_complet": "article 10 ter code de la propriété intellectuelle"
+        }
       ],
       "order": 26,
       "section": "C4",
@@ -656,11 +1237,12 @@
         "008": "IV. - Le III s'applique aux impositions établies à compter de l'année qui suit la publication du décret prévu au troisième alinéa de l'article 1er de la loi n° 86-897 du 1er août 1986 portant réforme du régime juridique de la presse dans sa rédaction issue du présent article et au plus tard à compter du 31 décembre 2009."
       },
       "liens": [
-        "article 1er de la loi n° 86-897 du 1er août 1986",
-        "article L. 7111-3 du code du travail",
-        "article 93-3 de la loi n° 82-652 du 29 juillet 1982",
-        "1° de l'article 1458 du code général des impôts",
-        "troisième alinéa de l'article 1er de la loi n° 86-897 du 1er août 1986"
+        {
+          "texte": "article L. 7111-3 du code du travail"
+        },
+        {
+          "texte": "1° de l'article 1458 du code général des impôts"
+        }
       ],
       "order": 27,
       "section": "C4",
@@ -689,8 +1271,9 @@
         "017": "II. - Le I s'applique aux exercices clos à compter de la publication de la présente loi."
       },
       "liens": [
-        "article 39 bis A du code général des impôts",
-        "article 1er de la loi n° 86-897 du 1er août 1986"
+        {
+          "texte": "article 39 bis A du code général des impôts"
+        }
       ],
       "order": 28,
       "section": "C4",

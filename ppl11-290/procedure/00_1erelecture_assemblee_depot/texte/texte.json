@@ -35,7 +35,9 @@
         "003": "Est passible d'une sanction disciplinaire le salarié qui n'a pas informé son employeur de son intention de participer à la grève dans les conditions prévues au présent article."
       },
       "liens": [
-        "article 226-13 du code pénal"
+        {
+          "texte": "article 226-13 du code pénal"
+        }
       ],
       "order": 3,
       "statut": "none",

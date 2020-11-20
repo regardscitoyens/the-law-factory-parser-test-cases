@@ -38,12 +38,31 @@
         "034": "\"Art. L. 3231-1-1. - La politique de l'alimentation est définie à l'article L. 230-1 du code rural.\""
       },
       "liens": [
-        "livre II du code rural",
-        "article L. 1435-7 du code de la santé publique",
-        "premier alinéa de l'article L. 218-1 du code de la consommation",
-        "chapitre Ier du titre IV du livre V du code de la consommation",
-        "article L. 230-1 du code rural",
-        "troisième partie du code de la santé publique"
+        {
+          "texte": "livre II du code rural"
+        },
+        {
+          "texte": "1° à 7° et au 9° du I de l'article L. 231-2",
+          "texte_complet": "1° à 7° et au 9° du I de l'article L. 231-2 code rural"
+        },
+        {
+          "texte": "article L. 1435-7 du code de la santé publique"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 218-1 du code de la consommation"
+        },
+        {
+          "texte": "chapitre Ier du titre IV du livre V du code de la consommation"
+        },
+        {
+          "texte": "article L. 230-1 du code rural"
+        },
+        {
+          "texte": "troisième partie du code de la santé publique"
+        },
+        {
+          "texte": "article L. 230-1 du code rural"
+        }
       ],
       "order": 1,
       "section": "T1",
@@ -60,7 +79,9 @@
         "005": "\"La liste des produits concernés et les modalités d'application de l'indication de l'origine mentionnée au premier alinéa sont fixées par décret en Conseil d'État.\""
       },
       "liens": [
-        "section 2 du chapitre V du titre Ier du livre Ier du code de la consommation"
+        {
+          "texte": "section 2 du chapitre V du titre Ier du livre Ier du code de la consommation"
+        }
       ],
       "order": 2,
       "section": "T1",
@@ -79,7 +100,13 @@
         "007": "\"Le contenu et la durée de la formation mentionnée au premier alinéa sont définis par arrêté du ministre chargé de l'alimentation.\""
       },
       "liens": [
-        "section 2 du chapitre III du titre III du livre II du code rural"
+        {
+          "texte": "section 2 du chapitre III du titre III du livre II du code rural"
+        },
+        {
+          "texte": "article L. 233-1",
+          "texte_complet": "article L. 233-1 code rural"
+        }
       ],
       "order": 3,
       "section": "T1",
@@ -127,7 +154,81 @@
         "036": "14° A la dernière phrase du troisième alinéa de l'article L. 814-2, les mots : \"formation professionnelle agricoles\" sont remplacés par les mots : \"formation professionnelle aux métiers de la nature, de l'agriculture et des territoires\"."
       },
       "liens": [
-        "livre VIII du code rural"
+        {
+          "texte": "livre VIII du code rural"
+        },
+        {
+          "texte": "article L. 811-1",
+          "texte_complet": "article L. 811-1 code rural"
+        },
+        {
+          "texte": "article L. 811-8",
+          "texte_complet": "article L. 811-8 code rural"
+        },
+        {
+          "texte": "article L 811-1",
+          "texte_complet": "article L 811-1 code rural"
+        },
+        {
+          "texte": "article L. 811-9-1",
+          "texte_complet": "article L. 811-9-1 code rural"
+        },
+        {
+          "texte": "article L. 811-9",
+          "texte_complet": "article L. 811-9 code rural"
+        },
+        {
+          "texte": "article L. 811-8",
+          "texte_complet": "article L. 811-8 code rural"
+        },
+        {
+          "texte": "article L. 813-1",
+          "texte_complet": "article L. 813-1 code rural"
+        },
+        {
+          "texte": "cinquième alinéa de l'article L. 813-2",
+          "texte_complet": "cinquième alinéa de l'article L. 813-2 code rural"
+        },
+        {
+          "texte": "article L. 811-1",
+          "texte_complet": "article L. 811-1 code rural"
+        },
+        {
+          "texte": "article L. 811-2",
+          "texte_complet": "article L. 811-2 code rural"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 811-2",
+          "texte_complet": "premier alinéa de l'article L. 811-2 code rural"
+        },
+        {
+          "texte": "troisième alinéa de l'article L. 811-2",
+          "texte_complet": "troisième alinéa de l'article L. 811-2 code rural"
+        },
+        {
+          "texte": "dixième alinéa de l'article L. 811-8",
+          "texte_complet": "dixième alinéa de l'article L. 811-8 code rural"
+        },
+        {
+          "texte": "deuxième alinéa de l'article L. 813-1",
+          "texte_complet": "deuxième alinéa de l'article L. 813-1 code rural"
+        },
+        {
+          "texte": "dernier alinéa de l'article L. 813-1",
+          "texte_complet": "dernier alinéa de l'article L. 813-1 code rural"
+        },
+        {
+          "texte": "deuxième alinéa de l'article L. 813-2",
+          "texte_complet": "deuxième alinéa de l'article L. 813-2 code rural"
+        },
+        {
+          "texte": "quatrième alinéa de l'article L. 813-2",
+          "texte_complet": "quatrième alinéa de l'article L. 813-2 code rural"
+        },
+        {
+          "texte": "troisième alinéa de l'article L. 814-2",
+          "texte_complet": "troisième alinéa de l'article L. 814-2 code rural"
+        }
       ],
       "order": 4,
       "section": "T1",
@@ -147,13 +248,36 @@
         "008": "II. - Les ordonnances mentionnées au I sont prises dans un délai de douze mois suivant la publication de la présente loi. Pour chaque ordonnance, un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de sa publication."
       },
       "liens": [
-        "article 38 de la Constitution",
-        "article L. 221-11 du code rural",
-        "articles L. 243-1 et L. 243-2 du code rural",
-        "code rural",
-        "article L. 234-2 du code rural",
-        "code de la santé publique",
-        "article L. 201-1 du code rural"
+        {
+          "texte": "article 38 de la Constitution"
+        },
+        {
+          "texte": "article L. 221-11 du code rural"
+        },
+        {
+          "texte": "articles L. 243-1 et L. 243-2 du code rural"
+        },
+        {
+          "texte": "code rural"
+        },
+        {
+          "texte": "article L. 234-2 du code rural"
+        },
+        {
+          "texte": "code rural"
+        },
+        {
+          "texte": "code de la santé publique"
+        },
+        {
+          "texte": "article L. 201-1 du code rural"
+        },
+        {
+          "texte": "code rural"
+        },
+        {
+          "texte": "code rural"
+        }
       ],
       "order": 5,
       "section": "T1",
@@ -194,9 +318,47 @@
         "029": "\"Les amendes mentionnées au présent article sont versées au Trésor et sont recouvrées comme les créances de l'État étrangères à l'impôt et au domaine.\""
       },
       "liens": [
-        "chapitre Ier du titre III du livre VI du code rural",
-        "premier alinéa de l'article L. 441-2-1 du code de commerce",
-        "articles L. 450-2 et L. 450-3 du code de commerce"
+        {
+          "texte": "chapitre Ier du titre III du livre VI du code rural"
+        },
+        {
+          "texte": "articles L. 631-1, L. 631-2, L. 631-3, L. 631-22 et L. 631-23",
+          "texte_complet": "articles L. 631-1, L. 631-2, L. 631-3, L. 631-22 et L. 631-23 code rural"
+        },
+        {
+          "texte": "second alinéa de l'article L. 631-1",
+          "texte_complet": "second alinéa de l'article L. 631-1 code rural"
+        },
+        {
+          "texte": "article L. 631-23",
+          "texte_complet": "article L. 631-23 code rural"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 551-1",
+          "texte_complet": "premier alinéa de l'article L. 551-1 code rural"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 441-2-1 du code de commerce"
+        },
+        {
+          "texte": "article L. 631-24",
+          "texte_complet": "article L. 631-24 code de commerce"
+        },
+        {
+          "texte": "article L. 631-24",
+          "texte_complet": "article L. 631-24 code de commerce"
+        },
+        {
+          "texte": "article L. 631-25",
+          "texte_complet": "article L. 631-25 code de commerce"
+        },
+        {
+          "texte": "articles L. 450-2 et L. 450-3 du code de commerce"
+        },
+        {
+          "texte": "article L. 631-25",
+          "texte_complet": "article L. 631-25 code de commerce"
+        }
       ],
       "order": 6,
       "section": "T2",
@@ -227,10 +389,46 @@
         "019": "\"12° De ne pas joindre aux fruits et légumes destinés à la vente ou à la revente à un professionnel établi en France lors de leur transport sur le territoire national un bon de commande établi conformément aux dispositions de l'article L. 441-3-1.\""
       },
       "liens": [
-        "code de commerce",
-        "article L. 121-3 du code de la consommation",
-        "article L. 632-1 du code rural",
-        "article L. 631-24 du code rural"
+        {
+          "texte": "code de commerce"
+        },
+        {
+          "texte": "article L. 441-2",
+          "texte_complet": "article L. 441-2 code de commerce"
+        },
+        {
+          "texte": "article L. 121-3 du code de la consommation"
+        },
+        {
+          "texte": "article L. 632-1 du code rural"
+        },
+        {
+          "texte": "article L. 441-2-1",
+          "texte_complet": "article L. 441-2-1 code rural"
+        },
+        {
+          "texte": "article L. 631-24 du code rural"
+        },
+        {
+          "texte": "premier alinéa des articles L. 924-3 et L. 954-3",
+          "texte_complet": "premier alinéa des articles L. 924-3 et L. 954-3 code rural"
+        },
+        {
+          "texte": "article L. 441-3",
+          "texte_complet": "article L. 441-3 code rural"
+        },
+        {
+          "texte": "I de l'article L. 442-6",
+          "texte_complet": "I de l'article L. 442-6 code rural"
+        },
+        {
+          "texte": "article L. 441-2",
+          "texte_complet": "article L. 441-2 code rural"
+        },
+        {
+          "texte": "article L. 441-3-1",
+          "texte_complet": "article L. 441-3-1 code rural"
+        }
       ],
       "order": 7,
       "section": "T2",
@@ -248,7 +446,17 @@
         "006": "III. - Le I entre en vigueur six mois après la publication de la présente loi."
       },
       "liens": [
-        "article L. 441-2-1 du code de commerce"
+        {
+          "texte": "article L. 441-2-1 du code de commerce"
+        },
+        {
+          "texte": "article L. 441-2-1",
+          "texte_complet": "article L. 441-2-1 code de commerce"
+        },
+        {
+          "texte": "III et IV de l'article L. 442-6",
+          "texte_complet": "III et IV de l'article L. 442-6 code de commerce"
+        }
       ],
       "order": 8,
       "section": "T2",
@@ -262,7 +470,9 @@
         "002": "\"Art. L. 311-2-2. - Il est créé un inventaire verger dont les conditions d'application sont définies par décret.\""
       },
       "liens": [
-        "article L. 311-2-1 du code rural"
+        {
+          "texte": "article L. 311-2-1 du code rural"
+        }
       ],
       "order": 9,
       "section": "T2",
@@ -292,8 +502,37 @@
         "018": "\"Il étudie également les coûts de production au stade de la production agricole. Il remet chaque année un rapport au Parlement.\""
       },
       "liens": [
-        "livre VI du code rural",
-        "loi n° 51-711 du 7 juin 1951"
+        {
+          "texte": "livre VI du code rural"
+        },
+        {
+          "texte": "7° de l'article L. 621-3",
+          "texte_complet": "7° de l'article L. 621-3 code rural"
+        },
+        {
+          "texte": "article L. 692-1",
+          "texte_complet": "article L. 692-1 code rural"
+        },
+        {
+          "texte": "article L. 621-8",
+          "texte_complet": "article L. 621-8 code rural"
+        },
+        {
+          "texte": "article L. 621-1",
+          "texte_complet": "article L. 621-1 code rural"
+        },
+        {
+          "texte": "article L. 691-1",
+          "texte_complet": "article L. 691-1 code rural"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 691-1",
+          "texte_complet": "premier alinéa de l'article L. 691-1 code rural"
+        },
+        {
+          "texte": "article L. 621-1",
+          "texte_complet": "article L. 621-1 code rural"
+        }
       ],
       "order": 10,
       "section": "T2",
@@ -354,8 +593,92 @@
         "049": "9° À l'article L. 681-7, les mots : \"les collectivités de Mayotte et de Saint-Pierre-et-Miquelon\" sont remplacés par les mots : \"la collectivité de Mayotte\" et la référence : \"du II de l'article L. 632-1\" est remplacée par la référence : \"du I de l'article L. 632-2\"."
       },
       "liens": [
-        "code rural",
-        "article L. 13 du code forestier"
+        {
+          "texte": "code rural"
+        },
+        {
+          "texte": "article L. 632-1",
+          "texte_complet": "article L. 632-1 code rural"
+        },
+        {
+          "texte": "article L. 632-1",
+          "texte_complet": "article L. 632-1 code rural"
+        },
+        {
+          "texte": "article L. 632-1",
+          "texte_complet": "article L. 632-1 code rural"
+        },
+        {
+          "texte": "articles L. 632-1 et L. 632-1-2",
+          "texte_complet": "articles L. 632-1 et L. 632-1-2 code rural"
+        },
+        {
+          "texte": "articles L. 632-1, L. 632-2, L. 632-2-1, L. 632-3, L. 632-4",
+          "texte_complet": "articles L. 632-1, L. 632-2, L. 632-2-1, L. 632-3, L. 632-4 code rural"
+        },
+        {
+          "texte": "article L. 632-2",
+          "texte_complet": "article L. 632-2 code rural"
+        },
+        {
+          "texte": "article L. 632-3",
+          "texte_complet": "article L. 632-3 code rural"
+        },
+        {
+          "texte": "article L. 13 du code forestier"
+        },
+        {
+          "texte": "premier alinéa du I de l'article L. 632-1",
+          "texte_complet": "premier alinéa du I de l'article L. 632-1 code forestier"
+        },
+        {
+          "texte": "article L. 632-2",
+          "texte_complet": "article L. 632-2 code forestier"
+        },
+        {
+          "texte": "article L. 632-3",
+          "texte_complet": "article L. 632-3 code forestier"
+        },
+        {
+          "texte": "article L. 632-4",
+          "texte_complet": "article L. 632-4 code forestier"
+        },
+        {
+          "texte": "deuxième alinéa de l'article L. 632-2-1",
+          "texte_complet": "deuxième alinéa de l'article L. 632-2-1 code forestier"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 632-6",
+          "texte_complet": "premier alinéa de l'article L. 632-6 code forestier"
+        },
+        {
+          "texte": "dernier alinéa de l'article L. 632-7",
+          "texte_complet": "dernier alinéa de l'article L. 632-7 code forestier"
+        },
+        {
+          "texte": "article L. 632-1",
+          "texte_complet": "article L. 632-1 code forestier"
+        },
+        {
+          "texte": "articles L. 632-1 à L. 632-2",
+          "texte_complet": "articles L. 632-1 à L. 632-2 code forestier"
+        },
+        {
+          "texte": "article L. 632-9",
+          "texte_complet": "article L. 632-9 code forestier"
+        },
+        {
+          "texte": "article L. 681-7",
+          "texte_complet": "article L. 681-7 code forestier"
+        },
+        {
+          "texte": "II de l'article L. 632-1",
+          "texte_complet": "II de l'article L. 632-1 code forestier"
+        },
+        {
+          "texte": "I de l'article L. 632-2",
+          "texte_complet": "I de l'article L. 632-2 code forestier"
+        }
       ],
       "order": 11,
       "section": "T2",
@@ -369,7 +692,13 @@
         "002": "\"Lorsqu'un accord inclut un contrat type mentionné au deuxième alinéa de l'article L. 632-2-1, l'autorité administrative saisie aux fins d'homologation le soumet à l'Autorité de la concurrence. Celle-ci rend son avis dans le délai de deux mois ; si l'Autorité de la concurrence n'a pas rendu son avis à l'expiration de ce délai, l'autorité compétente prend la décision.\""
       },
       "liens": [
-        "article L. 632-12 du code rural"
+        {
+          "texte": "article L. 632-12 du code rural"
+        },
+        {
+          "texte": "deuxième alinéa de l'article L. 632-2-1",
+          "texte_complet": "deuxième alinéa de l'article L. 632-2-1 code rural"
+        }
       ],
       "order": 12,
       "section": "T2",
@@ -384,7 +713,9 @@
         "003": "II. - Le premier bilan de l'organisation économique de la production et de l'efficacité des différents modes de commercialisation, mentionné au I, est effectué avant le 1er janvier 2012."
       },
       "liens": [
-        "dernier alinéa de l'article L. 551-1 du code rural"
+        {
+          "texte": "dernier alinéa de l'article L. 551-1 du code rural"
+        }
       ],
       "order": 13,
       "section": "T2",
@@ -441,13 +772,82 @@
         "045": "III. - À la seconde phrase du second alinéa du IX de l'article L. 211-12 du code de l'environnement, les mots : \"par l'article L. 361-10\" sont remplacés par les mots : \"en application de l'article L. 361-4\"."
       },
       "liens": [
-        "titre VI du livre III du code rural",
-        "article L. 431-11 du code des assurances",
-        "article 991 du code général des impôts",
-        "code des assurances",
-        "articles L. 361-1 à L. 361-21 du code rural",
-        "chapitre Ier du titre VI du livre III du code rural",
-        "second alinéa du IX de l'article L. 211-12 du code de l'environnement"
+        {
+          "texte": "titre VI du livre III du code rural"
+        },
+        {
+          "texte": "articles L. 361-2 à L. 361-4-1",
+          "texte_complet": "articles L. 361-2 à L. 361-4-1 code rural"
+        },
+        {
+          "texte": "article L. 431-11 du code des assurances"
+        },
+        {
+          "texte": "article 991 du code général des impôts"
+        },
+        {
+          "texte": "article L. 361-3",
+          "texte_complet": "article L. 361-3 code général des impôts"
+        },
+        {
+          "texte": "article L. 361-1",
+          "texte_complet": "article L. 361-1 code général des impôts"
+        },
+        {
+          "texte": "article L. 362-26",
+          "texte_complet": "article L. 362-26 code général des impôts"
+        },
+        {
+          "texte": "article L. 361-1",
+          "texte_complet": "article L. 361-1 code général des impôts"
+        },
+        {
+          "texte": "article L. 361-4",
+          "texte_complet": "article L. 361-4 code général des impôts"
+        },
+        {
+          "texte": "article L. 361-19",
+          "texte_complet": "article L. 361-19 code général des impôts"
+        },
+        {
+          "texte": "article L. 361-7",
+          "texte_complet": "article L. 361-7 code général des impôts"
+        },
+        {
+          "texte": "code des assurances"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 125-5",
+          "texte_complet": "premier alinéa de l'article L. 125-5 code des assurances"
+        },
+        {
+          "texte": "articles L. 361-1 à L. 361-21 du code rural"
+        },
+        {
+          "texte": "chapitre Ier du titre VI du livre III du code rural"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 431-11",
+          "texte_complet": "premier alinéa de l'article L. 431-11 code rural"
+        },
+        {
+          "texte": "article L. 442-1",
+          "texte_complet": "article L. 442-1 code rural"
+        },
+        {
+          "texte": "chapitre Ier du titre VI du livre III du code rural"
+        },
+        {
+          "texte": "second alinéa du IX de l'article L. 211-12 du code de l'environnement"
+        },
+        {
+          "texte": "article L. 361-10",
+          "texte_complet": "article L. 361-10 code de l'environnement"
+        },
+        {
+          "texte": "article L. 361-4",
+          "texte_complet": "article L. 361-4 code de l'environnement"
+        }
       ],
       "order": 14,
       "section": "T2",
@@ -486,8 +886,12 @@
         "005": "II. - Les pertes de recettes éventuelles résultant pour l'État du I ci-dessus sont compensées à due concurrence par la création d'une taxe additionnelle aux droits visés aux articles 575 et 575 A du code général des impôts."
       },
       "liens": [
-        "article 64 du code général des impôts",
-        "articles 575 et 575 A du code général des impôts"
+        {
+          "texte": "article 64 du code général des impôts"
+        },
+        {
+          "texte": "articles 575 et 575 A du code général des impôts"
+        }
       ],
       "order": 17,
       "section": "T2",
@@ -503,7 +907,9 @@
         "004": "II. - Les pertes de recettes éventuelles résultant pour l'État du I ci-dessus sont compensées à due concurrence par la création d'une taxe additionnelle aux droits visés aux articles 575 et 575 A du code général des impôts."
       },
       "liens": [
-        "articles 575 et 575 A du code général des impôts"
+        {
+          "texte": "articles 575 et 575 A du code général des impôts"
+        }
       ],
       "order": 18,
       "section": "T2",
@@ -517,7 +923,9 @@
         "002": "II. - Les pertes de recettes éventuelles résultant pour l'État du I ci-dessus sont compensées à due concurrence par la création d'une taxe additionnelle aux droits visés aux articles 575 et 575 A du code général des impôts."
       },
       "liens": [
-        "articles 575 et 575 A du code général des impôts"
+        {
+          "texte": "articles 575 et 575 A du code général des impôts"
+        }
       ],
       "order": 19,
       "section": "T2",
@@ -534,10 +942,18 @@
         "005": "III. - Les pertes de recettes éventuelles résultant pour l'État des I et II ci-dessus sont compensées à due concurrence par la création d'une taxe additionnelle aux droits visés aux articles 575 et 575 A du code général des impôts."
       },
       "liens": [
-        "article L. 731-22 du code rural",
-        "article 72 E du code général des impôts",
-        "article L. 731-22-1 du code rural",
-        "articles 575 et 575 A du code général des impôts"
+        {
+          "texte": "article L. 731-22 du code rural"
+        },
+        {
+          "texte": "article 72 E du code général des impôts"
+        },
+        {
+          "texte": "article L. 731-22-1 du code rural"
+        },
+        {
+          "texte": "articles 575 et 575 A du code général des impôts"
+        }
       ],
       "order": 20,
       "section": "T2",
@@ -551,8 +967,12 @@
         "002": "II. - Les pertes de recettes éventuelles résultant pour l'État du I ci-dessus sont compensées à due concurrence par la création d'une taxe additionnelle aux droits visés aux articles 575 et 575 A du code général des impôts."
       },
       "liens": [
-        "article 75-0 B du code général des impôts",
-        "articles 575 et 575 A du code général des impôts"
+        {
+          "texte": "article 75-0 B du code général des impôts"
+        },
+        {
+          "texte": "articles 575 et 575 A du code général des impôts"
+        }
       ],
       "order": 21,
       "section": "T2",
@@ -569,9 +989,15 @@
         "005": "II. - Les pertes de recettes éventuelles résultant pour l'État du I ci-dessus sont compensées à due concurrence par la création d'une taxe additionnelle aux droits prévus aux articles 575 et 575 A du code général des impôts."
       },
       "liens": [
-        "article L. 526-6 du code de commerce",
-        "article L. 311-1 du code rural",
-        "articles 575 et 575 A du code général des impôts"
+        {
+          "texte": "article L. 526-6 du code de commerce"
+        },
+        {
+          "texte": "article L. 311-1 du code rural"
+        },
+        {
+          "texte": "articles 575 et 575 A du code général des impôts"
+        }
       ],
       "order": 22,
       "section": "T2",
@@ -585,7 +1011,13 @@
         "002": "\"La politique d'installation contient un volet spécifique à l'installation en société, comprenant un diagnostic et un accompagnement des sociétés agricoles en recherche d'associé ainsi que des jeunes candidats à l'installation, et facilitant le développement des remplacements d'associés par l'intermédiaire du répertoire mentionné au deuxième alinéa de l'article L. 330-2.\""
       },
       "liens": [
-        "deuxième alinéa de l'article L. 330-1 du code rural"
+        {
+          "texte": "deuxième alinéa de l'article L. 330-1 du code rural"
+        },
+        {
+          "texte": "deuxième alinéa de l'article L. 330-2",
+          "texte_complet": "deuxième alinéa de l'article L. 330-2 code rural"
+        }
       ],
       "order": 23,
       "section": "T2 bis",
@@ -600,7 +1032,9 @@
         "003": "\"Les modalités de cet enregistrement sont précisées par décret.\""
       },
       "liens": [
-        "article L. 330-2 du code rural"
+        {
+          "texte": "article L. 330-2 du code rural"
+        }
       ],
       "order": 24,
       "section": "T2 bis",
@@ -644,13 +1078,66 @@
         "032": "III. - Le II entre en vigueur à une date et dans les conditions fixées par décret en Conseil d'État et au plus tard six mois après la publication de la présente loi."
       },
       "liens": [
-        "code rural",
-        "article 3 de la loi n° 85-30 du 9 janvier 1985",
-        "article L. 212-1 du code de l'environnement",
-        "article L. 111-1-1 du code de l'urbanisme",
-        "article L. 121-2 du code de l'urbanisme",
-        "code de l'urbanisme",
-        "article L. 112-1-1 du code rural"
+        {
+          "texte": "code rural"
+        },
+        {
+          "texte": "article L. 111-2",
+          "texte_complet": "article L. 111-2 code rural"
+        },
+        {
+          "texte": "article L. 212-1 du code de l'environnement"
+        },
+        {
+          "texte": "article L. 111-1-1 du code de l'urbanisme"
+        },
+        {
+          "texte": "article L. 121-2 du code de l'urbanisme"
+        },
+        {
+          "texte": "article L. 112-1",
+          "texte_complet": "article L. 112-1 code de l'urbanisme"
+        },
+        {
+          "texte": "code de l'urbanisme"
+        },
+        {
+          "texte": "deuxième alinéa du I de l'article L. 141-1",
+          "texte_complet": "deuxième alinéa du I de l'article L. 141-1 code de l'urbanisme"
+        },
+        {
+          "texte": "article L. 143-15",
+          "texte_complet": "article L. 143-15 code de l'urbanisme"
+        },
+        {
+          "texte": "code de l'urbanisme"
+        },
+        {
+          "texte": "article L. 111-1-2",
+          "texte_complet": "article L. 111-1-2 code de l'urbanisme"
+        },
+        {
+          "texte": "article L. 112-1-1 du code rural"
+        },
+        {
+          "texte": "sixième alinéa de l'article L. 123-1",
+          "texte_complet": "sixième alinéa de l'article L. 123-1 code rural"
+        },
+        {
+          "texte": "second alinéa de l'article L. 123-9",
+          "texte_complet": "second alinéa de l'article L. 123-9 code rural"
+        },
+        {
+          "texte": "article L. 112-1-1",
+          "texte_complet": "article L. 112-1-1 code rural"
+        },
+        {
+          "texte": "article L. 124-2",
+          "texte_complet": "article L. 124-2 code rural"
+        },
+        {
+          "texte": "article L. 112-1-1 du code rural"
+        }
       ],
       "order": 25,
       "section": "T3",
@@ -663,7 +1150,9 @@
         "001": "Au dernier alinéa de l'article L. 311-3 du code rural, après les mots : \"l'enseigne\", sont insérés les mots : \", le nom d'exploitation\"."
       },
       "liens": [
-        "dernier alinéa de l'article L. 311-3 du code rural"
+        {
+          "texte": "dernier alinéa de l'article L. 311-3 du code rural"
+        }
       ],
       "order": 26,
       "section": "T3",
@@ -686,7 +1175,9 @@
         "002": "\"La dérogation prévue au premier alinéa ne s'applique pas aux parcelles ayant fait l'objet d'une division depuis moins de neuf ans.\""
       },
       "liens": [
-        "premier alinéa de l'article L. 411-3 du code rural"
+        {
+          "texte": "premier alinéa de l'article L. 411-3 du code rural"
+        }
       ],
       "order": 28,
       "section": "T3",
@@ -699,7 +1190,9 @@
         "001": "Au troisième alinéa du c du 4° de l'article 793 du code général des impôts, les mots : \"ou qui ont été détenues\" sont supprimés."
       },
       "liens": [
-        "troisième alinéa du c du 4° de l'article 793 du code général des impôts"
+        {
+          "texte": "troisième alinéa du c du 4° de l'article 793 du code général des impôts"
+        }
       ],
       "order": 29,
       "section": "T3",
@@ -752,9 +1245,59 @@
         "030": "\"Art. L. 660-1. - Pour l'application de l'article 12 du traité international sur les ressources phytogénétiques pour l'alimentation et l'agriculture, il est constitué une collection nationale de ressources phytogénétiques composées des collections mises à disposition de l'Etat à cette fin par les organismes publics ou privés auxquelles elles appartiennent.\""
       },
       "liens": [
-        "code rural",
-        "articles L. 211-3, L. 211-12, L. 322-1, L. 331-1, L. 331-2, L. 332-1, L. 332-16, L. 333-1, L. 341-4 à L. 341-6, L. 371-1 à L. 371-3, L. 411-2, L. 414-1 et L. 562-1 du code de l'environnement",
-        "article L. 1321-2 du code de la santé publique"
+        {
+          "texte": "code rural"
+        },
+        {
+          "texte": "article L. 111-2",
+          "texte_complet": "article L. 111-2 code rural"
+        },
+        {
+          "texte": "article L. 123-8",
+          "texte_complet": "article L. 123-8 code rural"
+        },
+        {
+          "texte": "2° de l'article L. 136-2",
+          "texte_complet": "2° de l'article L. 136-2 code rural"
+        },
+        {
+          "texte": "premier alinéa de l'article L. 311-1",
+          "texte_complet": "premier alinéa de l'article L. 311-1 code rural"
+        },
+        {
+          "texte": "I de l'article L. 411-73",
+          "texte_complet": "I de l'article L. 411-73 code rural"
+        },
+        {
+          "texte": "cinquième alinéa de l'article L. 411-27",
+          "texte_complet": "cinquième alinéa de l'article L. 411-27 code rural"
+        },
+        {
+          "texte": "articles L. 211-3, L. 211-12, L. 322-1, L. 331-1, L. 331-2, L. 332-1, L. 332-16, L. 333-1, L. 341-4 à L. 341-6, L. 371-1 à L. 371-3, L. 411-2, L. 414-1 et L. 562-1 du code de l'environnement"
+        },
+        {
+          "texte": "article L. 1321-2 du code de la santé publique"
+        },
+        {
+          "texte": "article L. 611-1",
+          "texte_complet": "article L. 611-1 code de la santé publique"
+        },
+        {
+          "texte": "article L. 642-5",
+          "texte_complet": "article L. 642-5 code de la santé publique"
+        },
+        {
+          "texte": "article L. 642-22",
+          "texte_complet": "article L. 642-22 code de la santé publique"
+        },
+        {
+          "texte": "sixième alinéa de l'article L. 642-22",
+          "texte_complet": "sixième alinéa de l'article L. 642-22 code de la santé publique"
+        },
+        {
+          "texte": "article 12",
+          "texte_complet": "article 12 code de la santé publique"
+        }
       ],
       "order": 31,
       "section": "T3",
@@ -774,7 +1317,9 @@
         "008": "II. - Le I est applicable aux baux en cours."
       },
       "liens": [
-        "article L. 411-11 du code rural"
+        {
+          "texte": "article L. 411-11 du code rural"
+        }
       ],
       "order": 32,
       "section": "T3",
@@ -831,10 +1376,75 @@
         "045": "2° Au huitième alinéa de l'article L. 511-3, la référence : \"L. 221-6\" est remplacée par la référence : \"L. 221-11\"."
       },
       "liens": [
-        "code forestier",
-        "article L. 212-1 du code de l'environnement",
-        "6° de l'article 1er de la loi n° 70-9 du 2 janvier 1970",
-        "code rural"
+        {
+          "texte": "code forestier"
+        },
+        {
+          "texte": "article L. 2",
+          "texte_complet": "article L. 2 code forestier"
+        },
+        {
+          "texte": "article L. 4",
+          "texte_complet": "article L. 4 code forestier"
+        },
+        {
+          "texte": "article L. 212-1 du code de l'environnement"
+        },
+        {
+          "texte": "deuxième alinéa de l'article L. 4",
+          "texte_complet": "deuxième alinéa de l'article L. 4 code de l'environnement"
+        },
+        {
+          "texte": "article L. 12",
+          "texte_complet": "article L. 12 code de l'environnement"
+        },
+        {
+          "texte": "troisième alinéa du I de l'article L. 6",
+          "texte_complet": "troisième alinéa du I de l'article L. 6 code de l'environnement"
+        },
+        {
+          "texte": "article L. 12",
+          "texte_complet": "article L. 12 code de l'environnement"
+        },
+        {
+          "texte": "article L. 4-1",
+          "texte_complet": "article L. 4-1 code de l'environnement"
+        },
+        {
+          "texte": "article L. 221-9",
+          "texte_complet": "article L. 221-9 code de l'environnement"
+        },
+        {
+          "texte": "article L. 4-1",
+          "texte_complet": "article L. 4-1 code de l'environnement"
+        },
+        {
+          "texte": "article L. 141-4",
+          "texte_complet": "article L. 141-4 code de l'environnement"
+        },
+        {
+          "texte": "article L. 224-6",
+          "texte_complet": "article L. 224-6 code de l'environnement"
+        },
+        {
+          "texte": "code rural"
+        },
+        {
+          "texte": "article L. 124-4",
+          "texte_complet": "article L. 124-4 code rural"
+        },
+        {
+          "texte": "deuxième alinéa de l'article L. 121-24",
+          "texte_complet": "deuxième alinéa de l'article L. 121-24 code rural"
+        },
+        {
+          "texte": "articles L. 124-1, L. 124-3, L. 124-4 et L. 127-2",
+          "texte_complet": "articles L. 124-1, L. 124-3, L. 124-4 et L. 127-2 code rural"
+        },
+        {
+          "texte": "huitième alinéa de l'article L. 511-3",
+          "texte_complet": "huitième alinéa de l'article L. 511-3 code rural"
+        }
       ],
       "order": 33,
       "section": "T3",
@@ -855,8 +1465,33 @@
         "009": "3° À la deuxième phrase des I et II de l'article L. 222-6 et à la première phrase du II et au III de l'article L. 223-2, les mots : \"centre régional de la propriété forestière\" sont remplacés par les mots : \"Centre national de la propriété forestière\"."
       },
       "liens": [
-        "ordonnance n° 2009-1369 du 6 novembre 2009",
-        "code forestier"
+        {
+          "texte": "code forestier"
+        },
+        {
+          "texte": "3° de l'article L. 221-1",
+          "texte_complet": "3° de l'article L. 221-1 code forestier"
+        },
+        {
+          "texte": "articles L. 222-1 à L. 222-5",
+          "texte_complet": "articles L. 222-1 à L. 222-5 code forestier"
+        },
+        {
+          "texte": "I de l'article L. 222-6",
+          "texte_complet": "I de l'article L. 222-6 code forestier"
+        },
+        {
+          "texte": "article L. 221-9",
+          "texte_complet": "article L. 221-9 code forestier"
+        },
+        {
+          "texte": "I et II de l'article L. 222-6",
+          "texte_complet": "I et II de l'article L. 222-6 code forestier"
+        },
+        {
+          "texte": "II et au III de l'article L. 223-2",
+          "texte_complet": "II et au III de l'article L. 223-2 code forestier"
+        }
       ],
       "order": 34,
       "section": "T3",
@@ -880,12 +1515,27 @@
         "012": "VI. - La perte de recettes pour l'État résultant du paragraphe précédent est compensée à due concurrence par la création d'une taxe additionnelle aux droits prévus aux articles 575 et 575 A du code général des impôts."
       },
       "liens": [
-        "article 199 decies H du code général des impôts",
-        "article L. 224-7 du code forestier",
-        "article L. 171-1 du code rural",
-        "article L. 551-1 du code rural",
-        "article L. 224-6 du code forestier",
-        "articles 575 et 575 A du code général des impôts"
+        {
+          "texte": "article 199 decies H du code général des impôts"
+        },
+        {
+          "texte": "article L. 224-7 du code forestier"
+        },
+        {
+          "texte": "article L. 171-1 du code rural"
+        },
+        {
+          "texte": "article L. 551-1 du code rural"
+        },
+        {
+          "texte": "article L. 224-6 du code forestier"
+        },
+        {
+          "texte": "articles 575 et 575 A du code général des impôts"
+        },
+        {
+          "texte": "articles 575 et 575 A du code général des impôts"
+        }
       ],
       "order": 35,
       "section": "T3",
@@ -946,17 +1596,98 @@
         "049": "VI. - La perte de recettes pour l'État résultant du présent article est compensée à due concurrence par la création d'une taxe additionnelle aux droits prévus aux articles 575 et 575 A du code général des impôts."
       },
       "liens": [
-        "livre II du code forestier",
-        "article 4 B du code général des impôts",
-        "code général des impôts",
-        "articles L. 261-1 à L. 261-6 du code forestier",
-        "3° du I de l'article L. 261-1 du code forestier",
-        "article L. 122-7 du code des assurances",
-        "II de l'article L. 136-7 du code de la sécurité sociale",
-        "23° de l'article 157 du code général des impôts",
-        "article L. 221-34 du code monétaire et financier",
-        "articles L. 261-1 à L. 261-7 du code forestier",
-        "articles 575 et 575 A du code général des impôts"
+        {
+          "texte": "livre II du code forestier"
+        },
+        {
+          "texte": "article 4 B du code général des impôts"
+        },
+        {
+          "texte": "article L. 261-4",
+          "texte_complet": "article L. 261-4 code général des impôts"
+        },
+        {
+          "texte": "3° du I de l'article L. 261-1",
+          "texte_complet": "3° du I de l'article L. 261-1 code général des impôts"
+        },
+        {
+          "texte": "II de l'article L. 261-1",
+          "texte_complet": "II de l'article L. 261-1 code général des impôts"
+        },
+        {
+          "texte": "II de l'article L. 261-1",
+          "texte_complet": "II de l'article L. 261-1 code général des impôts"
+        },
+        {
+          "texte": "3° du I de l'article L. 261-1",
+          "texte_complet": "3° du I de l'article L. 261-1 code général des impôts"
+        },
+        {
+          "texte": "articles L. 261-1 à L. 261-5",
+          "texte_complet": "articles L. 261-1 à L. 261-5 code général des impôts"
+        },
+        {
+          "texte": "code général des impôts"
+        },
+        {
+          "texte": "dernier alinéa du 1° du III bis de l'article 125 A",
+          "texte_complet": "dernier alinéa du 1° du III bis de l'article 125 A code général des impôts"
+        },
+        {
+          "texte": "article 157",
+          "texte_complet": "article 157 code général des impôts"
+        },
+        {
+          "texte": "dernier alinéa de l'article 157",
+          "texte_complet": "dernier alinéa de l'article 157 code général des impôts"
+        },
+        {
+          "texte": "articles L. 261-1 à L. 261-6 du code forestier"
+        },
+        {
+          "texte": "3° du I de l'article L. 261-1 du code forestier"
+        },
+        {
+          "texte": "article 199 decies H",
+          "texte_complet": "article 199 decies H code forestier"
+        },
+        {
+          "texte": "3° du I de l'article L. 261-1 du code forestier"
+        },
+        {
+          "texte": "article 170",
+          "texte_complet": "article 170 code forestier"
+        },
+        {
+          "texte": "article L. 122-7 du code des assurances"
+        },
+        {
+          "texte": "article 1649-0 A",
+          "texte_complet": "article 1649-0 A code des assurances"
+        },
+        {
+          "texte": "22° de l'article 157",
+          "texte_complet": "22° de l'article 157 code des assurances"
+        },
+        {
+          "texte": "22° et 23° de l'article 157",
+          "texte_complet": "22° et 23° de l'article 157 code des assurances"
+        },
+        {
+          "texte": "II de l'article L. 136-7 du code de la sécurité sociale"
+        },
+        {
+          "texte": "23° de l'article 157 du code général des impôts"
+        },
+        {
+          "texte": "article L. 221-34 du code monétaire et financier"
+        },
+        {
+          "texte": "articles L. 261-1 à L. 261-7 du code forestier"
+        },
+        {
+          "texte": "articles 575 et 575 A du code général des impôts"
+        }
       ],
       "order": 36,
       "section": "T3",
@@ -976,7 +1707,9 @@
         "008": "II. - L'ordonnance mentionnée au I est prise dans un délai de douze mois suivant la publication de la présente loi. Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de sa publication."
       },
       "liens": [
-        "article 38 de la Constitution"
+        {
+          "texte": "article 38 de la Constitution"
+        }
       ],
       "order": 37,
       "section": "T3",
@@ -997,9 +1730,7 @@
         "009": "\"Il est composé de représentants des ministères et établissements publics intéressés, de représentants des professionnels des pêches maritimes et de l'aquaculture, de la recherche et de la société civile, notamment des associations de consommateurs et des associations de protection de l'environnement.",
         "010": "\"La composition et les règles de fonctionnement du comité sont précisées par décret.\""
       },
-      "liens": [
-        "article 2 de la loi n° 97-1051 du 18 novembre 1997"
-      ],
+      "liens": [],
       "order": 38,
       "section": "T4",
       "statut": "none",
@@ -1014,7 +1745,9 @@
         "004": "II. - La conférence régionale mentionnée au premier alinéa du I doit avoir lieu avant le 31 décembre 2010."
       },
       "liens": [
-        "article L. 219-3 du code de l'environnement"
+        {
+          "texte": "article L. 219-3 du code de l'environnement"
+        }
       ],
       "order": 39,
       "section": "T4",
@@ -1035,10 +1768,12 @@
         "009": "II. - Les schémas mentionnés à l'article 2-1 du décret du 9 janvier 1852 sur l'exercice de la pêche maritime sont établis dans chaque région dans un délai d'un an à compter de la publication de la présente loi."
       },
       "liens": [
-        "article 2 du décret du 9 janvier 1852",
-        "article L. 212-1 du code de l'environnement",
-        "article L. 2124-1 du code général de la propriété des personnes publiques",
-        "article 2-1 du décret du 9 janvier 1852"
+        {
+          "texte": "article L. 212-1 du code de l'environnement"
+        },
+        {
+          "texte": "article L. 2124-1 du code général de la propriété des personnes publiques"
+        }
       ],
       "order": 40,
       "section": "T4",
@@ -1076,10 +1811,37 @@
         "026": "5° Dans l'ensemble du texte, les mots : \"de la communauté économique européenne\" et les mots : \"de la Communauté européenne\" sont remplacés par les mots : \"de l'Union européenne\"."
       },
       "liens": [
-        "décret du 9 janvier 1852",
-        "article L. 621-1-1 du code rural",
-        "article 1er de la loi n° 91-411 du 2 mai 1991",
-        "chapitres Ier, II et III de la loi n° 91-411 du 2 mai 1991"
+        {
+          "texte": "article L. 621-1-1 du code rural"
+        },
+        {
+          "texte": "article 3-2",
+          "texte_complet": "article 3-2 code rural"
+        },
+        {
+          "texte": "article 1er",
+          "texte_complet": "article 1er code rural"
+        },
+        {
+          "texte": "II de l'article 3",
+          "texte_complet": "II de l'article 3 code rural"
+        },
+        {
+          "texte": "I de l'article 3",
+          "texte_complet": "I de l'article 3 code rural"
+        },
+        {
+          "texte": "I et II de l'article 3",
+          "texte_complet": "I et II de l'article 3 code rural"
+        },
+        {
+          "texte": "article 13",
+          "texte_complet": "article 13 code rural"
+        },
+        {
+          "texte": "article 21 bis",
+          "texte_complet": "article 21 bis code rural"
+        }
       ],
       "order": 41,
       "section": "T4",
@@ -1137,11 +1899,25 @@
         "046": "III. - Par dérogation aux dispositions de l'article 4 de la loi n° 91-411 du 2 mai 1991 précitée, les membres des comités départementaux créés avant le 30 mars 2013 sont nommés par l'autorité administrative parmi les membres du ou des comités locaux concernés."
       },
       "liens": [
-        "loi n° 91-411 du 2 mai 1991",
-        "article L. 342-2 du code de la recherche",
-        "titre Ier de la loi n° 83-657 du 20 juillet 1983",
-        "second alinéa de l'article 3-4 du décret du 9 janvier 1852",
-        "article 4 de la loi n° 91-411 du 2 mai 1991"
+        {
+          "texte": "article L. 342-2 du code de la recherche"
+        },
+        {
+          "texte": "article 1er",
+          "texte_complet": "article 1er code de la recherche"
+        },
+        {
+          "texte": "premier alinéa de l'article 6",
+          "texte_complet": "premier alinéa de l'article 6 code de la recherche"
+        },
+        {
+          "texte": "article 3-3",
+          "texte_complet": "article 3-3 code de la recherche"
+        },
+        {
+          "texte": "article 16",
+          "texte_complet": "article 16 code de la recherche"
+        }
       ],
       "order": 42,
       "section": "T4",
@@ -1183,9 +1959,32 @@
         "030": "b) Au c, les mots : \"de licences\" sont remplacés par les mots : \"d'autorisation d'exploiter\"."
       },
       "liens": [
-        "article L. 311-2 du code rural",
-        "décret du 9 janvier 1852",
-        "code de la consommation"
+        {
+          "texte": "article L. 311-2 du code rural"
+        },
+        {
+          "texte": "article 9",
+          "texte_complet": "article 9 code rural"
+        },
+        {
+          "texte": "article 10",
+          "texte_complet": "article 10 code rural"
+        },
+        {
+          "texte": "article 11",
+          "texte_complet": "article 11 code rural"
+        },
+        {
+          "texte": "article 8",
+          "texte_complet": "article 8 code rural"
+        },
+        {
+          "texte": "article 12",
+          "texte_complet": "article 12 code rural"
+        },
+        {
+          "texte": "code de la consommation"
+        }
       ],
       "order": 43,
       "section": "T4",
@@ -1206,8 +2005,9 @@
         "009": "\"VI. - Les décisions ayant une incidence directe et significative sur l'environnement prises conformément à une décision réglementaire ou à un plan, schéma ou programme ayant donné lieu à participation du public, ou pour la transposition d'une directive communautaire ayant donné lieu à participation du public ne sont pas elles-mêmes soumises à participation du public.\""
       },
       "liens": [
-        "article 4 du décret du 9 janvier 1852",
-        "article L. 124-4 du code de l'environnement"
+        {
+          "texte": "article L. 124-4 du code de l'environnement"
+        }
       ],
       "order": 44,
       "section": "T4",
@@ -1231,8 +2031,28 @@
         "012": "Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de chaque ordonnance."
       },
       "liens": [
-        "article 38 de la Constitution",
-        "articles L. 128-4 à L. 128-12 du code rural"
+        {
+          "texte": "article 38 de la Constitution"
+        },
+        {
+          "texte": "article 12",
+          "texte_complet": "article 12 constitution"
+        },
+        {
+          "texte": "articles L. 128-4 à L. 128-12 du code rural"
+        },
+        {
+          "texte": "article 12",
+          "texte_complet": "article 12 code rural"
+        },
+        {
+          "texte": "article 21",
+          "texte_complet": "article 21 code rural"
+        },
+        {
+          "texte": "articles 19 et 21",
+          "texte_complet": "articles 19 et 21 code rural"
+        }
       ],
       "order": 45,
       "section": "T5",

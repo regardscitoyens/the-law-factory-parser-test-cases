@@ -97,13 +97,24 @@
         "085": "Dans les six mois suivant cette date, tout député ou sénateur établit une déclaration de situation patrimoniale et une déclaration d'intérêts et d'activités suivant les modalités prévues aux articles L. O. 135-1 et L. O. 135-2 du code électoral."
       },
       "liens": [
-        "code électoral",
-        "loi n° 88-227 du 11 mars 1988",
-        "articles 131-26 et 131-26-1 du code pénal",
-        "article 74 de la Constitution",
-        "article 226-1 du code pénal",
-        "articles 10 à 13 de la loi n° 78-753 du 17 juillet 1978",
-        "livre des procédures fiscales"
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "articles 131-26 et 131-26-1 du code pénal"
+        },
+        {
+          "texte": "article 74 de la Constitution"
+        },
+        {
+          "texte": "article 226-1 du code pénal"
+        },
+        {
+          "texte": "livre des procédures fiscales"
+        },
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 2,
       "statut": "none",
@@ -154,8 +165,18 @@
         "040": "IX. - (Supprimé)"
       },
       "liens": [
-        "code électoral",
-        "Constitution"
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "Constitution"
+        },
+        {
+          "texte": "code électoral"
+        },
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 3,
       "statut": "none",
@@ -167,7 +188,9 @@
         "001": "La deuxième phrase de l'article L. O. 153 du code électoral est complétée par les mots : \"et ne peut percevoir aucune indemnité en tant que parlementaire\"."
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 4,
       "statut": "conforme",
@@ -179,7 +202,9 @@
         "001": "Le 1° du I des articles L. O. 489, L. O. 516 et L. O. 544 du code électoral est abrogé."
       },
       "liens": [
-        "code électoral"
+        {
+          "texte": "code électoral"
+        }
       ],
       "order": 5,
       "statut": "conforme",
@@ -192,9 +217,7 @@
         "002": "\"Les fonctions de membre du Conseil constitutionnel sont incompatibles avec l'exercice de la profession d'avocat.\"",
         "003": "II. - Le présent article entre en vigueur le 1er janvier 2014."
       },
-      "liens": [
-        "article 4 de l'ordonnance n° 58-1067 du 7 novembre 1958"
-      ],
+      "liens": [],
       "order": 6,
       "statut": "conforme",
       "titre": "2 quater",
@@ -214,8 +237,17 @@
         "010": "III. - Le 2° du I A du présent article entre en vigueur le 1er janvier 2014."
       },
       "liens": [
-        "ordonnance n° 58-1099 du 17 novembre 1958",
-        "article 23 de la Constitution"
+        {
+          "texte": "article 23 de la Constitution"
+        },
+        {
+          "texte": "premier alinéa de l'article 1er",
+          "texte_complet": "premier alinéa de l'article 1er constitution"
+        },
+        {
+          "texte": "article 4",
+          "texte_complet": "article 4 constitution"
+        }
       ],
       "order": 7,
       "statut": "non modifié",
@@ -226,9 +258,7 @@
       "alineas": {
         "001": "À la fin de l'article 4 de la loi n° 62-1292 du 6 novembre 1962 précitée, la référence : \"loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012\" est remplacée par la référence : \"loi organique n° du relative à la transparence de la vie publique\"."
       },
-      "liens": [
-        "article 4 de la loi n° 62-1292 du 6 novembre 1962"
-      ],
+      "liens": [],
       "order": 8,
       "statut": "conforme",
       "titre": "4 bis",
@@ -242,9 +272,7 @@
         "004": "\"b) L'ensemble des subventions versées à des associations.",
         "005": "\"Elle indique, pour chaque subvention, le nom du bénéficiaire, le montant versé, la nature du projet financé, le programme concerné et le nom du membre du Parlement, du groupe politique ou de la présidence de l'assemblée qui a proposé la subvention.\""
       },
-      "liens": [
-        "article 54 de la loi organique n° 2001-692 du 1er août 2001"
-      ],
+      "liens": [],
       "order": 9,
       "statut": "none",
       "titre": "4 ter",
@@ -266,9 +294,7 @@
         "002": "1° Après le mot : \"soumis\", la fin du second alinéa de l'article 64, de l'article 114 et du dernier alinéa de l'article 161 est ainsi rédigée : \", dans les mêmes conditions, aux obligations de déclaration applicables aux personnes mentionnées, respectivement, aux 1° et 2° du I de l'article 10 de la loi n° du relative à la transparence de la vie publique.\" ;",
         "003": "2° Le 1° du I de l'article 195 est abrogé."
       },
-      "liens": [
-        "loi organique n° 99-209 du 19 mars 1999"
-      ],
+      "liens": [],
       "order": 11,
       "statut": "non modifié",
       "titre": "6",
@@ -282,9 +308,7 @@
         "004": "\"Art. 160. - Le président et les autres membres du gouvernement de la Polynésie française sont soumis, dans les mêmes conditions, aux obligations de déclaration applicables aux personnes mentionnées, respectivement, aux 1° et 2° du I de l'article 10 de la loi n° du relative à la transparence de la vie publique.",
         "005": "\"Le président et les autres représentants à l'assemblée de la Polynésie française sont soumis, dans les mêmes conditions, aux obligations de déclaration applicables aux personnes mentionnées, respectivement, aux 1° et 2° du même I."
       },
-      "liens": [
-        "loi organique n° 2004-192 du 27 février 2004"
-      ],
+      "liens": [],
       "order": 12,
       "statut": "non modifié",
       "titre": "7",
@@ -295,7 +319,13 @@
         "001": "Après le mot : \"sont\", la fin du dernier alinéa des articles L. O. 6221-1, L. O. 6321-1 et L. O. 6431-1 du code général des collectivités territoriales est ainsi rédigée : \"soumis, dans les mêmes conditions, aux obligations de déclaration applicables aux personnes mentionnées, respectivement, aux 1° et 2° du I de l'article 10 de la loi n° du relative à la transparence de la vie publique.\""
       },
       "liens": [
-        "code général des collectivités territoriales"
+        {
+          "texte": "code général des collectivités territoriales"
+        },
+        {
+          "texte": "1° et 2° du I de l'article 10",
+          "texte_complet": "1° et 2° du I de l'article 10 code général des collectivités territoriales"
+        }
       ],
       "order": 13,
       "statut": "non modifié",
